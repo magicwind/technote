@@ -1,0 +1,112 @@
+---
+title: 在线汇率转换
+permalink: /currencies/
+---
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>汇率转换</title>
+
+  <link rel="stylesheet" href="css/ea0f37dc.default.css">
+
+</head>
+<body ng-controller="currencyCrtl">
+  <div id="simplyDoBanner">汇率转换是一个<a href="http://simplydo.com" target="new">Simply Do</a>的子项目。返回<a href="http://www.magicwind.top">魔风的博客</a>。</div>
+  <div id="top">
+    <div class="container">
+      <div class="row">
+        <div class="span8 offset2">
+          <ul class="social-buttons cf">
+            <!--
+            <li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="Converting Currencies in real time with Simply Do Currencies." data-url="http://simplydo.com/currencies" data-count="vertical" data-via="simplydothat" rel="nofollow" target="_blank"><span class="vhidden">Twitter</span></a></li>
+            <li><a href="https://plus.google.com/share?url=http://simplydo.com/currencies" class="socialite googleplus-one" data-size="tall" data-href="http://simplydo.com/currencies" rel="nofollow" target="_blank"><span class="vhidden">Google+</span></a></li>
+            <li><a href="http://www.facebook.com/sharer.php?u=http://simplydo.com/currencies&amp;t=Simply%20Do%20Currencies" class="socialite facebook-like" data-href="http://simplydo.com/currencies" data-send="false" data-layout="box_count" data-width="60" data-show-faces="false" rel="nofollow" target="_blank"><span class="vhidden">Facebook</span></a></li>
+          -->
+          </ul>
+          <h1>汇率转换</h1>
+          <p>输入一种货币的金额，实时的转换成其他货币的金额。</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="span8 offset2">
+
+        <h2>请输入你想转换的金额</h2>
+        <ul>
+          <li ng-repeat="balance in balances">
+            <input type="number" ng-model="balance.amount" placeholder="金额..." ng-change="amountChanged(balance)" class="span4" style="height:30px">
+            <select class="span3" ng-model="balance.exchangeRate" ng-change="currencyChanged(balance)" ng-options="getCurrencyNameFull(symbol) for (symbol, rate) in exchangeRates.rates | usedCurrencies">
+              <option value="">选择货币...</option>
+            </select>
+            <a class="" ng-click="removeBalance($index);"><i class="icon-remove"></i></a>
+          </li>
+        </ul>
+        <p>
+          <button class="btn btn-primary btn-large" ng-click="addBalance();"><i class="icon-plus icon-white"></i>增加货币</button>
+        </p>
+        <p class="note">汇率最后更新于{{ageOfExchangeRate()}}之前。数据由<a href="http://openexchangerates.org/" target="new">open exchange rates</a>提供。网站下方有法律条款和声明。</p>
+
+      </div>
+    </div>
+  </div>
+
+  <div id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="span3">
+            <ul class="unstyled">
+              <li>© 2017 <a href="http://simplydo.com" target="new">Simply Do</a>, LLC.版权所有。</li>
+              <li>由<a href="http://www.magicwind.top" target="new">Magicwind</a>完成汉化</li>
+            </ul>
+          </div>
+          <div class="span3">
+            <ul class="unstyled">
+              <li>源代码是开源的，你可以在<a href="https://git.coding.net/magicwind/currencies.git" target="new">Coding.net</a>获得它</li>
+              <li>本网站由Google的<a href="http://angularjs.org/" target="new">AngularJS</a>框架所创建</li>
+              <li>UI使用了<a href="http://twitter.github.com/bootstrap/" target="new">Twitter Bootstrap</a>框架</li>
+              <!--<li>Social buttons by <a href="http://socialitejs.com/" target="new">Socialite.js</a></li>-->
+              <li>页面托管在<a href="http://coding.net/" target="new">Coding.net上</a></li>
+
+            </ul>
+          </div>
+          <div class="span6">
+            <ul class="unstyled">
+              <li>汇率数据来自于<a href="http://openexchangerates.org/" target="new">Open Exchange Rates</a>:</li>
+              <li>
+                <strong>法律声明:</strong> {{exchangeRates.disclaimer}}
+              </li>
+              <li>
+                <strong>授权许可:</strong> {{exchangeRates.license}}
+              </li>
+            </ul>
+          </div>
+          
+        </div>
+
+      </div>  
+    </div> 
+
+  <script src="lib/jquery-1.9.1.js"></script>
+  <script src="lib/underscore/underscore.js"></script>
+  <script src="lib/angular/angular.js"></script>
+  <script src="lib/angular/angular-resource.js"></script>
+  <script src="lib/socialite/socialite.min.js"></script>
+
+  <script src="js/9673d9ed.scripts.js"></script>
+  
+  <script type="text/javascript">
+  // Segment
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("TXDgauHCAmi1zVvuLFr56Q53h3OL8vvG");
+  analytics.page();
+  }}();
+  </script>
+
+
+</body>
+</html>

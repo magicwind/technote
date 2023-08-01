@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "AWS EMR配置Presto LDAP认证"
+categories: aws ldap
+---
+
 # AWS EMR配置Presto LDAP认证
 
 前提：

@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "docker openldap的安装"
+categories: docker
+---
+
 ## LDAPS
 操作系统时Amazon Linux
 
