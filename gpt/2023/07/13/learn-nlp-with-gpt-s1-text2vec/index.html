@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>跟着GPT学习自然语言处理之text2vec</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。">
+    <link rel="canonical" href="https://magicwind.top/gpt/2023/07/13/learn-nlp-with-gpt-s1-text2vec/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">魔风的技术小屋</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        <!-- <input id="input_email" placeholder="Your Email">
+        <button id="btn_submit">Submit</button> -->
+        
+          <a class="page-link" href="/about/">关于我</a>
+        
+          
+        
+          <a class="page-link" href="/feh/">FEH</a>
+        
+          <a class="page-link" href="/currencies/">在线汇率转换</a>
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>跟着GPT学习自然语言处理之text2vec</h1>
+    <p class="meta">Jul 13, 2023</p>
+  </header>
+
+  <article class="post-content">
+  <h2 id="跟着gpt学习自然语言处理之text2vec">跟着GPT学习自然语言处理之text2vec</h2>
+
+<h2 id="q-什么是word2vec">Q: 什么是word2vec?</h2>
+<p>A: Word2Vec是一种流行的词嵌入（word embedding）方法，它可以产生高质量的词向量。Word2Vec是由Google的研究员在2013年开发的，用于学习语义上有意义的词向量。</p>
+
+<p>词嵌入方法的基本思想是将单词或短语从词汇表中映射到向量空间。这样，语义上相似的单词在向量空间中的位置就会接近。</p>
+
+<p>Word2Vec模型有两种主要的训练算法：连续词袋模型（CBOW）和Skip-gram模型。</p>
+
+<ol>
+  <li>
+    <p><strong>连续词袋模型（CBOW）</strong>：CBOW模型预测目标词（中心词）根据其周围的词（上下文）。比如给定上下文词”the cat sits on the”, CBOW模型尝试预测目标词”mat”。</p>
+  </li>
+  <li>
+    <p><strong>Skip-gram模型</strong>：Skip-gram模型是CBOW的逆操作，它尝试预测上下文单词根据目标词（中心词）。比如给定目标词”mat”, Skip-gram模型尝试预测上下文词”the cat sits on the”。</p>
+  </li>
+</ol>
+
+<p>这两种模型都有各自的优点：CBOW模型对于小型数据集表现较好，而Skip-gram模型对于大型数据集和罕见单词的处理上效果更好。</p>
+
+<p>Word2Vec通过将词语转换为向量形式，使得我们可以用计算余弦相似度等方式来计算词语间的语义相似度，或者进行词语的类比推理等操作。例如，Word2Vec可以发现”king”和”queen”，”man”和”woman”等单词间的相似关系。</p>
+
+<h2 id="q-如何用python训练word2vec模型">Q: 如何用python训练word2vec模型？</h2>
+<p>A: 训练一个Word2Vec模型是相对直接的，你可以使用Python的gensim库来进行。以下是一个基本的步骤流程：</p>
+
+<p>首先，确保你已经安装了必要的库，你可以使用pip来安装：</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pip</span> <span class="n">install</span> <span class="n">gensim</span>
+</code></pre></div></div>
+<p>以下是训练一个Word2Vec模型的简单例子：</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 导入必要的库
+</span><span class="kn">from</span> <span class="n">gensim.models</span> <span class="kn">import</span> <span class="n">Word2Vec</span>
+
+<span class="c1"># 假设我们有以下的语料
+</span><span class="n">sentences</span> <span class="o">=</span> <span class="p">[[</span><span class="sh">'</span><span class="s">this</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">is</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">the</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">first</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">for</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">word2vec</span><span class="sh">'</span><span class="p">],</span>
+             <span class="p">[</span><span class="sh">'</span><span class="s">this</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">is</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">the</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">second</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">],</span>
+             <span class="p">[</span><span class="sh">'</span><span class="s">yet</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">another</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">],</span>
+             <span class="p">[</span><span class="sh">'</span><span class="s">one</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">more</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">],</span>
+             <span class="p">[</span><span class="sh">'</span><span class="s">and</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">the</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">final</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">]]</span>
+
+<span class="c1"># 初始化和训练模型
+# 参数min_count会忽略所有出现频率小于这个值的单词
+# 参数size是词向量的维度
+# 参数window是句子中当前词和预测词之间的最大距离
+</span><span class="n">model</span> <span class="o">=</span> <span class="nc">Word2Vec</span><span class="p">(</span><span class="n">sentences</span><span class="p">,</span> <span class="n">min_count</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">vector_size</span><span class="o">=</span><span class="mi">50</span><span class="p">,</span> <span class="n">window</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+
+<span class="c1"># 你可以保存训练好的模型
+</span><span class="n">model</span><span class="p">.</span><span class="nf">save</span><span class="p">(</span><span class="sh">"</span><span class="s">word2vec.model</span><span class="sh">"</span><span class="p">)</span>
+
+<span class="c1"># 加载模型
+</span><span class="n">model</span> <span class="o">=</span> <span class="n">Word2Vec</span><span class="p">.</span><span class="nf">load</span><span class="p">(</span><span class="sh">"</span><span class="s">word2vec.model</span><span class="sh">"</span><span class="p">)</span>
+
+<span class="c1"># 访问词向量
+</span><span class="n">vector</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">wv</span><span class="p">[</span><span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">]</span>
+
+<span class="c1"># 找到最相似的词
+</span><span class="n">similar_words</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">wv</span><span class="p">.</span><span class="nf">most_similar</span><span class="p">(</span><span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">)</span>
+</code></pre></div></div>
+<p>注意这只是一个简单的例子，实际使用中，你需要大量的语料来训练模型。而且，你可能需要调整Word2Vec的参数，如训练迭代次数、窗口大小、词向量维度等，以得到最佳的模型。</p>
+
+<p>最后，需要注意的是，即使训练过程非常耗时，但训练后的模型可以被保存，以供未来使用。</p>
+
+<h2 id="q-如何评估word2vec模型的效果">Q: 如何评估word2vec模型的效果？</h2>
+<p>A: 评估Word2Vec模型的性能通常涉及到以下几个方面：</p>
+
+<ol>
+  <li>
+    <p><strong>语义和句法的类比任务</strong>：这是一种常见的评估词嵌入模型的方法，例如，“king”到“queen”类比于“man”到“woman”。在这种情况下，我们期望模型能够正确地找出对应的词。Mikolov等人在他们的Word2Vec论文中提出了一个包含语义和句法类比的测试集。</p>
+  </li>
+  <li>
+    <p><strong>词义相似度任务</strong>：在这种任务中，模型需要对一对词的相似性给出评分，然后这个评分会和人工标注的相似度进行比较。一些公开的数据集，如WordSim-353，SimLex-999等，可以用来进行此类评估。</p>
+  </li>
+  <li>
+    <p><strong>在下游任务中的表现</strong>：这可能是最直接和最重要的评估方法。你可以将预训练的词向量用于特定的NLP任务，如文本分类、情感分析、命名实体识别（NER）等，看看它是否能提高模型的性能。</p>
+  </li>
+  <li>
+    <p><strong>可视化</strong>：虽然这不是定量评估的方法，但通过将高维的词向量降维（如使用t-SNE等方法）到2D或3D并进行可视化，可以帮助我们直观地理解词向量的空间结构，看看语义相近的词是否在空间中聚集在一起。</p>
+  </li>
+</ol>
+
+<p>值得注意的是，这些评估方法并不能完全代表模型的质量。在实际应用中，你需要根据具体任务的需求来选择和优化模型。</p>
+
+<h2 id="q-如何用python代码实现一个评估自己训练的word2vec模型的效果">Q: 如何用Python代码实现一个评估自己训练的word2vec模型的效果？</h2>
+<p>A: 在Python中，你可以使用gensim的Word2Vec模型和Scikit-learn库来评估你的模型。以下是一种可能的方法。</p>
+
+<p>首先，你可以使用gensim提供的函数来评估模型在词类比任务上的表现：</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 加载你的模型
+</span><span class="kn">from</span> <span class="n">gensim.models</span> <span class="kn">import</span> <span class="n">Word2Vec</span>
+
+<span class="n">model</span> <span class="o">=</span> <span class="n">Word2Vec</span><span class="p">.</span><span class="nf">load</span><span class="p">(</span><span class="sh">"</span><span class="s">word2vec.model</span><span class="sh">"</span><span class="p">)</span>
+
+<span class="c1"># 使用gensim的词类比评估
+# 输入是形如 "man woman king queen" 的类比对
+# 第一个词对应的类比应该等于第二个词对应的类比
+</span><span class="n">analogies_scores</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">wv</span><span class="p">.</span><span class="nf">evaluate_word_analogies</span><span class="p">(</span><span class="sh">'</span><span class="s">questions-words.txt</span><span class="sh">'</span><span class="p">)</span>
+</code></pre></div></div>
+<p>其中’questions-words.txt’是一个包含词类比的测试集。你可以在这里找到这个文件：https://github.com/tmikolov/word2vec/blob/master/questions-words.txt</p>
+
+<p>对于词义相似度任务，你需要一个人工标注的相似度数据集。然后，你可以计算模型给出的相似度和人工标注的相似度之间的皮尔森相关系数或者斯皮尔曼等级相关系数：</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="n">scipy.stats</span> <span class="kn">import</span> <span class="n">pearsonr</span><span class="p">,</span> <span class="n">spearmanr</span>
+
+<span class="c1"># 假设你有一些单词对和他们的相似度分数
+</span><span class="n">word_pairs</span> <span class="o">=</span> <span class="p">[(</span><span class="sh">'</span><span class="s">woman</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">man</span><span class="sh">'</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">),</span> <span class="p">(</span><span class="sh">'</span><span class="s">car</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">bike</span><span class="sh">'</span><span class="p">,</span> <span class="mf">0.7</span><span class="p">),</span> <span class="p">...]</span>  <span class="c1"># (word1, word2, human_score)
+</span>
+<span class="n">model_scores</span> <span class="o">=</span> <span class="p">[</span><span class="n">model</span><span class="p">.</span><span class="n">wv</span><span class="p">.</span><span class="nf">similarity</span><span class="p">(</span><span class="n">w1</span><span class="p">,</span> <span class="n">w2</span><span class="p">)</span> <span class="k">for</span> <span class="n">w1</span><span class="p">,</span> <span class="n">w2</span><span class="p">,</span> <span class="n">_</span> <span class="ow">in</span> <span class="n">word_pairs</span><span class="p">]</span>
+<span class="n">human_scores</span> <span class="o">=</span> <span class="p">[</span><span class="n">score</span> <span class="k">for</span> <span class="n">_</span><span class="p">,</span> <span class="n">_</span><span class="p">,</span> <span class="n">score</span> <span class="ow">in</span> <span class="n">word_pairs</span><span class="p">]</span>
+
+<span class="c1"># 计算皮尔森相关系数
+</span><span class="n">pearson_corr</span> <span class="o">=</span> <span class="nf">pearsonr</span><span class="p">(</span><span class="n">model_scores</span><span class="p">,</span> <span class="n">human_scores</span><span class="p">)</span>
+
+<span class="c1"># 计算斯皮尔曼等级相关系数
+</span><span class="n">spearman_corr</span> <span class="o">=</span> <span class="nf">spearmanr</span><span class="p">(</span><span class="n">model_scores</span><span class="p">,</span> <span class="n">human_scores</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>对于下游任务，你需要有一个特定任务的数据集。你可以将Word2Vec模型的输出作为特征输入到一个机器学习模型中（如SVM，逻辑回归等），然后评估这个模型的性能。</p>
+
+<p>请注意，这只是一种可能的方法，实际的评估方法可能需要根据你的任务和数据来调整。</p>
+
+<h2 id="q-如何用python代码实现通过可视化方式来评估word2vec方法训练出来的模型的效果">Q: 如何用python代码实现：通过可视化方式来评估word2vec方法训练出来的模型的效果？</h2>
+<p>A: 为了将高维度的词向量可视化，我们通常会用到降维的方法，例如PCA (Principal Component Analysis) 或者t-SNE (t-Distributed Stochastic Neighbor Embedding)。以下是一个使用gensim库训练Word2Vec模型并用t-SNE进行可视化的例子：</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="n">gensim.models</span> <span class="kn">import</span> <span class="n">Word2Vec</span>
+<span class="kn">from</span> <span class="n">sklearn.manifold</span> <span class="kn">import</span> <span class="n">TSNE</span>
+<span class="kn">import</span> <span class="n">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
+
+<span class="c1"># 训练Word2Vec模型
+</span><span class="n">sentences</span> <span class="o">=</span> <span class="p">[[</span><span class="sh">'</span><span class="s">this</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">is</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">the</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">first</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">for</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">word2vec</span><span class="sh">'</span><span class="p">],</span>
+            <span class="p">[</span><span class="sh">'</span><span class="s">this</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">is</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">the</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">second</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">],</span>
+            <span class="p">[</span><span class="sh">'</span><span class="s">yet</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">another</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">],</span>
+            <span class="p">[</span><span class="sh">'</span><span class="s">one</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">more</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">],</span>
+            <span class="p">[</span><span class="sh">'</span><span class="s">and</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">the</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">final</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">sentence</span><span class="sh">'</span><span class="p">]]</span>
+<span class="n">model</span> <span class="o">=</span> <span class="nc">Word2Vec</span><span class="p">(</span><span class="n">sentences</span><span class="p">,</span> <span class="n">min_count</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">vector_size</span><span class="o">=</span><span class="mi">50</span><span class="p">,</span> <span class="n">window</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+
+<span class="c1"># 获取词向量
+</span><span class="n">word_vectors</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">wv</span>
+
+<span class="c1"># 用t-SNE进行降维
+</span><span class="n">tsne</span> <span class="o">=</span> <span class="nc">TSNE</span><span class="p">(</span><span class="n">n_components</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+<span class="n">word_vectors_2d</span> <span class="o">=</span> <span class="n">tsne</span><span class="p">.</span><span class="nf">fit_transform</span><span class="p">(</span><span class="n">word_vectors</span><span class="p">[</span><span class="n">model</span><span class="p">.</span><span class="n">wv</span><span class="p">.</span><span class="n">index_to_key</span><span class="p">])</span>
+
+<span class="c1"># 绘制图像
+</span><span class="n">plt</span><span class="p">.</span><span class="nf">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">10</span><span class="p">))</span>
+<span class="n">plt</span><span class="p">.</span><span class="nf">scatter</span><span class="p">(</span><span class="n">word_vectors_2d</span><span class="p">[:,</span> <span class="mi">0</span><span class="p">],</span> <span class="n">word_vectors_2d</span><span class="p">[:,</span> <span class="mi">1</span><span class="p">])</span>
+
+<span class="c1"># 为每个点添加词语标签
+</span><span class="k">for</span> <span class="n">word</span><span class="p">,</span> <span class="n">coord</span> <span class="ow">in</span> <span class="nf">zip</span><span class="p">(</span><span class="n">model</span><span class="p">.</span><span class="n">wv</span><span class="p">.</span><span class="n">index_to_key</span><span class="p">,</span> <span class="n">word_vectors_2d</span><span class="p">):</span>
+    <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">coord</span>
+    <span class="n">plt</span><span class="p">.</span><span class="nf">text</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">word</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span> <span class="mi">15</span><span class="p">)</span>
+
+<span class="n">plt</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p>在这个例子中，我们将每个词的词向量用t-SNE降维到2维，然后在平面上绘制出来，并为每个点添加了对应的词语标签。注意到在实际应用中，你可能需要对大量的词向量进行降维和可视化，这可能需要大量的计算资源。</p>
+
+<h2 id="q-如何用python对中文文本进行分词操作">Q: 如何用Python对中文文本进行分词操作？</h2>
+<p>A: 在处理中文文本的时候，我们通常需要进行分词，因为中文文本的词与词之间没有像英文那样的空格分隔。以下是两种常见的中文分词库的使用方法：</p>
+
+<ol>
+  <li><strong>jieba库</strong>：jieba是一个非常流行的中文分词库，支持三种分词模式：精确模式、全模式和搜索引擎模式。</li>
+</ol>
+
+<p>安装jieba:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pip</span> <span class="n">install</span> <span class="n">jieba</span>
+</code></pre></div></div>
+<p>使用jieba:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">jieba</span>
+
+<span class="n">sentence</span> <span class="o">=</span> <span class="sh">"</span><span class="s">我爱北京天安门</span><span class="sh">"</span>
+
+<span class="c1"># 精确模式，试图将句子最精确地切开，适合文本分析
+</span><span class="n">words</span> <span class="o">=</span> <span class="n">jieba</span><span class="p">.</span><span class="nf">cut</span><span class="p">(</span><span class="n">sentence</span><span class="p">,</span> <span class="n">cut_all</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+<span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">精确模式: </span><span class="sh">'</span> <span class="o">+</span> <span class="sh">'</span><span class="s">/ </span><span class="sh">'</span><span class="p">.</span><span class="nf">join</span><span class="p">(</span><span class="n">words</span><span class="p">))</span>
+
+<span class="c1"># 全模式，把句子中所有的可以成词的词语都扫描出来
+</span><span class="n">words</span> <span class="o">=</span> <span class="n">jieba</span><span class="p">.</span><span class="nf">cut</span><span class="p">(</span><span class="n">sentence</span><span class="p">,</span> <span class="n">cut_all</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">全模式: </span><span class="sh">'</span> <span class="o">+</span> <span class="sh">'</span><span class="s">/ </span><span class="sh">'</span><span class="p">.</span><span class="nf">join</span><span class="p">(</span><span class="n">words</span><span class="p">))</span>
+
+<span class="c1"># 搜索引擎模式，在精确模式的基础上，对长词再次切分，提高召回率，适合用于搜索引擎分词
+</span><span class="n">words</span> <span class="o">=</span> <span class="n">jieba</span><span class="p">.</span><span class="nf">cut_for_search</span><span class="p">(</span><span class="n">sentence</span><span class="p">)</span>
+<span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">搜索引擎模式: </span><span class="sh">'</span> <span class="o">+</span> <span class="sh">'</span><span class="s">/ </span><span class="sh">'</span><span class="p">.</span><span class="nf">join</span><span class="p">(</span><span class="n">words</span><span class="p">))</span>
+</code></pre></div></div>
+
+<ol>
+  <li><strong>pkuseg库</strong>：pkuseg是北京大学发布的一款中文分词工具，针对微博、混合长短句等非规范文本有更好的分词效果。</li>
+</ol>
+
+<p>安装pkuseg:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pip</span> <span class="n">install</span> <span class="n">pkuseg</span>
+</code></pre></div></div>
+<p>使用pkuseg:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">pkuseg</span>
+
+<span class="n">sentence</span> <span class="o">=</span> <span class="sh">"</span><span class="s">我爱北京天安门</span><span class="sh">"</span>
+
+<span class="n">seg</span> <span class="o">=</span> <span class="n">pkuseg</span><span class="p">.</span><span class="nf">pkuseg</span><span class="p">()</span>
+<span class="n">words</span> <span class="o">=</span> <span class="n">seg</span><span class="p">.</span><span class="nf">cut</span><span class="p">(</span><span class="n">sentence</span><span class="p">)</span>
+<span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s"> </span><span class="sh">'</span><span class="p">.</span><span class="nf">join</span><span class="p">(</span><span class="n">words</span><span class="p">))</span>
+</code></pre></div></div>
+
+<p>这些分词工具都可以进行自定义词典的添加，能更好地适应特定领域的分词需求。你可以根据需要选择最适合的工具和模式进行中文分词。</p>
+
+  </article>
+
+  
+  <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://magicwind-blog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  
+
+</div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">魔风的技术小屋</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li><a href="mailto:fengxu1211@yeah.net">fengxu1211@yeah.net</a></li>
+        <li>网站备案号：沪ICP备2023016736号-1</li>
+      </ul>
+   </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/magicwind">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">magicwind</span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <script type="text/javascript">
+if (document.location.hostname !== "localhost") {
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F7cc88d6fcfe8b6102a70e2bf532651a7' type='text/javascript'%3E%3C/script%3E"));	
+}
+
+  // Segment
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("TXDgauHCAmi1zVvuLFr56Q53h3OL8vvG");
+  analytics.page();
+  }}();
+
+  // growing io
+  var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '884366352d47bba6']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.growingio.com/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+</script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('#btn_submit').click(function() {
+            //alert($('#input_email').val());
+            var email = $('#input_email').val();
+            if (email) {
+                var name = email;
+                if (email.indexOf('@') > -1) {
+                    name = email.split('@')[0];
+                }
+                analytics.identify(email, {
+                    name: name,
+                    email: email
+                    });
+                console.log('sent identity: ' + name + ',' + email);
+            }
+        });
+    });
+</script>
+
+
+    </body>
+</html>

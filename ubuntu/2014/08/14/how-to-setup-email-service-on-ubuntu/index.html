@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>在Ubuntu上配置邮件服务</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。">
+    <link rel="canonical" href="https://magicwind.top/ubuntu/2014/08/14/how-to-setup-email-service-on-ubuntu/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">魔风的技术小屋</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        <!-- <input id="input_email" placeholder="Your Email">
+        <button id="btn_submit">Submit</button> -->
+        
+          <a class="page-link" href="/about/">关于我</a>
+        
+          
+        
+          <a class="page-link" href="/feh/">FEH</a>
+        
+          <a class="page-link" href="/currencies/">在线汇率转换</a>
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>在Ubuntu上配置邮件服务</h1>
+    <p class="meta">Aug 14, 2014</p>
+  </header>
+
+  <article class="post-content">
+  <p>##简介</p>
+
+<p>Ubuntu默认的邮件传送代理(Mail Transfer Agent aka MTA)是Postfix。
+但是还需要安装dovecot来支持邮件客户端（如outlook，foxmail，iOS的Mail)的收发。
+本文主要介绍如何安装配置postfix和dovecot，并且允许使用邮件客户端来收发邮件。</p>
+
+<p><strong>环境</strong>: ubuntu 12.04, postfix 2.9.6, dovecot 2.0.19</p>
+
+<p>###如何察看版本</p>
+
+<p>postfix: <code class="language-plaintext highlighter-rouge">postconf -v mail_version</code></p>
+
+<p>dovecot: <code class="language-plaintext highlighter-rouge">dovecot --version</code></p>
+
+<p>###什么是MTA</p>
+
+<p>MTA就是一个邮件发送和接收服务器。
+如果你需要注册几个邮箱，并且使用你自己的域名的话，MTA就必不可少了。
+如果你仅仅是使用@hotmail.com，@163.com结尾的邮箱，那么MTA就不需要了。
+MTA主要实现了SMTP协议和相关的安全协议，postfix就是MTA的一个标准实现。
+dovecot是一个开源的IMAP和POP3邮件服务器，需要和MTA配合使用。</p>
+
+<p>##安装</p>
+
+<p>最简单是方法是使用<code class="language-plaintext highlighter-rouge">sudo tasksel install mail-server</code>命令，或者使用<code class="language-plaintext highlighter-rouge">sudo apt-get install postfix</code></p>
+
+<p>安装时遇到的问题使用默认选项就可以了，在后面我们还可以修改配置。</p>
+
+<p>##配置</p>
+
+<p>###配置postfix</p>
+
+<p>在命令行输入:</p>
+
+<p><code class="language-plaintext highlighter-rouge">sudo dpkg-reconfigure postfix</code></p>
+
+<p>遇到问题输入对应的答案（将server1.example.com替换成你的域名）:</p>
+
+<ol>
+  <li>General type of mail configuration: Internet Site</li>
+  <li>System mail name: server1.example.com</li>
+  <li>Root and postmaster mail recipient: <admin_user_name></admin_user_name></li>
+  <li>Other destinations for mail: server1.example.com, example.com, localhost.example.com, localhost</li>
+  <li>Force synchronous updates on mail queue?: No</li>
+  <li>Local networks: 127.0.0.0/8</li>
+  <li>Mailbox size limit (bytes): 0</li>
+  <li>Local address extension character: +</li>
+  <li>Internet protocols to use: all</li>
+</ol>
+
+<p>以上配置也可以直接使用VIM修改<code class="language-plaintext highlighter-rouge">sudo vim /etc/postfix/main.cf</code></p>
+
+<p>编辑<em>/etc/postfix/main.cf</em>， 配置开启SASL客户端认证</p>
+
+<figure class="highlight"><pre><code class="language-txt" data-lang="txt">smtpd_recipient_restrictions = permit_mynetworks, permit_sasl_authenticated, reject_unauth_destination
+smtpd_sasl_auth_enable = yes
+smtpd_sasl_path = private/auth
+smtpd_sasl_type = dovecot</code></pre></figure>
+
+<p>再重新加载配置<code class="language-plaintext highlighter-rouge">postfix reload</code></p>
+
+<p>###配置dovecot</p>
+
+<p><strong>邮件格式</strong></p>
+
+<p>mbox是默认的格式。它是传统的unix邮件格式。用户的收件箱一般储存在/var/mail或者/var/spool/mail。
+一个文件包含了多封邮件。</p>
+
+<p>maildir是另一种常见的格式。它的特点是一个文件只包含一封邮件。所以这个格式更加可靠和安全。</p>
+
+<p>这两个格式postfix和dovecot都支持。这里我们选择mbox。</p>
+
+<p>编辑<em>/etc/dovecot/conf.d/10-mail.conf</em>，设置</p>
+
+<figure class="highlight"><pre><code class="language-txt" data-lang="txt">mail_location = mbox:~/mail:INBOX=/var/mail/%u
+mail_access_groups = mail  #解决权限问题</code></pre></figure>
+
+<p>编辑<em>/etc/dovecot/conf.d/10-auth.conf</em>，设置</p>
+
+<figure class="highlight"><pre><code class="language-txt" data-lang="txt">auth_machanisms = plain login  #允许postfix的SMTP协议认证客户端
+service auth {
+  unix_listener /var/spool/postfix/private/auth {
+    group = postfix
+    mode = 0666
+    user = postfix
+  }
+}</code></pre></figure>
+
+<p>再重新加载配置<code class="language-plaintext highlighter-rouge">doveadm reload</code></p>
+
+<p>###日志文件</p>
+
+<p>完成上述配置后，你可以开始测试邮件服务了。
+<strong>注意：root用户是无法使用客户端收邮件的。</strong>
+请创建一个新用户（命令adduser）供邮件客户端使用。</p>
+
+<p>如果发现问题，记得察看日志文件<code class="language-plaintext highlighter-rouge">/var/log/mail.log</code></p>
+
+<p>###检查服务是否启动
+netstat -an | grep 143 （检查端口143是否被侦听）</p>
+
+<p>##Cheatsheet
+以下命令需要root权限</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">组件</th>
+      <th style="text-align: left">察看非默认配置</th>
+      <th style="text-align: left">配置文件目录</th>
+      <th style="text-align: center">重新加载配置</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">postfix</td>
+      <td style="text-align: left">postconf -n</td>
+      <td style="text-align: left">/etc/postfix</td>
+      <td style="text-align: center">postfix reload</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">dovecot</td>
+      <td style="text-align: left">doveconf -n</td>
+      <td style="text-align: left">/etc/dovecot/conf.d/</td>
+      <td style="text-align: center">doveadm reload</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>###所有非配置一览
+<strong>postfix</strong></p>
+
+<figure class="highlight"><pre><code class="language-txt" data-lang="txt">alias_database = hash:/etc/aliases
+alias_maps = hash:/etc/aliases
+append_dot_mydomain = no
+biff = no
+config_directory = /etc/postfix
+inet_interfaces = all
+inet_protocols = all
+mailbox_command = procmail -a "$EXTENSION"
+mailbox_size_limit = 0
+mydestination = example.com, localhost.localdomain, localhost
+myhostname = example.com
+mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128
+myorigin = /etc/mailname
+readme_directory = no
+recipient_delimiter = +
+relayhost =
+smtp_tls_session_cache_database = btree:${data_directory}/smtp_scache
+smtpd_banner = $myhostname ESMTP $mail_name (Ubuntu)
+smtpd_recipient_restrictions = permit_mynetworks, permit_sasl_authenticated, reject_unauth_destination
+smtpd_sasl_auth_enable = yes
+smtpd_sasl_path = private/auth
+smtpd_sasl_type = dovecot
+smtpd_tls_cert_file = /etc/ssl/certs/ssl-cert-snakeoil.pem
+smtpd_tls_key_file = /etc/ssl/private/ssl-cert-snakeoil.key
+smtpd_tls_session_cache_database = btree:${data_directory}/smtpd_scache
+smtpd_use_tls = yes</code></pre></figure>
+
+<p><strong>dovecot</strong></p>
+
+<figure class="highlight"><pre><code class="language-txt" data-lang="txt">auth_mechanisms = plain login
+mail_access_groups = mail
+mail_location = mbox:~/mail:INBOX=/var/mail/%u
+passdb {
+  driver = pam
+}
+protocols = " imap pop3"
+service auth {
+  unix_listener /var/spool/postfix/private/auth {
+    group = postfix
+    mode = 0666
+    user = postfix
+  }
+}
+ssl_cert = &lt;/etc/ssl/certs/dovecot.pem
+ssl_key = &lt;/etc/ssl/private/dovecot.pem
+userdb {
+  driver = passwd
+}</code></pre></figure>
+
+
+  </article>
+
+  
+  <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://magicwind-blog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  
+
+</div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">魔风的技术小屋</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li><a href="mailto:fengxu1211@yeah.net">fengxu1211@yeah.net</a></li>
+        <li>网站备案号：沪ICP备2023016736号-1</li>
+      </ul>
+   </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/magicwind">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">magicwind</span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <script type="text/javascript">
+if (document.location.hostname !== "localhost") {
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F7cc88d6fcfe8b6102a70e2bf532651a7' type='text/javascript'%3E%3C/script%3E"));	
+}
+
+  // Segment
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("TXDgauHCAmi1zVvuLFr56Q53h3OL8vvG");
+  analytics.page();
+  }}();
+
+  // growing io
+  var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '884366352d47bba6']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.growingio.com/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+</script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('#btn_submit').click(function() {
+            //alert($('#input_email').val());
+            var email = $('#input_email').val();
+            if (email) {
+                var name = email;
+                if (email.indexOf('@') > -1) {
+                    name = email.split('@')[0];
+                }
+                analytics.identify(email, {
+                    name: name,
+                    email: email
+                    });
+                console.log('sent identity: ' + name + ',' + email);
+            }
+        });
+    });
+</script>
+
+
+    </body>
+</html>

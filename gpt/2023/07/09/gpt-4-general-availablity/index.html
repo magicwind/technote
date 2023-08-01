@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>GPT-4 API正式发布和Completions API中废弃了旧模型</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。">
+    <link rel="canonical" href="https://magicwind.top/gpt/2023/07/09/gpt-4-general-availablity/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">魔风的技术小屋</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        <!-- <input id="input_email" placeholder="Your Email">
+        <button id="btn_submit">Submit</button> -->
+        
+          <a class="page-link" href="/about/">关于我</a>
+        
+          
+        
+          <a class="page-link" href="/feh/">FEH</a>
+        
+          <a class="page-link" href="/currencies/">在线汇率转换</a>
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>GPT-4 API正式发布和Completions API中废弃了旧模型</h1>
+    <p class="meta">Jul 9, 2023</p>
+  </header>
+
+  <article class="post-content">
+  <p>GPT-3.5 Turbo，DALL·E和Whisper API也已发布，我们正在发布Completions API的旧模型的废弃计划，这些模型将在2024年初退役。</p>
+
+<p>从今天开始，所有付费API客户都可以访问GPT-4。在3月，我们推出了ChatGPT API，而在本月初，我们发布了对基于聊天的模型的第一次更新。我们设想未来基于聊天的模型可以支持任何用例。今天，我们正在宣布对Completions API的旧模型的废弃计划，并建议用户采用Chat Completions API。</p>
+
+<h2 id="gpt-4-api普遍可用性">GPT-4 API普遍可用性</h2>
+
+<p>GPT-4是我们最有能力的模型。自3月以来，数百万开发者已经请求访问GPT-4 API，而利用GPT-4的创新产品的范围每天都在增长。今天，所有现有的有成功支付历史的API开发者都可以访问具有8K上下文的GPT-4 API。我们计划在本月底向新开发者开放访问权限，然后根据计算可用性开始提高速率限制。</p>
+
+<p>基于这些模型对生产规模使用的稳定性和准备情况，我们还将GPT-3.5 Turbo，DALL·E和Whisper API普遍可用。我们正在努力为GPT-4和GPT-3.5 Turbo安全地启用微调，并期望今年晚些时候提供此功能。</p>
+
+<h2 id="从文本补全转向聊天补全">从文本补全转向聊天补全</h2>
+
+<p>我们在3月引入了Chat Completions API，现在它占据了我们API GPT使用的97%。</p>
+
+<p>最初的Completions API是在2020年6月引入的，用于提供与我们的语言模型交互的自由形式文本提示。我们已经了解到，我们通常可以通过更结构化的提示接口提供更好的结果。基于聊天的范式已被证明是强大的，能够处理大多数以前的用例和新的对话需求，同时提供更高的灵活性和特异性。特别是，Chat Completions API的结构化接口（例如，系统消息，函数调用）和多轮对话能力使开发者能够构建对话体验和广泛的完成任务。它还有助于降低提示注入攻击的风险，因为用户提供的内容可以从指令中结构化地分离出来。</p>
+
+<p><em>文本总结</em></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>系统(System)
+将此消息总结为最多10个字。
+
+用户(User)
+木星是太阳系中离太阳第五远和最大的行星。它是一个气体巨大行星，质量是太阳的千分之一，但是是太阳系中所有其他行星总和的两倍半。木星是夜空中肉眼可见的最亮的物体之一，自记录历史以前就为古代文明所知。它以罗马神木星命名。从地球上看，木星可以足够明亮，以至于其反射的光可以投射出可见的阴影，平均而言，它是夜空中继月亮和金星之后的第三亮的自然物体。
+
+助手(Assistant)
+木星：最大的行星，夜晚肉眼可见。
+</code></pre></div></div>
+
+<p><em>代码完成</em></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>System
+Complete the following code.
+
+User
+def fibonacci(num):
+
+Assistant
+if num == 0:
+    return 0
+elif num == 1:
+    return 1
+else:
+    fib = [0, 1]
+    for i in range(2, num + 1):
+          fib.append(fib[i-1] + fib[i-2])
+    return fib[num]
+</code></pre></div></div>
+
+<p><em>Few-shot learning</em></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>System
+You translate corporate jargon into plain English.
+
+User
+New synergies will help drive top-line growth.
+
+Assistant
+Working well together will make more money.
+
+User
+Let’s circle back when we have more bandwidth to touch base on opportunities for increased leverage.
+
+Assistant
+When we’re less busy, let’s talk about how to do better.
+
+User
+This late pivot means we don’t have time to boil the ocean for the client deliverable.
+
+Assistant
+Because of this sudden change, we don’t have enough time to complete the entire project for the client.
+</code></pre></div></div>
+
+<p>我们计划继续投入大部分平台努力在这个方向，因为我们相信它将为开发者提供越来越有能力和易于使用的体验。我们正在努力快速关闭Chat Completions API的最后几个剩余的缺口，例如完成令牌的对数概率和增加可操纵性以减少响应的“聊天性”。</p>
+
+<h2 id="废弃completions-api中的旧模型">废弃Completions API中的旧模型</h2>
+
+<p>作为我们在Chat Completions API中增加投资和我们优化计算能力的努力的一部分，6个月后，我们将退役使用Completions API的一些旧模型。虽然这个API将保持可访问，但我们将从今天开始在我们的开发者文档中将其标记为“遗留”。我们计划将未来的模型和产品改进集中在Chat Completions API上，并且没有计划公开发布使用Completions API的新模型。</p>
+
+<p>从2024年1月4日开始，旧的完成模型将不再可用，并将被以下模型替换：</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>旧模型                 新模型
+ada                   ada-002
+babbage               babbage-002
+curie                 curie-002
+davinci               davinci-002
+
+davinci-instruct-bete
+curie-instruct-beta
+text-ada-001
+text-babbage-001
+text-curie-001
+text-davinci-001
+text-davinci-002
+text-davinci-003
+--&gt; gpt-3.5-turbo-instruct
+</code></pre></div></div>
+<p>使用基础GPT-3模型的稳定模型名称（ada，babbage，curie，davinci）的应用程序将在2024年1月4日自动升级到上面列出的新模型。在未来几周内，通过在API调用中指定以下模型名称，新模型也将可供早期测试：ada-002，babbage-002，curie-002，davinci-002。</p>
+
+<p>使用其他旧完成模型（如text-davinci-003）的开发者将需要在2024年1月4日之前手动升级他们的集成，通过在他们的API请求的“模型”参数中指定gpt-3.5-turbo-instruct。gpt-3.5-turbo-instruct是一个InstructGPT风格的模型，训练方式类似于text-davinci-003。这个新模型是Completions API中的替换模型，并将在未来几周内可供早期测试。</p>
+
+<p>希望在2024年1月4日之后继续使用他们的微调模型的开发者将需要在新的基础GPT-3模型（ada-002，babbage-002，curie-002，davinci-002）或新模型（gpt-3.5-turbo，gpt-4）上微调替代模型。一旦今年晚些时候提供了这个功能，我们将给予以前微调过旧模型的用户GPT-3.5 Turbo和GPT-4微调的优先访问权。我们承认，迁移离基于您自己数据的微调模型是具有挑战性的。我们将为以前微调过模型的用户提供支持，使这个过渡尽可能顺利。
+在未来几周内，我们将联系最近使用过这些旧模型的开发者，并在新的完成模型准备好进行早期测试后提供更多信息。</p>
+
+<h2 id="废弃旧的嵌入模型">废弃旧的嵌入模型</h2>
+
+<p>旧的嵌入模型的用户（例如，text-search-davinci-doc-001）将需要在2024年1月4日之前迁移到text-embedding-ada-002。我们在2022年12月发布了text-embedding-ada-002，并发现它比以前的模型更有能力和成本效益。今天，text-embedding-ada-002占据了所有嵌入API使用的99.9%。</p>
+
+<p>我们认识到这对使用那些旧模型的开发者来说是一个重大的改变。我们并不轻易做出淘汰这些模型的决定。我们将承担用户使用这些新模型重新嵌入内容的财务成本。我们将在未来几天内与受影响的用户取得联系。</p>
+
+<p>旧模型</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>code-search-ada-code-001
+code-search-ada-text-001	
+code-search-babbage-code-001	
+code-search-babbage-text-001	
+text-search-ada-doc-001	
+text-search-ada-query-001	
+text-search-babbage-doc-001	
+text-search-babbage-query-001	
+text-search-curie-doc-001	
+text-search-curie-query-001	
+text-search-davinci-doc-001	
+text-search-davinci-query-001	
+text-similarity-ada-001	
+text-similarity-babbage-001	
+text-similarity-curie-001	
+text-similarity-davinci-001
+</code></pre></div></div>
+<p>新模型
+text-embedding-ada-002</p>
+
+<h2 id="废弃edits-api">废弃Edits API</h2>
+<p>Edits API及其关联模型的用户（例如，text-davinci-edit-001或code-davinci-edit-001）将需要在2024年1月4日之前迁移到GPT-3.5 Turbo。Edits API beta是一个早期的探索性API，旨在使开发者能够根据指令返回提示的编辑版本。我们在开发gpt-3.5-turbo和Chat Completions API时考虑了来自Edits API的反馈，现在可以用于同样的目的。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>System
+Apply the change requested by the user to the code.
+
+User
+def fibonacci(num):
+    if num &lt;= 1:
+        return num
+    else:
+        return fibonacci(num-1) + fibonacci(num-2)
+print(fibonacci(10))
+
+User
+Rename the function to fib.
+
+Assistant
+def fib(num):
+    if num &lt;= 1:
+        return num
+    else:
+        return fib(num-1) + fib(num-2)
+print(fib(10))
+</code></pre></div></div>
+
+  </article>
+
+  
+  <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://magicwind-blog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  
+
+</div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">魔风的技术小屋</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li><a href="mailto:fengxu1211@yeah.net">fengxu1211@yeah.net</a></li>
+        <li>网站备案号：沪ICP备2023016736号-1</li>
+      </ul>
+   </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/magicwind">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">magicwind</span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <script type="text/javascript">
+if (document.location.hostname !== "localhost") {
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F7cc88d6fcfe8b6102a70e2bf532651a7' type='text/javascript'%3E%3C/script%3E"));	
+}
+
+  // Segment
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("TXDgauHCAmi1zVvuLFr56Q53h3OL8vvG");
+  analytics.page();
+  }}();
+
+  // growing io
+  var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '884366352d47bba6']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.growingio.com/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+</script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('#btn_submit').click(function() {
+            //alert($('#input_email').val());
+            var email = $('#input_email').val();
+            if (email) {
+                var name = email;
+                if (email.indexOf('@') > -1) {
+                    name = email.split('@')[0];
+                }
+                analytics.identify(email, {
+                    name: name,
+                    email: email
+                    });
+                console.log('sent identity: ' + name + ',' + email);
+            }
+        });
+    });
+</script>
+
+
+    </body>
+</html>
