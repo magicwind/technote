@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>如何微调大模型?</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。">
+    <link rel="canonical" href="https://magicwind.top/openai/2023/08/08/openai-fine-tuning/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">魔风的技术小屋</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        <!-- <input id="input_email" placeholder="Your Email">
+        <button id="btn_submit">Submit</button> -->
+        
+          <a class="page-link" href="/about/">关于我</a>
+        
+          
+        
+          <a class="page-link" href="/feh/">FEH</a>
+        
+          <a class="page-link" href="/currencies/">在线汇率转换</a>
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>如何微调大模型?</h1>
+    <p class="meta">Aug 8, 2023</p>
+  </header>
+
+  <article class="post-content">
+  <h1 id="微调">微调</h1>
+<p>学习如何为您的应用定制模型。</p>
+
+<h2 id="简介">简介</h2>
+<p>微调使您通过提供以下功能从API可用的模型中获得更多优势：</p>
+<ol>
+  <li>比提示设计更高质量的结果</li>
+  <li>能够在提示中容纳的示例之外进行训练</li>
+  <li>由于提示较短而节省令牌</li>
+  <li>请求延迟更低</li>
+</ol>
+
+<p>GPT-3已在开放互联网上的大量文本上进行了预训练。当给出一个只有几个例子的提示时，它通常可以直观地了解您试图执行的任务，并生成一个合理的完成。这通常被称为“少数样本学习”。</p>
+
+<p>通过在提示中容纳的许多更多示例上训练，微调改善了少数样本学习，让您在许多任务上取得更好的效果。一旦模型被微调，您将不再需要在提示中提供示例。这节省了成本，并实现了更低延迟的请求。</p>
+
+<p>从高层次来看，微调涉及以下步骤：</p>
+
+<ol>
+  <li>准备和上传训练数据</li>
+  <li>训练一个新的微调模型</li>
+  <li>使用您的微调模型</li>
+</ol>
+
+<h2 id="哪些模型可以进行微调">哪些模型可以进行微调？</h2>
+
+<p>微调目前仅适用于以下基本模型：davinci、curie、babbage和ada。这些是不进行任何指令后训练的原始模型（例如text-davinci-003）。您还可以继续微调一个已经微调过模型，以添加额外的数据，而无需从头开始。</p>
+
+<h2 id="安装">安装</h2>
+<p>我们推荐使用OpenAI的命令行界面（CLI）。要安装它，请运行</p>
+
+<p><code class="language-plaintext highlighter-rouge">pip install --upgrade openai</code></p>
+
+<p>（以下指令适用于0.9.4及更高版本。此外，OpenAI CLI需要python 3。）</p>
+
+<p>通过在您的shell初始化脚本（例如.bashrc、zshrc等）中添加以下行或在微调命令之前在命令行中运行它，设置您的OPENAI_API_KEY环境变量：</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">export </span><span class="nv">OPENAI_API_KEY</span><span class="o">=</span><span class="s2">"&lt;OPENAI_API_KEY&gt;"</span>
+</code></pre></div></div>
+
+<h2 id="准备训练数据">准备训练数据</h2>
+
+<p>训练数据是您教GPT-3您想让它说什么的方式。</p>
+
+<p>您的数据必须是JSONL文档，其中每一行都是一个提示完成对，对应一个训练示例。您可以使用我们的CLI数据准备工具轻松将您的数据转换为此文件格式。</p>
+<pre><code class="language-jsonl">{"prompt": "&lt;prompt text&gt;", "completion": "&lt;ideal generated text&gt;"}
+{"prompt": "&lt;prompt text&gt;", "completion": "&lt;ideal generated text&gt;"}
+{"prompt": "&lt;prompt text&gt;", "completion": "&lt;ideal generated text&gt;"}
+...
+</code></pre>
+<p>为微调设计您的提示和完成与为我们的基本模型（Davinci、Curie、Babbage、Ada）使用设计您的提示不同。特别是，虽然基本模型的提示通常包括多个示例（“少数样本学习”），但对于微调，每个训练示例通常由单个输入示例及其关联输出组成，无需给出详细指令或在同一提示中包括多个示例。</p>
+
+<p>有关如何为各种任务准备训练数据的更详细指导，请参考我们<a href="https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset">准备数据集</a>的最佳实践。</p>
+
+<p>您拥有的训练示例越多越好。我们建议至少有几百个示例。总的来说，我们发现数据集大小每增加一倍都会导致模型质量的线性提高。</p>
+
+<h3 id="cli数据准备工具">CLI数据准备工具</h3>
+
+<p>我们开发了一个工具，用于验证、提供建议并重新格式化您的数据：</p>
+
+<p><code class="language-plaintext highlighter-rouge">openai tools fine_tunes.prepare_data -f &lt;LOCAL_FILE&gt;</code></p>
+
+<p>此工具接受不同的格式，唯一的要求是它们必须包含提示和完成列/键。您可以传递<strong>CSV、TSV、XLSX、JSON</strong>或<strong>JSONL</strong>文件，它将在引导您完成建议更改的过程后将输出保存为准备进行微调的JSONL文件。</p>
+
+<h2 id="创建一个微调模型">创建一个微调模型</h2>
+
+<p>以下假设您已经按照上述指导准备了训练数据。</p>
+
+<p>使用OpenAI CLI开始您的微调工作：</p>
+
+<p><code class="language-plaintext highlighter-rouge">openai api fine_tunes.create -t &lt;TRAIN_FILE_ID_OR_PATH&gt; -m &lt;BASE_MODEL&gt;</code></p>
+
+<p>其中BASE_MODEL是您开始的基本模型的名称（ada、babbage、curie或davinci）。您可以使用<a href="https://platform.openai.com/docs/guides/fine-tuning/customize-your-model-name">后缀参数</a>自定义微调模型的名称。</p>
+
+<p>执行上述命令会做几件事情：</p>
+
+<ol>
+  <li>使用files API上传文件（或使用已经上传的文件）</li>
+  <li>创建微调作业</li>
+  <li>流式传输事件，直到工作完成（这通常需要几分钟，但如果队列中有很多工作或您的数据集很大，则可能需要几小时）</li>
+</ol>
+
+<p>每个微调工作都是从基本模型开始的，默认为curie。模型的选择会影响模型的性能和运行微调模型的成本。您的模型可以是：ada、babbage、curie或davinci。</p>
+
+<p>在您开始微调作业后，可能需要一些时间才能完成。您的工作可能会排在我们系统上的其他工作之后，根据模型和数据集的大小，训练我们的模型可能需要几分钟或几小时。如果由于任何原因事件流被中断，您可以通过运行以下命令恢复它：</p>
+
+<p><code class="language-plaintext highlighter-rouge">openai api fine_tunes.follow -i &lt;YOUR_FINE_TUNE_JOB_ID&gt;</code></p>
+
+<p>当工作完成时，它应显示微调模型的名称。</p>
+
+<p>除了创建微调作业，您还可以列出现有作业，检索作业状态或取消作业。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># 列出所有创建的微调
+openai api fine_tunes.list
+
+# 检索微调的状态。结果对象包括
+# 工作状态（可能是pending、running、succeeded或failed之一）
+# 和其他信息
+openai api fine_tunes.get -i &lt;YOUR_FINE_TUNE_JOB_ID&gt;
+
+# 取消工作
+openai api fine_tunes.cancel -i &lt;YOUR_FINE_TUNE_JOB_ID&gt;
+</code></pre></div></div>
+
+<h2 id="使用微调模型">使用微调模型</h2>
+<p>当工作成功后，fine_tuned_model字段将填充模型的名称。您现在可以将此模型指定为我们的Completions API的参数，并使用Playground向其发出请求。</p>
+
+<p>在您的工作首次完成后，您的模型可能需要几分钟才能准备好处理请求。如果对您的模型的完成请求超时，可能是因为您的模型仍在加载。如果发生这种情况，请在几分钟后重试。</p>
+
+<p>您可以通过将模型名称作为完成请求的model参数传递来开始发出请求：</p>
+
+<p>OpenAI CLI:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>openai api completions.create -m &lt;FINE_TUNED_MODEL&gt; -p &lt;YOUR_PROMPT&gt;
+</code></pre></div></div>
+
+<p>cURL:</p>
+<pre><code class="language-curl">curl https://api.openai.com/v1/completions \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"prompt": YOUR_PROMPT, "model": FINE_TUNED_MODEL}'
+</code></pre>
+
+<p>Python:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">openai</span>
+<span class="n">openai</span><span class="p">.</span><span class="n">Completion</span><span class="p">.</span><span class="nf">create</span><span class="p">(</span>
+    <span class="n">model</span><span class="o">=</span><span class="n">FINE_TUNED_MODEL</span><span class="p">,</span>
+    <span class="n">prompt</span><span class="o">=</span><span class="n">YOUR_PROMPT</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Node.js:</p>
+<pre><code class="language-nodejs">const response = await openai.createCompletion({
+  model: FINE_TUNED_MODEL
+  prompt: YOUR_PROMPT,
+});
+</code></pre>
+
+<p>您可以继续在这些针对微调模型的请求上使用所有其他<a href="https://platform.openai.com/docs/api-reference/completions">Completions</a>参数，例如temperature、frequency_penalty、presence_penalty等。</p>
+
+<h2 id="删除微调模型">删除微调模型</h2>
+
+<p>要删除一个微调模型，您必须被指定为您组织内的“所有者”。</p>
+
+<p>OpenAI CLI:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>openai api models.delete -i &lt;FINE_TUNED_MODEL&gt;
+</code></pre></div></div>
+
+<p>cURL:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl -X "DELETE" https://api.openai.com/v1/models/&lt;FINE_TUNED_MODEL&gt; \
+  -H "Authorization: Bearer $OPENAI_API_KEY"
+</code></pre></div></div>
+
+<p>Python:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import openai
+openai.Model.delete(FINE_TUNED_MODEL)
+</code></pre></div></div>
+
+<h1 id="准备您的数据集">准备您的数据集</h1>
+
+<p>微调是一种强大的技术，用于创建特定于您用例的新模型。<strong>在微调模型之前，我们强烈建议阅读以下您用例的最佳实践和具体指导方针。</strong></p>
+
+<h2 id="数据格式化">数据格式化</h2>
+
+<p>要微调模型，您需要一组训练示例，每个示例都由单个输入（“提示”）和其关联输出（“完成”）组成。这与使用我们的基本模型显著不同，在那里您可能在单个提示中输入详细说明或多个示例。</p>
+
+<ul>
+  <li>
+    <p>每个提示应以固定分隔符结尾，以通知模型提示何时结束，完成何时开始。通常效果良好的简单分隔符是<code class="language-plaintext highlighter-rouge">\n\n###\n\n</code>。分隔符不应出现在任何提示的其他地方。</p>
+  </li>
+  <li>
+    <p>由于我们的标记化，每个完成应以空格开始，这将大多数单词与前导空格标记化。</p>
+  </li>
+  <li>
+    <p>每个完成都应以固定的停止序列结尾，以通知模型完成何时结束。停止序列可以是<code class="language-plaintext highlighter-rouge">\n</code>、<code class="language-plaintext highlighter-rouge">###</code>或任何不出现在任何完成中的其他令牌。</p>
+  </li>
+  <li>
+    <p>对于推断，您应该以与创建训练数据集时相同的方式格式化提示，包括相同的分隔符。还要指定相同的停止序列以正确截断完成。</p>
+  </li>
+</ul>
+
+<h2 id="一般最佳实践">一般最佳实践</h2>
+
+<p>微调的性能随着更多高质量示例的增加而提高。要微调一个比使用我们的基本模型与高质量提示的表现更好的模型，您应该提供至少几百个高质量示例，理想情况下由人类专家审核。从那里开始，性能倾向于随着示例数量加倍而线性增加。增加示例数量通常是提高性能的最佳和最可靠的方法。</p>
+
+<p>分类器是最容易上手的模型。对于分类问题，我们建议使用ada，该模型通常倾向于在微调后的性能只比更有能力的模型稍差一点，同时速度明显更快且更便宜。</p>
+
+<p>如果您是在现有数据集上微调而不是从头开始编写提示，请务必人工审查数据以排除冒犯或不准确的内容（如果可能的话），或者尽可能审查数据集的许多随机样本（如果数据集很大）。</p>
+
+<p>(未完待续)</p>
+
+  </article>
+
+  
+  <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://magicwind-blog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  
+
+</div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">魔风的技术小屋</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li><a href="mailto:fengxu1211@yeah.net">fengxu1211@yeah.net</a></li>
+        <li>网站备案号：沪ICP备2023016736号-1</li>
+      </ul>
+   </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/magicwind">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">magicwind</span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <script type="text/javascript">
+if (document.location.hostname !== "localhost") {
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F7cc88d6fcfe8b6102a70e2bf532651a7' type='text/javascript'%3E%3C/script%3E"));	
+}
+
+  // Segment
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("TXDgauHCAmi1zVvuLFr56Q53h3OL8vvG");
+  analytics.page();
+  }}();
+
+  // growing io
+  var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '884366352d47bba6']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.growingio.com/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+</script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('#btn_submit').click(function() {
+            //alert($('#input_email').val());
+            var email = $('#input_email').val();
+            if (email) {
+                var name = email;
+                if (email.indexOf('@') > -1) {
+                    name = email.split('@')[0];
+                }
+                analytics.identify(email, {
+                    name: name,
+                    email: email
+                    });
+                console.log('sent identity: ' + name + ',' + email);
+            }
+        });
+    });
+</script>
+
+
+    </body>
+</html>
