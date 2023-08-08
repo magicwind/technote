@@ -235,7 +235,7 @@ a:visited { color: #205caa; }
   border-radius: 3px;
   font-size: 15px;
   font-family: Consolas, "Liberation Mono", Courier, monospace;
-  overflow:scroll;
+/*   overflow:scroll; */
 }
 
 .post code { padding: 1px 5px; }
