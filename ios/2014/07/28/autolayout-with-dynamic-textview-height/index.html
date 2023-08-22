@@ -45,9 +45,9 @@
         
           <a class="page-link" href="/feh/">FEH</a>
         
-          <a class="page-link" href="/currencies/">在线汇率转换</a>
-        
           
+        
+          <a class="page-link" href="/currencies/">在线汇率转换</a>
         
       </div>
     </nav>
@@ -176,50 +176,13 @@ s.setAttribute('data-timestamp', +new Date());
 
 
     <script type="text/javascript">
-if (document.location.hostname !== "localhost") {
-    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F7cc88d6fcfe8b6102a70e2bf532651a7' type='text/javascript'%3E%3C/script%3E"));	
-}
-
-  // Segment
-  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
-  analytics.load("TXDgauHCAmi1zVvuLFr56Q53h3OL8vvG");
-  analytics.page();
-  }}();
-
-  // growing io
-  var _vds = _vds || [];
-      window._vds = _vds;
-      (function(){
-        _vds.push(['setAccountId', '884366352d47bba6']);
-        (function() {
-          var vds = document.createElement('script');
-          vds.type='text/javascript';
-          vds.async = true;
-          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.growingio.com/vds.js';
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore(vds, s);
-        })();
-      })();
+!function(){var e=window.rudderanalytics=window.rudderanalytics||[];e.methods=["load","page","track","identify","alias","group","ready","reset","getAnonymousId","setAnonymousId","getUserId","getUserTraits","getGroupId","getGroupTraits","startSession","endSession"],e.factory=function(t){return function(){e.push([t].concat(Array.prototype.slice.call(arguments)))}};for(var t=0;t<e.methods.length;t++){var r=e.methods[t];e[r]=e.factory(r)}e.loadJS=function(e,t){var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.rudderlabs.com/v1.1/rudder-analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a)},e.loadJS(),
+e.load("2JfFaITkhkVkKQQBauTDU7MzyNG","https://shopify.fengxuu.people.aws.dev"),
+e.page()}();
 </script>
 <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
 <script type="text/javascript">
     $(function() {
-        $('#btn_submit').click(function() {
-            //alert($('#input_email').val());
-            var email = $('#input_email').val();
-            if (email) {
-                var name = email;
-                if (email.indexOf('@') > -1) {
-                    name = email.split('@')[0];
-                }
-                analytics.identify(email, {
-                    name: name,
-                    email: email
-                    });
-                console.log('sent identity: ' + name + ',' + email);
-            }
-        });
     });
 </script>
 
