@@ -5,9 +5,111 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Aug 2023 01:45:15 -0500</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2023 01:45:15 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Aug 2023 01:30:25 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Aug 2023 01:30:25 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>GPT-3.5 Turbo的模型微调现在可用</title>
+        <description>&lt;p&gt;GPT-3.5 Turbo的微调现在可用，GPT-4的微调将在今年秋季推出。此更新使开发人员能够定制更适合他们用例的模型，并大规模运行这些定制模型。早期测试表明，GPT-3.5 Turbo的微调版本可以在某些狭窄任务上匹配甚至超过基础GPT-4级别的能力。与我们所有的API一样，微调API的输入和输出数据由客户拥有，OpenAI或任何其他组织都不使用它来训练其他模型。&lt;/p&gt;
+
+&lt;h2 id=&quot;微调用例&quot;&gt;微调用例&lt;/h2&gt;
+&lt;p&gt;自GPT-3.5 Turbo发布以来，开发人员和企业一直在要求能够定制该模型，为他们的用户创建独特和差异化的体验。通过此次推出，开发人员现在可以运行监督微调，使此模型更好地适应他们的用例。&lt;/p&gt;
+
+&lt;p&gt;在我们的私人测试版中，微调客户已能够在常见用例上有意义地提高模型性能，例如：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;改进的可操纵性&lt;/strong&gt;：微调允许企业使模型更好地遵循指令，例如使输出简练或始终以给定语言响应。例如，开发人员可以使用微调确保模型在被提示使用该语言时始终以德语响应。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;可靠的输出格式化&lt;/strong&gt;：微调提高了模型一致地格式化响应的能力——这对于需要特定响应格式的应用程序（例如代码完成或组装API调用）至关重要。开发人员可以使用微调更可靠地将用户提示转换为可以与他们自己的系统一起使用的高质量JSON片段。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;定制语调&lt;/strong&gt;：微调是一种改善模型输出（例如其语调）的定性感觉的好方法，使其更符合企业品牌的声音。具有可识别品牌声音的企业可以使用微调使模型与其语调更一致。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;除了性能增加之外，微调还使企业能够在确保类似性能的同时&lt;strong&gt;缩短提示&lt;/strong&gt;。使用GPT-3.5-Turbo的微调还可以处理4k个令牌——是我们之前微调模型的两倍。通过将指令微调到模型本身，早期测试人员已将提示大小减少了多达90%，从而加速了每个API调用并降低了成本。&lt;/p&gt;
+
+&lt;p&gt;与诸如提示工程、信息检索和函数调用等其他技术结合使用时，微调最为强大。查看我们的微调指南以了解更多信息。函数调用和gpt-3.5-turbo-16k的微调支持将在今年秋季晚些时候推出。&lt;/p&gt;
+
+&lt;h2 id=&quot;微调步骤&quot;&gt;微调步骤&lt;/h2&gt;
+
+&lt;h3 id=&quot;步骤1-准备数据&quot;&gt;步骤1 准备数据&lt;/h3&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;messages&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;role&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;system&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;content&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;You are an assistant that occasionally misspells words&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;role&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;user&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;content&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Tell me a story.&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;role&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;assistant&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;content&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;One day a student went to schoool.&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;步骤2-上传数据&quot;&gt;步骤2 上传数据&lt;/h3&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl &lt;span class=&quot;nt&quot;&gt;-https&lt;/span&gt;://api.openai.com/v1/files &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;-H&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Authorization: Bearer &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$OPENAI_API_KEY&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;-F&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;purpose=fine-tune&quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;-F&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;file=@path_to_your_file&quot;&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;步骤3-创建一个微调作业&quot;&gt;步骤3 创建一个微调作业&lt;/h3&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl https://api.openai.com/v1/fine_tuning/jobs &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-H&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Content-Type: application/json&quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-H&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Authorization: Bearer &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$OPENAI_API_KEY&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;{
+  &quot;training_file&quot;: &quot;TRAINING_FILE_ID&quot;,
+  &quot;model&quot;: &quot;gpt-3.5-turbo-0613&quot;,
+}&apos;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;一旦模型完成微调过程，它就可以立即在生产中使用，并具有与底层模型相同的共享速率限制。&lt;/p&gt;
+
+&lt;h3 id=&quot;步骤4-使用微调过的模型&quot;&gt;步骤4 使用微调过的模型&lt;/h3&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl https://api.openai.com/v1/chat/completions &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-H&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Content-Type: application/json&quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-H&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Authorization: Bearer &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$OPENAI_API_KEY&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;{
+  &quot;model&quot;: &quot;ft:gpt-3.5-turbo:org_id&quot;,
+  &quot;messages&quot;: [
+    {
+      &quot;role&quot;: &quot;system&quot;,
+      &quot;content&quot;: &quot;You are an assistant that occasionally misspells words&quot;
+    },
+    {
+      &quot;role&quot;: &quot;user&quot;,
+      &quot;content&quot;: &quot;Hello! What is fine-tuning?&quot;
+    }
+  ]
+}&apos;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我们还将在近期推出一款微调用户界面（UI），这将使开发人员更容易访问有关正在进行的微调作业、已完成的模型快照等信息。&lt;/p&gt;
+
+&lt;h2 id=&quot;安全性&quot;&gt;安全性&lt;/h2&gt;
+&lt;p&gt;确保微调的部署安全对我们非常重要。为了通过微调过程保留默认模型的安全功能，微调训练数据将通过我们的审核API和GPT-4驱动的审核系统传递，以检测与我们的安全标准冲突的不安全训练数据。&lt;/p&gt;
+
+&lt;h2 id=&quot;定价&quot;&gt;定价&lt;/h2&gt;
+&lt;p&gt;微调成本分为两个部分：初始训练成本和使用成本：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;训练：$0.008 / 1K 令牌&lt;/li&gt;
+  &lt;li&gt;使用输入：$0.012 / 1K 令牌&lt;/li&gt;
+  &lt;li&gt;使用输出：$0.016 / 1K 令牌&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;例如，一个训练文件为100,000令牌，训练3个epochs的gpt-3.5-turbo微调作业预计费用为$2.40。&lt;/p&gt;
+
+&lt;h2 id=&quot;更新的gpt-3模型&quot;&gt;更新的GPT-3模型&lt;/h2&gt;
+&lt;p&gt;在7月，我们宣布原始的GPT-3基础模型（ada、babbage、curie和davinci）将在2024年1月4日关闭。今天，我们将babbage-002和davinci-002作为这些模型的替代品推出，无论是作为基础模型还是微调模型。客户可以通过查询Completions API来访问这些模型。&lt;/p&gt;
+
+&lt;p&gt;这些模型可以通过我们的新API端点/v1/fine_tuning/jobs进行微调。这个新端点提供了分页和更多的可扩展性，以支持微调API的未来演变。从/v1/fine-tunes过渡到更新的端点非常简单，我们的新微调指南中可以找到更多详细信息。这将弃用旧的/v1/fine-tunes端点，该端点将在2024年1月4日关闭。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Aug 2023 00:00:00 -0500</pubDate>
+        <link>https://magicwind.top/openai/2023/08/23/gpt3.5-fine-tune/</link>
+        <guid isPermaLink="true">https://magicwind.top/openai/2023/08/23/gpt3.5-fine-tune/</guid>
+        
+        
+        <category>openai</category>
+        
+      </item>
     
       <item>
         <title>如何微调大模型?</title>
@@ -1150,26 +1252,6 @@ airflow
         
         
         <category>airflow</category>
-        
-      </item>
-    
-      <item>
-        <title>Python的Cheat Sheet</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.datacamp.com&quot;&gt;DataCamp&lt;/a&gt;可以学习Python处理数据的基本方法。
-该网站上面也有很多不错的Cheat Sheet可供大家编程时快速查看。&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;/docs/PythonForDataScience.pdf&quot;&gt;Python For Data Science Cheat Sheet For Beginners&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/docs/Python_Bokeh_Cheat_Sheet.pdf&quot;&gt;Python Data Visualization: Bokeh Cheat Sheet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/docs/PandasPythonForDataScience.pdf&quot;&gt;Pandas Cheat Sheet: Data Wrangling in Python&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Mon, 11 Dec 2017 00:00:00 -0600</pubDate>
-        <link>https://magicwind.top/python/2017/12/11/python-cheat-sheet/</link>
-        <guid isPermaLink="true">https://magicwind.top/python/2017/12/11/python-cheat-sheet/</guid>
-        
-        
-        <category>python</category>
         
       </item>
     
