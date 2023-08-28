@@ -4,6 +4,9 @@ email: fengxu1211@yeah.net
 description: "本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。"
 baseurl: ""
 url: "https://magicwind.top"
+plugins:
+  - jekyll-sitemap
+
 #twitter_username: jekyllrb
 github_username:  magicwind
 encoding: utf-8
