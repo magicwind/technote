@@ -17,4 +17,13 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-PW6QDRBR');</script>
     <!-- End Google Tag Manager -->
+
+    <!-- Clickstream on AWS -->
+    <script src="{{ "/js/clickstream-web.min.js" | prepend: site.baseurl }}" />
+    <script>
+        window.ClickstreamAnalytics.init({
+            appId: 'myblog',
+            endpoint: 'http://Clicks-Inges-xvNKJAMTPySB-1301106535.ap-northeast-1.elb.amazonaws.com/collect',
+        })
+    </script>
 </head>
