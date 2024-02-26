@@ -5,9 +5,74 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 23 Feb 2024 03:58:37 -0600</pubDate>
-    <lastBuildDate>Fri, 23 Feb 2024 03:58:37 -0600</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2024 09:32:14 -0600</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2024 09:32:14 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>[置顶]基于Amazon Bedrock的text2sql解决方案介绍</title>
+        <description>&lt;h2 id=&quot;什么是text2sql技术&quot;&gt;什么是text2sql技术?&lt;/h2&gt;
+
+&lt;p&gt;text2sql是一种自然语言理解技术,可以将用户用自然语言提出的问题自动转换成数据库查询语句。用户只需要用自然语言描述问题,text2sql系统就可以生成对应的SQL查询语句,从数据库中获取结果。这极大地简化了数据库查询的过程,用户无需了解SQL语法,就可以通过语音或文本进行数据分析和查询。&lt;/p&gt;
+
+&lt;h2 id=&quot;什么是amazon-bedrock&quot;&gt;什么是Amazon Bedrock&lt;/h2&gt;
+
+&lt;p&gt;Amazon Bedrock是一个无服务器的机器学习服务,可以帮助开发者快速构建自然语言理解应用。它内置了预训练好的语言模型,开发者可以通过简单的配置就获得强大的NLP能力,如命名实体识别、情感分析、文本分类等。Bedrock还提供了对话管理功能,可以帮助开发任务型对话机器人。&lt;/p&gt;
+
+&lt;h2 id=&quot;用户使用场景&quot;&gt;用户使用场景&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;面向运营人员的销售数据分析, 根据数据库里的销售明细数据,按照时间、产品、地区、客户等维度分析销售额、利润等指标。例如,运营人员可以通过语音提问“上个月北京地区笔记本电脑的销售额是多少?”,text2sql系统即可自动生成SQL语句,从数据库提取上个月北京地区笔记本电脑的销售总额。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;面向销售人员的绩效数据查询, 根据SFE数据库里的销售数据,分析销售个人或者团队的绩效达成情况。例如,销售人员可以通过语音提问“我这个月的销售业绩完成率是多少?”,text2sql系统可以自动统计出该销售人员本月的销售目标和实际完成数,计算出销售业绩完成率。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;解决方案特点&quot;&gt;解决方案特点&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;利用最先进的闭源和开源LLM来生成SQL,API调用按Token数量进行计费,没有任何运行时开销。这可以确保生成的SQL语句语义正确、符合业务逻辑,而且计费方式灵活。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;利用AWS托管服务来减少运维开销,例如使用Amazon EC2提供可靠的计算资源,使用Amazon RDS来托管关系数据库。开发者无需管理基础设施,可以更专注于应用开发。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;使用IaC工具编写代码来初始化和更新基础架构,实现自动化部署,提高敏捷性。开发者可以使用AWS CloudFormation, AWS CDK等IaC工具,通过代码控制基础架构的部署和更新。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;用户体验&quot;&gt;用户体验&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;提供Web UI供业务用户进行聊天式数据查询。用户无需了解SQL语法,通过聊天界面输入问题,即可获取结果,操作非常简单方便。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;提供后台配置界面供模型调优人员进行配置。模型调优人员可以通过友好的界面管理数据库Schema标注、管理向量Embedding数据等,无需修改代码即可优化对话效果。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;更多技术细节参考&quot;&gt;更多技术细节参考&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aws.amazon.com/cn/blogs/china/build-text2sql-industry-data-query-assistant-using-bedrock-and-rag/&quot;&gt;使用 Bedrock 和 RAG 构建 Text2SQL 行业数据查询助手&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aws.amazon.com/cn/blogs/china/design-and-implementation-of-llm-rag-conversational-robot-and-text2sql/&quot;&gt;浅谈 LLM RAG 对话机器人和 Text2SQL 的设计和实现&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;代码参考&quot;&gt;代码参考&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws&quot;&gt;Guidance for Natural Language Queries of Relational Databases on AWS&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Dec 2098 18:00:00 -0600</pubDate>
+        <link>https://magicwind.top/genai/2098/12/31/pinned-text2sql-solution/</link>
+        <guid isPermaLink="true">https://magicwind.top/genai/2098/12/31/pinned-text2sql-solution/</guid>
+        
+        
+        <category>genai</category>
+        
+      </item>
     
       <item>
         <title>GPT-3.5 Turbo的模型微调现在可用</title>
@@ -1172,83 +1237,6 @@ smtp_mail_from = someone@163.com
         <pubDate>Mon, 15 Jan 2018 00:00:00 -0600</pubDate>
         <link>https://magicwind.top/airflow/2018/01/15/airflow-conf/</link>
         <guid isPermaLink="true">https://magicwind.top/airflow/2018/01/15/airflow-conf/</guid>
-        
-        
-        <category>airflow</category>
-        
-      </item>
-    
-      <item>
-        <title>在AWS EC2上安装Apache Airflow</title>
-        <description>&lt;p&gt;Amazon Linux自带的包管理工具是Yum，系统自带的Python版本是2.7。
-Airflow可以同时支持Python2和3，这里我们选择在Python3环境下安装。&lt;/p&gt;
-
-&lt;h2 id=&quot;1-先安装python-36&quot;&gt;1. 先安装Python 3.6&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;python36.x86_64 python36-devel.x86_64
-&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; /usr/bin
-&lt;span class=&quot;nb&quot;&gt;sudo ln&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-s&lt;/span&gt; pip-3.6 pip3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;2-然后再安装airflow的依赖系统包&quot;&gt;2. 然后再安装Airflow的依赖系统包&lt;/h2&gt;
-
-&lt;p&gt;（这些包是为了编译一部分Airflow所依赖的Python包）&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; groupinstall development
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;zlib-devel
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;openssl-devel
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;mysql-devel
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;postgres-devel&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;3-给安装airflow先创建虚拟环境&quot;&gt;3. 给安装Airflow先创建虚拟环境&lt;/h2&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;pip3 &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;virtualenv
-virtualenv ~/airflow-env
-&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; ~/airflow-env/bin/activate
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;激活虚拟环境后安装Airflow及其依赖&lt;/p&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;airflow
-pip &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;apache-airflow[devel]&apos;&lt;/span&gt;
-pip &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;apache-airflow[postgres]&apos;&lt;/span&gt;
-pip &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;pymysql
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;4-初始化airflow&quot;&gt;4. 初始化Airflow&lt;/h2&gt;
-&lt;p&gt;设置Airlfow Home所在路径&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;export AIRFLOW_HOME=~/airflow
-airflow
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;修改~/airflow/airflow.cfg，将数据库连接修改成&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sql_alchemy_conn = mysql+pymysql://airflow:airflow@localhost/airflow&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;登录MySQL数据库，创建airflow数据库&lt;/p&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;create&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;database&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;airflow&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;--UTF8 required&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;create&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;airflow&apos;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;%&apos;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;identified&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;by&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;airflow&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;grant&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;on&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;airflow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;airflow&apos;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;%&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;flush&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;privileges&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;执行下面语句初始化数据库&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;airflow initdb&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5-启动airflow&quot;&gt;5. 启动airflow&lt;/h2&gt;
-
-&lt;p&gt;启动管理界面：&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;airflow webserver&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;启动调度器：&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;airflow scheduler&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;至此，Airflow已安装部署完成。&lt;/p&gt;
-</description>
-        <pubDate>Fri, 29 Dec 2017 00:00:00 -0600</pubDate>
-        <link>https://magicwind.top/airflow/2017/12/29/airflow-installation/</link>
-        <guid isPermaLink="true">https://magicwind.top/airflow/2017/12/29/airflow-installation/</guid>
         
         
         <category>airflow</category>

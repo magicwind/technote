@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>[置顶]基于Amazon Bedrock的text2sql解决方案介绍</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。">
+    <meta name="msvalidate.01" content="4AE5176E6D1140B66629A650FCA40463" />
+    <link rel="canonical" href="https://magicwind.top/genai/2098/12/31/pinned-text2sql-solution/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PW6QDRBR');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Clickstream on AWS -->
+    <script src="/js/clickstream-web.min.js"></script>
+    <script>
+        window.ClickstreamAnalytics.init({
+            appId: 'myblog',
+            endpoint: 'https://click.fengxuu.people.aws.dev/collect',
+        })
+    </script>
+</head>
+
+
+  <script type="text/javascript">
+!function(){var e=window.rudderanalytics=window.rudderanalytics||[];e.methods=["load","page","track","identify","alias","group","ready","reset","getAnonymousId","setAnonymousId","getUserId","getUserTraits","getGroupId","getGroupTraits","startSession","endSession"],e.factory=function(t){return function(){e.push([t].concat(Array.prototype.slice.call(arguments)))}};for(var t=0;t<e.methods.length;t++){var r=e.methods[t];e[r]=e.factory(r)}e.loadJS=function(e,t){var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.rudderlabs.com/v1.1/rudder-analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a)},e.loadJS(),
+e.load("2JfFaITkhkVkKQQBauTDU7MzyNG","https://shopify.fengxuu.people.aws.dev"),
+e.page()}();
+</script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+    });
+</script>
+
+
+    <body>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PW6QDRBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">魔风的技术小屋</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        <!-- <input id="input_email" placeholder="Your Email">
+        <button id="btn_submit">Submit</button> -->
+        
+          <a class="page-link" href="/about/">关于我</a>
+        
+          
+        
+          <a class="page-link" href="/feh/">FEH</a>
+        
+          <a class="page-link" href="/currencies/">在线汇率转换</a>
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>[置顶]基于Amazon Bedrock的text2sql解决方案介绍</h1>
+    <p class="meta">Dec 31, 2098</p>
+  </header>
+
+  <article class="post-content">
+  <h2 id="什么是text2sql技术">什么是text2sql技术?</h2>
+
+<p>text2sql是一种自然语言理解技术,可以将用户用自然语言提出的问题自动转换成数据库查询语句。用户只需要用自然语言描述问题,text2sql系统就可以生成对应的SQL查询语句,从数据库中获取结果。这极大地简化了数据库查询的过程,用户无需了解SQL语法,就可以通过语音或文本进行数据分析和查询。</p>
+
+<h2 id="什么是amazon-bedrock">什么是Amazon Bedrock</h2>
+
+<p>Amazon Bedrock是一个无服务器的机器学习服务,可以帮助开发者快速构建自然语言理解应用。它内置了预训练好的语言模型,开发者可以通过简单的配置就获得强大的NLP能力,如命名实体识别、情感分析、文本分类等。Bedrock还提供了对话管理功能,可以帮助开发任务型对话机器人。</p>
+
+<h2 id="用户使用场景">用户使用场景</h2>
+
+<ol>
+  <li>
+    <p>面向运营人员的销售数据分析, 根据数据库里的销售明细数据,按照时间、产品、地区、客户等维度分析销售额、利润等指标。例如,运营人员可以通过语音提问“上个月北京地区笔记本电脑的销售额是多少?”,text2sql系统即可自动生成SQL语句,从数据库提取上个月北京地区笔记本电脑的销售总额。</p>
+  </li>
+  <li>
+    <p>面向销售人员的绩效数据查询, 根据SFE数据库里的销售数据,分析销售个人或者团队的绩效达成情况。例如,销售人员可以通过语音提问“我这个月的销售业绩完成率是多少?”,text2sql系统可以自动统计出该销售人员本月的销售目标和实际完成数,计算出销售业绩完成率。</p>
+  </li>
+</ol>
+
+<h2 id="解决方案特点">解决方案特点</h2>
+
+<ol>
+  <li>
+    <p>利用最先进的闭源和开源LLM来生成SQL,API调用按Token数量进行计费,没有任何运行时开销。这可以确保生成的SQL语句语义正确、符合业务逻辑,而且计费方式灵活。</p>
+  </li>
+  <li>
+    <p>利用AWS托管服务来减少运维开销,例如使用Amazon EC2提供可靠的计算资源,使用Amazon RDS来托管关系数据库。开发者无需管理基础设施,可以更专注于应用开发。</p>
+  </li>
+  <li>
+    <p>使用IaC工具编写代码来初始化和更新基础架构,实现自动化部署,提高敏捷性。开发者可以使用AWS CloudFormation, AWS CDK等IaC工具,通过代码控制基础架构的部署和更新。</p>
+  </li>
+</ol>
+
+<h2 id="用户体验">用户体验</h2>
+
+<ol>
+  <li>
+    <p>提供Web UI供业务用户进行聊天式数据查询。用户无需了解SQL语法,通过聊天界面输入问题,即可获取结果,操作非常简单方便。</p>
+  </li>
+  <li>
+    <p>提供后台配置界面供模型调优人员进行配置。模型调优人员可以通过友好的界面管理数据库Schema标注、管理向量Embedding数据等,无需修改代码即可优化对话效果。</p>
+  </li>
+</ol>
+
+<h2 id="更多技术细节参考">更多技术细节参考</h2>
+
+<p><a href="https://aws.amazon.com/cn/blogs/china/build-text2sql-industry-data-query-assistant-using-bedrock-and-rag/">使用 Bedrock 和 RAG 构建 Text2SQL 行业数据查询助手</a></p>
+
+<p><a href="https://aws.amazon.com/cn/blogs/china/design-and-implementation-of-llm-rag-conversational-robot-and-text2sql/">浅谈 LLM RAG 对话机器人和 Text2SQL 的设计和实现</a></p>
+
+<h2 id="代码参考">代码参考</h2>
+
+<p><a href="https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws">Guidance for Natural Language Queries of Relational Databases on AWS</a></p>
+
+  </article>
+
+  
+  <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://magicwind-blog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  
+
+</div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">魔风的技术小屋</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li><a href="mailto:fengxu1211@yeah.net">fengxu1211@yeah.net</a></li>
+        <li>网站备案号：沪ICP备2023016736号-1</li>
+      </ul>
+   </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/magicwind">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">magicwind</span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    </body>
+</html>
