@@ -41,4 +41,6 @@ Amazon Bedrock是一个无服务器的机器学习服务,可以帮助开发者�
 
 ## 代码参考
 
+[Generative BI with RAG Demo](https://github.com/aws-samples/generative-bi-using-rag)
+
 [Guidance for Natural Language Queries of Relational Databases on AWS](https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws)
