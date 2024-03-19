@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Mar 2024 04:28:19 -0500</pubDate>
-    <lastBuildDate>Mon, 11 Mar 2024 04:28:19 -0500</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2024 01:23:01 -0500</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2024 01:23:01 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -62,6 +62,8 @@
 &lt;p&gt;&lt;a href=&quot;https://aws.amazon.com/cn/blogs/china/design-and-implementation-of-llm-rag-conversational-robot-and-text2sql/&quot;&gt;浅谈 LLM RAG 对话机器人和 Text2SQL 的设计和实现&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;代码参考&quot;&gt;代码参考&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/aws-samples/generative-bi-using-rag&quot;&gt;Generative BI with RAG Demo&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws&quot;&gt;Guidance for Natural Language Queries of Relational Databases on AWS&lt;/a&gt;&lt;/p&gt;
 </description>
