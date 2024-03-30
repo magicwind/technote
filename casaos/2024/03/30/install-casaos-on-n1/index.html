@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>在斐讯N1盒子上安装CasaOS</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。">
+    <meta name="msvalidate.01" content="4AE5176E6D1140B66629A650FCA40463" />
+    <link rel="canonical" href="https://magicwind.top/casaos/2024/03/30/install-casaos-on-n1/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PW6QDRBR');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Clickstream on AWS -->
+    <script src="/js/clickstream-web.min.js"></script>
+    <script>
+        window.ClickstreamAnalytics.init({
+            appId: 'myblog',
+            endpoint: 'https://click.fengxuu.people.aws.dev/collect',
+        })
+    </script>
+</head>
+
+
+  <script type="text/javascript">
+!function(){var e=window.rudderanalytics=window.rudderanalytics||[];e.methods=["load","page","track","identify","alias","group","ready","reset","getAnonymousId","setAnonymousId","getUserId","getUserTraits","getGroupId","getGroupTraits","startSession","endSession"],e.factory=function(t){return function(){e.push([t].concat(Array.prototype.slice.call(arguments)))}};for(var t=0;t<e.methods.length;t++){var r=e.methods[t];e[r]=e.factory(r)}e.loadJS=function(e,t){var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.rudderlabs.com/v1.1/rudder-analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a)},e.loadJS(),
+e.load("2JfFaITkhkVkKQQBauTDU7MzyNG","https://shopify.fengxuu.people.aws.dev"),
+e.page()}();
+</script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+    });
+</script>
+
+
+    <body>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PW6QDRBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">魔风的技术小屋</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        <!-- <input id="input_email" placeholder="Your Email">
+        <button id="btn_submit">Submit</button> -->
+        
+          <a class="page-link" href="/about/">关于我</a>
+        
+          
+        
+          <a class="page-link" href="/feh/">FEH</a>
+        
+          <a class="page-link" href="/currencies/">在线汇率转换</a>
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>在斐讯N1盒子上安装CasaOS</h1>
+    <p class="meta">Mar 30, 2024</p>
+  </header>
+
+  <article class="post-content">
+  <h1 id="casaos介绍">CasaOS介绍</h1>
+<p>CasaOS,这是一款由IceWhale公司推出的全新操作系统(严格来说, 是一个可以在Armbian等操作系统上安装的NAS应用)。</p>
+
+<p>IceWhale是一家位于中国的高科技公司,专注于开发创新的软硬件解决方案。他们的愿景是打造一个开放、高效、安全的计算环境,满足个人和企业用户的不同需求。CasaOS正是IceWhale为实现这一目标而推出的开源操作系统。</p>
+
+<p>CasaOS的核心理念是提供一个轻量级、模块化的操作系统,用户可以根据自己的需求,选择安装所需的组件。该系统基于Linux内核构建,采用了全新的图形界面设计,拥有现代化的外观和流畅的用户体验。同时,CasaOS还提供了强大的安全防护措施,确保用户的数据和隐私得到全面保护。</p>
+
+<p>该系统的另一大亮点是对ARM架构的优化支持。随着物联网、边缘计算等新兴技术的发展,ARM处理器正在越来越多的设备中应用。CasaOS正是针对这一趋势做了大量优化工作,确保在ARM平台上表现出色。</p>
+
+<h1 id="准备工作">准备工作</h1>
+
+<ol>
+  <li>
+    <p>以N1盒子为例，最新的固件去<a href="https://github.com/ophub/amlogic-s9xxx-armbian/releases">GitHub</a>下载，大佬一直在更新。
+在Release下面下载这个文件（版本号和后缀时间可能不同）：
+版本有Jammy(Ubuntu系统)和bookworm(Debian系统)2种, 都是LTS长时间支持的版本. 内核我选6.1的, 因为bookworm版本比Jammy版本体积要小(前者700MB, 后者900MB), 选了下载前者.</p>
+
+    <p>文件名: Armbian_24.5.0_amlogic_s905d_bookworm_6.1.82_server_2024.03.16.img.gz</p>
+  </li>
+  <li>
+    <p>下载U盘写入工具，可以使用balenaEtcher或rufus, 将下载的Armbian镜像写入U盘</p>
+  </li>
+  <li>
+    <p>将U盘插入靠近HDMI口的USB接口里，插电，自动进入U盘系统。</p>
+
+    <p><strong>注意</strong>: 此步骤需要之前刷过机，可以从USB启动。如果不确定，那就先试试，如果启动不了，参照B站的教程刷吧。</p>
+  </li>
+  <li>
+    <p>在路由器后台看到armbian设备，记住IP地址，用SSH工具登录。下面以Windows11的CMD命令提示符为例。</p>
+  </li>
+</ol>
+
+<h1 id="armbian安装">Armbian安装</h1>
+<p>SSH进入Armbian系统: ssh root@ip_addr.</p>
+
+<p>需要修改root密码.</p>
+
+<p>命令行选zsh</p>
+
+<p>然后创建一个新用户,并设置密码.</p>
+
+<p>最后设置时区和语言.</p>
+
+<p>接下来执行armbian-install命令开始安装.</p>
+
+<p>设备ID选择101 (N1),文件系统选择ext4, 然后等待安装, 安装结束后执行poweroff命令,关机并拔下电源和USB盘,再重新上电.</p>
+
+<p>到这里,armbian操作系统就装好了,系统已经安装到N1内置的存储上了, 启动结束后可以使用SSH重新登录,这里建议使用新建的用户名登录.</p>
+
+<h1 id="casaos安装">CasaOS安装</h1>
+<p>现在开始安装CasaOS, 安装只需要执行一条命令就可以了: <code class="language-plaintext highlighter-rouge">curl -fsSL https://get.casaos.io | sudo bash</code></p>
+
+<p>然后需要输入密码,因为是非root用户安装.</p>
+
+<p>看到一个告警, 剩余磁盘空间小于5GB, 是否继续安装, 输入1.</p>
+
+<p>更新package manager比较慢, 有访问国外网站的网速有关系,请耐心等待.</p>
+
+<p>casaos安装完毕直接可以在浏览器打开armbian的IP地址，不用输入端口号，自动进入casaos界面</p>
+
+<p>创建用户名和密码就可以登录了。</p>
+
+<p>用户名自定义，不要用root</p>
+
+<p>casaos对大佬来说可能作用不是很大，但对我来说是非常好的系统，安装软件和挂载硬盘都简单了许多。</p>
+
+<p>安装其他软件，例如qbittorrent, 打开App Store, 搜索qbit. 然后点击安装. 安装完成后, 可以看到应用图标出现在桌面上, 然后再点击设置, 在设置窗口里的右上角查看日志, 可以获取admin临时密码.</p>
+
+<p>桌面点击qbittorrent图标打开web应用, 输入用户名admin和刚刚获取的临时密码登录. 在设置里可以修改语言.</p>
+
+<p>qbittorrent的安装就先讲到这里, 实际使用还会外挂USB硬盘才行.</p>
+
+<p>CasaOS对USB支持也相当不错, 把硬盘插入USB后, 就能在桌面看到硬盘, 然后可以在文件应用里查看文件系统了.</p>
+
+<p>先讲到这里, 有什么问题可以在评论区留言.</p>
+
+<p>本教程视频可以访问: <a href="https://www.bilibili.com/video/BV1sm421n73J/?share_source=copy_web&amp;vd_source=0d9d401ed97967bb285e97ad2617e06e">N1上如何安装CasaOS - 轻量级NAS系统</a></p>
+
+  </article>
+
+  
+  <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://magicwind-blog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  
+
+</div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">魔风的技术小屋</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li><a href="mailto:fengxu1211@yeah.net">fengxu1211@yeah.net</a></li>
+        <li>网站备案号：沪ICP备2023016736号-1</li>
+      </ul>
+   </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/magicwind">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">magicwind</span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    </body>
+</html>
