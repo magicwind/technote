@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "面向隐私至上环境下的营销人员数据洁净室和数据协作指南"
+categories: data clean room
+---
+
 # 面向隐私至上环境下的营销人员数据洁净室和数据协作指南
 
 [原文](https://www.credera.com/en-us/insights/data-clean-room-series-part-1-a-marketers-guide-to-data-clean-rooms-and-data-collaboration-in-a-privacy-first-landscape)
