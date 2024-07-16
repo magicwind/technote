@@ -43,7 +43,7 @@ categories: data clean room
 **每个协作者都可以定义适当的数据访问权限和分析规则**,因此数据所有者可以完全控制谁可以访问他们的数据以及如何使用;在大多数情况下,这些权限可以随时撤销。
 最终结果是可用于洞察、激活和/或测量的**汇总营销数据**。
 
-![数据洁净室:功能概述](https://images.ctfassets.net/76f8cs5bg9si/4DyD69BYOcAZhZQRSYJ1sf/d06f68e88aa5bfcfe9e05eb9ad20a958/Data_Clean_Rooms__1_.png)
+<img src="https://images.ctfassets.net/76f8cs5bg9si/4DyD69BYOcAZhZQRSYJ1sf/d06f68e88aa5bfcfe9e05eb9ad20a958/Data_Clean_Rooms__1_.png" width="500" alt="数据洁净室:功能概述">
 数据洁净室:功能概述
 
 通过数据洁净室实现数据协作,可以让品牌、发布商和数据提供商访问新的数据集,帮助营销活动应对不断变化的监管和广告技术环境。获取以前无法访问的数据,也为企业开辟了探索全新用例的大门,从而为客户创造更大价值。
@@ -59,7 +59,7 @@ categories: data clean room
 ## 数据洁净室格局
 数据洁净室解决方案持续增多,新来者定期进入这一市场。与此同时,已经站稳脚跟的参与者也在不断改进他们的产品和服务。观察市场上的各种选择,目前大多数数据洁净室解决方案可分为两大类:封闭生态系统和中立洁净室。
 
-![图2](https://images.ctfassets.net/76f8cs5bg9si/3evWtgN420MOEMJbxFCOWc/651a26cddc5b9c4531ae9db5b17ef7ad/Data_Clean_Rooms2__1_.png)
+<img src="https://images.ctfassets.net/76f8cs5bg9si/3evWtgN420MOEMJbxFCOWc/651a26cddc5b9c4531ae9db5b17ef7ad/Data_Clean_Rooms2__1_.png" width="500">
 
 根据他们的具体功能、架构和特征,上述每一类别的提供商都可以进一步细分。我们将在未来的博客文章中更详细地探讨这些群体及其关键参与者。
 
