@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 18 Jul 2024 01:06:04 -0500</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2024 01:06:04 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 23:29:32 -0600</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 23:29:32 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,33 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>广告行业新闻系统上线</title>
+        <description>&lt;p&gt;今日，专用的广告行业新闻收集系统正式在 technote 博客上线。该系统可以自动化收集、整理和发布每日广告行业的重要新闻和趋势分析。&lt;/p&gt;
+
+&lt;p&gt;主要功能包括：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;自动生成符合 Jekyll 格式的文章&lt;/li&gt;
+  &lt;li&gt;支持标签分类&lt;/li&gt;
+  &lt;li&gt;集成 Git 版本控制&lt;/li&gt;
+  &lt;li&gt;一键推送到 GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;未来我们将持续关注广告技术、营销自动化、隐私保护等领域的最新动态。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-02-10&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Feb 2026 15:28:17 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,%E7%B3%BB%E7%BB%9F%E5%85%AC%E5%91%8A/2026/02/09/%E5%B9%BF%E5%91%8A%E8%A1%8C%E4%B8%9A%E6%96%B0%E9%97%BB%E7%B3%BB%E7%BB%9F%E4%B8%8A%E7%BA%BF/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,%E7%B3%BB%E7%BB%9F%E5%85%AC%E5%91%8A/2026/02/09/%E5%B9%BF%E5%91%8A%E8%A1%8C%E4%B8%9A%E6%96%B0%E9%97%BB%E7%B3%BB%E7%BB%9F%E4%B8%8A%E7%BA%BF/</guid>
+        
+        
+        <category>ad-news,系统公告</category>
         
       </item>
     
@@ -1111,198 +1138,6 @@ print(fib(10))
         
         
         <category>gpt</category>
-        
-      </item>
-    
-      <item>
-        <title>AWS EMR配置Presto LDAP认证</title>
-        <description>&lt;h1 id=&quot;aws-emr配置presto-ldap认证&quot;&gt;AWS EMR配置Presto LDAP认证&lt;/h1&gt;
-
-&lt;p&gt;前提：
-LDAP服务需要启用LDAPS连接&lt;/p&gt;
-
-&lt;p&gt;步骤如下：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;将ldap_server.crt上传到S3&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;将ldap_server证书导入keystore
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; aws s3 cp s3://your_bucket/certs/ldap_server.crt .
- sudo keytool -import -keystore /usr/lib/jvm/jre/lib/security/cacerts -trustcacerts -alias ldap_server -file ldap_server.crt -storepass changeit
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;创建Java Keystore File for TLS
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; keytool -genkeypair -alias presto -keyalg RSA -keystore presto_keystore.jks
-
- Enter keystore password:
- Re-enter new password:
- What is your first and last name?
- [Unknown]:  ec2-13-250-yy-xx.ap-southeast-1.compute.amazonaws.com
- What is the name of your organizational unit?
- [Unknown]:  datateam
- What is the name of your organization?
- [Unknown]:  mycomp
- What is the name of your City or Locality?
- [Unknown]:  Shanghai
- What is the name of your State or Province?
- [Unknown]:  Shanghai
- What is the two-letter country code for this unit?
- [Unknown]:  CN
- Is CN=ec2-13-250-yy-xx.ap-southeast-1.compute.amazonaws.com, OU=datateam, O=mycomp, L=Shanghai, ST=Shanghai, C=CN correct?
- [no]:  yes
-
- Enter key password for &amp;lt;presto&amp;gt;
-     (RETURN if same as keystore password):
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;修改EMR集群配置中master实例组的presto cordinator的https访问
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; presto-config http-server.authentication.type PASSWORD
- presto-config http-server.https.enabled true
- presto-config http-server.https.port 8890
- presto-config http-server.https.keystore.path /home/hadoop/presto_keystore.jks
- presto-config http-server.https.keystore.key xxx
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;修改EMR集群配置中master实例组的presto condinator LDAP登录&lt;/p&gt;
-
-    &lt;p&gt;先在master的机器上/etc/hosts里增加&lt;/p&gt;
-
-    &lt;p&gt;(ldap-server-ip) ldap-server&lt;/p&gt;
-
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; presto-password-authenticator password-authenticator.name ldap
- presto-password-authenticator ldap.url ldaps://ldap-server:636
- presto-password-authenticator ldap.user-bind-pattern cn=${USER},ou=datateam,dc=mycomp,dc=com
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Presto CLI连接&lt;/p&gt;
-
-    &lt;p&gt;修改presto-env.sh&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;export EXTRA_ARGS=&quot;--server https://ec2-13-250-yy-xx.ap-southeast-1.compute.amazonaws.com:8890&quot;&lt;/code&gt;&lt;/p&gt;
-
-    &lt;p&gt;这里域名要和第3步的Common Name一致，否则会遇到以下错误：
- Error running command: javax.net.ssl.SSLPeerUnverifiedException: Hostname ip-a-b-c-d.ap-southeast-1.compute.internal not verified:&lt;/p&gt;
-
-    &lt;p&gt;命令行如下&lt;/p&gt;
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ./presto-cli \
- --keystore-path presto_keystore.jks \
- --keystore-password password \
- --catalog &amp;lt;catalog&amp;gt; \
- --schema &amp;lt;schema&amp;gt; \
- --user &amp;lt;LDAP user&amp;gt; \
- --password
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;使用keystore没有使用truststore安全，因为keystore里包含里私钥，需要将keystore中的公钥转换成truststore，使用truststore的命令行如下：&lt;/p&gt;
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ./presto-cli \
- --truststore-path presto_truststore.jks \
- --truststore-password password \
- --catalog &amp;lt;catalog&amp;gt; \
- --schema &amp;lt;schema&amp;gt; \
- --user &amp;lt;LDAP user&amp;gt; \
- --password
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;登录后即使密码错误也会进入提示行presto&amp;gt;，但是执行show tables会认证失败的错误。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Keystore转Truststore
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; keytool -exportcert \
-         -alias presto \
-         -file presto_server.cer \
-         -keystore presto_keystore.jks \
-         -storepass &amp;lt;pass&amp;gt;
-
- keytool -importcert \
-         -alias presto \
-         -file presto_server.cer \
-         -keystore presto_truststore.jks \
-         -storepass &amp;lt;pass&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;常见错误&quot;&gt;常见错误&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;日志里/var/log/presto/server.log&lt;/p&gt;
-
-    &lt;p&gt;Caused by: java.security.cert.CertificateException: No subject alternative DNS name matching ip-10-10-4-173 found.&lt;/p&gt;
-
-    &lt;p&gt;要注意下面#5的DNSName一定要和第5步中ldaps://(ldap-server):636中的ldap-server一致。&lt;/p&gt;
-
-    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; [hadoop@ip-172-31-96-42 ~]$ keytool -list -keystore /usr/lib/jvm/jre/lib/security/cacerts -trustcacerts -storepass changeit -v  -alias ldap_server
- Alias name: ldap_server
- Creation date: Jul 6, 2020
- Entry type: trustedCertEntry
-
- Owner: CN=ldap-server, OU=Information Technology Dep., O=A1A Car Wash, L=Albuquerque, ST=New Mexico, C=US
- Issuer: CN=docker-light-baseimage, ST=New Mexico, L=Albuquerque, OU=Information Technology Dep., O=A1A Car Wash, C=US
-
- ...
-
- #5: ObjectId: 2.5.29.17 Criticality=false
- SubjectAlternativeName [
- DNSName: ldap-server
- ]
-
- #6: ObjectId: 2.5.29.14 Criticality=false
- ...
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;常用keytool命令&quot;&gt;常用keytool命令&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Check which certificates are in a Java keystore&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;keytool -list -v -keystore keystore.jks&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Check a particular keystore entry using an alias&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;keytool -list -v -keystore keystore.jks -alias mydomain&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Delete a certificate from a Java Keytool keystore&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;keytool -delete -alias mydomain -keystore keystore.jks&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;List Trusted CA Certs&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;keytool -list -v -keystore $JAVA_HOME/jre/lib/security/cacerts&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;https://prestodb.io/docs/current/security/ldap.html&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-presto-ldap.html#emr-presto-ldap-seccfg&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Book: “Presto: The Definitive Guide”&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Thu, 02 Jan 2020 00:00:00 -0600</pubDate>
-        <link>https://magicwind.top/aws/ldap/2020/01/02/aws-emr-presto-ldap-auth/</link>
-        <guid isPermaLink="true">https://magicwind.top/aws/ldap/2020/01/02/aws-emr-presto-ldap-auth/</guid>
-        
-        
-        <category>aws</category>
-        
-        <category>ldap</category>
         
       </item>
     
