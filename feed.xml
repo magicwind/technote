@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 09 Feb 2026 23:29:53 -0600</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 23:29:53 -0600</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 00:01:56 -0600</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 00:01:56 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,150 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>每日广告营销新闻 2026-02-10</title>
+        <description>&lt;h2 id=&quot;-今日要闻&quot;&gt;📰 今日要闻&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-chatgpt开启广告业务测试定价引发行业热议&quot;&gt;1. ChatGPT开启广告业务测试，定价引发行业热议&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;**来源：36氪&lt;/td&gt;
+      &lt;td&gt;2026-02-05**&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;OpenAI宣布将在未来几周内在美国测试ChatGPT广告功能。广告将面向免费用户和ChatGPT Plus订阅用户（占总用户95%）投放。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键信息：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;定价策略：&lt;/strong&gt; CPM高达60美元，与NFL超级碗期间广告费用持平，是Meta社交媒体广告成本的3倍&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;独特优势：&lt;/strong&gt; 能根据用户实时聊天内容精准投放，实现从”被动观看”到”主动咨询”的转化&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;行业挑战：&lt;/strong&gt; 未经测试的渠道、高昂的试错成本让广告主态度谨慎&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+AI驱动的广告正在探索全新的商业模式，但如何平衡”营收最大化”与”用户体验”，以及如何说服广告主为高风险新渠道买单，仍是待解难题。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;2-亚马逊广告发布2026年全球营销趋势洞察&quot;&gt;2. 亚马逊广告发布2026年全球营销趋势洞察&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;**来源：新浪财经&lt;/td&gt;
+      &lt;td&gt;2026-02-04**&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;亚马逊广告发布2026年五大营销趋势，揭示行业变革方向。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;五大趋势：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI成为广告策略核心引擎&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;AI工具可在数小时内完成过去需要数周的工作&lt;/li&gt;
+      &lt;li&gt;Agentic AI让营销人员通过自然语言执行复杂广告分析&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;流媒体电视广告转向业务成果导向&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;衡量指标从覆盖率、频次转向销售额、注册量等业务成果&lt;/li&gt;
+      &lt;li&gt;互动广告带来3-4%的品牌好感度提升&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;创意走向个性化与规模化&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;美国”创作者经济”广告支出预计达439亿美元，同比增长18%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;全渠道广告协同效应放大&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;用户期待跨平台统一、连贯的体验&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;跨国营销智能化与本地化融合&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;借助AI和大数据打破时区限制，实时捕捉不同地区的文化偏好和消费趋势&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;行业启示：&lt;/strong&gt;
+2026年将是营销人员”从测试AI到信任AI”的转折之年，全渠道整合和智能化营销成为竞争关键。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;3-2026数字广告趋势ai从实验走向执行&quot;&gt;3. 2026数字广告趋势：AI从实验走向执行&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;**来源：Adweek &amp;amp; Ad Age&lt;/td&gt;
+      &lt;td&gt;2026-01**&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;100位广告领袖预测2026年营销趋势，AI、CTV、创作者经济成为焦点。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心观点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;AI应用深化：&lt;/strong&gt; 从创意生成到投放优化，AI工具全面渗透广告工作流&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;渠道融合加速：&lt;/strong&gt; 视频、社交媒体、CTV（联网电视）界限模糊，跨平台投放成为标配&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;传统电视承压：&lt;/strong&gt; 数字媒体（TikTok、YouTube、Meta）持续挤占传统电视广告份额&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;数字营销增长：&lt;/strong&gt; 预计未来几年CAGR达13.9%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业警示：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Google计划2026年2月后停止新建Call-Only广告，2027年2月全面停止展示&lt;/li&gt;
+  &lt;li&gt;营销人员需在经济不确定性和AI快速发展中保持韧性&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-行业洞察&quot;&gt;💡 行业洞察&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2026年广告营销行业三大关键词：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI原生化&lt;/strong&gt; - AI不再是辅助工具，而是广告策略的核心引擎&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;成效导向&lt;/strong&gt; - 从品牌指标转向可衡量的业务成果（ROI、转化率、销售额）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;全渠道整合&lt;/strong&gt; - 单一渠道时代结束，跨平台协同成为必需能力&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;对营销人员的建议：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;加速AI工具的学习和应用，从”测试”转向”信任”&lt;/li&gt;
+  &lt;li&gt;建立全渠道衡量体系，关注业务成果而非单一指标&lt;/li&gt;
+  &lt;li&gt;关注创作者经济和互动广告的发展机会&lt;/li&gt;
+  &lt;li&gt;在全球化营销中平衡本地化与规模化&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;整理时间：2026-02-10&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;主要来源：36氪、新浪财经、Adweek、Ad Age&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-02-10&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Feb 2026 16:01:22 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,programmatic/2026/02/09/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-10/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,programmatic/2026/02/09/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-10/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,programmatic</category>
         
       </item>
     
@@ -972,169 +1116,6 @@ bundle install
         <pubDate>Thu, 13 Jul 2023 00:00:00 -0500</pubDate>
         <link>https://magicwind.top/gpt/2023/07/13/learn-nlp-with-gpt-s1-text2vec/</link>
         <guid isPermaLink="true">https://magicwind.top/gpt/2023/07/13/learn-nlp-with-gpt-s1-text2vec/</guid>
-        
-        
-        <category>gpt</category>
-        
-      </item>
-    
-      <item>
-        <title>GPT-4 API正式发布和Completions API中废弃了旧模型</title>
-        <description>&lt;p&gt;GPT-3.5 Turbo，DALL·E和Whisper API也已发布，我们正在发布Completions API的旧模型的废弃计划，这些模型将在2024年初退役。&lt;/p&gt;
-
-&lt;p&gt;从今天开始，所有付费API客户都可以访问GPT-4。在3月，我们推出了ChatGPT API，而在本月初，我们发布了对基于聊天的模型的第一次更新。我们设想未来基于聊天的模型可以支持任何用例。今天，我们正在宣布对Completions API的旧模型的废弃计划，并建议用户采用Chat Completions API。&lt;/p&gt;
-
-&lt;h2 id=&quot;gpt-4-api普遍可用性&quot;&gt;GPT-4 API普遍可用性&lt;/h2&gt;
-
-&lt;p&gt;GPT-4是我们最有能力的模型。自3月以来，数百万开发者已经请求访问GPT-4 API，而利用GPT-4的创新产品的范围每天都在增长。今天，所有现有的有成功支付历史的API开发者都可以访问具有8K上下文的GPT-4 API。我们计划在本月底向新开发者开放访问权限，然后根据计算可用性开始提高速率限制。&lt;/p&gt;
-
-&lt;p&gt;基于这些模型对生产规模使用的稳定性和准备情况，我们还将GPT-3.5 Turbo，DALL·E和Whisper API普遍可用。我们正在努力为GPT-4和GPT-3.5 Turbo安全地启用微调，并期望今年晚些时候提供此功能。&lt;/p&gt;
-
-&lt;h2 id=&quot;从文本补全转向聊天补全&quot;&gt;从文本补全转向聊天补全&lt;/h2&gt;
-
-&lt;p&gt;我们在3月引入了Chat Completions API，现在它占据了我们API GPT使用的97%。&lt;/p&gt;
-
-&lt;p&gt;最初的Completions API是在2020年6月引入的，用于提供与我们的语言模型交互的自由形式文本提示。我们已经了解到，我们通常可以通过更结构化的提示接口提供更好的结果。基于聊天的范式已被证明是强大的，能够处理大多数以前的用例和新的对话需求，同时提供更高的灵活性和特异性。特别是，Chat Completions API的结构化接口（例如，系统消息，函数调用）和多轮对话能力使开发者能够构建对话体验和广泛的完成任务。它还有助于降低提示注入攻击的风险，因为用户提供的内容可以从指令中结构化地分离出来。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;文本总结&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;系统(System)
-将此消息总结为最多10个字。
-
-用户(User)
-木星是太阳系中离太阳第五远和最大的行星。它是一个气体巨大行星，质量是太阳的千分之一，但是是太阳系中所有其他行星总和的两倍半。木星是夜空中肉眼可见的最亮的物体之一，自记录历史以前就为古代文明所知。它以罗马神木星命名。从地球上看，木星可以足够明亮，以至于其反射的光可以投射出可见的阴影，平均而言，它是夜空中继月亮和金星之后的第三亮的自然物体。
-
-助手(Assistant)
-木星：最大的行星，夜晚肉眼可见。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;em&gt;代码完成&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;System
-Complete the following code.
-
-User
-def fibonacci(num):
-
-Assistant
-if num == 0:
-    return 0
-elif num == 1:
-    return 1
-else:
-    fib = [0, 1]
-    for i in range(2, num + 1):
-          fib.append(fib[i-1] + fib[i-2])
-    return fib[num]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;em&gt;Few-shot learning&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;System
-You translate corporate jargon into plain English.
-
-User
-New synergies will help drive top-line growth.
-
-Assistant
-Working well together will make more money.
-
-User
-Let’s circle back when we have more bandwidth to touch base on opportunities for increased leverage.
-
-Assistant
-When we’re less busy, let’s talk about how to do better.
-
-User
-This late pivot means we don’t have time to boil the ocean for the client deliverable.
-
-Assistant
-Because of this sudden change, we don’t have enough time to complete the entire project for the client.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;我们计划继续投入大部分平台努力在这个方向，因为我们相信它将为开发者提供越来越有能力和易于使用的体验。我们正在努力快速关闭Chat Completions API的最后几个剩余的缺口，例如完成令牌的对数概率和增加可操纵性以减少响应的“聊天性”。&lt;/p&gt;
-
-&lt;h2 id=&quot;废弃completions-api中的旧模型&quot;&gt;废弃Completions API中的旧模型&lt;/h2&gt;
-
-&lt;p&gt;作为我们在Chat Completions API中增加投资和我们优化计算能力的努力的一部分，6个月后，我们将退役使用Completions API的一些旧模型。虽然这个API将保持可访问，但我们将从今天开始在我们的开发者文档中将其标记为“遗留”。我们计划将未来的模型和产品改进集中在Chat Completions API上，并且没有计划公开发布使用Completions API的新模型。&lt;/p&gt;
-
-&lt;p&gt;从2024年1月4日开始，旧的完成模型将不再可用，并将被以下模型替换：&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;旧模型                 新模型
-ada                   ada-002
-babbage               babbage-002
-curie                 curie-002
-davinci               davinci-002
-
-davinci-instruct-bete
-curie-instruct-beta
-text-ada-001
-text-babbage-001
-text-curie-001
-text-davinci-001
-text-davinci-002
-text-davinci-003
---&amp;gt; gpt-3.5-turbo-instruct
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;使用基础GPT-3模型的稳定模型名称（ada，babbage，curie，davinci）的应用程序将在2024年1月4日自动升级到上面列出的新模型。在未来几周内，通过在API调用中指定以下模型名称，新模型也将可供早期测试：ada-002，babbage-002，curie-002，davinci-002。&lt;/p&gt;
-
-&lt;p&gt;使用其他旧完成模型（如text-davinci-003）的开发者将需要在2024年1月4日之前手动升级他们的集成，通过在他们的API请求的“模型”参数中指定gpt-3.5-turbo-instruct。gpt-3.5-turbo-instruct是一个InstructGPT风格的模型，训练方式类似于text-davinci-003。这个新模型是Completions API中的替换模型，并将在未来几周内可供早期测试。&lt;/p&gt;
-
-&lt;p&gt;希望在2024年1月4日之后继续使用他们的微调模型的开发者将需要在新的基础GPT-3模型（ada-002，babbage-002，curie-002，davinci-002）或新模型（gpt-3.5-turbo，gpt-4）上微调替代模型。一旦今年晚些时候提供了这个功能，我们将给予以前微调过旧模型的用户GPT-3.5 Turbo和GPT-4微调的优先访问权。我们承认，迁移离基于您自己数据的微调模型是具有挑战性的。我们将为以前微调过模型的用户提供支持，使这个过渡尽可能顺利。
-在未来几周内，我们将联系最近使用过这些旧模型的开发者，并在新的完成模型准备好进行早期测试后提供更多信息。&lt;/p&gt;
-
-&lt;h2 id=&quot;废弃旧的嵌入模型&quot;&gt;废弃旧的嵌入模型&lt;/h2&gt;
-
-&lt;p&gt;旧的嵌入模型的用户（例如，text-search-davinci-doc-001）将需要在2024年1月4日之前迁移到text-embedding-ada-002。我们在2022年12月发布了text-embedding-ada-002，并发现它比以前的模型更有能力和成本效益。今天，text-embedding-ada-002占据了所有嵌入API使用的99.9%。&lt;/p&gt;
-
-&lt;p&gt;我们认识到这对使用那些旧模型的开发者来说是一个重大的改变。我们并不轻易做出淘汰这些模型的决定。我们将承担用户使用这些新模型重新嵌入内容的财务成本。我们将在未来几天内与受影响的用户取得联系。&lt;/p&gt;
-
-&lt;p&gt;旧模型&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;code-search-ada-code-001
-code-search-ada-text-001	
-code-search-babbage-code-001	
-code-search-babbage-text-001	
-text-search-ada-doc-001	
-text-search-ada-query-001	
-text-search-babbage-doc-001	
-text-search-babbage-query-001	
-text-search-curie-doc-001	
-text-search-curie-query-001	
-text-search-davinci-doc-001	
-text-search-davinci-query-001	
-text-similarity-ada-001	
-text-similarity-babbage-001	
-text-similarity-curie-001	
-text-similarity-davinci-001
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;新模型
-text-embedding-ada-002&lt;/p&gt;
-
-&lt;h2 id=&quot;废弃edits-api&quot;&gt;废弃Edits API&lt;/h2&gt;
-&lt;p&gt;Edits API及其关联模型的用户（例如，text-davinci-edit-001或code-davinci-edit-001）将需要在2024年1月4日之前迁移到GPT-3.5 Turbo。Edits API beta是一个早期的探索性API，旨在使开发者能够根据指令返回提示的编辑版本。我们在开发gpt-3.5-turbo和Chat Completions API时考虑了来自Edits API的反馈，现在可以用于同样的目的。&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;System
-Apply the change requested by the user to the code.
-
-User
-def fibonacci(num):
-    if num &amp;lt;= 1:
-        return num
-    else:
-        return fibonacci(num-1) + fibonacci(num-2)
-print(fibonacci(10))
-
-User
-Rename the function to fib.
-
-Assistant
-def fib(num):
-    if num &amp;lt;= 1:
-        return num
-    else:
-        return fib(num-1) + fib(num-2)
-print(fib(10))
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Sun, 09 Jul 2023 00:00:00 -0500</pubDate>
-        <link>https://magicwind.top/gpt/2023/07/09/gpt-4-general-availablity/</link>
-        <guid isPermaLink="true">https://magicwind.top/gpt/2023/07/09/gpt-4-general-availablity/</guid>
         
         
         <category>gpt</category>
