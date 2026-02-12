@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 10 Feb 2026 20:16:54 -0600</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 20:16:54 -0600</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 20:17:03 -0600</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 20:17:03 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,126 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>每日广告营销新闻 2026-02-12</title>
+        <description>&lt;h1 id=&quot;每日广告营销新闻---2026年2月12日&quot;&gt;每日广告营销新闻 - 2026年2月12日&lt;/h1&gt;
+
+&lt;h2 id=&quot;1-openai正式在chatgpt推出广告测试-&quot;&gt;1. OpenAI正式在ChatGPT推出广告测试 🤖💰&lt;/h2&gt;
+
+&lt;p&gt;OpenAI于2月10日宣布在美国地区正式开始ChatGPT广告测试，向已登录的免费用户及8美元/月的ChatGPT Go订阅用户展示广告。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;广告将标注为”赞助内容”，不影响AI回答&lt;/li&gt;
+  &lt;li&gt;Target、Adobe、Audible、Williams-Sonoma、Ford等品牌已确认参与&lt;/li&gt;
+  &lt;li&gt;强调信任优先原则：对话内容对广告商完全不可见&lt;/li&gt;
+  &lt;li&gt;用户可自主管理广告设置、清除历史数据&lt;/li&gt;
+  &lt;li&gt;18岁以下用户及敏感话题对话不展示广告&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+OpenAI试图建立”基于意图的新型广告模式”，类似Google搜索广告而非Facebook信息流广告。广告业负责人强调降低中小企业营销门槛，让广告投放”像对话一样简单”。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;来源：&lt;/strong&gt; 36氪&lt;/td&gt;
+      &lt;td&gt;2026年2月11日&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://36kr.com/p/3676882125808257&quot;&gt;查看原文&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible&quot;&gt;品牌参与详情&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-google发布2026数字广告与电商战略ai驱动代理式商务-️&quot;&gt;2. Google发布2026数字广告与电商战略：AI驱动”代理式商务” 🛍️&lt;/h2&gt;
+
+&lt;p&gt;Google广告与商务副总裁Vidhya Srinivasan发布年度展望，宣布将购物功能深度整合到AI搜索模式和Gemini聊天机器人中。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心举措：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;推出”Direct Offers”新功能：品牌可在AI Mode中直接向准备购买的用户提供专属优惠&lt;/li&gt;
+  &lt;li&gt;扩展Universal Commerce Protocol（UCP）到更多零售商&lt;/li&gt;
+  &lt;li&gt;Gemini内已支持从Etsy和Wayfair直接购物&lt;/li&gt;
+  &lt;li&gt;在AI搜索结果下方测试新广告格式&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+Google强调”速度与确定性”将在2026年融合，推动”代理式商务”（agentic commerce）成为主流。这标志着搜索广告从被动展示向主动交易的重大转型。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;来源：&lt;/strong&gt; Google官方博客&lt;/td&gt;
+      &lt;td&gt;2026年2月11日&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.searchenginejournal.com/googles-ads-chief-details-ucp-expansion-new-ai-mode-ads/567007/&quot;&gt;详细分析&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-ai广告技术报告上下文定位带来2倍roas提升-&quot;&gt;3. AI广告技术报告：上下文定位带来2倍ROAS提升 📊&lt;/h2&gt;
+
+&lt;p&gt;StackAdapt发布《2026程序化广告现状报告》，揭示AI技术在广告领域的实际ROI表现。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;使用第一方数据或AI上下文定位的广告主获得高达2倍的广告支出回报率（ROAS）&lt;/li&gt;
+  &lt;li&gt;动态创意优化（DCO）使点击率提升32%，每次点击成本降低56%&lt;/li&gt;
+  &lt;li&gt;使用AI的营销人员中，79%表示能更准确衡量个性化营销的收入影响&lt;/li&gt;
+  &lt;li&gt;93%品牌和94%代理商认为AI提升了程序化营销工作流程的速度和效率&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+报告强调”品牌安全从风险规避转向增长驱动”，AI使原本难以评估的库存（如程序化播客广告）变得可信且可投放。同时，视频和动态创意制作量同比增长59%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; StackAdapt | 2026年2月11日&lt;br /&gt;
+&lt;a href=&quot;https://www.stackadapt.com/resources/blog/ai-advertising&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-超级碗广告全面去科技化ai品牌转向温情营销-️&quot;&gt;4. 超级碗广告全面”去科技化”，AI品牌转向温情营销 ❤️&lt;/h2&gt;
+
+&lt;p&gt;2026年超级碗广告显示，Google、Amazon等AI巨头放弃科幻叙事，转而采用生活化场景传递”AI不抢饭碗”信息。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心观察：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;品牌从实验室、外太空场景回归客厅、厨房等日常环境&lt;/li&gt;
+  &lt;li&gt;应对公众”AI焦虑”：失业恐惧和隐私担忧&lt;/li&gt;
+  &lt;li&gt;“防御性营销”成主流：强调AI是助手而非替代者&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+反映消费者对AI态度从好奇转向警惕，2023年60%消费者对品牌使用AI感到舒适，2024年降至46%。品牌需要通过情感化叙事重建信任。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; 36氪 | 2026年2月10日&lt;br /&gt;
+&lt;a href=&quot;https://36kr.com/p/3676016478561161&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;整理：小麻同学&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间：2026年2月12日&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-02-12&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Feb 2026 12:16:26 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,chatgpt,google,programmatic-advertising/2026/02/11/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-12/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,chatgpt,google,programmatic-advertising/2026/02/11/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-12/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,ChatGPT,Google,programmatic-advertising</category>
         
       </item>
     
@@ -943,80 +1063,6 @@ openai.Model.delete(FINE_TUNED_MODEL)
         
         
         <category>openai</category>
-        
-      </item>
-    
-      <item>
-        <title>如何搭建jekyll环境</title>
-        <description>&lt;p&gt;Linux OS: Ubuntu, Debian (root user)&lt;/p&gt;
-
-&lt;h2 id=&quot;install-ruby-using-rvm&quot;&gt;Install Ruby Using RVM&lt;/h2&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;apt update
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;apt-get &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;gnupg2
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;gpg2 &lt;span class=&quot;nt&quot;&gt;--keyserver&lt;/span&gt; keyserver.ubuntu.com &lt;span class=&quot;nt&quot;&gt;--recv-keys&lt;/span&gt; 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\c&lt;/span&gt;url &lt;span class=&quot;nt&quot;&gt;-sSL&lt;/span&gt; https://get.rvm.io | bash &lt;span class=&quot;nt&quot;&gt;-s&lt;/span&gt; stable
-Downloading https://github.com/rvm/rvm/archive/1.29.12.tar.gz
-Downloading https://github.com/rvm/rvm/releases/download/1.29.12/1.29.12.tar.gz.asc
-gpg: Signature made Sat Jan 16 02:46:22 2021 CST
-gpg:                using RSA key 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
-gpg: Good signature from &lt;span class=&quot;s2&quot;&gt;&quot;Piotr Kuczynski &amp;lt;piotr.kuczynski@gmail.com&amp;gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;unknown]
-gpg: WARNING: This key is not certified with a trusted signature!
-gpg:          There is no indication that the signature belongs to the owner.
-Primary key fingerprint: 7D2B AF1C F37B 13E2 069D  6956 105B D0E7 3949 9BDB
-GPG verified &lt;span class=&quot;s1&quot;&gt;&apos;/usr/local/rvm/archives/rvm-1.29.12.tgz&apos;&lt;/span&gt;
-Creating group &lt;span class=&quot;s1&quot;&gt;&apos;rvm&apos;&lt;/span&gt;
-Installing RVM to /usr/local/rvm/
-Installation of RVM &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; /usr/local/rvm/ is almost &lt;span class=&quot;nb&quot;&gt;complete&lt;/span&gt;:
-
-  &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; First you need to add all &lt;span class=&quot;nb&quot;&gt;users &lt;/span&gt;that will be using rvm to &lt;span class=&quot;s1&quot;&gt;&apos;rvm&apos;&lt;/span&gt; group,
-    and &lt;span class=&quot;nb&quot;&gt;logout&lt;/span&gt; - login again, anyone using rvm will be operating with &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;umask &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;u&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;rwx,g&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;rwx,o&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;rx&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; To start using RVM you need to run &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; /etc/profile.d/rvm.sh&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;all your open shell windows, &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;rare cases you need to reopen all shell windows.
-  &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; Please &lt;span class=&quot;k&quot;&gt;do &lt;/span&gt;NOT forget to add your &lt;span class=&quot;nb&quot;&gt;users &lt;/span&gt;to the rvm group.
-     The installer no longer auto-adds root or &lt;span class=&quot;nb&quot;&gt;users &lt;/span&gt;to the rvm group. Admins must &lt;span class=&quot;k&quot;&gt;do &lt;/span&gt;this.
-     Also, please note that group memberships are ONLY evaluated at login time.
-     This means that &lt;span class=&quot;nb&quot;&gt;users &lt;/span&gt;must log out &lt;span class=&quot;k&quot;&gt;then &lt;/span&gt;back &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;before group membership takes effect!
-  &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; WARNING:  version This account is currently not available. detected - Zsh 4.3.12 / 5.0.0+ is recommended,
-     with current one errors to be expected - bugs &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;shell code interpretation.
-Thanks &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;installing RVM 🙏
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; /etc/profile.d/rvm.sh
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rvm &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;ruby-3.2.2&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;install-ruby-using-rbenv&quot;&gt;Install Ruby Using Rbenv&lt;/h2&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;apt update
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;git curl autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;zlib1g-dev libncurses5-dev libffi-dev libgdbm6 libgdbm-dev libdb-dev
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
-
-&lt;span class=&quot;c&quot;&gt;# Bash&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;export PATH=&quot;$HOME/.rbenv/bin:$PATH&quot;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.bashrc
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;eval &quot;$(rbenv init -)&quot;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.bashrc
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; ~/.bashrc
-
-&lt;span class=&quot;c&quot;&gt;# Zsh&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;export PATH=&quot;$HOME/.rbenv/bin:$PATH&quot;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.zshrc
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;eval &quot;$(rbenv init -)&quot;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.zshrc
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; ~/.zshrc
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rbenv &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rbenv &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-l&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rbenv &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;3.2.2
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rbenv global 3.2.2
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;install-gems&quot;&gt;Install Gems&lt;/h2&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem install bundler jekyll
-bundle install
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Thu, 13 Jul 2023 00:00:00 -0500</pubDate>
-        <link>https://magicwind.top/jekyll/2023/07/13/setup-jekyll-env/</link>
-        <guid isPermaLink="true">https://magicwind.top/jekyll/2023/07/13/setup-jekyll-env/</guid>
-        
-        
-        <category>jekyll</category>
         
       </item>
     
