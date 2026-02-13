@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 11 Feb 2026 20:17:03 -0600</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 20:17:03 -0600</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 20:16:51 -0600</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 20:16:51 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,94 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>每日广告营销新闻 2026-02-13</title>
+        <description>&lt;p&gt;📰 &lt;strong&gt;每日广告营销新闻精选&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. OpenAI在ChatGPT中测试广告功能&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenAI本周宣布开始在ChatGPT中测试广告,引发行业广泛关注。Adobe、Audible、Ford、Target、Albertsons等多家大品牌已加入首批试点计划。广告将以”上下文相关”的形式呈现,旨在提供更相关、高效和个性化的广告体验。此举标志着AI对话界面商业化的重要一步,但也引发了研究人员的担忧——一位OpenAI研究员因此辞职并公开表达反对。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.retaildive.com/news/target-test-contextual-ads-chatgpt-roundel/812054/&quot;&gt;Target试点详情&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/articles/c62dlvdq3e3o&quot;&gt;行业分析(BBC)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;: AI广告商业化加速,品牌需重新思考在对话式AI中的营销策略。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Google推动AI驱动的广告架构革命&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Google Ads高管强烈建议广告主放弃传统的精细化广告架构,拥抱AI驱动的整合策略。Google主张广告主减少广告系列数量、使用广泛匹配配合智能出价,让AI处理过去由人工优化的细节工作。2025年第四季度,广告主使用Gemini生成的广告素材已达近7000万条,同比增长3倍。Google还推出了”智能体商业”(Agentic Commerce)基础设施,包括Agent Payments Protocol (AP2)和Universal Commerce Protocol (UCP),让AI智能体能完成搜索、比价、下单和支付全流程。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.webpronews.com/google-tells-advertisers-to-tear-down-their-campaign-silos-and-let-ai-take-the-wheel/&quot;&gt;Google官方分析&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://finance.sina.com.cn/stock/t/2026-02-12/doc-inhmpyyi3917221.shtml&quot;&gt;中文报道(新浪财经)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;: 传统广告优化师的角色正在转变,从战术执行者转向战略架构师。AI正在重塑整个数字广告产业链。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;3. IAB预测2026年美国广告支出增长9.5%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;互动广告局(IAB)报告显示,尽管经济存在不确定性,2026年美国广告支出预计同比增长9.5%。社交媒体和联网电视(CTV)将引领增长,分别增长14.6%和13.8%。中期选举、冬奥会和世界杯等周期性事件预计带来90亿美元增量支出。但90%的广告主担心关税对广告预算的负面影响。78%的营销者将生成式AI应用于媒体活动列为重点,73%关注为AI生成答案优化内容。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.marketingbrew.com/stories/2026/02/12/cyclical-events-2026-ad-spend-recession-tariff-concerns-iab&quot;&gt;完整报告(Marketing Brew)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;: AI能力和跨平台衡量成为营销者的核心竞争力,创作者合作重要性持续上升。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;4. AnswerThePublic推出AI驱动的内容营销情报平台&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;NP Digital旗下的内容情报平台AnswerThePublic推出全新AI Dashboard,整合了AI模型、搜索引擎、社交媒体和电商平台的洞察数据。该平台超越传统关键词搜索和点击量指标,提供高级用户意图和受众情绪分析,帮助营销者理解受众搜索背后的动机。平台汇总Google、Bing、Reddit、YouTube、Amazon等多源消费者洞察信号,为内容创作者提供全面的智能支持。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.adweek.com/adweek-wire/answerthepublic-adds-ai-dashboard-with-enhanced-content-marketing-intelligence/&quot;&gt;原文(Adweek)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;: 内容营销从”搜索优化”转向”共鸣优化”,情绪驱动和跨平台可见性成为关键。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;5. AI视频生成催生新内容经济:AI漫剧播放量破亿&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;字节跳动Seedance 2.0、可灵3.0等新一代AI视频模型引发行业关注。据36氪报道,2025年国内漫剧市场播放量突破700亿次,平台上线漫剧数量达46931部,至少42部AI漫剧播放量破亿。DataEye预估2026年国内漫剧市场规模将突破220亿元。AI视频生成技术正在漫剧、短剧、纪录片、广告片等领域形成规模化商业应用,大幅降低制作成本、提升产出效率。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://36kr.com/p/3679916530053633&quot;&gt;36氪报道&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;: AIGC从实验阶段进入商业化大规模应用,内容创意和情绪调动能力成为核心竞争力,技术门槛持续降低。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;*新闻来源: Adweek, Marketing Brew, IAB, 36氪等&lt;/td&gt;
+      &lt;td&gt;整理日期: 2026-02-13*&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-02-13&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2026 12:16:17 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,digital-marketing/2026/02/12/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-13/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,digital-marketing/2026/02/12/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-13/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,digital-marketing</category>
         
       </item>
     
@@ -859,207 +947,6 @@ AI驱动的广告正在探索全新的商业模式，但如何平衡”营收最
         <pubDate>Wed, 23 Aug 2023 00:00:00 -0500</pubDate>
         <link>https://magicwind.top/openai/2023/08/23/gpt3.5-fine-tune/</link>
         <guid isPermaLink="true">https://magicwind.top/openai/2023/08/23/gpt3.5-fine-tune/</guid>
-        
-        
-        <category>openai</category>
-        
-      </item>
-    
-      <item>
-        <title>如何微调大模型?</title>
-        <description>&lt;h1 id=&quot;微调&quot;&gt;微调&lt;/h1&gt;
-&lt;p&gt;学习如何为您的应用定制模型。&lt;/p&gt;
-
-&lt;h2 id=&quot;简介&quot;&gt;简介&lt;/h2&gt;
-&lt;p&gt;微调使您通过提供以下功能从API可用的模型中获得更多优势：&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;比提示设计更高质量的结果&lt;/li&gt;
-  &lt;li&gt;能够在提示中容纳的示例之外进行训练&lt;/li&gt;
-  &lt;li&gt;由于提示较短而节省令牌&lt;/li&gt;
-  &lt;li&gt;请求延迟更低&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;GPT-3已在开放互联网上的大量文本上进行了预训练。当给出一个只有几个例子的提示时，它通常可以直观地了解您试图执行的任务，并生成一个合理的完成。这通常被称为“少数样本学习”。&lt;/p&gt;
-
-&lt;p&gt;通过在提示中容纳的许多更多示例上训练，微调改善了少数样本学习，让您在许多任务上取得更好的效果。一旦模型被微调，您将不再需要在提示中提供示例。这节省了成本，并实现了更低延迟的请求。&lt;/p&gt;
-
-&lt;p&gt;从高层次来看，微调涉及以下步骤：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;准备和上传训练数据&lt;/li&gt;
-  &lt;li&gt;训练一个新的微调模型&lt;/li&gt;
-  &lt;li&gt;使用您的微调模型&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;哪些模型可以进行微调&quot;&gt;哪些模型可以进行微调？&lt;/h2&gt;
-
-&lt;p&gt;微调目前仅适用于以下基本模型：davinci、curie、babbage和ada。这些是不进行任何指令后训练的原始模型（例如text-davinci-003）。您还可以继续微调一个已经微调过模型，以添加额外的数据，而无需从头开始。&lt;/p&gt;
-
-&lt;h2 id=&quot;安装&quot;&gt;安装&lt;/h2&gt;
-&lt;p&gt;我们推荐使用OpenAI的命令行界面（CLI）。要安装它，请运行&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pip install --upgrade openai&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;（以下指令适用于0.9.4及更高版本。此外，OpenAI CLI需要python 3。）&lt;/p&gt;
-
-&lt;p&gt;通过在您的shell初始化脚本（例如.bashrc、zshrc等）中添加以下行或在微调命令之前在命令行中运行它，设置您的OPENAI_API_KEY环境变量：&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENAI_API_KEY&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;OPENAI_API_KEY&amp;gt;&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;准备训练数据&quot;&gt;准备训练数据&lt;/h2&gt;
-
-&lt;p&gt;训练数据是您教GPT-3您想让它说什么的方式。&lt;/p&gt;
-
-&lt;p&gt;您的数据必须是JSONL文档，其中每一行都是一个提示完成对，对应一个训练示例。您可以使用我们的CLI数据准备工具轻松将您的数据转换为此文件格式。&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-jsonl&quot;&gt;{&quot;prompt&quot;: &quot;&amp;lt;prompt text&amp;gt;&quot;, &quot;completion&quot;: &quot;&amp;lt;ideal generated text&amp;gt;&quot;}
-{&quot;prompt&quot;: &quot;&amp;lt;prompt text&amp;gt;&quot;, &quot;completion&quot;: &quot;&amp;lt;ideal generated text&amp;gt;&quot;}
-{&quot;prompt&quot;: &quot;&amp;lt;prompt text&amp;gt;&quot;, &quot;completion&quot;: &quot;&amp;lt;ideal generated text&amp;gt;&quot;}
-...
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;为微调设计您的提示和完成与为我们的基本模型（Davinci、Curie、Babbage、Ada）使用设计您的提示不同。特别是，虽然基本模型的提示通常包括多个示例（“少数样本学习”），但对于微调，每个训练示例通常由单个输入示例及其关联输出组成，无需给出详细指令或在同一提示中包括多个示例。&lt;/p&gt;
-
-&lt;p&gt;有关如何为各种任务准备训练数据的更详细指导，请参考我们&lt;a href=&quot;https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset&quot;&gt;准备数据集&lt;/a&gt;的最佳实践。&lt;/p&gt;
-
-&lt;p&gt;您拥有的训练示例越多越好。我们建议至少有几百个示例。总的来说，我们发现数据集大小每增加一倍都会导致模型质量的线性提高。&lt;/p&gt;
-
-&lt;h3 id=&quot;cli数据准备工具&quot;&gt;CLI数据准备工具&lt;/h3&gt;
-
-&lt;p&gt;我们开发了一个工具，用于验证、提供建议并重新格式化您的数据：&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;openai tools fine_tunes.prepare_data -f &amp;lt;LOCAL_FILE&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;此工具接受不同的格式，唯一的要求是它们必须包含提示和完成列/键。您可以传递&lt;strong&gt;CSV、TSV、XLSX、JSON&lt;/strong&gt;或&lt;strong&gt;JSONL&lt;/strong&gt;文件，它将在引导您完成建议更改的过程后将输出保存为准备进行微调的JSONL文件。&lt;/p&gt;
-
-&lt;h2 id=&quot;创建一个微调模型&quot;&gt;创建一个微调模型&lt;/h2&gt;
-
-&lt;p&gt;以下假设您已经按照上述指导准备了训练数据。&lt;/p&gt;
-
-&lt;p&gt;使用OpenAI CLI开始您的微调工作：&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;openai api fine_tunes.create -t &amp;lt;TRAIN_FILE_ID_OR_PATH&amp;gt; -m &amp;lt;BASE_MODEL&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;其中BASE_MODEL是您开始的基本模型的名称（ada、babbage、curie或davinci）。您可以使用&lt;a href=&quot;https://platform.openai.com/docs/guides/fine-tuning/customize-your-model-name&quot;&gt;后缀参数&lt;/a&gt;自定义微调模型的名称。&lt;/p&gt;
-
-&lt;p&gt;执行上述命令会做几件事情：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;使用files API上传文件（或使用已经上传的文件）&lt;/li&gt;
-  &lt;li&gt;创建微调作业&lt;/li&gt;
-  &lt;li&gt;流式传输事件，直到工作完成（这通常需要几分钟，但如果队列中有很多工作或您的数据集很大，则可能需要几小时）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;每个微调工作都是从基本模型开始的，默认为curie。模型的选择会影响模型的性能和运行微调模型的成本。您的模型可以是：ada、babbage、curie或davinci。&lt;/p&gt;
-
-&lt;p&gt;在您开始微调作业后，可能需要一些时间才能完成。您的工作可能会排在我们系统上的其他工作之后，根据模型和数据集的大小，训练我们的模型可能需要几分钟或几小时。如果由于任何原因事件流被中断，您可以通过运行以下命令恢复它：&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;openai api fine_tunes.follow -i &amp;lt;YOUR_FINE_TUNE_JOB_ID&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;当工作完成时，它应显示微调模型的名称。&lt;/p&gt;
-
-&lt;p&gt;除了创建微调作业，您还可以列出现有作业，检索作业状态或取消作业。&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# 列出所有创建的微调
-openai api fine_tunes.list
-
-# 检索微调的状态。结果对象包括
-# 工作状态（可能是pending、running、succeeded或failed之一）
-# 和其他信息
-openai api fine_tunes.get -i &amp;lt;YOUR_FINE_TUNE_JOB_ID&amp;gt;
-
-# 取消工作
-openai api fine_tunes.cancel -i &amp;lt;YOUR_FINE_TUNE_JOB_ID&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;使用微调模型&quot;&gt;使用微调模型&lt;/h2&gt;
-&lt;p&gt;当工作成功后，fine_tuned_model字段将填充模型的名称。您现在可以将此模型指定为我们的Completions API的参数，并使用Playground向其发出请求。&lt;/p&gt;
-
-&lt;p&gt;在您的工作首次完成后，您的模型可能需要几分钟才能准备好处理请求。如果对您的模型的完成请求超时，可能是因为您的模型仍在加载。如果发生这种情况，请在几分钟后重试。&lt;/p&gt;
-
-&lt;p&gt;您可以通过将模型名称作为完成请求的model参数传递来开始发出请求：&lt;/p&gt;
-
-&lt;p&gt;OpenAI CLI:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;openai api completions.create -m &amp;lt;FINE_TUNED_MODEL&amp;gt; -p &amp;lt;YOUR_PROMPT&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;cURL:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-curl&quot;&gt;curl https://api.openai.com/v1/completions \
-  -H &quot;Authorization: Bearer $OPENAI_API_KEY&quot; \
-  -H &quot;Content-Type: application/json&quot; \
-  -d &apos;{&quot;prompt&quot;: YOUR_PROMPT, &quot;model&quot;: FINE_TUNED_MODEL}&apos;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Python:&lt;/p&gt;
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;openai&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;openai&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Completion&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;create&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;model&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;FINE_TUNED_MODEL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;prompt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;YOUR_PROMPT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Node.js:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-nodejs&quot;&gt;const response = await openai.createCompletion({
-  model: FINE_TUNED_MODEL
-  prompt: YOUR_PROMPT,
-});
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;您可以继续在这些针对微调模型的请求上使用所有其他&lt;a href=&quot;https://platform.openai.com/docs/api-reference/completions&quot;&gt;Completions&lt;/a&gt;参数，例如temperature、frequency_penalty、presence_penalty等。&lt;/p&gt;
-
-&lt;h2 id=&quot;删除微调模型&quot;&gt;删除微调模型&lt;/h2&gt;
-
-&lt;p&gt;要删除一个微调模型，您必须被指定为您组织内的“所有者”。&lt;/p&gt;
-
-&lt;p&gt;OpenAI CLI:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;openai api models.delete -i &amp;lt;FINE_TUNED_MODEL&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;cURL:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl -X &quot;DELETE&quot; https://api.openai.com/v1/models/&amp;lt;FINE_TUNED_MODEL&amp;gt; \
-  -H &quot;Authorization: Bearer $OPENAI_API_KEY&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Python:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;import openai
-openai.Model.delete(FINE_TUNED_MODEL)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;准备您的数据集&quot;&gt;准备您的数据集&lt;/h1&gt;
-
-&lt;p&gt;微调是一种强大的技术，用于创建特定于您用例的新模型。&lt;strong&gt;在微调模型之前，我们强烈建议阅读以下您用例的最佳实践和具体指导方针。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;数据格式化&quot;&gt;数据格式化&lt;/h2&gt;
-
-&lt;p&gt;要微调模型，您需要一组训练示例，每个示例都由单个输入（“提示”）和其关联输出（“完成”）组成。这与使用我们的基本模型显著不同，在那里您可能在单个提示中输入详细说明或多个示例。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;每个提示应以固定分隔符结尾，以通知模型提示何时结束，完成何时开始。通常效果良好的简单分隔符是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\n\n###\n\n&lt;/code&gt;。分隔符不应出现在任何提示的其他地方。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;由于我们的标记化，每个完成应以空格开始，这将大多数单词与前导空格标记化。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;每个完成都应以固定的停止序列结尾，以通知模型完成何时结束。停止序列可以是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\n&lt;/code&gt;、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;###&lt;/code&gt;或任何不出现在任何完成中的其他令牌。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;对于推断，您应该以与创建训练数据集时相同的方式格式化提示，包括相同的分隔符。还要指定相同的停止序列以正确截断完成。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;一般最佳实践&quot;&gt;一般最佳实践&lt;/h2&gt;
-
-&lt;p&gt;微调的性能随着更多高质量示例的增加而提高。要微调一个比使用我们的基本模型与高质量提示的表现更好的模型，您应该提供至少几百个高质量示例，理想情况下由人类专家审核。从那里开始，性能倾向于随着示例数量加倍而线性增加。增加示例数量通常是提高性能的最佳和最可靠的方法。&lt;/p&gt;
-
-&lt;p&gt;分类器是最容易上手的模型。对于分类问题，我们建议使用ada，该模型通常倾向于在微调后的性能只比更有能力的模型稍差一点，同时速度明显更快且更便宜。&lt;/p&gt;
-
-&lt;p&gt;如果您是在现有数据集上微调而不是从头开始编写提示，请务必人工审查数据以排除冒犯或不准确的内容（如果可能的话），或者尽可能审查数据集的许多随机样本（如果数据集很大）。&lt;/p&gt;
-
-&lt;p&gt;(未完待续)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Aug 2023 00:00:00 -0500</pubDate>
-        <link>https://magicwind.top/openai/2023/08/08/openai-fine-tuning/</link>
-        <guid isPermaLink="true">https://magicwind.top/openai/2023/08/08/openai-fine-tuning/</guid>
         
         
         <category>openai</category>
