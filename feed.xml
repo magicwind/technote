@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Feb 2026 20:16:17 -0600</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2026 20:16:17 -0600</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 20:17:16 -0600</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 20:17:16 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,77 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>每日广告营销新闻 2026-02-19</title>
+        <description>&lt;h2 id=&quot;-每日广告营销新闻-2026-02-19&quot;&gt;📰 每日广告营销新闻 2026-02-19&lt;/h2&gt;
+
+&lt;h3 id=&quot;1️⃣-perplexity放弃ai广告策略担忧损害用户信任&quot;&gt;1️⃣ Perplexity放弃AI广告策略，担忧损害用户信任&lt;/h3&gt;
+
+&lt;p&gt;AI搜索公司Perplexity宣布放弃在其AI答案引擎中投放广告的计划，理由是担心广告会侵蚀用户对AI答案准确性的信任。尽管OpenAI等竞争对手已开始在ChatGPT中展示广告，Perplexity高管表示：”用户需要相信这是最佳答案，才会持续使用产品并愿意付费。”这一决策凸显了AI公司在商业化与用户体验之间的权衡难题。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; MacRumors&lt;br /&gt;
+&lt;strong&gt;链接：&lt;/strong&gt; &lt;a href=&quot;https://www.macrumors.com/2026/02/18/perplexity-abandons-ai-advertising/&quot;&gt;https://www.macrumors.com/2026/02/18/perplexity-abandons-ai-advertising/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;2️⃣-martech老兵推出kana获1500万美元种子轮融资&quot;&gt;2️⃣ MarTech老兵推出Kana，获1500万美元种子轮融资&lt;/h3&gt;
+
+&lt;p&gt;由Rapt（微软收购）和Krux（Salesforce收购）创始人Tom Chavez和Vivek Vaidya创立的AI营销平台Kana完成1500万美元种子轮融资，由Mayfield领投。Kana提供”松耦合”的AI代理系统，可实时定制并集成到传统营销软件中，涵盖数据分析、受众定向、营销活动管理、媒体规划等功能。创始人拥有25年营销技术经验，这是他们的第四次创业。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; TechCrunch&lt;br /&gt;
+&lt;strong&gt;链接：&lt;/strong&gt; &lt;a href=&quot;https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/&quot;&gt;https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;3️⃣-stackadapt与experian战略合作强化英国市场第一方数据能力&quot;&gt;3️⃣ StackAdapt与Experian战略合作，强化英国市场第一方数据能力&lt;/h3&gt;
+
+&lt;p&gt;AI广告平台StackAdapt宣布与全球数据公司Experian达成战略合作，为英国广告主提供第一方数据激活服务。通过Experian覆盖80%英国家庭的ID解析技术，品牌可实现更高的匹配率和精准定向。此次合作将StackAdapt在北美的成功经验引入英国市场，帮助营销人员在隐私监管趋严的环境下最大化数据价值。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; MarTech Series&lt;br /&gt;
+&lt;strong&gt;链接：&lt;/strong&gt; &lt;a href=&quot;https://martechseries.com/predictive-ai/ai-platforms-machine-learning/stackadapt-partners-with-experian-to-supercharge-first-party-data-activation-for-advertisers/&quot;&gt;https://martechseries.com/predictive-ai/ai-platforms-machine-learning/stackadapt-partners-with-experian-to-supercharge-first-party-data-activation-for-advertisers/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;4️⃣-wpp预测印度广告市场2026年增长97数字广告占比68&quot;&gt;4️⃣ WPP预测：印度广告市场2026年增长9.7%，数字广告占比68%&lt;/h3&gt;
+
+&lt;p&gt;WPP Media发布”This Year Next Year”报告，预测印度广告市场2026年将增长9.7%至2.02万亿卢比（约1700亿人民币），成为全球十大广告市场之一。数字广告占总支出的68.1%，其中电商主导的零售媒体增速最快达24.2%。AI驱动的搜索、语音和智能体发现预计增长8%，印度继续保持全球前十市场中增速最快的地位。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; The Economic Times&lt;br /&gt;
+&lt;strong&gt;链接：&lt;/strong&gt; &lt;a href=&quot;https://economictimes.indiatimes.com/industry/media/entertainment/media/wpp-media-sees-india-ad-market-growing-9-7-in-2026-to-rs-2-02-lakh-crore/articleshow/128515929.cms&quot;&gt;https://economictimes.indiatimes.com/industry/media/entertainment/media/wpp-media-sees-india-ad-market-growing-9-7-in-2026-to-rs-2-02-lakh-crore/articleshow/128515929.cms&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;5️⃣-微软广告推出performance-max学习路径助力营销人员掌握ai自动化&quot;&gt;5️⃣ 微软广告推出Performance Max学习路径，助力营销人员掌握AI自动化&lt;/h3&gt;
+
+&lt;p&gt;微软广告推出全新Performance Max（PMax）学习路径，帮助营销人员通过AI和自动化技术优化全渠道营销活动。PMax可自动组合素材生成搜索、展示、原生等多种广告形式，并基于转化目标进行跨渠道优化。新的学习路径提供三门实战课程，涵盖目标设定、创意构建、受众识别和预算管理等核心技能。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; Microsoft Advertising&lt;br /&gt;
+&lt;strong&gt;链接：&lt;/strong&gt; &lt;a href=&quot;https://about.ads.microsoft.com/en/blog/post/february-2026/build-real-world-performance-max-expertise-with-the-new-microsoft-advertising-learning-path&quot;&gt;https://about.ads.microsoft.com/en/blog/post/february-2026/build-real-world-performance-max-expertise-with-the-new-microsoft-advertising-learning-path&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-行业洞察&quot;&gt;📌 行业洞察&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;AI与信任的博弈：&lt;/strong&gt; Perplexity的决策反映出AI公司在商业化压力下仍需平衡用户体验&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;数据驱动的未来：&lt;/strong&gt; 第一方数据在隐私监管下成为竞争核心，技术合作成为关键&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;新兴市场爆发：&lt;/strong&gt; 印度等市场数字化加速，电商广告成为增长新引擎&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI自动化深化：&lt;/strong&gt; 从创意生成到全渠道优化，AI正在重塑营销工作流&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-02-19&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Feb 2026 12:16:47 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,martech,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/2026/02/18/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-19/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,martech,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/2026/02/18/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-19/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,MarTech,数字广告</category>
         
       </item>
     
@@ -910,142 +981,6 @@ Google强调”速度与确定性”将在2026年融合，推动”代理式商�
         
         
         <category>ad-news,daily-digest,AI,marketing-trends,super-bowl,amazon-ads</category>
-        
-      </item>
-    
-      <item>
-        <title>每日广告营销新闻 2026-02-10</title>
-        <description>&lt;h2 id=&quot;-今日要闻&quot;&gt;📰 今日要闻&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-chatgpt开启广告业务测试定价引发行业热议&quot;&gt;1. ChatGPT开启广告业务测试，定价引发行业热议&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;来源：36氪 | 2026-02-05&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;&lt;a href=&quot;https://36kr.com/p/3668768101819011&quot;&gt;查看原文&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;OpenAI宣布将在未来几周内在美国测试ChatGPT广告功能。广告将面向免费用户和ChatGPT Plus订阅用户（占总用户95%）投放。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键信息：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;定价策略：&lt;/strong&gt; CPM高达60美元，与NFL超级碗期间广告费用持平，是Meta社交媒体广告成本的3倍&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;独特优势：&lt;/strong&gt; 能根据用户实时聊天内容精准投放，实现从”被动观看”到”主动咨询”的转化&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;行业挑战：&lt;/strong&gt; 未经测试的渠道、高昂的试错成本让广告主态度谨慎&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
-AI驱动的广告正在探索全新的商业模式，但如何平衡”营收最大化”与”用户体验”，以及如何说服广告主为高风险新渠道买单，仍是待解难题。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;2-亚马逊广告发布2026年全球营销趋势洞察&quot;&gt;2. 亚马逊广告发布2026年全球营销趋势洞察&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;来源：新浪财经 | 2026-02-04&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;&lt;a href=&quot;https://finance.sina.com.cn/tech/roll/2026-02-04/doc-inhkriht3822307.shtml&quot;&gt;查看原文&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;亚马逊广告发布2026年五大营销趋势，揭示行业变革方向。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;五大趋势：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;AI成为广告策略核心引擎&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;AI工具可在数小时内完成过去需要数周的工作&lt;/li&gt;
-      &lt;li&gt;Agentic AI让营销人员通过自然语言执行复杂广告分析&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;流媒体电视广告转向业务成果导向&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;衡量指标从覆盖率、频次转向销售额、注册量等业务成果&lt;/li&gt;
-      &lt;li&gt;互动广告带来3-4%的品牌好感度提升&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;创意走向个性化与规模化&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;美国”创作者经济”广告支出预计达439亿美元，同比增长18%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全渠道广告协同效应放大&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;用户期待跨平台统一、连贯的体验&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;跨国营销智能化与本地化融合&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;借助AI和大数据打破时区限制，实时捕捉不同地区的文化偏好和消费趋势&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;行业启示：&lt;/strong&gt;
-2026年将是营销人员”从测试AI到信任AI”的转折之年，全渠道整合和智能化营销成为竞争关键。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;3-2026数字广告趋势ai从实验走向执行&quot;&gt;3. 2026数字广告趋势：AI从实验走向执行&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;**来源：Adweek &amp;amp; Ad Age&lt;/td&gt;
-      &lt;td&gt;2026-01**&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;**&lt;a href=&quot;https://www.adweek.com/webinars/digital-advertising-trends-defining-2026/&quot;&gt;查看原文 - Adweek&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://adage.com/trends-predictions/business-forecast/aa-ad-and-marketing-leaders-2026-predictions/&quot;&gt;Ad Age&lt;/a&gt;**&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;100位广告领袖预测2026年营销趋势，AI、CTV、创作者经济成为焦点。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心观点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;AI应用深化：&lt;/strong&gt; 从创意生成到投放优化，AI工具全面渗透广告工作流&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;渠道融合加速：&lt;/strong&gt; 视频、社交媒体、CTV（联网电视）界限模糊，跨平台投放成为标配&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;传统电视承压：&lt;/strong&gt; 数字媒体（TikTok、YouTube、Meta）持续挤占传统电视广告份额&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;数字营销增长：&lt;/strong&gt; 预计未来几年CAGR达13.9%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业警示：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Google计划2026年2月后停止新建Call-Only广告，2027年2月全面停止展示&lt;/li&gt;
-  &lt;li&gt;营销人员需在经济不确定性和AI快速发展中保持韧性&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;-行业洞察&quot;&gt;💡 行业洞察&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;2026年广告营销行业三大关键词：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;AI原生化&lt;/strong&gt; - AI不再是辅助工具，而是广告策略的核心引擎&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;成效导向&lt;/strong&gt; - 从品牌指标转向可衡量的业务成果（ROI、转化率、销售额）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全渠道整合&lt;/strong&gt; - 单一渠道时代结束，跨平台协同成为必需能力&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;对营销人员的建议：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;加速AI工具的学习和应用，从”测试”转向”信任”&lt;/li&gt;
-  &lt;li&gt;建立全渠道衡量体系，关注业务成果而非单一指标&lt;/li&gt;
-  &lt;li&gt;关注创作者经济和互动广告的发展机会&lt;/li&gt;
-  &lt;li&gt;在全球化营销中平衡本地化与规模化&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;整理时间：2026-02-10&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;主要来源：36氪、新浪财经、Adweek、Ad Age&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-02-10&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Feb 2026 16:01:22 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,programmatic/2026/02/09/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-10/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,programmatic/2026/02/09/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-10/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,programmatic</category>
         
       </item>
     
