@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Feb 2026 00:12:43 -0600</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 00:12:43 -0600</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 20:16:48 -0600</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 20:16:48 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,111 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>一周精华：谷歌宣布、发布动态</title>
+        <description>&lt;h2 id=&quot;谷歌打击大规模广告欺诈ai生成域名骗取广告费&quot;&gt;谷歌打击大规模广告欺诈：AI生成域名骗取广告费&lt;/h2&gt;
+
+&lt;p&gt;谷歌与广告验证公司IAS合作，成功关闭了名为”Genisys”的大规模广告欺诈计划。该计划通过2500万台Android设备上的115款应用执行欺诈活动，使用AI生成近500个虚假域名来骗取广告收入。&lt;/p&gt;
+
+&lt;p&gt;受影响的应用通常是QR码扫描器、PDF阅读器等基础工具，它们会在后台向AI生成的虚假网站推送流量，伪装成Netflix、Instagram等知名应用的流量，导致广告主向机器人流量投放广告，浪费数百万美元广告费。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着AI驱动的广告欺诈进入新阶段，欺诈者可以低成本快速扩大规模。过去一年，谷歌已下架超过870款与广告欺诈相关的Android应用。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/exclusive-google-cracks-down-ad-fraud-scheme/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;品牌回收程序化广告控制权数据主权成新焦点&quot;&gt;品牌回收程序化广告控制权：数据主权成新焦点&lt;/h2&gt;
+
+&lt;p&gt;乐高、Georgia-Pacific和Boots等大型品牌正在将程序化广告投放团队收归内部（in-house），直接管理数字媒体预算和数据。乐高已建立400人的内部创意团队Lego Agency，现在开始组建程序化媒体团队。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心原因：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;数据主权问题：品牌每年投入数亿广告费，但关键行为数据却分散在平台、代理商和第三方工具手中&lt;/li&gt;
+  &lt;li&gt;监管压力：隐私合规和反垄断法规要求品牌对数据流向负全责&lt;/li&gt;
+  &lt;li&gt;成本控制：减少中间商，提升ROI透明度&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt; 美国全国广告主协会数据显示，82%的会员企业已拥有某种形式的内部代理机构（10年前仅58%）。大品牌将继续加码in-house，中型企业则采用混合模式。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.huxiu.com/article/4836782.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;联合利华ceo引争议宣称大品牌广告已死&quot;&gt;联合利华CEO引争议：宣称”大品牌广告已死”&lt;/h2&gt;
+
+&lt;p&gt;联合利华CEO Fernando Fernandez在CAGNY会议上宣布，”大型企业的大品牌信息时代已经结束”，公司将转向”社交优先需求模型”，将媒体预算的50%投入创作者和网红营销。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;业界质疑：&lt;/strong&gt; Adweek专栏作家Mark Ritson指出这一策略存在严重矛盾：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;联合利华2025年仍投入90亿美元（收入的16%）用于品牌营销，其中超过40亿仍用于传统广告&lt;/li&gt;
+  &lt;li&gt;Fernandez同时强调2026年FIFA世界杯赞助的重要性（这正是典型的大品牌广告）&lt;/li&gt;
+  &lt;li&gt;不同品类需要不同策略，护肤品适合创作者营销，但清洁剂等品类难以通过网红推广&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;教训：&lt;/strong&gt; 这让人想起联合利华此前要求所有品牌都必须有”社会使命”的失败尝试。一刀切的策略往往适得其反。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/the-unilever-ceo-has-a-new-marketing-doctrine-and-it-is-completely-wrong/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2026营销趋势ai重塑分工情绪营销深化线下活动回流&quot;&gt;2026营销趋势：AI重塑分工、情绪营销深化、线下活动回流&lt;/h2&gt;
+
+&lt;p&gt;虎嗅网发布《2026影响品牌的11个营销趋势》报告，揭示行业核心变化：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AI改变团队分工：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;一人可完成原本需要多人协作的工作，”一人公司”趋势显现&lt;/li&gt;
+  &lt;li&gt;大型代理公司组建AIGC团队，小型工作室更易出现&lt;/li&gt;
+  &lt;li&gt;品牌将日常运营内化，重大战役仍需顶尖创意人才&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;品牌叙事更具象化：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;从宏大叙事转向具体场景展示&lt;/li&gt;
+  &lt;li&gt;Rokid智能眼镜通过演示”语音下单500杯咖啡”来展示产品能力&lt;/li&gt;
+  &lt;li&gt;京东外卖用刘强东送外卖的日常场景打开市场&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;线下商业活动回流：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;LV在上海打造”THE LOUIS路易号”巨轮，成为热点事件&lt;/li&gt;
+  &lt;li&gt;Nike在西岸空降巨型”鞋底”装置，设置8个主题体验空间&lt;/li&gt;
+  &lt;li&gt;BCG预测：未来5年零售媒体网络广告支出将年增25%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://beta.huxiu.com/article/4837827.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;b2b营销新工具channel99通过mcp连接ai平台与营销数据&quot;&gt;B2B营销新工具：Channel99通过MCP连接AI平台与营销数据&lt;/h2&gt;
+
+&lt;p&gt;B2B营销平台Channel99于2月24日宣布，通过Model Context Protocol (MCP)将其营销数据整合到ChatGPT、Microsoft Copilot和Claude中。这使营销人员可以通过对话方式查询跨渠道营销数据，而无需切换多个仪表板。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心价值：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;整合付费媒体、社交、邮件、网站互动和CRM数据&lt;/li&gt;
+  &lt;li&gt;捕获传统归因工具忽略的”无点击”互动（展示、社交浏览、邮件阅读等）&lt;/li&gt;
+  &lt;li&gt;声称捕获的信号量是传统工具的10倍&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;技术背景：&lt;/strong&gt; MCP由Anthropic开发并捐赠给Linux基金会，已成为营销技术行业的主流连接标准。谷歌、AppsFlyer等公司均已发布MCP工具。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/channel99-connects-b2b-marketing-data-to-chatgpt-copilot-and-claude-via-mcp/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-01&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Feb 2026 12:16:11 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/02/28/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8E%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E5%8F%91%E5%B8%83%E5%8A%A8%E6%80%81/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/02/28/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8E%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E5%8F%91%E5%B8%83%E5%8A%A8%E6%80%81/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -945,103 +1050,6 @@
         
         
         <category>ad-news,daily-digest,retail-media,AI,programmatic</category>
-        
-      </item>
-    
-      <item>
-        <title>每日广告营销新闻 2026-02-20</title>
-        <description>&lt;h2 id=&quot;1-字节跳动-seedance-20-火爆全球海外评价改写ai视频游戏规则&quot;&gt;1. 字节跳动 Seedance 2.0 火爆全球，海外评价：改写AI视频游戏规则&lt;/h2&gt;
-
-&lt;p&gt;字节跳动推出的AI视频生成模型 Seedance 2.0 在全球引发热议。该模型主打”导演级”叙事和运镜表达，被海外媒体和博主评价为”Game Changer”，超越了快手Kling 3.0和谷歌Veo 3.1。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;能生成复杂的多镜头场景，同步音效、音乐和多语言对话&lt;/li&gt;
-  &lt;li&gt;YouTube评测博主称其”彻底改写了游戏规则”&lt;/li&gt;
-  &lt;li&gt;美国The Information、CNBC、印度《经济时报》等主流媒体高度关注&lt;/li&gt;
-  &lt;li&gt;国内影视飓风Tim和《黑神话：悟空》制作人冯骥均发声讨论&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 接棒DeepSeek，字节跳动再次展示中国AI巨头在多模态内容生成领域的技术实力，标志着中国企业在AI视频生成赛道已走在全球前列。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3677500134715912&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-亚马逊发布2026年营销五大趋势ai创意直播电商互动广告成主流&quot;&gt;2. 亚马逊发布2026年营销五大趋势：AI创意、直播电商、互动广告成主流&lt;/h2&gt;
-
-&lt;p&gt;亚马逊广告部门发布2026年营销趋势报告，预测AI、直播电商和全渠道营销将重塑广告行业。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AI营销支出将从2025年的473亿美元增至2028年的1070亿美元&lt;/li&gt;
-  &lt;li&gt;直播电商成为主流：50%消费者将娱乐视为购物路径的一部分&lt;/li&gt;
-  &lt;li&gt;互动广告效果显著：79%观众认为互动广告更具吸引力&lt;/li&gt;
-  &lt;li&gt;流媒体占所有电视观看时间的44.8%，同比2021年增长71%&lt;/li&gt;
-  &lt;li&gt;全渠道客户在店内多花4%，在线多花10%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 广告行业从”无处不在”向”无缝体验”转变，品牌需要将AI、创作者经济和全渠道测量整合到统一策略中。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/en-us/library/news/marketing-trends-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-京东200次服务升级打造服务供应链新竞争力&quot;&gt;3. 京东200次服务升级：打造”服务供应链”新竞争力&lt;/h2&gt;
-
-&lt;p&gt;京东在2025年实现了200多个用户体验细节提升，推出”差价换”、”偏远地区包邮”等创新服务，将服务升级为核心竞争力。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心创新：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;“差价换”：用户可补差价换购其他商品，售后满意度远超普通换货&lt;/li&gt;
-  &lt;li&gt;偏远地区包邮：覆盖新疆、西藏等六省区，新疆订单量同比增长超100%&lt;/li&gt;
-  &lt;li&gt;“拆膜试睡”：床垫品牌试运行后转化率提升30%，订单增长超50%&lt;/li&gt;
-  &lt;li&gt;启动”服务无死角”项目，系统性排查全链路体验痛点&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 电商竞争进入”信任密度”时代，京东通过”服务供应链”将售后从成本中心转化为增长引擎，建立难以复制的竞争优势。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3612176869475332&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-wpp印度报告2026年广告增长率预计达97ai与商务融合加速&quot;&gt;4. WPP印度报告：2026年广告增长率预计达9.7%，AI与商务融合加速&lt;/h2&gt;
-
-&lt;p&gt;WPP Media印度发布TYNY报告，预测2026年印度广告市场将以9.7%的速度增长，成为全球增长最快的市场之一。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心洞察：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;印度以9.7%的增长率成为全球顶级市场中增长最快的国家之一&lt;/li&gt;
-  &lt;li&gt;2026年的关键词是”融合”：媒体、技术和商务趋于同质化&lt;/li&gt;
-  &lt;li&gt;数字广告技术持续演进，AI驱动的个性化和自动化成为主流&lt;/li&gt;
-  &lt;li&gt;品牌需要整合媒体、技术和商务能力来实现营销目标&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 新兴市场广告增长强劲，媒体与技术的边界逐渐模糊，品牌需要建立更加整合的营销能力。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.exchange4media.com/advertising-news/wpp-media-india-tyny-report-ad-growth-estimated-at-97-in-2026-152137.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;行业洞察总结&quot;&gt;行业洞察总结&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AI正在从效率工具进化为创意和战略引擎&lt;/li&gt;
-  &lt;li&gt;直播电商和创作者经济模糊了娱乐与商务的边界&lt;/li&gt;
-  &lt;li&gt;服务和体验成为电商平台新的护城河&lt;/li&gt;
-  &lt;li&gt;全球广告市场持续增长，中国企业技术创新引领全球&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-02-20&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Feb 2026 12:16:22 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,%E7%94%B5%E5%95%86,%E8%90%A5%E9%94%80%E8%B6%8B%E5%8A%BF/2026/02/19/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-20/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,%E7%94%B5%E5%95%86,%E8%90%A5%E9%94%80%E8%B6%8B%E5%8A%BF/2026/02/19/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-20/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,电商,营销趋势</category>
         
       </item>
     
