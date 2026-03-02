@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Feb 2026 20:16:48 -0600</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 20:16:48 -0600</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 20:16:51 -0600</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 20:16:51 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,127 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>Meta增长: 49% | 广告营销周报</title>
+        <description>&lt;h2 id=&quot;1-google-搜索广告设计揭秘ai-时代的广告资产策略&quot;&gt;1. Google 搜索广告设计揭秘：AI 时代的广告资产策略&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Google 于 2 月 25 日通过 Ads Decoded 播客详细披露了搜索文本广告的内部设计与测试流程。产品经理 Abby Butler 和 UX 主管 Adam Bullock 揭示了 Google 如何通过”五人一组”方法（数据科学、工程、UX 研究、产品、设计）来测试广告格式变化。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;资产灵活部署&lt;/strong&gt;：标题资产现在可以与附加链接一起展示，打破了传统的固定位置限制&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;“预计提升效果”的真相&lt;/strong&gt;：该系统基于查询上下文、历史数据和格式预测来优化高质量点击和转化&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI Mode 整合&lt;/strong&gt;：随着 AI Mode 日活用户超 7500 万，多轮对话为广告主提供了更多触点机会&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;失败的实验&lt;/strong&gt;：一个使用 LLM 生成答案的广告格式因表现不佳被搁置&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这次罕见的内部披露表明，广告主应将资产多样性视为 AI 驱动搜索环境的基础设施。资产池的深度决定了系统在传统 SERP、AI Overviews 和 AI Mode 对话中的可用素材。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/inside-googles-search-ad-design-engine-tests-assets-and-ai-in-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-oddity-tech-算法危机81-亿美元营收背后的广告灾难&quot;&gt;2. ODDITY Tech 算法危机：8.1 亿美元营收背后的广告灾难&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 美妆科技公司 ODDITY Tech 在 2 月 25 日公布创纪录的 8.1 亿美元年度营收的同时，披露了一场由广告平台算法变化引发的用户获取成本危机，导致股价暴跌 43.49%，一个月内市值蒸发 66%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键事实：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;根本原因&lt;/strong&gt;：公司的 Try Before You Buy 购买模式与广告平台算法更新产生冲突，导致 CPA 飙升至正常水平的 2 倍以上&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;财务冲击&lt;/strong&gt;：Q1 2026 营收预计同比下降 30%，全年指引暂停&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;发现延迟&lt;/strong&gt;：问题始于 2025 年下半年，但直到 2026 年 1 月底才找到根本原因&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;行业信号&lt;/strong&gt;：即使是拥有 6800 万用户、80 亿美元营收的顶级 DTC 广告主，也可能需要数月才能诊断出 AI 驱动拍卖系统的边缘案例问题&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业警示：&lt;/strong&gt; 这一案例清晰展示了 AI 驱动的广告拍卖系统（如 Meta Advantage+ 和 Google Performance Max）的不透明性风险。当算法以非直观的方式重新解释业务模式时，即使是技术最先进的广告主也可能面临灾难性后果。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/oddity-techs-810m-record-year-is-overshadowed-by-an-ad-algorithm-crisis/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-magnite-ctv-广告增长-32流媒体广告迁移加速&quot;&gt;3. Magnite CTV 广告增长 32%：流媒体广告迁移加速&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 独立广告平台 Magnite 于 2 月 25 日公布 Q4 2025 财报，CTV（联网电视）广告贡献（扣除 TAC）同比增长 32%（剔除政治广告），达到 9360 万美元，占总业务的 48%，并在 Q1 2026 已超过 50%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;年度业绩&lt;/strong&gt;：2025 年全年营收 7.14 亿美元，增长 7%；CTV 贡献 3.042 亿美元，增长 17%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;利润率改善&lt;/strong&gt;：调整后 EBITDA 达 2.321 亿美元，利润率 34.7%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;预算迁移&lt;/strong&gt;：展示和移动视频（DV+）预算正在加速向 CTV 迁移，Q4 DV+ 同比下降 1%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;平台处理规模&lt;/strong&gt;：2025 年处理近 70 亿美元广告支出&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; Magnite 的 SpringServe 平台统一了 CTV 广告服务器和程序化 SSP 能力，覆盖 99% 的 CTV 供应市场。CEO Michael Barrett 表示”让流媒体成为我们业务的多数——这对 Magnite 来说是一个决定性时刻”。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt; 这一财报为程序化预算向 CTV 的结构性迁移提供了有力证据。对于媒体购买者和代理商而言，这清晰表明流媒体正成为视频消费和广告投放的主导屏幕。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/magnites-ctv-bet-pays-off-32-growth-signals-a-streaming-ad-shift/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-meta-起诉三国诈骗广告商名人诱饵与隐蔽技术&quot;&gt;4. Meta 起诉三国诈骗广告商：名人诱饵与隐蔽技术&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Meta 于 2 月 26 日对巴西、中国、越南的多名诈骗广告商提起诉讼，并向 8 家前业务合作伙伴发出停止函，打击使用名人冒充和隐蔽技术（cloaking）欺诈用户的行为。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;案件详情：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;巴西被告&lt;/strong&gt;：使用 Deepfake 技术伪造知名医生形象推广未经批准的医疗保健产品，甚至销售教授诈骗技术的课程&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;中国被告&lt;/strong&gt;：深圳云正科技使用名人诱饵广告将美国和日本用户引入投资诈骗群组&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;越南被告&lt;/strong&gt;：使用隐蔽技术通过虚假折扣广告（如 Longchamp 品牌）收集信用卡信息，实施订阅诈骗&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;背景压力：&lt;/strong&gt; 2025 年 11 月披露的内部文件显示，Meta 2024 年约 160 亿美元营收（占总营收 10%）来自诈骗和违禁商品广告。尽管 Meta 称 2025 年移除了 1.34 亿条诈骗广告，但这些诉讼反映了持续的监管和舆论压力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;技术响应：&lt;/strong&gt; Meta 正在部署 AI 工具分析隐蔽技术尝试，并通过 Fraud Intelligence Reciprocal Exchange 与 50 多家金融机构共享数据。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/meta-sues-scam-advertisers-in-brazil-china-and-vietnam-over-celeb-bait-and-cloaking/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-meta-manus-ai-接入广告管理器20-亿美元收购的快速落地&quot;&gt;5. Meta Manus AI 接入广告管理器：20 亿美元收购的快速落地&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Meta 于 2 月 17 日开始向广告主推出 Manus AI 集成，这是一个自主 AI 代理工具，可在 Meta Ads Manager 内部完成多步骤任务，从报告生成到异常检测。这距离 Meta 在 2025 年 12 月以超过 20 亿美元收购 Manus 仅过去 7 周。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心能力：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;报告压缩&lt;/strong&gt;：将多步骤的报告流程压缩为单次自然语言提示&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;自然语言查询&lt;/strong&gt;：广告主可以用普通英语询问”哪些广告组上个月的 CPA 最高？”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;主动异常检测&lt;/strong&gt;：Manus 可以主动标记 ROAS 波动、投放模式变化或单位成本激增&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;仪表板创建&lt;/strong&gt;：生成自定义性能可视化仪表板&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;当前限制：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;主要支持销售活动目标&lt;/li&gt;
+  &lt;li&gt;排除房地产、就业、金融服务、政治等敏感类别&lt;/li&gt;
+  &lt;li&gt;仅限桌面访问，需要管理员或编辑权限&lt;/li&gt;
+  &lt;li&gt;独立测试发现数据解读存在准确性问题&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; Manus 不会自动修改广告系列，而是作为分析层运行。它与 Advantage+（投放层自动化）互补，共同构成 Meta 的 AI 增强广告工作流。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt; 这标志着自主 AI 代理从独立工具向广告平台原生基础设施的转变，Google Ads、Microsoft Advertising 和 Amazon Advertising 也在进行类似整合。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/meta-manus-ai-ads-manager-advertising-guide/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;整理时间：&lt;/strong&gt; 2026 年 3 月 2 日&lt;br /&gt;
+&lt;strong&gt;来源：&lt;/strong&gt; PPC Land, ALM Corp, 36氪&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-02&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Mar 2026 12:16:15 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/03/01/meta%E5%A2%9E%E9%95%BF-49-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/01/meta%E5%A2%9E%E9%95%BF-49-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -982,74 +1103,6 @@
         
         
         <category>ad-news,daily-digest,广告营销,AI营销,零售媒体,社交媒体</category>
-        
-      </item>
-    
-      <item>
-        <title>每日广告营销新闻 2026-02-21</title>
-        <description>&lt;p&gt;📊 &lt;strong&gt;每日广告营销新闻 2026-02-21&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;1-零售媒体领域重磅人事变动meta前零售媒体负责人加盟zitcha&quot;&gt;1. 零售媒体领域重磅人事变动：Meta前零售媒体负责人加盟Zitcha&lt;/h2&gt;
-
-&lt;p&gt;澳大利亚零售媒体平台Zitcha宣布任命Steve Biddle为首席商务官。Biddle此前在Meta任职14年，最近担任零售媒体总监，更早期还曾领导沃尔玛美国的广告业务。他将帮助Zitcha应对AI颠覆和快速变化的零售媒体格局，尤其是解决零售媒体网络在平衡广告主需求和零售商自身增长目标方面的挑战。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这一人事变动反映了零售媒体正成为数字广告的核心战场，头部科技平台的人才开始流向专业零售媒体技术公司。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/commerce/exclusive-meta-retail-media-lead-steve-biddle-chief-commercial-officer-zitcha/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-全球营销代理行业大重组两强格局正在形成&quot;&gt;2. 全球营销代理行业大重组：两强格局正在形成&lt;/h2&gt;
-
-&lt;p&gt;Digiday最新分析显示，传统六大控股公司格局已被打破。Omnicom收购IPG后，只有Publicis和WPP能与其匹敌。同时，行业正在大规模裁员——IPA数据显示英国广告从业人数持续下降，24%的机构计划因AI而裁员。制药和医疗保健客户已成为最大收入来源（如Publicis 2025年该领域增长11%），超过传统的汽车广告客户（仅增长1%）。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 营销代理行业正从创意驱动转向技术和数据驱动，AI正在重塑行业就业结构和商业模式。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://digiday.com/marketing/in-graphic-detail-the-state-of-the-marketing-agency-sector/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-openai开始在chatgpt中测试广告品牌赞助内容已上线&quot;&gt;3. OpenAI开始在ChatGPT中测试广告：品牌赞助内容已上线&lt;/h2&gt;
-
-&lt;p&gt;OpenAI正式在ChatGPT中推出广告测试，全球品牌如Expedia和Best Buy的赞助内容已开始出现在AI聊天机器人的回复中。这标志着AI对话式营销进入新阶段，广告主需要为每次广告展示支付约20万美元的测试成本。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 生成式AI平台正在成为新的广告渠道，这可能彻底改变传统搜索广告和内容营销的玩法。品牌需要思考如何在AI对话中自然植入营销信息。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-ads-go-llve-openai-tests-sponsored-responses-with-select-brands-10542982/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-音频广告迎来程序化时代2026年全渠道战略的新支柱&quot;&gt;4. 音频广告迎来程序化时代：2026年全渠道战略的新支柱&lt;/h2&gt;
-
-&lt;p&gt;MarTech Cube报道指出，音频广告正在从次要渠道升级为全渠道营销战略的核心层。程序化音频广告将与CTV、移动端和零售媒体整合，成为2026年品牌触达消费者的关键方式。AdQuick等平台正在用AI和数据分析现代化户外广告（OOH）的规划、购买和测量流程。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 全渠道整合正在加速，音频和户外广告的数字化、程序化将为品牌提供更精准的投放能力和更好的ROI可见性。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.martechcube.com/2025-2026-ad-shifts/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;关键趋势总结&quot;&gt;关键趋势总结&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;零售媒体持续升温&lt;/strong&gt;：成为人才和资本的焦点&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI重塑代理行业&lt;/strong&gt;：导致就业结构变化，技术驱动取代创意驱动&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;新兴广告渠道崛起&lt;/strong&gt;：AI对话、音频、OOH程序化能力增强&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;制药/医疗领域领跑&lt;/strong&gt;：成为广告支出增长最快的行业&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-02-21&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Feb 2026 12:16:02 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,retail-media,ai,programmatic/2026/02/20/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-21/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,retail-media,ai,programmatic/2026/02/20/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-21/</guid>
-        
-        
-        <category>ad-news,daily-digest,retail-media,AI,programmatic</category>
         
       </item>
     
