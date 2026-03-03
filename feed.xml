@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Mar 2026 20:16:51 -0600</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2026 20:16:51 -0600</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 20:16:45 -0600</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 20:16:45 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,137 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>CTV、CTV重塑行业 | 本周营销观察</title>
+        <description>&lt;h2 id=&quot;每日广告营销新闻-2026-03-03&quot;&gt;每日广告营销新闻 2026-03-03&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-google将于3月23日展示gemini在营销平台中的应用&quot;&gt;1. Google将于3月23日展示Gemini在营销平台中的应用&lt;/h3&gt;
+
+&lt;p&gt;Google宣布将在3月23日的NewFront活动上展示Gemini AI模型如何深度整合到Google Marketing Platform中。此次发布会将重点介绍Display &amp;amp; Video 360在CTV（联网电视）广告领域的最新进展，特别是如何超越流媒体拓展广告触达范围。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gemini已嵌入从创意生成到受众定向、再到效果衡量的全流程&lt;/li&gt;
+  &lt;li&gt;DV360已覆盖美国98%的CTV家庭，月度广告支持观看时长超50亿小时&lt;/li&gt;
+  &lt;li&gt;AI驱动的Ads Advisor和Analytics Advisor已向所有英语账户开放&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt; Google将Gemini定位为营销平台的核心基础设施，而非独立的广告渠道，这与OpenAI的ChatGPT广告化路线形成鲜明对比。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-sets-march-23-date-for-gemini-showcase-on-google-marketing-platform/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;2-西班牙数字广告市场达62亿欧元ctv增长484&quot;&gt;2. 西班牙数字广告市场达62亿欧元，CTV增长48.4%&lt;/h3&gt;
+
+&lt;p&gt;IAB西班牙发布的《2026数字广告投资研究》显示，2025年西班牙数字广告市场规模达到62.112亿欧元，同比增长11.2%。数字广告占全媒体广告支出的69.1%，较2024年提升3个百分点。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CTV（联网电视）&lt;/strong&gt;增长48.4%，达1.749亿欧元，是增速最快的细分领域&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;网红营销&lt;/strong&gt;增长25.9%，达1.584亿欧元，较2023年翻倍&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;播客广告&lt;/strong&gt;增长27%，虽然规模仅1200万欧元但增速远超流媒体音频&lt;/li&gt;
+  &lt;li&gt;搜索和社交媒体仍占数字广告总支出的61.6%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;趋势洞察：&lt;/strong&gt; 传统电视广告下降8.7%，而CTV和程序化广告快速崛起，预计2026年CTV增速将保持在30%-60%区间。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/spains-digital-ad-market-hits-eu6-2bn-and-ctv-just-changed-everything/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;3-ai营销初创公司plurio获350万美元种子轮融资&quot;&gt;3. AI营销初创公司Plurio获350万美元种子轮融资&lt;/h3&gt;
+
+&lt;p&gt;总部位于旧金山的Plurio宣布完成350万美元种子轮融资，投资方包括Altair、DVC等。该公司推出AI代理（Agentic AI）工具，可跨渠道分析广告数据、预测效果并自动执行优化操作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;产品特点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;针对订阅、金融产品、教育等转化延迟行业，通过领先指标提前推断效果&lt;/li&gt;
+  &lt;li&gt;支持自然语言提问（如将预算从Meta转到Google会如何影响收入？）&lt;/li&gt;
+  &lt;li&gt;目前管理超过1亿美元年度广告支出&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;市场背景：&lt;/strong&gt; 2026年全球广告支出预计突破1万亿美元，营销人员面临实时优化的巨大压力，AI自动化工具成为刚需。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/performance-marketing/plurio-startup-agentic-ai-performance-marketing-seed-funding/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;4-当广告走进ai对话框chatgpt广告化引发争议&quot;&gt;4. 当广告走进AI对话框：ChatGPT广告化引发争议&lt;/h3&gt;
+
+&lt;p&gt;36氪报道，OpenAI于2月10日开始在ChatGPT免费版和基础付费版中测试广告植入，这是首个在AI回答中加入商业广告的大模型工具。竞争对手Anthropic在超级碗期间投放广告嘲讽此举，强调广告会来到AI，但不是Claude。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;商业逻辑：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ChatGPT周活跃用户达8亿，每周产生8000万次商品相关对话&lt;/li&gt;
+  &lt;li&gt;已上线Instant Checkout功能，接入超100万Shopify商家&lt;/li&gt;
+  &lt;li&gt;预计到2030年，仅广告业务收入就可达1100亿美元&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;合规风险：&lt;/strong&gt; 中国市场监管总局将AI生成广告列为2026年互联网广告监管重点，GEO（生成引擎优化）等新型营销手段面临法律灰色地带。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3705144872760072&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;5-联合利华ceo宣称大品牌广告已死引发争议&quot;&gt;5. 联合利华CEO宣称大品牌广告已死引发争议&lt;/h3&gt;
+
+&lt;p&gt;联合利华CEO Fernando Fernandez在CAGNY会议上宣布，大企业大品牌信息的时代已经结束，公司将转向社交优先需求模型，将媒体预算的50%投向网红和创作者。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;矛盾之处：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;联合利华2025年仍投入90亿美元营销费用，其中约40亿美元仍用于传统广告&lt;/li&gt;
+  &lt;li&gt;同一财报电话会上，Fernandez将2026世界杯赞助视为重要支撑——这明显需要大规模品牌传播&lt;/li&gt;
+  &lt;li&gt;行业专家指出，不同品牌需要不同策略，一刀切的社交优先可能重蹈当年品牌使命化的覆辙&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业反思：&lt;/strong&gt; Adweek专栏作者Mark Ritson批评此举完全错误，强调品牌增长需要大众触达，单一渠道无法满足所有品牌需求。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/the-unilever-ceo-has-a-new-marketing-doctrine-and-it-is-completely-wrong/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;6-wpp宣布大规模重组应对ai威胁&quot;&gt;6. WPP宣布大规模重组应对AI威胁&lt;/h3&gt;
+
+&lt;p&gt;全球最大广告集团WPP于2月26日宣布激进重组计划，包括出售资产和裁员，以应对人工智能带来的行业冲击。同时，WPP与Adobe扩大合作，推出代理AI工作流和客户体验编排的集成解决方案。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt; Triton Digital 2026年1月调查显示，AI代理已开始承担从策略到执行的端到端工作流程，对传统人员配置和客户管理模式构成实质性压力。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;编辑观点&quot;&gt;编辑观点&lt;/h2&gt;
+
+&lt;p&gt;本周广告营销行业呈现三大趋势：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AI从辅助工具变为核心基础设施&lt;/strong&gt;：Google Gemini全面整合营销平台、Plurio等AI代理工具融资火热，AI已从尝鲜转为必选。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;CTV和零售媒体网络高速增长&lt;/strong&gt;：西班牙CTV增长48.4%，美国程序化广告支出预计2026年达7250亿美元，传统电视向数字流媒体的迁移加速。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;广告商业模式面临伦理与合规挑战&lt;/strong&gt;：ChatGPT广告化、GEO隐性营销等新形式引发监管关注，如何在商业变现与用户信任间平衡成为行业难题。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;联合利华大品牌广告已死的激进表态，实际上反映了传统广告巨头在AI和社交媒体时代的焦虑与迷茫。正如Mark Ritson所言，不同品牌需要不同策略，一刀切的教条永远是错的。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-03&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Mar 2026 12:16:07 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai-marketing,ctv,programmatic-advertising/2026/03/02/ctvctv%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai-marketing,ctv,programmatic-advertising/2026/03/02/ctvctv%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI-marketing,CTV,programmatic-advertising</category>
         
       </item>
     
@@ -998,111 +1129,6 @@
         
         
         <category>ad-news,daily-digest,AI,广告技术</category>
-        
-      </item>
-    
-      <item>
-        <title>每日广告营销新闻 2026-02-22</title>
-        <description>&lt;p&gt;📰 每日广告营销新闻 2026-02-22&lt;/p&gt;
-
-&lt;h2 id=&quot;1-亚马逊广告发布2026年五大营销趋势报告&quot;&gt;1. 亚马逊广告发布2026年五大营销趋势报告&lt;/h2&gt;
-
-&lt;p&gt;亚马逊广告近日发布《2026年五大营销趋势》报告，指出广告行业正在经历根本性转变。报告显示，近60%的消费者感觉比以前更频繁地一心多用，75%的消费者每周多次考虑购物，59%经常分心探索原本不打算购买的商品。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;五大核心趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;AI成为创意和策略引擎：&lt;/strong&gt; AI营销支出2025年达473.2亿美元，预计2028年将超1070亿美元&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;直播电商与创作者经济：&lt;/strong&gt; 美国创作者经济广告花费预计2026年增至439亿美元，同比增长18%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;流媒体互动参与：&lt;/strong&gt; 流媒体占所有电视观看时长44.8%，79%的观众认为互动式广告更具吸引力&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全渠道无缝衔接：&lt;/strong&gt; 到2028年，全渠道零售媒体支出预计将超过24.4%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;整体效果衡量：&lt;/strong&gt; 品牌需要全渠道视角来理解营销方案如何协同发挥作用&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 该报告强调AI不仅是效率工具，更是创意搭档。品牌需要将AI视为创意放大器，把直播电商与创作者视为娱乐革新力量，将流媒体视作高端展示渠道。&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://advertising.amazon.com/zh-cn/library/news/marketing-trends-2026&quot;&gt;查看原文（中文）&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/marketing-trends-2026&quot;&gt;查看原文（英文）&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-零售媒体非自营广告成为新增长引擎&quot;&gt;2. 零售媒体非自营广告成为新增长引擎&lt;/h2&gt;
-
-&lt;p&gt;EMARKETER最新报告显示，2026年亚马逊和沃尔玛将占零售媒体数字广告支出的88.2%，导致其他零售媒体网络竞争激烈。非自营广告（Non-endemic Advertising）成为零售商寻求新收入来源的关键策略。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;美国金融媒体网络广告支出2025年达6.4亿美元，同比增长83.1%&lt;/li&gt;
-  &lt;li&gt;旅游媒体网络广告支出2025年达18.1亿美元，增长12.2%&lt;/li&gt;
-  &lt;li&gt;58%的广告主有兴趣利用非自营数据定位受众&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;市场趋势：&lt;/strong&gt; 沃尔玛Connect已向汽车、娱乐、金融服务、快餐和旅游等非自营品牌开放站外媒体。零售商通过第一方数据与非自营广告主合作，创造高度定向的受众投放机会。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.emarketer.com/content/faq-on-non-endemic-retail-media--leaders--data-uses--what-s-new-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-社交媒体营销2026创意取代定向成为核心&quot;&gt;3. 社交媒体营销2026：创意取代定向成为核心&lt;/h2&gt;
-
-&lt;p&gt;Strike Social最新报告指出，2026年社交媒体营销最重要的转变是：创意内容已正式取代受众定向成为核心。AI驱动的系统（如Meta的Advantage+）现在直接分析创意资产来决定谁应该看到广告。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;算法即受众：&lt;/strong&gt; 平台AI通过分析视觉线索、音频、字幕和上下文信号来理解意图&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;短视频持续主导：&lt;/strong&gt; YouTube Shorts日观看量预计超700亿次&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;低保真vs高制作：&lt;/strong&gt; 用户生成内容表现持续优于传统品牌创意，参与率高出8.7倍&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;应用内可购物视频：&lt;/strong&gt; TikTok、YouTube Shorts允许直接购买&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;第一方数据策略：&lt;/strong&gt; 84%的用户仍允许基于API的数据同步&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://strikesocial.com/blog/social-media-marketing-trends-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-google推出ai-mode购物广告新格式&quot;&gt;4. Google推出AI Mode购物广告新格式&lt;/h2&gt;
-
-&lt;p&gt;Google近日为其对话式搜索体验AI Mode推出了全新购物广告格式。这一功能允许用户在AI驱动的对话中比较产品、品牌和商店，广告主可以在关键发现时刻进入对话。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着搜索广告正在从传统关键词匹配向对话式AI体验转变。品牌需要优化内容以适应这种新的发现模式。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.practicalecommerce.com/new-ecommerce-tools-february-18-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-隐私保护加速程序化广告转型&quot;&gt;5. 隐私保护加速程序化广告转型&lt;/h2&gt;
-
-&lt;p&gt;随着第三方Cookie逐步淘汰和全球隐私法规收紧，程序化广告行业正在加速向无Cookie追踪替代方案转型。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;主要趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;无Cookie重定向：&lt;/strong&gt; 依赖第一方数据、匿名化设备ID、基于位置的受众构建&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;第一方数据优先：&lt;/strong&gt; 84%的用户仍允许基于API的数据同步&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;数据清洁室兴起：&lt;/strong&gt; 品牌通过数据清洁室实现跨触点归因&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cometly.com/post/cookieless-tracking-alternatives&quot;&gt;查看相关资讯&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;新闻来源：Amazon Ads、EMARKETER、Strike Social、Practical Ecommerce等行业媒体&lt;/em&gt;
-&lt;em&gt;发送时间：2026-02-22 上海时间10:15&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-02-22&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Feb 2026 12:17:15 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80,ai%E8%90%A5%E9%94%80,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/2026/02/21/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-22/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80,ai%E8%90%A5%E9%94%80,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/2026/02/21/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-22/</guid>
-        
-        
-        <category>ad-news,daily-digest,广告营销,AI营销,零售媒体,社交媒体</category>
         
       </item>
     
