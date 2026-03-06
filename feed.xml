@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Mar 2026 20:16:23 -0600</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 20:16:23 -0600</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 20:16:37 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 20:16:37 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,51 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：亚马逊布局数字广告</title>
+        <description>&lt;h2 id=&quot;1-4a广告巨头掀起ai军备竞赛年投资超百亿&quot;&gt;1. 4A广告巨头掀起AI军备竞赛，年投资超百亿&lt;/h2&gt;
+
+&lt;p&gt;传统广告业巨头正经历AI驱动的深度转型。WPP 2025年投入3亿英镑强化AI基础建设，阳狮十年累计投资120亿欧元用于数据和AI技术，宏盟完成对IPG的收购后协同成本节约目标达15亿美元。各大集团均推出集团级AI平台（如WPP Open、阳狮CoreAI、宏盟Omni），将分散的人力网络重构为算法中枢系统，通过并购和生态合作快速获取前沿技术能力。数据已成为4A公司的核心护城河，WPP的Choreograph处理数十亿级数据点，阳狮拥有23亿消费者画像数据库。AI正从提升效率的工具演变为决定商业模式和组织架构的战略核心。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3708064635351424&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-warc上调2026年全球广告市场预测至91增长&quot;&gt;2. WARC上调2026年全球广告市场预测至9.1%增长&lt;/h2&gt;
+
+&lt;p&gt;权威营销研究机构WARC发布最新报告，将2025年全球广告市场增长预测从7.4%上调至8.9%，市场规模将达1.19万亿美元。2026年增长率预计达9.1%（较9月预测提升1个百分点），2027年增长7.9%，届时全球广告市场规模有望达1.4万亿美元。报告特别指出，Alphabet、亚马逊和Meta三大科技巨头将占据2025-2027年间全球新增广告支出的绝大部分份额，市场集中度持续提升，而广播公司、出版商和新兴广告技术公司仅能争夺边际市场份额。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kcnt27wg6nerypa0ebqcwan0&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-亚马逊开放广告api给ai代理引入mcp协议&quot;&gt;3. 亚马逊开放广告API给AI代理，引入MCP协议&lt;/h2&gt;
+
+&lt;p&gt;亚马逊广告于2月2日宣布Amazon Ads MCP Server进入开放测试，成为首个全面支持Model Context Protocol（MCP）的大型广告平台。该服务器将复杂的API操作转化为自然语言交互，广告主可通过Claude、ChatGPT、Gemini等AI平台直接管理亚马逊广告活动，无需编写代码。系统提供预构建工具处理创建账户、生成报告、启动广告系列等多步骤工作流，单个提示即可完成传统需要三个以上API调用的任务。此举标志着广告技术正从人工操作向AI代理自动化执行转变。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/amazon-opens-its-advertising-apis-to-ai-agents-through-industry-protocol/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4-adweek报告2026数字广告三大趋势&quot;&gt;4. Adweek报告：2026数字广告三大趋势&lt;/h2&gt;
+
+&lt;p&gt;Adweek于1月27日发布《2026数字广告趋势》报告，基于450多位全球营销领导者的洞察。报告指出三大核心趋势：AI从实验阶段进入执行阶段，贯穿创意、规划和优化全流程；跨渠道活跃的品牌表现更强，视频、社交和CTV（联网电视）广告正在融合；更智能的衡量标准成为竞争关键。超过40%的广告主计划在2025年增加社交媒体、零售媒体网络（RMN）、CTV和数字户外广告（DOOH）的预算投入。报告强调，营销人员面临在更多平台上以更高精准度驱动绩效的压力。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/webinars/digital-advertising-trends-defining-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5-谷歌确立三大未来战略引擎应对ai竞争&quot;&gt;5. 谷歌确立三大未来战略引擎应对AI竞争&lt;/h2&gt;
+
+&lt;p&gt;谷歌近期正式揭晓下一阶段战略蓝图，将量子计算、机器人技术和AI驱动的药物研发确立为驱动集团长期增长的核心引擎。这一战略转型源于全球生成式AI竞争的全面升级，为突破搜索广告业务的增长天花板，谷歌正通过高强度资本投入加速抢占前沿科技商业化制高点。公司计划将实验室阶段的前瞻性项目转化为万亿级市场潜力的支柱产业，研发投入强度预计将创历史新高。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-03-05/doc-inhpwzrs3363052.shtml&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-06&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2026 12:16:03 -0600</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/03/05/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B8%83%E5%B1%80%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/05/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B8%83%E5%B1%80%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -803,196 +848,6 @@
         
         
         <category>ad-news,daily-digest,AI营销,数据主权,直播电商,小红书,程序化广告</category>
-        
-      </item>
-    
-      <item>
-        <title>每日广告营销新闻 2026-02-25</title>
-        <description>&lt;h1 id=&quot;每日广告营销新闻-2026-02-25&quot;&gt;每日广告营销新闻 2026-02-25&lt;/h1&gt;
-
-&lt;h2 id=&quot;1-亚马逊广告发布2026年五大营销趋势报告&quot;&gt;1. 亚马逊广告发布2026年五大营销趋势报告&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年2月21日&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;亚马逊广告发布重磅报告，指出五大趋势将重塑2026年营销格局：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;AI成为创意引擎&lt;/strong&gt;：AI营销支出预计2028年将超1070亿美元，创意智能体可在数小时内完成整个广告活动构思&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;直播电商与创作者经济崛起&lt;/strong&gt;：50%消费者将娱乐视为购买路径一部分，创作者经济广告支出将增至439亿美元&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;流媒体互动式广告&lt;/strong&gt;：79%观众认为互动式广告比标准视频广告更具吸引力&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全渠道无缝体验&lt;/strong&gt;：全渠道零售媒体支出预计2028年将超24.4%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;统一效果衡量体系&lt;/strong&gt;：打破数据壁垒成为关键竞争优势&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 标志着广告行业从流量获取向体验优化的根本性转变。近60%消费者表示现在一心多用的次数比以前更多，75%的消费者每周会多次考虑购物。这种始终在线的购物文化正在重塑消费者行为。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/zh-cn/library/news/marketing-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-chatgpt广告正式上线首批品牌曝光&quot;&gt;2. ChatGPT广告正式上线，首批品牌曝光&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年2月9日上线，2月20日首次确认品牌&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;OpenAI正式在ChatGPT中推出广告，首批确认投放品牌包括：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;参与品牌&lt;/strong&gt;：Best Buy、Expedia、Qualcomm、Enterprise Mobility、The Knot Worldwide&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;投放数据&lt;/strong&gt;：广告出现频率仅0.8%（Adthena分析500次提示的结果），显示高度克制的投放策略&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;门槛极高&lt;/strong&gt;：最低投入20-25万美元，CPM高达60美元（相当于NFL直播水平，是Meta的3倍以上）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;首批代理商&lt;/strong&gt;：Omnicom、WPP、Dentsu承诺投入，仅Omnicom就有30+客户参与试点&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;技术细节：&lt;/strong&gt; 广告根据用户当前对话内容、历史聊天记录和广告互动情况投放，明确标注为赞助内容，不会出现在健康、心理健康和政治等敏感话题附近，18岁以下用户完全排除。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 标志着对话式AI正式成为广告新渠道，但缺乏像素追踪和标准归因系统仍是最大挑战。OpenAI货币化负责人Asad Awan甚至提出小企业通过对话提示直接创建广告的愿景，这可能颠覆整个代理商模式。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-the-trade-desk遭遇重大挫折dentsu和wpp退出openpath&quot;&gt;3. The Trade Desk遭遇重大挫折：Dentsu和WPP退出OpenPath&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年2月20日（Adweek独家报道）&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;两大全球广告控股集团悄然退出The Trade Desk的OpenPath计划：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;退出原因&lt;/strong&gt;：透明度不足、广告实际投放位置不明确、存在隐藏费用问题&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;费用争议&lt;/strong&gt;：当加载所有数据、身份识别和测量层后，实际平台费用可达15-20%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;股价影响&lt;/strong&gt;：The Trade Desk股价已较峰值下跌约65%，面临亚马逊DSP的竞争压力&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;市场信号&lt;/strong&gt;：同样退出OpenPath的Dentsu和Omnicom，正在向ChatGPT广告投入数亿美元预算&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;背景分析：&lt;/strong&gt; OpenPath原本是The Trade Desk提供给广告买家直接访问发布商库存的机制，旨在绕过卖方平台中间商。CEO Jeff Green曾宣称OpenPath进入陡峭加速阶段，但现实与预期存在差距。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 代理商正在重新评估程序化广告平台选择，向新兴广告表面（如ChatGPT）转移预算。这反映了广告行业权力结构的重新洗牌——机构通过控制预算流向来寻求定价权。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/exclusive-dentsu-wpp-exit-the-trade-desks-open-path/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-2026连锁品牌推广策略重大转变直播成核心阵地&quot;&gt;4. 2026连锁品牌推广策略重大转变：直播成核心阵地&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年2月24日&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;人人都是产品经理发文指出，品类成熟后的营销策略正在发生根本性改变：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;流量模式转变&lt;/strong&gt;：从传统的大批量短视频投放转向中央直播间收割流量模式&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;原因分析&lt;/strong&gt;：当用户心智从品类认知转向搜索决策后，短视频容易造成流量外溢到竞争对手，而直播间能够锁定流量&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;品牌心智三阶段&lt;/strong&gt;：
-    &lt;ol&gt;
-      &lt;li&gt;用户教育阶段 - 让用户知道有这样的品类&lt;/li&gt;
-      &lt;li&gt;品类红海阶段 - 搜索占比快速提升，价格成为竞争焦点&lt;/li&gt;
-      &lt;li&gt;品牌壁垒阶段 - 形成真正的品牌心智（多数商家难以达到）&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;成功关键&lt;/strong&gt;：强管控（线下门店）、标准化（服务一致性）、高频次（用户链接强度）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;实战洞察：&lt;/strong&gt; 文章指出，品类心智≠品牌心智。前者依附于平台（用户在平台内搜索决策），后者脱离平台（用户无条件信任品牌）。多数品牌停留在品类心智阶段，这也是平台能持续收割流量的逻辑。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 2026年将是直播电商从辅助渠道升级为核心阵地的转折年，品牌直播间+门店直播+达人体系的组合变得更为关键。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.woshipm.com/share/6344156.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-youtube超越reddit成为ai最常引用社交平台&quot;&gt;5. YouTube超越Reddit成为AI最常引用社交平台&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年2月23日&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;根据Adweek数据，过去6个月YouTube在大语言模型引用中占比16%，超过Reddit的10%：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;原因分析&lt;/strong&gt;：YouTube内容包含完整转录文本、字幕、时间戳和关键词丰富的描述，这种结构化内容便于AI理解和引用&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;战略意义&lt;/strong&gt;：YouTube正同时扮演社交平台和AI参考引擎双重角色&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;新趋势GEO&lt;/strong&gt;：生成式引擎优化（Generative Engine Optimization）成为新的SEO，研究显示为AI引用优化的内容获得43%更高的提及率&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;平台行为变化&lt;/strong&gt;：算法正在从奖励触达转向奖励留存——观看时长、重复观看、保存和互动成为关键指标&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;第一方数据价值凸显：&lt;/strong&gt; 随着Chrome第三方Cookie在2026年中基本消失，建立第一方数据策略的品牌报告显示客户留存率提高2.9倍，营销ROI提高1.5倍。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 品牌内容策略需要从搜索优化转向AI引用优化，YouTube从可选项变为必选项。内容创建时需要考虑：Google会排名这个吗？同时也要问：AI引擎会引用这个吗？&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-digital-trends-february-23-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;行业洞察总结&quot;&gt;行业洞察总结&lt;/h2&gt;
-
-&lt;h3 id=&quot;三大核心变化&quot;&gt;三大核心变化&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;新渠道崛起&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;ChatGPT开启对话式广告新时代，尽管成本高昂但战略意义重大&lt;/li&gt;
-      &lt;li&gt;YouTube成为AI引用首选平台，内容结构化和权威性成为新战场&lt;/li&gt;
-      &lt;li&gt;直播从辅助渠道升级为核心流量收割阵地&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;测量与透明度危机&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;程序化广告平台面临信任挑战，透明度成为生存基础&lt;/li&gt;
-      &lt;li&gt;统一测量体系从优选项变为必需品&lt;/li&gt;
-      &lt;li&gt;第一方数据策略展现出可量化的ROI优势&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;内容形态演进&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;从短视频向直播转变（锁定流量，减少外溢）&lt;/li&gt;
-      &lt;li&gt;从SEO向GEO转变（优化AI引用而非仅仅搜索排名）&lt;/li&gt;
-      &lt;li&gt;从追求触达向追求留存转变（观看时长、保存、互动成为核心指标）&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;对中国市场的启示&quot;&gt;对中国市场的启示&lt;/h3&gt;
-
-&lt;p&gt;2026年将是品牌心智建设和AI原生营销的关键年：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;品牌心智建设&lt;/strong&gt;：在品类红海中突围，需要从价格竞争转向心智壁垒构建&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI原生营销&lt;/strong&gt;：内容创作需要同时优化给人看（SEO/社交）和给AI看（GEO/结构化）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全渠道整合&lt;/strong&gt;：直播+短视频+搜索+AI引用的组合拳，而非单一渠道依赖&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;数据主权&lt;/strong&gt;：建立第一方数据资产，在隐私时代保持营销效能&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;值得关注的其他动态&quot;&gt;值得关注的其他动态&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Omnicom完成IPG收购&lt;/strong&gt;：2月18日公布首次合并财报，Q4营收55亿美元，全年175亿美元，成为全球最大广告控股集团&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Walmart广告业务&lt;/strong&gt;：2025年广告收入64亿美元，增长37%，已超过Snapchat（59亿美元）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GoWit与Publicis Media合作&lt;/strong&gt;：2月24日宣布战略合作，将AI驱动的零售媒体技术引入中东、北非和土耳其市场&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;信息来源：&lt;/strong&gt; Adweek、Marketing Dive、亚马逊广告、人人都是产品经理、PPC Land、MarTech Cube&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;整理时间：&lt;/strong&gt; 2026年2月25日（UTC时间02:15）&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-02-25&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Feb 2026 12:17:12 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,chatgpt,%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E8%90%A5%E9%94%80%E8%B6%8B%E5%8A%BF/2026/02/24/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-25/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,chatgpt,%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E8%90%A5%E9%94%80%E8%B6%8B%E5%8A%BF/2026/02/24/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-25/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,ChatGPT,直播电商,程序化广告,营销趋势</category>
         
       </item>
     
