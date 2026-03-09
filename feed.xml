@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 07 Mar 2026 20:16:26 -0600</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2026 20:16:26 -0600</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2026 21:16:36 -0500</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 21:16:36 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,115 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>Meta增长: 46% | 广告营销周报</title>
+        <description>&lt;h2 id=&quot;-今日广告营销行业要闻-2026-03-09&quot;&gt;📊 今日广告营销行业要闻 (2026-03-09)&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-meta重写归因规则终于与google-analytics对齐&quot;&gt;1. Meta重写归因规则：终于与Google Analytics对齐&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月3日&lt;/p&gt;
+
+&lt;p&gt;Meta本周宣布对其广告衡量框架进行结构性改革，重新定义点击归因中的点击含义，并引入新的归因类别。这一变化旨在解决营销部门长期存在的痛点：Meta Ads Manager与Google Analytics的数据几乎从不一致。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心变化：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;点击归因将仅包含链接点击，不再包含点赞、分享和保存&lt;/li&gt;
+  &lt;li&gt;将非链接点击的社交行为移至新的参与归因类别&lt;/li&gt;
+  &lt;li&gt;视频广告的参与观看阈值从10秒降至5秒（因46%的Reels购买转化发生在前2秒内）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这是Meta首次将其归因标准与Google Analytics等第三方平台对齐，为广告主提供更清晰的跨平台数据对比。营销人员可以更准确地评估Meta广告的真实贡献，优化预算分配策略。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/meta-rewrites-click-attribution-rules-finally-aligning-with-google-analytics/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;2-netflix广告平台三大升级引入亚马逊受众雅虎信号与转化api&quot;&gt;2. Netflix广告平台三大升级：引入亚马逊受众、雅虎信号与转化API&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月4日&lt;/p&gt;
+
+&lt;p&gt;Netflix宣布其广告平台新增三项重要功能：通过Amazon DSP扩展零售与行为受众定向、通过Yahoo DSP激活确定性受众数据，以及推出自有的转化API。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Amazon DSP受众整合：利用亚马逊数万亿购物、流媒体和浏览信号（Q2在美国启动）&lt;/li&gt;
+  &lt;li&gt;Yahoo DSP确定性受众：基于数亿全球用户的兴趣、行为、购买和生命阶段信号&lt;/li&gt;
+  &lt;li&gt;Netflix转化API：早期测试显示，在金融服务、教育科技和零售客户中，效果超出基准75%以上&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt; Netflix正在将自己从高端视频投放平台转变为可寻址、可衡量、可编程的数字广告渠道。2025年Netflix广告收入突破15亿美元，预计2026年将达到30亿美元。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/netflix-ads-gets-amazon-audiences-yahoo-signals-and-its-own-conversion-api/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;3-openai拥抱广告2026年借广告技术巨头突围千亿市场&quot;&gt;3. OpenAI拥抱广告：2026年借广告技术巨头突围千亿市场&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月5日（36氪）&lt;/p&gt;
+
+&lt;p&gt;据《The Information》独家消息，OpenAI已与程序化广告交易平台The Trade Desk就广告销售展开初步谈判，计划在ChatGPT等产品中引入广告。这一业务有望在2026年帮助ChatGPT消费者产品收入翻倍至170亿美元。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt; 尽管ChatGPT周活跃用户接近9亿，年化收入突破200亿美元，但2025年全年预计亏损约90亿美元。算力成本高昂，订阅费和API收入难以覆盖训练与推理成本。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;商业化布局：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;2月初开始在美国测试广告功能（免费版及Go订阅用户）&lt;/li&gt;
+  &lt;li&gt;3月2日宣布首家广告技术合作伙伴Criteo（科韬）&lt;/li&gt;
+  &lt;li&gt;正在与The Trade Desk洽谈深度合作，预计2026年下半年小规模测试，2027年全面铺开&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;市场影响：&lt;/strong&gt; OpenAI的高定价（CPM 60美元、最低投入20万美元）直接挑战Google、Meta等传统数字广告巨头。其意图深度理解的对话式广告模式，可能重构广告交互方式，预计2030年有望实现年250亿美元广告收入。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3711398183580032&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;4-the-trade-desk推出openttd向所有人开放生态系统&quot;&gt;4. The Trade Desk推出OpenTTD：向所有人开放生态系统&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月4日&lt;/p&gt;
+
+&lt;p&gt;The Trade Desk推出OpenTTD统一门户，向数据提供商、卖方/发布商、品牌和代理商三大群体提供程序化广告访问和开发者工具。该平台整合了UID2、EUID、OpenPass、OpenAds、OpenSincera和OpenPath文档。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; 在营收增长放缓至18%、股价下跌65%的背景下，OpenTTD是The Trade Desk的生态整合举措。通过统一开发者门户，降低数据提供商、发布商和广告主的集成摩擦。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;技术基础：&lt;/strong&gt; 集成了UID2/EUID身份层、OpenAds拍卖平台、OpenSincera透明元数据等工具，为买卖双方提供不依赖第三方cookie的共享身份层。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/the-trade-desk-opens-its-ecosystem-to-everyone-with-openttd/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;5-谷歌联手shopify杀入ai电商gemini开启完整购物服务&quot;&gt;5. 谷歌联手Shopify杀入AI电商：Gemini开启完整购物服务&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月8日（36氪）&lt;/p&gt;
+
+&lt;p&gt;谷歌旗下AI大模型Gemini开始向美国用户提供完整AI购物服务。消费者在Google AI搜索或Gemini对话框内提出购物需求，系统可完成商品推荐并支持直接下单，全程无需离开AI聊天界面。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;合作伙伴：&lt;/strong&gt; 已与沃尔玛、Shopify、Etsy、Wayfair、Target等电商平台达成合作，并引入Visa、万事达卡、Stripe、Adyen等支付服务商。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心能力：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;基于Google Shopping Graph的450亿条结构化商品数据&lt;/li&gt;
+  &lt;li&gt;价格追踪、库存查询、跨平台比价&lt;/li&gt;
+  &lt;li&gt;Business Agent：品牌专属AI导购，提供个性化互动服务&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;战略背景：&lt;/strong&gt; 面对OpenAI的ChatGPT野蛮增长（周活跃用户7亿），谷歌感受到巨大压力。广告收入占Alphabet总营收66.9%，AI电商可能从谷歌搜索广告手中夺走大量市场份额，这是谷歌的生命线之战。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3650290410250372&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-09&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Mar 2026 13:16:02 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A/2026/03/08/meta%E5%A2%9E%E9%95%BF-46-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A/2026/03/08/meta%E5%A2%9E%E9%95%BF-46-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,程序化广告,流媒体广告</category>
         
       </item>
     
@@ -730,150 +839,6 @@ Adweek发布2026年AI Power 50榜单，表彰推动行业采用人工智能工�
         
         
         <category>ad-news,daily-digest</category>
-        
-      </item>
-    
-      <item>
-        <title>每日广告营销新闻 2026-02-28</title>
-        <description>&lt;h2 id=&quot;-行业数据与市场趋势&quot;&gt;📊 行业数据与市场趋势&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-西班牙数字广告市场突破62亿欧元ctv增长领跑行业&quot;&gt;1. 西班牙数字广告市场突破62亿欧元，CTV增长领跑行业&lt;/h3&gt;
-
-&lt;p&gt;IAB西班牙与普华永道发布的《2026数字广告投资研究报告》显示，西班牙数字广告市场在2025年达到&lt;strong&gt;62.11亿欧元&lt;/strong&gt;，同比增长&lt;strong&gt;11.2%&lt;/strong&gt;，占全国广告总投资的&lt;strong&gt;69.1%&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;CTV（连接电视）&lt;/strong&gt;成为增长最快的细分市场，年增长率达&lt;strong&gt;48.4%&lt;/strong&gt;，投资额达1.749亿欧元&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;搜索广告&lt;/strong&gt;仍是最大类别，投资199.26亿欧元，占比32.1%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;社交媒体&lt;/strong&gt;广告投资183.25亿欧元，占比29.5%，增长13.2%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;网红营销&lt;/strong&gt;投资1.584亿欧元，同比增长25.9%，自2023年以来&lt;strong&gt;翻倍增长&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;行业影响：CTV的强劲增长反映了消费者从传统电视向流媒体迁移的趋势，2026年预计CTV将继续保持30%-60%的高速增长。西班牙数字广告已占据全国广告市场近七成份额，传统电视广告下滑8.7%。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/spains-digital-ad-market-hits-eu6-2bn-and-ctv-just-changed-everything/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;-平台动态与产品创新&quot;&gt;💡 平台动态与产品创新&lt;/h2&gt;
-
-&lt;h3 id=&quot;2-opentable正式进军广告业务推出opentable-media平台&quot;&gt;2. OpenTable正式进军广告业务，推出OpenTable Media平台&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;2月24日&lt;/strong&gt;，全球餐厅预订平台OpenTable（隶属Booking Holdings）宣布推出&lt;strong&gt;OpenTable Media&lt;/strong&gt;广告平台，首次向品牌开放付费广告投放。该平台将餐厅预订数据转化为广告商机。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心产品：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;站内展示广告&lt;/strong&gt;：在预订确认和取消页面投放IAB标准广告&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;邮件营销&lt;/strong&gt;：在OpenTable邮件中嵌入原生广告和独立品牌邮件&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;数据解决方案&lt;/strong&gt;：利用第一方预订数据进行跨渠道定向和再营销&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;品牌合作&lt;/strong&gt;：快闪店、可预订体验和网红激活&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;赞助项目&lt;/strong&gt;：针对餐厅决策者的B2B激活&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;受众价值：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;62%的OpenTable用户年收入超过15万美元&lt;/li&gt;
-  &lt;li&gt;78%拥有本科学历&lt;/li&gt;
-  &lt;li&gt;61%每周至少外出就餐一次&lt;/li&gt;
-  &lt;li&gt;31%每年旅行12次以上&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;试点合作伙伴包括帝亚吉欧、Ghirardelli、Cobra Beer等品牌。OpenTable每年为全球6万多家餐厅填补19亿个席位，为品牌提供了高价值的用餐场景营销机会。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/opentable-turns-dinner-reservations-into-ad-inventory-for-brands/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;3-grindr广告收入暴增37lgbtq平台成广告新蓝海&quot;&gt;3. Grindr广告收入暴增37%，LGBTQ+平台成广告新蓝海&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;2月26日&lt;/strong&gt;，LGBTQ+社交平台Grindr公布2025财年业绩，&lt;strong&gt;广告收入达7400万美元&lt;/strong&gt;，同比增长&lt;strong&gt;37%&lt;/strong&gt;，连续第二年实现超35%的增长。这标志着该平台正在构建订阅之外的第二增长引擎。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;第四季度广告收入2300万美元，同比增长28%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;奖励视频广告&lt;/strong&gt;扩展至全球，允许免费用户通过观看广告解锁付费功能&lt;/li&gt;
-  &lt;li&gt;平台拥有&lt;strong&gt;1500万月活用户&lt;/strong&gt;，日均使用时长&lt;strong&gt;67分钟&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;2025年全球聊天量超&lt;strong&gt;1350亿条&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2026年重点战略：加强&lt;strong&gt;直接广告销售&lt;/strong&gt;和&lt;strong&gt;品牌合作伙伴关系&lt;/strong&gt;，提高广告CPM和收入质量。Grindr独特的受众价值（高收入、高学历、高互动）和第一方数据优势，使其成为医疗保健、娱乐、游戏、旅游和消费品品牌的理想投放平台。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/grindrs-ad-revenue-grows-37-as-platform-bets-big-on-direct-deals/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;-ai与广告技术&quot;&gt;🤖 AI与广告技术&lt;/h2&gt;
-
-&lt;h3 id=&quot;4-深度分析ai颠覆下的市场营销变革从搜索优化到机器人心理学&quot;&gt;4. 【深度分析】AI颠覆下的市场营销变革：从搜索优化到机器人心理学&lt;/h3&gt;
-
-&lt;p&gt;36氪转载哈佛商业评论文章指出，广告营销正面临&lt;strong&gt;两场同时发生的革命&lt;/strong&gt;：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;第一场革命：无需网站的学习&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;对话式AI（ChatGPT、Gemini等）让用户无需点击网站即可获得答案&lt;/li&gt;
-  &lt;li&gt;研究显示，使用ChatGPT后用户在线搜索量平均下降&lt;strong&gt;约20%&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;小型网站受冲击最大，高价值客户流失最快&lt;/li&gt;
-  &lt;li&gt;营销从&lt;strong&gt;SEO（搜索引擎优化）&lt;/strong&gt;转向&lt;strong&gt;GEO（生成式引擎优化）&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;第二场革命：AI成为新客户&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AI智能体开始替代人类做出购买决策&lt;/li&gt;
-  &lt;li&gt;研究发现”AI-AI偏差”：AI系统对AI生成内容评分更高&lt;/li&gt;
-  &lt;li&gt;不同AI模型（GPT、Claude、Gemini）对同一产品有截然不同的偏好&lt;/li&gt;
-  &lt;li&gt;营销人员需要学习”机器人心理学”，设计结构化数据以被算法识别&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业启示：&lt;/strong&gt;
-企业需要为”双重视角”优化内容——既要吸引人类，又要让AI系统能够解析和推荐。未来广告竞争可能演变为”Prompt工程师”之间的较量。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3697969506479744&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;5-谷歌引领大模型广告革命从实时创意生成到商品图片ai化&quot;&gt;5. 谷歌引领大模型广告革命：从实时创意生成到商品图片AI化&lt;/h3&gt;
-
-&lt;p&gt;36氪深度分析指出，作为广告收入占比77%的科技巨头，&lt;strong&gt;谷歌在大模型广告应用上走得最远&lt;/strong&gt;：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心创新：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;对话式AI中插入广告&lt;/strong&gt;：Bard率先在AI对话中原生植入广告&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;实时广告词生成&lt;/strong&gt;：根据用户搜索实时生成个性化广告文案（如”干燥敏感肌护理”自动生成”舒缓你的干燥敏感肌”）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;落地页智能转化&lt;/strong&gt;：输入网址即可自动生成多套广告创意&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Product Studio&lt;/strong&gt;：AI生成多角度、多场景商品图片，节省拍摄成本&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;国内腾讯”混元”、百度”擎舵”、阿里妈妈AIGB出价模型纷纷落地&lt;/li&gt;
-  &lt;li&gt;广告公司如宏盟、阳狮、电通推出AI营销解决方案&lt;/li&gt;
-  &lt;li&gt;Copy.AI和Jasper等AI广告文案工具已实现商业化&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;分析认为，大模型不是让广告人”躺平”，而是将竞争转向更高维度——&lt;strong&gt;Prompt工程能力&lt;/strong&gt;将成为核心竞争力。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/2349521416280582&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;-新闻日期&quot;&gt;📅 新闻日期&lt;/h2&gt;
-&lt;p&gt;整理时间：2026年2月28日（北京时间）
-新闻时效：所有新闻均为&lt;strong&gt;过去7天内&lt;/strong&gt;发布&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;关注更多广告营销资讯，请持续关注本博客每日更新。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-02-28&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 27 Feb 2026 12:15:58 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ctv,ai-advertising,commerce-media/2026/02/27/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-28/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ctv,ai-advertising,commerce-media/2026/02/27/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-02-28/</guid>
-        
-        
-        <category>ad-news,daily-digest,ctv,ai-advertising,commerce-media</category>
         
       </item>
     
