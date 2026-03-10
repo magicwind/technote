@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 08 Mar 2026 21:16:36 -0500</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 21:16:36 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 21:16:29 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 21:16:29 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,73 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>广告营销行业观察 2026-03-10</title>
+        <description>&lt;p&gt;&lt;strong&gt;Meta重写广告归因规则，终与Google Analytics对齐&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Meta本周宣布对广告归因框架进行重大调整，重新定义了点击归因中的点击概念，并推出了新的互动归因类别。从3月起，点击归因将仅包含链接点击，不再包括点赞、分享和收藏等社交互动。这些非链接点击的社交行为将被归入新的互动归因（engage-through attribution）类别。此外，视频广告的互动时长阈值也从10秒降至5秒。&lt;/p&gt;
+
+&lt;p&gt;Meta表示，此次变更旨在缩小Ads Manager和第三方分析平台（如Google Analytics）之间长期存在的数据差异，让归因报告更加可比。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/meta-rewrites-click-attribution-rules-finally-aligning-with-google-analytics/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Netflix推出转化API，整合亚马逊和雅虎受众数据&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Netflix于3月4日宣布其广告平台新增三项重要功能：通过Amazon DSP提供扩展的零售和行为受众定向、通过Yahoo DSP提供确定性受众信号，以及推出自己的转化API（Conversion API）。&lt;/p&gt;
+
+&lt;p&gt;Amazon受众整合将于2026年第二季度在美国开始推出，允许广告主利用亚马逊数万亿次购物、流媒体和浏览信号来精准投放Netflix广告。转化API的早期测试显示，在金融服务、教育科技和零售领域的表现超出基准75%以上。&lt;/p&gt;
+
+&lt;p&gt;Netflix的广告业务在2025年收入超过15亿美元，预计2026年将翻倍至约30亿美元。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/netflix-ads-gets-amazon-audiences-yahoo-signals-and-its-own-conversion-api/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;ChatGPT首个广告技术合作伙伴正式公布&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Criteo（纳斯达克：CRTO）成为OpenAI ChatGPT广告试点中的首个正式广告技术合作伙伴。该整合将在未来几周内在美国推出，覆盖ChatGPT免费版和Go订阅版。&lt;/p&gt;
+
+&lt;p&gt;Criteo的数据显示，从ChatGPT等大语言模型平台转化来的用户转化率约为其他推荐渠道的1.5倍。这一数据来自2026年2月500个零售商的样本观察。&lt;/p&gt;
+
+&lt;p&gt;OpenAI对试点合作伙伴实施了严格的公开信息控制，要求所有外部声明必须在发布前获得OpenAI批准。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/chatgpt-ads-netflix-capi-and-the-trade-desk-under-pressure/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;CTV广告投入持续增长，70%广告主计划增加预算&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;最新行业数据显示，70%的美国广告主计划在2026年将联网电视（CTV）投资平均增加17%，资金主要从传统线性电视和数字渠道重新分配。&lt;/p&gt;
+
+&lt;p&gt;AI驱动的实时优化被视为CTV/流媒体广告最有价值的AI功能（58%），但只有44%的人认为该功能在2026年会广泛可用。近70%的营销人员计划增加流媒体预算，同时寻求更多个性化、敏捷性和可衡量的成果。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.emarketer.com/content/advertisers-refocus-on-ctv-budgets-shift-linear-digital&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;36氪：品牌为何扎堆做周边产品？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;从星巴克的圣诞杯到肯德基的可达鸭，品牌周边产品已成为营销标配。文章分析了周边产品背后的逻辑：满足情感链接、强化IP影响、提高用户粘性，以及多渠道营收。&lt;/p&gt;
+
+&lt;p&gt;周边产品的核心在于品牌文化的可视化表达，成功的周边设计需要遵循四围绕一定制原则：围绕使用场景、衣食住行、IP合作、特殊节日，以及本土化定制。文章认为，商品的情感价值可能远大于实用价值。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/2008579111069058&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-10&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Mar 2026 13:15:50 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,meta,netflix,chatgpt,ctv,ai/2026/03/09/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-03-10/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,meta,netflix,chatgpt,ctv,ai/2026/03/09/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-03-10/</guid>
+        
+        
+        <category>ad-news,daily-digest,Meta,Netflix,ChatGPT,CTV,AI</category>
         
       </item>
     
@@ -731,111 +798,6 @@ Adweek发布2026年AI Power 50榜单，表彰推动行业采用人工智能工�
         <pubDate>Sun, 01 Mar 2026 12:16:15 -0600</pubDate>
         <link>https://magicwind.top/ad-news,daily-digest/2026/03/01/meta%E5%A2%9E%E9%95%BF-49-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
         <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/01/meta%E5%A2%9E%E9%95%BF-49-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
-        
-      </item>
-    
-      <item>
-        <title>一周精华：谷歌宣布、发布动态</title>
-        <description>&lt;h2 id=&quot;谷歌打击大规模广告欺诈ai生成域名骗取广告费&quot;&gt;谷歌打击大规模广告欺诈：AI生成域名骗取广告费&lt;/h2&gt;
-
-&lt;p&gt;谷歌与广告验证公司IAS合作，成功关闭了名为”Genisys”的大规模广告欺诈计划。该计划通过2500万台Android设备上的115款应用执行欺诈活动，使用AI生成近500个虚假域名来骗取广告收入。&lt;/p&gt;
-
-&lt;p&gt;受影响的应用通常是QR码扫描器、PDF阅读器等基础工具，它们会在后台向AI生成的虚假网站推送流量，伪装成Netflix、Instagram等知名应用的流量，导致广告主向机器人流量投放广告，浪费数百万美元广告费。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着AI驱动的广告欺诈进入新阶段，欺诈者可以低成本快速扩大规模。过去一年，谷歌已下架超过870款与广告欺诈相关的Android应用。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/exclusive-google-cracks-down-ad-fraud-scheme/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;品牌回收程序化广告控制权数据主权成新焦点&quot;&gt;品牌回收程序化广告控制权：数据主权成新焦点&lt;/h2&gt;
-
-&lt;p&gt;乐高、Georgia-Pacific和Boots等大型品牌正在将程序化广告投放团队收归内部（in-house），直接管理数字媒体预算和数据。乐高已建立400人的内部创意团队Lego Agency，现在开始组建程序化媒体团队。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心原因：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;数据主权问题：品牌每年投入数亿广告费，但关键行为数据却分散在平台、代理商和第三方工具手中&lt;/li&gt;
-  &lt;li&gt;监管压力：隐私合规和反垄断法规要求品牌对数据流向负全责&lt;/li&gt;
-  &lt;li&gt;成本控制：减少中间商，提升ROI透明度&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt; 美国全国广告主协会数据显示，82%的会员企业已拥有某种形式的内部代理机构（10年前仅58%）。大品牌将继续加码in-house，中型企业则采用混合模式。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.huxiu.com/article/4836782.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;联合利华ceo引争议宣称大品牌广告已死&quot;&gt;联合利华CEO引争议：宣称”大品牌广告已死”&lt;/h2&gt;
-
-&lt;p&gt;联合利华CEO Fernando Fernandez在CAGNY会议上宣布，”大型企业的大品牌信息时代已经结束”，公司将转向”社交优先需求模型”，将媒体预算的50%投入创作者和网红营销。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;业界质疑：&lt;/strong&gt; Adweek专栏作家Mark Ritson指出这一策略存在严重矛盾：&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;联合利华2025年仍投入90亿美元（收入的16%）用于品牌营销，其中超过40亿仍用于传统广告&lt;/li&gt;
-  &lt;li&gt;Fernandez同时强调2026年FIFA世界杯赞助的重要性（这正是典型的大品牌广告）&lt;/li&gt;
-  &lt;li&gt;不同品类需要不同策略，护肤品适合创作者营销，但清洁剂等品类难以通过网红推广&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;教训：&lt;/strong&gt; 这让人想起联合利华此前要求所有品牌都必须有”社会使命”的失败尝试。一刀切的策略往往适得其反。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/the-unilever-ceo-has-a-new-marketing-doctrine-and-it-is-completely-wrong/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2026营销趋势ai重塑分工情绪营销深化线下活动回流&quot;&gt;2026营销趋势：AI重塑分工、情绪营销深化、线下活动回流&lt;/h2&gt;
-
-&lt;p&gt;虎嗅网发布《2026影响品牌的11个营销趋势》报告，揭示行业核心变化：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;AI改变团队分工：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;一人可完成原本需要多人协作的工作，”一人公司”趋势显现&lt;/li&gt;
-  &lt;li&gt;大型代理公司组建AIGC团队，小型工作室更易出现&lt;/li&gt;
-  &lt;li&gt;品牌将日常运营内化，重大战役仍需顶尖创意人才&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;品牌叙事更具象化：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;从宏大叙事转向具体场景展示&lt;/li&gt;
-  &lt;li&gt;Rokid智能眼镜通过演示”语音下单500杯咖啡”来展示产品能力&lt;/li&gt;
-  &lt;li&gt;京东外卖用刘强东送外卖的日常场景打开市场&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;线下商业活动回流：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;LV在上海打造”THE LOUIS路易号”巨轮，成为热点事件&lt;/li&gt;
-  &lt;li&gt;Nike在西岸空降巨型”鞋底”装置，设置8个主题体验空间&lt;/li&gt;
-  &lt;li&gt;BCG预测：未来5年零售媒体网络广告支出将年增25%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://beta.huxiu.com/article/4837827.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;b2b营销新工具channel99通过mcp连接ai平台与营销数据&quot;&gt;B2B营销新工具：Channel99通过MCP连接AI平台与营销数据&lt;/h2&gt;
-
-&lt;p&gt;B2B营销平台Channel99于2月24日宣布，通过Model Context Protocol (MCP)将其营销数据整合到ChatGPT、Microsoft Copilot和Claude中。这使营销人员可以通过对话方式查询跨渠道营销数据，而无需切换多个仪表板。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心价值：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;整合付费媒体、社交、邮件、网站互动和CRM数据&lt;/li&gt;
-  &lt;li&gt;捕获传统归因工具忽略的”无点击”互动（展示、社交浏览、邮件阅读等）&lt;/li&gt;
-  &lt;li&gt;声称捕获的信号量是传统工具的10倍&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;技术背景：&lt;/strong&gt; MCP由Anthropic开发并捐赠给Linux基金会，已成为营销技术行业的主流连接标准。谷歌、AppsFlyer等公司均已发布MCP工具。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/channel99-connects-b2b-marketing-data-to-chatgpt-copilot-and-claude-via-mcp/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-01&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Feb 2026 12:16:11 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/02/28/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8E%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E5%8F%91%E5%B8%83%E5%8A%A8%E6%80%81/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/02/28/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8E%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E5%8F%91%E5%B8%83%E5%8A%A8%E6%80%81/</guid>
         
         
         <category>ad-news,daily-digest</category>
