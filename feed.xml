@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 09 Mar 2026 21:16:29 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 21:16:29 -0500</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 21:16:46 -0500</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:16:46 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,88 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>Meta宣布广告 | 行业快讯</title>
+        <description>&lt;h2 id=&quot;1-meta-重写广告归因规则与-google-analytics-对齐&quot;&gt;1. Meta 重写广告归因规则，与 Google Analytics 对齐&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Meta 于 2026 年 3 月 3 日宣布对广告衡量框架进行重大调整。从本月晚些时候开始，点击归因（click-through attribution）将仅计算链接点击，不再包括点赞、分享、保存等社交互动行为。这些非链接点击行为将被归入新的「互动归因」（engage-through attribution）类别。同时，视频广告的互动观看门槛从 10 秒降低至 5 秒。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这一变化解决了多年来困扰营销部门的痛点——Meta Ads Manager 和 Google Analytics 的数据始终无法匹配。新规则将使 Meta 的归因标准与第三方分析平台保持一致，帮助广告主更准确评估广告效果。广告主可能会看到点击转化数据的下降，但这只是衡量定义的变化，而非实际效果的下降。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;数据支撑：&lt;/strong&gt; Meta 在 2025 年第四季度广告收入达 581 亿美元，同比增长 24%。Instagram Reels 观看时长在美国同比增长超 30%。Meta 引用 WARC 研究指出，社交媒体广告已超越搜索广告，成为全球最大的广告支出渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/meta-rewrites-click-attribution-rules-finally-aligning-with-google-analytics/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-foxwell-founders-发布-2026-年数字营销机构状况报告&quot;&gt;2. Foxwell Founders 发布 2026 年数字营销机构状况报告&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 2026 年 3 月 10 日，Foxwell Digital 联合创意分析平台 Motion 发布《2026 年数字营销机构状况报告》。该报告基于 Foxwell Founders 社区 550 多位营销机构创始人和高管的调查数据，涵盖机构增长挑战、渠道选择、AI 威胁与机遇、团队构成等关键议题。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键发现：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;30% 的机构领导者认为 AI 是未来 12-24 个月内对业务的最大威胁&lt;/li&gt;
+  &lt;li&gt;29% 的受访者表示「客户内部化」（in-housing）是失去客户的首要原因&lt;/li&gt;
+  &lt;li&gt;50% 的受访者计划在 2026 年为客户进行增量测试（lift tests）&lt;/li&gt;
+  &lt;li&gt;45% 的受访者认为广告创意制作是最大挑战&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt; Motion 内容负责人 James Mulvey 指出，尽管 AI 图像、编辑和视频生成工具激增，但端到端的 AI 生成广告效果仍参差不齐。最优秀的机构已经意识到，AI 的更大效用在于研究和创意分析阶段，包括生成广告角度、分析顶级广告以及逆向工程竞争对手的创意。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.globenewswire.com/news-release/2026/03/10/3252917/0/en/Foxwell-Founders-Releases-2026-State-of-Digital-Marketing-Agencies-Report.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-chatgpt-广告以零售和食品杂货品牌为主导&quot;&gt;3. ChatGPT 广告以零售和食品杂货品牌为主导&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 自 OpenAI 于 2026 年 2 月 9 日开始在 ChatGPT 中测试广告以来，应用分析公司 Sensor Tower 在两周内记录了超过 100 个独立品牌的广告推广。数据显示，零售和食品杂货相关广告是目前向 ChatGPT 用户展示的最主要广告类别，旅游和食品配送选项也占据显著位置。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; ChatGPT 广告基于用户与聊天机器人对话的主题展示，这意味着广告类型反映了用户使用 ChatGPT 的目的。零售和食品杂货广告同样主导 Google 搜索，这表明传统的搜索发现行为正在向 ChatGPT 迁移，而不是用于更复杂或多样化的讨论。这为营销人员如何在规划组合中考虑 ChatGPT 推广提供了指引。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;品牌动态：&lt;/strong&gt; Williams-Sonoma 和 The Knot 等品牌已开始在 ChatGPT 中测试广告。但营销人员对高成本、品牌安全和数据透明度有限等问题仍持谨慎态度。&lt;/p&gt;
+
+&lt;p&gt;发布时间：2026 年 3 月 6 日&lt;br /&gt;
+&lt;a href=&quot;https://www.marketingdive.com/news/retail-and-grocery-brands-dominate-chatgpt-ads/814024/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-ai-可能颠覆零售媒体-380-亿美元的搜索广告市场&quot;&gt;4. AI 可能颠覆零售媒体 380 亿美元的搜索广告市场&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 如果 AI 聊天机器人效仿 OpenAI 和 Google 推出赞助广告，它们可能会建立与零售商竞争的超级媒体产品。零售媒体网络（RMN）在美国的广告业务规模达 693.3 亿美元，而搜索广告在 2025 年预计达到近 380 亿美元，占零售媒体支出的约 60%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;威胁分析：&lt;/strong&gt; 如果用户转向 ChatGPT 进行购物研究甚至通过 ChatGPT 的即时结账功能购买，零售商网站的流量将直接下降，从而影响 RMN 变现网站的能力。传统搜索引擎流量预计今年将下降 25%，因为用户越来越多地转向 AI 聊天机器人（Gartner 预测）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;零售商应对：&lt;/strong&gt; Walmart 已与 Google Gemini 和 OpenAI 的 ChatGPT 达成合作，提供 AI 驱动的购物体验。Target 也与 OpenAI 合作，在 ChatGPT 应用中提供专门的购物体验。零售商通过控制 API、衡量工具和交易数据保持优势，几家主要零售商还推出了自己的生成式 AI 聊天机器人，如亚马逊的 Rufus 和沃尔玛的 Sparky。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;营销人员态度：&lt;/strong&gt; 目前，广告主尚未将预算从零售媒体转移至 AI 广告。零售媒体的闭环归因和端到端衡量能力仍具有附加价值。&lt;/p&gt;
+
+&lt;p&gt;发布时间：2026 年 3 月 9 日&lt;br /&gt;
+&lt;a href=&quot;https://digiday.com/marketing/how-ai-could-disrupt-retail-medias-38-billion-search-ad-market/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-google-marketing-live-2026-确定于-5-月-20-日举行&quot;&gt;5. Google Marketing Live 2026 确定于 5 月 20 日举行&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Google 确认 Google Marketing Live 2026 将于 5 月 20 日举行。届时，Google 预计将发布其在广告、AI、衡量和活动自动化方面的最新更新。这是数字营销行业的年度盛事，营销人员和广告主将关注 Google 在 AI 驱动广告、自动化工具和衡量创新方面的最新进展。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt; 这一活动将揭示 Google 如何进一步整合 AI 技术到广告生态系统中，以及如何帮助广告主在日益复杂的数字营销环境中提升效果和效率。&lt;/p&gt;
+
+&lt;p&gt;发布时间：2026 年 3 月 10 日&lt;br /&gt;
+&lt;a href=&quot;https://searchengineland.com/google-marketing-live-2026-set-for-may-20-471141&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-11&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Mar 2026 13:16:09 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/03/10/meta%E5%AE%A3%E5%B8%83%E5%B9%BF%E5%91%8A-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/10/meta%E5%AE%A3%E5%B8%83%E5%B9%BF%E5%91%8A-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -680,127 +762,6 @@ Adweek发布2026年AI Power 50榜单，表彰推动行业采用人工智能工�
         
         
         <category>ad-news,daily-digest,AI-marketing,CTV,programmatic-advertising</category>
-        
-      </item>
-    
-      <item>
-        <title>Meta增长: 49% | 广告营销周报</title>
-        <description>&lt;h2 id=&quot;1-google-搜索广告设计揭秘ai-时代的广告资产策略&quot;&gt;1. Google 搜索广告设计揭秘：AI 时代的广告资产策略&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Google 于 2 月 25 日通过 Ads Decoded 播客详细披露了搜索文本广告的内部设计与测试流程。产品经理 Abby Butler 和 UX 主管 Adam Bullock 揭示了 Google 如何通过”五人一组”方法（数据科学、工程、UX 研究、产品、设计）来测试广告格式变化。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;资产灵活部署&lt;/strong&gt;：标题资产现在可以与附加链接一起展示，打破了传统的固定位置限制&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;“预计提升效果”的真相&lt;/strong&gt;：该系统基于查询上下文、历史数据和格式预测来优化高质量点击和转化&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI Mode 整合&lt;/strong&gt;：随着 AI Mode 日活用户超 7500 万，多轮对话为广告主提供了更多触点机会&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;失败的实验&lt;/strong&gt;：一个使用 LLM 生成答案的广告格式因表现不佳被搁置&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这次罕见的内部披露表明，广告主应将资产多样性视为 AI 驱动搜索环境的基础设施。资产池的深度决定了系统在传统 SERP、AI Overviews 和 AI Mode 对话中的可用素材。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/inside-googles-search-ad-design-engine-tests-assets-and-ai-in-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-oddity-tech-算法危机81-亿美元营收背后的广告灾难&quot;&gt;2. ODDITY Tech 算法危机：8.1 亿美元营收背后的广告灾难&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 美妆科技公司 ODDITY Tech 在 2 月 25 日公布创纪录的 8.1 亿美元年度营收的同时，披露了一场由广告平台算法变化引发的用户获取成本危机，导致股价暴跌 43.49%，一个月内市值蒸发 66%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键事实：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;根本原因&lt;/strong&gt;：公司的 Try Before You Buy 购买模式与广告平台算法更新产生冲突，导致 CPA 飙升至正常水平的 2 倍以上&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;财务冲击&lt;/strong&gt;：Q1 2026 营收预计同比下降 30%，全年指引暂停&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;发现延迟&lt;/strong&gt;：问题始于 2025 年下半年，但直到 2026 年 1 月底才找到根本原因&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;行业信号&lt;/strong&gt;：即使是拥有 6800 万用户、80 亿美元营收的顶级 DTC 广告主，也可能需要数月才能诊断出 AI 驱动拍卖系统的边缘案例问题&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业警示：&lt;/strong&gt; 这一案例清晰展示了 AI 驱动的广告拍卖系统（如 Meta Advantage+ 和 Google Performance Max）的不透明性风险。当算法以非直观的方式重新解释业务模式时，即使是技术最先进的广告主也可能面临灾难性后果。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/oddity-techs-810m-record-year-is-overshadowed-by-an-ad-algorithm-crisis/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-magnite-ctv-广告增长-32流媒体广告迁移加速&quot;&gt;3. Magnite CTV 广告增长 32%：流媒体广告迁移加速&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 独立广告平台 Magnite 于 2 月 25 日公布 Q4 2025 财报，CTV（联网电视）广告贡献（扣除 TAC）同比增长 32%（剔除政治广告），达到 9360 万美元，占总业务的 48%，并在 Q1 2026 已超过 50%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;年度业绩&lt;/strong&gt;：2025 年全年营收 7.14 亿美元，增长 7%；CTV 贡献 3.042 亿美元，增长 17%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;利润率改善&lt;/strong&gt;：调整后 EBITDA 达 2.321 亿美元，利润率 34.7%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;预算迁移&lt;/strong&gt;：展示和移动视频（DV+）预算正在加速向 CTV 迁移，Q4 DV+ 同比下降 1%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;平台处理规模&lt;/strong&gt;：2025 年处理近 70 亿美元广告支出&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; Magnite 的 SpringServe 平台统一了 CTV 广告服务器和程序化 SSP 能力，覆盖 99% 的 CTV 供应市场。CEO Michael Barrett 表示”让流媒体成为我们业务的多数——这对 Magnite 来说是一个决定性时刻”。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt; 这一财报为程序化预算向 CTV 的结构性迁移提供了有力证据。对于媒体购买者和代理商而言，这清晰表明流媒体正成为视频消费和广告投放的主导屏幕。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/magnites-ctv-bet-pays-off-32-growth-signals-a-streaming-ad-shift/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-meta-起诉三国诈骗广告商名人诱饵与隐蔽技术&quot;&gt;4. Meta 起诉三国诈骗广告商：名人诱饵与隐蔽技术&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Meta 于 2 月 26 日对巴西、中国、越南的多名诈骗广告商提起诉讼，并向 8 家前业务合作伙伴发出停止函，打击使用名人冒充和隐蔽技术（cloaking）欺诈用户的行为。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;案件详情：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;巴西被告&lt;/strong&gt;：使用 Deepfake 技术伪造知名医生形象推广未经批准的医疗保健产品，甚至销售教授诈骗技术的课程&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;中国被告&lt;/strong&gt;：深圳云正科技使用名人诱饵广告将美国和日本用户引入投资诈骗群组&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;越南被告&lt;/strong&gt;：使用隐蔽技术通过虚假折扣广告（如 Longchamp 品牌）收集信用卡信息，实施订阅诈骗&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;背景压力：&lt;/strong&gt; 2025 年 11 月披露的内部文件显示，Meta 2024 年约 160 亿美元营收（占总营收 10%）来自诈骗和违禁商品广告。尽管 Meta 称 2025 年移除了 1.34 亿条诈骗广告，但这些诉讼反映了持续的监管和舆论压力。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;技术响应：&lt;/strong&gt; Meta 正在部署 AI 工具分析隐蔽技术尝试，并通过 Fraud Intelligence Reciprocal Exchange 与 50 多家金融机构共享数据。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/meta-sues-scam-advertisers-in-brazil-china-and-vietnam-over-celeb-bait-and-cloaking/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-meta-manus-ai-接入广告管理器20-亿美元收购的快速落地&quot;&gt;5. Meta Manus AI 接入广告管理器：20 亿美元收购的快速落地&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Meta 于 2 月 17 日开始向广告主推出 Manus AI 集成，这是一个自主 AI 代理工具，可在 Meta Ads Manager 内部完成多步骤任务，从报告生成到异常检测。这距离 Meta 在 2025 年 12 月以超过 20 亿美元收购 Manus 仅过去 7 周。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心能力：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;报告压缩&lt;/strong&gt;：将多步骤的报告流程压缩为单次自然语言提示&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;自然语言查询&lt;/strong&gt;：广告主可以用普通英语询问”哪些广告组上个月的 CPA 最高？”&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;主动异常检测&lt;/strong&gt;：Manus 可以主动标记 ROAS 波动、投放模式变化或单位成本激增&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;仪表板创建&lt;/strong&gt;：生成自定义性能可视化仪表板&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;当前限制：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;主要支持销售活动目标&lt;/li&gt;
-  &lt;li&gt;排除房地产、就业、金融服务、政治等敏感类别&lt;/li&gt;
-  &lt;li&gt;仅限桌面访问，需要管理员或编辑权限&lt;/li&gt;
-  &lt;li&gt;独立测试发现数据解读存在准确性问题&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; Manus 不会自动修改广告系列，而是作为分析层运行。它与 Advantage+（投放层自动化）互补，共同构成 Meta 的 AI 增强广告工作流。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt; 这标志着自主 AI 代理从独立工具向广告平台原生基础设施的转变，Google Ads、Microsoft Advertising 和 Amazon Advertising 也在进行类似整合。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/meta-manus-ai-ads-manager-advertising-guide/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;整理时间：&lt;/strong&gt; 2026 年 3 月 2 日&lt;br /&gt;
-&lt;strong&gt;来源：&lt;/strong&gt; PPC Land, ALM Corp, 36氪&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-02&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Mar 2026 12:16:15 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/03/01/meta%E5%A2%9E%E9%95%BF-49-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/01/meta%E5%A2%9E%E9%95%BF-49-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
