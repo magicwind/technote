@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Mar 2026 21:16:29 -0500</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 21:16:29 -0500</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 21:16:39 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 21:16:39 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,107 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>AI创新：OpenAI行业新动向</title>
+        <description>&lt;h2 id=&quot;1-chatgpt正式进军广告市场criteo成为首个合作伙伴&quot;&gt;1. ChatGPT正式进军广告市场：Criteo成为首个合作伙伴&lt;/h2&gt;
+
+&lt;p&gt;OpenAI于2026年3月2日正式宣布与Criteo达成合作，这是ChatGPT广告计划的首个主要广告技术平台集成。约17,000个广告主现在可以通过程序化渠道访问ChatGPT广告位。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CPM定价：约60美元（是Meta标准CPM的3倍）&lt;/li&gt;
+  &lt;li&gt;最低投入：20万美元&lt;/li&gt;
+  &lt;li&gt;转化率：来自大语言模型平台的用户转化率约为其他推荐渠道的1.5倍&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;目前广告仅在美国市场的ChatGPT免费版和Go订阅版中投放。这标志着搜索广告市场出现了继Google和Meta之后的第三大高意图广告平台。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/chatgpt-ads-netflix-capi-and-the-trade-desk-under-pressure/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-viooh与outfront解锁美国25的数字户外广告市场&quot;&gt;2. VIOOH与OUTFRONT解锁美国25%的数字户外广告市场&lt;/h2&gt;
+
+&lt;p&gt;2026年3月9日，VIOOH宣布与OUTFRONT达成战略合作，将超过7,600块数字屏幕和180亿月度曝光量接入其全球程序化供应平台。这一合作使得约25%的美国数字户外广告（DOOH）市场首次可通过自动化购买系统访问。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;覆盖范围：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;路边广告牌、城市街道家具、公交候车亭&lt;/li&gt;
+  &lt;li&gt;纽约地铁、波士顿MBTA、旧金山BART等主要交通系统&lt;/li&gt;
+  &lt;li&gt;超过50个美国主要城市和地区&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这是程序化户外广告发展的重要里程碑，使广告主能够通过单一平台整合从通勤到休闲的全天候消费者触点。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/viooh-and-outfront-just-unlocked-a-quarter-of-the-us-dooh-market/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-adweek警告65的营销岗位可能被ai取代&quot;&gt;3. Adweek警告：65%的营销岗位可能被AI取代&lt;/h2&gt;
+
+&lt;p&gt;Anthropic发布的最新《劳动力市场影响报告》显示，市场研究分析师和营销专家在800个职业中位列AI取代风险第五位，仅次于程序员、客服代表、数据录入和医疗记录专员。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键发现：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;65%的营销专业人员工作任务最终可被AI操作取代&lt;/li&gt;
+  &lt;li&gt;2025年美国营销职位同比下降7%，环比下降15%&lt;/li&gt;
+  &lt;li&gt;受影响最大的是年轻、受过良好教育、处于职业早期的从业者&lt;/li&gt;
+  &lt;li&gt;AI暴露度高的岗位招聘年轻员工的速度比2022年慢约14%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;营销工作语言密集、结构可编码、且长期资源不足，使其特别容易受到AI自动化影响。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/65-of-marketing-jobs-may-not-survive-ai/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-亚马逊广告发布2026年五大营销趋势&quot;&gt;4. 亚马逊广告发布2026年五大营销趋势&lt;/h2&gt;
+
+&lt;p&gt;亚马逊广告于2026年3月12日发布报告，揭示了重塑品牌与受众连接方式的五大关键趋势。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;五大趋势：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI成为创意和战略引擎&lt;/strong&gt;：AI营销支出2025年达473.2亿美元，预计2028年将超过1070亿美元&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;直播商务与创作者经济&lt;/strong&gt;：到2026年，半数体育观众将转向流媒体；美国创作者经济广告支出预计达439亿美元（同比增长18%）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;流媒体不仅是屏幕，更是新互动方式&lt;/strong&gt;：流媒体占所有电视观看时长的44.8%（自2021年增长71%）；79%的观众认为互动广告比标准视频广告更具吸引力&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;无缝全渠道体验&lt;/strong&gt;：全渠道客户的店内消费增加4%，线上消费增加10%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;整合测量&lt;/strong&gt;：需要跨全漏斗的整体视角，消除数据孤岛&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/marketing-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-数字营销新闻综述3月1-10日chatgpt广告google-ai模式与行业重组&quot;&gt;5. 数字营销新闻综述（3月1-10日）：ChatGPT广告、Google AI模式与行业重组&lt;/h2&gt;
+
+&lt;p&gt;ALM Corp发布的综合报告涵盖了3月初最重要的数字营销发展：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键动态：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;ChatGPT广告正式上线&lt;/strong&gt;：CPM为60美元，最低投入20万美元&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Google AI模式扩展&lt;/strong&gt;：AI Mode的Canvas工作区向所有美国用户开放；添加直接结账功能；扩展到53种新语言，日活用户超7500万&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI概览覆盖率激增58%&lt;/strong&gt;：导致顶级自然搜索结果点击率下降58-61%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;WPP重组&lt;/strong&gt;：通过Elevate28计划解散控股公司模式，目标到2028年节省5亿英镑&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;只有3%的营销人员是AI专家&lt;/strong&gt;：尽管工具普及，但97%的营销人员仍处于初级到高级水平&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这些发展共同描绘了一个快速转型的行业图景，AI正在从实验转向主流应用。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-1-10-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-14&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Mar 2026 13:16:02 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,programmatic,dooh/2026/03/13/ai%E5%88%9B%E6%96%B0openai%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,programmatic,dooh/2026/03/13/ai%E5%88%9B%E6%96%B0openai%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,programmatic,DOOH</category>
         
       </item>
     
@@ -772,35 +873,6 @@ Adweek发布2026年AI Power 50榜单，表彰推动行业采用人工智能工�
         
         
         <category>ad-news,daily-digest</category>
-        
-      </item>
-    
-      <item>
-        <title>市场400亿！本周热点</title>
-        <description>&lt;p&gt;工程师之间的比拼。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/2349521416280582&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5-英国数字广告市场突破400亿英镑2026年预计增长103&quot;&gt;5. 英国数字广告市场突破400亿英镑，2026年预计增长10.3%&lt;/h2&gt;
-
-&lt;p&gt;最新数据显示，英国2025年数字广告支出突破401亿英镑，同比增长11.2%。其中 CTV（联网电视）广告暴增48.4%，成为增长最快的渠道。预计2026年英国数字广告市场将增长10.3%，达到447亿英镑，到2027年将突破491亿英镑。这一增长主要由联网电视、影响者营销和程序化广告驱动。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marketingweek.com/uk-digital-adspend-iab/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;本期新闻整理于北京时间2026年3月5日。数据来源：PPC Land、ALM Corp、36氪、Marketing Week 等行业媒体。&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-05&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Mar 2026 12:15:49 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,chatgpt,%E8%B0%B7%E6%AD%8C,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A/2026/03/04/%E5%B8%82%E5%9C%BA400%E4%BA%BF%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,chatgpt,%E8%B0%B7%E6%AD%8C,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A/2026/03/04/%E5%B8%82%E5%9C%BA400%E4%BA%BF%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,ChatGPT,谷歌,程序化广告</category>
         
       </item>
     
