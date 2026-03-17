@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 15 Mar 2026 21:16:42 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2026 21:16:42 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 21:16:31 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 21:16:31 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,89 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>程序化、数字广告重塑行业 | 本周营销观察</title>
+        <description>&lt;h2 id=&quot;1-chatgpt正式进入广告市场cpm高达60美元&quot;&gt;1. ChatGPT正式进入广告市场，CPM高达60美元&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
+OpenAI与广告技术平台Criteo宣布合作，正式将ChatGPT广告库存引入程序化广告市场。约17,000名广告主可通过Criteo访问ChatGPT广告位，CPM价格约60美元（约为Meta CPM的3倍），最低投放门槛20万美元。广告目前在美国的ChatGPT免费版和Go订阅版中展示。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+这标志着AI对话界面正式成为高价值广告渠道。早期数据显示，从大语言模型平台带来的流量转化率显著高于传统推荐来源。这为数字广告市场增加了第三个高意图展示面，品牌主需要重新评估媒体预算分配。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月2日&lt;br /&gt;
+&lt;strong&gt;来源：&lt;/strong&gt; ALM Corp&lt;br /&gt;
+&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-1-10-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-谷歌ai重构广告行业从创意到投放全面ai化&quot;&gt;2. 谷歌AI重构广告行业：从创意到投放全面AI化&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
+谷歌在I/O 2025大会展示了全面的AI广告能力：Veo 3可将静态产品图自动转化为视频短片，Product Studio能自动生成广告文案，AI Mode达到7500万日活用户，并新增直接结账功能。AI总览（AI Overviews）月活用户达15亿，覆盖率同比增长58%，但导致自然搜索点击率下降58-61%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+广告行业正在经历三大转变：1）AI从工具变为创意本体；2）从「千人千面」向「一人千面」演进；3）广告与内容界限模糊，融入AI生成的搜索结果。这要求品牌方构建专属智能Agent，并重新定义品效合一策略。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月（最近一周）&lt;br /&gt;
+&lt;strong&gt;来源：&lt;/strong&gt; 36氪、ALM Corp&lt;br /&gt;
+&lt;a href=&quot;https://www.36kr.com/p/3331832749713924&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊发布2026年营销五大趋势&quot;&gt;3. 亚马逊发布2026年营销五大趋势&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
+亚马逊广告发布2026年营销趋势报告，指出五大关键变化：1）AI成为创意和战略引擎（AI营销支出预计2028年超1070亿美元）；2）直播电商和创作者经济将娱乐转化为购物（美国创作者经济广告支出2026年将达439亿美元，增长18%）；3）流媒体成为互动新阵地（79%观众认为互动广告比标准视频广告更有吸引力）；4）全渠道无缝体验成标配；5）全漏斗整合测量成为决策关键。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+消费者购物旅程已从线性转变为「永远在购物」的状态——75%的消费者每周多次考虑购物。Prime Video广告支持层级已达全球月活3.15亿用户，互动广告能提升3-4个百分点的品牌考虑度和购买意向。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月12日&lt;br /&gt;
+&lt;strong&gt;来源：&lt;/strong&gt; Amazon Ads&lt;br /&gt;
+&lt;a href=&quot;https://advertising.amazon.com/library/news/marketing-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-prime-video无广告服务涨价67改名ultra&quot;&gt;4. Prime Video无广告服务涨价67%，改名Ultra&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
+亚马逊宣布从4月10日起，Prime Video无广告服务价格从每月2.99美元上涨至4.99美元（涨幅67%），并更名为Prime Video Ultra。新服务增加4K/UHD流媒体、杜比全景声、最多5个并发流和100个离线下载。Prime会员费保持14.99美元/月不变。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+这是流媒体广告支持层级定价策略的重要转变。亚马逊2024年1月为Prime Video引入广告，现在通过大幅提高无广告层级价格，将更多用户留在广告支持层级（全球3.15亿月活用户）。每个选择广告层级的用户都是有价值的广告库存，选择Ultra的用户则为亚马逊带来更高的直接收入。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月13日&lt;br /&gt;
+&lt;strong&gt;来源：&lt;/strong&gt; PPC Land&lt;br /&gt;
+&lt;a href=&quot;https://ppc.land/prime-video-ad-free-cost-jumps-67-as-amazon-rebrands-tier-ultra/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-户外广告巨头jcdecaux现金流创纪录程序化广告增长19&quot;&gt;5. 户外广告巨头JCDecaux现金流创纪录，程序化广告增长19%&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
+全球最大户外广告公司JCDecaux发布2025年财报：营收39.67亿欧元，有机增长1.8%，自由现金流达3.429亿欧元（同比增长47.9%，创历史新高）。程序化广告收入达1.805亿欧元（有机增长19.2%），占数字广告收入的10.9%。数字户外广告（DOOH）占集团总收入41.7%，第四季度已达44.8%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
+通过供应方平台VIOOH，JCDecaux已连接57个需求方平台（DSP），覆盖35个国家。程序化DOOH正在快速扩张：最近与OUTFRONT合作解锁了美国25%的DOOH市场（7,600块屏幕，180亿月度展示）。公司预计Q1 2026有机增长将超5%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月13日&lt;br /&gt;
+&lt;strong&gt;来源：&lt;/strong&gt; PPC Land&lt;br /&gt;
+&lt;a href=&quot;https://ppc.land/jcdecauxs-record-cash-flow-hides-a-digital-advertising-arms-race/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-17&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Mar 2026 13:15:55 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/03/16/%E7%A8%8B%E5%BA%8F%E5%8C%96%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/16/%E7%A8%8B%E5%BA%8F%E5%8C%96%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -852,105 +935,6 @@ Adweek发布2026年AI Power 50榜单，表彰推动行业采用人工智能工�
         
         
         <category>ad-news,daily-digest</category>
-        
-      </item>
-    
-      <item>
-        <title>AI创新：谷歌行业新动向</title>
-        <description>&lt;h2 id=&quot;谷歌将于3月23日展示gemini在营销平台的全新应用&quot;&gt;谷歌将于3月23日展示Gemini在营销平台的全新应用&lt;/h2&gt;
-
-&lt;p&gt;谷歌宣布将在2026年3月23日举行的Google NewFront活动中，展示Gemini AI模型在Google Marketing Platform的深度整合。此次演示将重点聚焦Display &amp;amp; Video 360在连接电视(CTV)广告领域的进化，特别是”超越流媒体”的广告能力，涵盖直播体育和实时节目等场景。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Gemini模型已全面嵌入谷歌营销生态，提供端到端的消费者旅程洞察&lt;/li&gt;
-  &lt;li&gt;Display &amp;amp; Video 360已覆盖美国98%的CTV家庭，月均50亿小时的广告支持观看时长&lt;/li&gt;
-  &lt;li&gt;AI驱动的受众画像、广告顾问和分析顾问等工具已大规模落地&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着AI从辅助工具转变为营销平台的核心基础设施，谷歌正在将Gemini的技术能力转化为可衡量的广告投资回报率(ROI)。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-sets-march-23-date-for-gemini-showcase-on-google-marketing-platform/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;程序化广告迎来供应端革新33across联手valpak破解信号丢失难题&quot;&gt;程序化广告迎来供应端革新：33Across联手Valpak破解信号丢失难题&lt;/h2&gt;
-
-&lt;p&gt;33Across与直邮巨头Valpak达成独家供应端合作，将离线搬家数据整合到程序化广告的CTV、展示和移动渠道中。这一合作通过在供应端(而非需求端)应用受众数据，绕过了第三方Cookie同步导致的40-70%匹配率损失。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心创新：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;搬家家庭数据在广告请求发出前即完成定向，大幅提升匹配效率&lt;/li&gt;
-  &lt;li&gt;覆盖超过4100万家庭，定向处于高购买意向的”生命周期触发点”人群&lt;/li&gt;
-  &lt;li&gt;供应端策展(Curation)模式正在重塑程序化广告的价值链&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt; 随着第三方信号持续退化，确定性数据源(如搬家记录、交易数据)与供应端整合正在成为广告技术的新方向，这种模式能够将更多预算投入到”有效媒体”而非中间技术成本。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/33across-and-valpak-bet-on-new-movers-to-fix-programmatics-signal-problem/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;adweek发布ai-power-50榜单塑造广告业下一阶段的领军人物&quot;&gt;ADWEEK发布”AI Power 50”榜单：塑造广告业下一阶段的领军人物&lt;/h2&gt;
-
-&lt;p&gt;ADWEEK揭晓2026年”AI Power 50”榜单，表彰在广告营销领域推动AI应用的顶尖高管。榜单涵盖从数据工程到创意战略的全方位人才，展示了AI如何从效率工具演变为商业增长的核心驱动力。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;入选亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Nationwide保险&lt;/strong&gt;：投资15亿美元用于技术升级，每年1亿美元专门用于AI，目标是2026年让90%员工使用AI平台&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;HubSpot CMO Kipp Bodnar&lt;/strong&gt;：开创”答案引擎优化”策略，使AI引用提升433%，AI推荐需求增长1850%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cognitiv&lt;/strong&gt;：ContextGPT媒体规划工具增长388%，与OpenAI合作推动自然语言驱动的广告策划&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt; 这份榜单反映出AI已从概念炒作进入实战阶段，企业正在通过专职AI高管和专项投资，将AI能力转化为可衡量的业务成果。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/adweeks-ai-power-50-shaping-the-next-phase-of-advertising/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2026抖音电商趋势流量池打通达人分层与全域精细化运营&quot;&gt;2026抖音电商趋势：流量池打通、达人分层与全域精细化运营&lt;/h2&gt;
-
-&lt;p&gt;36氪深度分析指出，2026年抖音电商的核心变革集中在”内容、达人、运营”三大维度。平台已打通自然流量池(M1)、交易流量池(M2)和广告流量池(M3)，让优质内容实现”一次创作，全域变现”。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;内容为王回归&lt;/strong&gt;：短视频电商占比持续提升，KOC原生素材成为店播引流的”香饽饽”&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;达人价值分层&lt;/strong&gt;：头部达人转向”新品起盘+用户拉新”，中腰部达人成为带货主力军(占比85%)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;向量化运营&lt;/strong&gt;：商品卡、直播间、短视频中的场景、话术、BGM等元素被算法解析为”向量标签”，实现精准人群匹配&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;AI赋能加速&lt;/strong&gt;：AI工具(如千川乘方、即梦Seedance 2.0)正在降低内容创作门槛，但同时也加速优质素材同质化，缩短爆款生命周期。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3705534783221896&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;虎嗅2026品牌营销11大趋势---ai重塑分工与情绪营销深水区&quot;&gt;虎嗅：2026品牌营销11大趋势 - AI重塑分工与情绪营销深水区&lt;/h2&gt;
-
-&lt;p&gt;虎嗅发布2026年品牌营销趋势报告，指出行业正经历由AI技术、用户情绪和线下场景共同驱动的深层变革。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心趋势包括：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;AI改变营销分工&lt;/strong&gt;：”一人公司”形态涌现，大型代理公司建立AIGC团队，小型工作室凭借AI实现跨职能融合&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;情绪营销深化&lt;/strong&gt;：品牌从单一温情转向荒诞、抽象、怀旧等复合情绪，张兴朝式”抽象内容”成为新热点&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;线下活动回流&lt;/strong&gt;：LV的”路易号”、Nike的”鞋底宇宙”等沉浸式线下体验成为内容放大器&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;谨慎表达成共识&lt;/strong&gt;：舆论环境混乱倒逼品牌和公众人物降低曝光度，减少风险&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;长期影响：&lt;/strong&gt; 线上流量见顶叠加低价竞争，品牌正在从”投流驱动”转向”用户心流”，通过更贴近日常的叙事激发用户专注、共鸣与分享，将即时转化延伸到心智资产的长期积累。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.huxiu.com/article/4837827.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-07&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Mar 2026 12:15:56 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,programmatic-advertising,tiktok,brand-marketing/2026/03/06/ai%E5%88%9B%E6%96%B0%E8%B0%B7%E6%AD%8C%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,programmatic-advertising,tiktok,brand-marketing/2026/03/06/ai%E5%88%9B%E6%96%B0%E8%B0%B7%E6%AD%8C%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,programmatic-advertising,TikTok,brand-marketing</category>
         
       </item>
     
