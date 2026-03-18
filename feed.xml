@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Mar 2026 21:16:31 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 21:16:31 -0500</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 21:16:21 -0500</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 21:16:21 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,69 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>OpenAI进军程序化 | 行业快讯</title>
+        <description>&lt;h2 id=&quot;1-chatgpt正式进军程序化广告市场&quot;&gt;1. ChatGPT正式进军程序化广告市场&lt;/h2&gt;
+
+&lt;p&gt;OpenAI于3月2日宣布，Criteo成为首个接入ChatGPT广告试点的主要程序化广告平台，约17,000家广告主现可通过程序化渠道投放ChatGPT广告。目前CPM约60美元（约为Meta CPM的3倍），最低投放门槛20万美元。广告将在美国的Free和Go订阅层级展示。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; ChatGPT月活用户超7500万，为品牌提供了在高意图对话式AI界面中出现的新机会，打破了Google和Meta的数字广告双寡头格局。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-1-10-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-jcdecaux程序化广告收入增长192数字化转型加速&quot;&gt;2. JCDecaux程序化广告收入增长19.2%，数字化转型加速&lt;/h2&gt;
+
+&lt;p&gt;全球最大户外广告公司JCDecaux于3月13日发布2025年全年业绩：程序化广告收入达1.805亿欧元，同比增长19.2%，占数字广告收入的10.9%。数字户外广告(DOOH)已占集团总收入的41.7%，在最近一季度更达到44.8%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 通过VIOOH平台连接57个DSP，覆盖35个国家，JCDecaux正将户外广告从传统媒体转变为可程序化购买的数字化渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/jcdecauxs-record-cash-flow-hides-a-digital-advertising-arms-race/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊广告发布2026年五大营销趋势&quot;&gt;3. 亚马逊广告发布2026年五大营销趋势&lt;/h2&gt;
+
+&lt;p&gt;亚马逊广告在近期报告中指出，2025年AI营销支出达473.2亿美元，预计2028年将超1070亿美元。报告强调五大趋势：AI成为创意和策略引擎、直播电商与创作者经济融合、流媒体互动化、全渠道无缝体验、以及全漏斗效果衡量。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 50%的消费者将娱乐视为购买路径的一部分，72%的消费者在与娱乐内容互动时会采取考虑行动。创作者经济广告支出预计2026年将达439亿美元（美国市场）。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/zh-cn/library/news/marketing-trends-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-谷歌ai重构广告行业三大趋势解析&quot;&gt;4. 谷歌AI重构广告行业：三大趋势解析&lt;/h2&gt;
+
+&lt;p&gt;腾讯研究院近期分析指出，谷歌通过AI Mode正在重新定义广告本身。三大核心趋势包括：AI成为创意本体和投放决策者；个性化从”千人千面”升级到”一人千面”；广告消融于搜索体验，AI总览月活用户已达15亿。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 广告不再是独立的竞价位，而是融入AI生成的答案中。这对传统SEO构成挑战，品牌需要争夺”被AI引用”的机会，而非仅仅是搜索结果页位置。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3331832749713924&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-欧盟发布dma-gdpr联合指南重塑科技巨头广告定向规则&quot;&gt;5. 欧盟发布DMA-GDPR联合指南，重塑科技巨头广告定向规则&lt;/h2&gt;
+
+&lt;p&gt;欧盟委员会与欧洲数据保护委员会于3月13日公布超100份公众意见书，涉及《数字市场法》(DMA)与《通用数据保护条例》(GDPR)的交叉应用。指南明确：平台跨服务数据组合用于广告必须获得用户同意，不能依赖”合法利益”。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这将约束Google、Meta、Amazon、Apple、Microsoft等科技巨头的广告定向能力。最终指南预计2026年正式发布，将成为欧盟市场广告合规的权威解释。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/eu-publishes-100-responses-on-rules-that-could-reshape-big-tech-ad-targeting/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-18&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2026 13:15:45 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E9%9A%90%E7%A7%81%E7%9B%91%E7%AE%A1/2026/03/17/openai%E8%BF%9B%E5%86%9B%E7%A8%8B%E5%BA%8F%E5%8C%96-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E9%9A%90%E7%A7%81%E7%9B%91%E7%AE%A1/2026/03/17/openai%E8%BF%9B%E5%86%9B%E7%A8%8B%E5%BA%8F%E5%8C%96-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,程序化广告,隐私监管</category>
         
       </item>
     
@@ -825,116 +888,6 @@ AI Mode已扩展到53种新语言，日活用户超过&lt;strong&gt;7500万&lt;/
         
         
         <category>ad-news,daily-digest,AI广告,程序化广告,流媒体广告</category>
-        
-      </item>
-    
-      <item>
-        <title>一周精华：OpenAI发布、增长动态</title>
-        <description>&lt;h2 id=&quot;每日广告营销新闻-2026-03-08&quot;&gt;每日广告营销新闻 2026-03-08&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-openai携手顶级广告平台ttd2026开启商业化广告变革&quot;&gt;1. OpenAI携手顶级广告平台TTD，2026开启商业化广告变革&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-OpenAI正在与程序化广告交易平台The Trade Desk（TTD）进行初步谈判，计划在ChatGPT等产品中引入广告业务。这一广告业务有望在2026年帮助ChatGPT消费者产品收入翻倍至170亿美元，预计于2026年下半年开始小规模测试，2027年全面铺开。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;OpenAI面临「AI热战」和「AI冷战」双重压力，市场份额从80%降至70%&lt;/li&gt;
-  &lt;li&gt;与TTD的合作将帮助OpenAI快速构建完整的广告生态系统，跳过冷启动环节&lt;/li&gt;
-  &lt;li&gt;这一转变将对谷歌、Meta等传统数字广告巨头形成直接挑战&lt;/li&gt;
-  &lt;li&gt;预计到2030年，OpenAI有望实现每年约250亿美元的广告收入&lt;/li&gt;
-  &lt;li&gt;为国内「千模豆」类AI产品提供商业化标杆，催化本土创新&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; 36氪，2026年3月5日&lt;br /&gt;
-&lt;a href=&quot;https://36kr.com/p/3711398183580032&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;2-2026年ai营销九大趋势从答案搜索到行动执行&quot;&gt;2. 2026年AI营销九大趋势：从答案搜索到行动执行&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-WordStream发布2026年AI营销趋势报告，指出AI已从「测试工具」转变为「操作生态系统」。关键趋势包括：零点击搜索演变为零访问可见性、AI助手接管漏斗任务、多模态营销成为默认标准、首方数据成为新创意引擎等。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键洞察：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AI助手现在处理的是任务完成（如「帮我今天下午找个水管工」），而非简单的信息搜索&lt;/li&gt;
-  &lt;li&gt;HubSpot通过AI优化策略，引用率提升433%，AI推荐需求增长1,850%&lt;/li&gt;
-  &lt;li&gt;「AI就绪」网站正在取代传统SEO，页面前150-200字成为AI解读的关键&lt;/li&gt;
-  &lt;li&gt;付费媒体效果取决于AI输入质量，而非竞价策略&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; WordStream，2026年3月3日&lt;br /&gt;
-&lt;a href=&quot;https://www.wordstream.com/blog/2026-ai-marketing-trends&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;3-ai广告创意迎来规模化时代单季生成7000万资产&quot;&gt;3. AI广告创意迎来规模化时代：单季生成7000万资产&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-JumpFly Digital报告显示，广告主在2025年Q4通过Google Gemini在AI Max和Performance Max活动中生成了近7000万个创意资产，同比增长3倍。ByteDance发布Seedance 2.0，可从文本提示或单张产品照片生成完整的多镜头商业广告序列，帧率高达60fps。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AI工具消除了创意瓶颈，品牌可以快速扩展图像和视频，保持创意新鲜度&lt;/li&gt;
-  &lt;li&gt;Perplexity AI正式放弃广告业务，专注用户信任，AI生态系统分裂为「广告货币化」和「付费订阅」两大阵营&lt;/li&gt;
-  &lt;li&gt;44%的AI搜索用户已将其作为主要互联网搜索来源&lt;/li&gt;
-  &lt;li&gt;AI代理开始端到端执行策略到执行工作流，对传统代理模式形成压力&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; JumpFly，2026年3月2日&lt;br /&gt;
-&lt;a href=&quot;https://www.jumpfly.com/blog/ai-in-online-advertising-5-key-trends-from-february-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;4-adweek发布ai-power-50榜单塑造广告业下一阶段的领军人物&quot;&gt;4. Adweek发布AI Power 50榜单：塑造广告业下一阶段的领军人物&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-Adweek发布2026年AI Power 50榜单，表彰推动行业采用人工智能工具的领导者。榜单涵盖从数据工程到创意战略的各个领域，包括HubSpot CMO Kipp Bodnar、Dstillery首席数据科学家Melinda Han Williams等行业领袖。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Nationwide保险宣布2028年前投资15亿美元用于技术，每年1亿美元专用于AI&lt;/li&gt;
-  &lt;li&gt;OpenAI任命Fidji Simo为应用CEO，负责业务和运营团队，推动包括广告在内的下一阶段增长&lt;/li&gt;
-  &lt;li&gt;Dstillery的DS-1代理AI使用单一对话界面分析信号、构建预测受众并跨平台执行计划&lt;/li&gt;
-  &lt;li&gt;24%的AI用户已依赖AI助手代表其做出购买决策&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; Adweek，2026年3月3日&lt;br /&gt;
-&lt;a href=&quot;https://www.adweek.com/brand-marketing/adweeks-ai-power-50-shaping-the-next-phase-of-advertising/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;5-亚马逊广告2026年体育赛事直播广告新趋势&quot;&gt;5. 亚马逊广告：2026年体育赛事直播广告新趋势&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-亚马逊广告专家指出，体育赛事直播广告技术已远超传统30秒广告。基于受众的创意使品牌能够在同一播出时刻向不同受众群体传递不同信息，互动式视频广告使受众能够在直播期间直接将商品加入购物车。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;创新突破：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;从传统的「大规模触达」转向数字化能力支持的精准再营销和深度互动&lt;/li&gt;
-  &lt;li&gt;全新的亚马逊广告工具可针对广告牌和品牌细分内容提供转化率分析和投放效果指标&lt;/li&gt;
-  &lt;li&gt;闭环归因将比赛中曝光与下游行动连接，品牌能明晰赞助的真实影响&lt;/li&gt;
-  &lt;li&gt;个性化定制让广告从打扰式呈现转变为有价值的相关内容发现&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; 亚马逊广告，2026年3月6日&lt;br /&gt;
-&lt;a href=&quot;https://advertising.amazon.com/zh-cn/library/expert-advice/live-sports-advertising-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;以上新闻整理自36氪、WordStream、JumpFly、Adweek、亚马逊广告等权威行业媒体&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-08&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Mar 2026 12:15:52 -0600</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/03/07/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Eopenai%E5%8F%91%E5%B8%83%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/07/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Eopenai%E5%8F%91%E5%B8%83%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
