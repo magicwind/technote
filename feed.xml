@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Mar 2026 21:16:21 -0500</pubDate>
-    <lastBuildDate>Tue, 17 Mar 2026 21:16:21 -0500</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 21:16:35 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 21:16:35 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,69 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>广告营销行业观察 2026-03-19</title>
+        <description>&lt;h2 id=&quot;1-chatgpt正式进军广告市场cpm高达60美元&quot;&gt;1. ChatGPT正式进军广告市场，CPM高达60美元&lt;/h2&gt;
+
+&lt;p&gt;OpenAI于2026年3月初宣布，广告技术平台Criteo成为首个接入ChatGPT广告试点的主要合作伙伴，使约17,000家广告主能够通过程序化渠道投放ChatGPT广告。目前CPM（千次展示成本）约为60美元，是Meta标准CPM的3倍，最低投入门槛为20万美元。这标志着AI对话界面正式成为高意图广告新渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; ChatGPT的广告入局打破了谷歌和Meta的双寡头格局，为数字广告市场增添了第三个高意图投放平台。早期数据显示，AI平台推荐的流量转化率高于传统推荐来源。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-1-10-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-adobe与nvidia达成战略合作ai营销基础设施全面升级&quot;&gt;2. Adobe与NVIDIA达成战略合作，AI营销基础设施全面升级&lt;/h2&gt;
+
+&lt;p&gt;2026年3月16日，Adobe与NVIDIA在GTC大会上宣布战略合作，将在下一代Firefly AI模型、AI代理工作流、3D数字孪生技术等领域深度整合。新版Firefly模型将基于NVIDIA CUDA-X和NeMo库构建，Adobe Firefly Foundry将为企业提供定制化AI模型训练能力，支持图像、视频、音频等多种内容格式。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这一合作标志着营销内容生产正在从AI辅助转向AI原生模式，企业可在云端快速生成符合品牌调性的大规模营销素材，显著降低制作成本和周期。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/adobe-and-nvidias-firefly-deal-whats-actually-inside-the-ai-marketing-pact/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-google-ai概览覆盖率暴增58搜索点击率骤降&quot;&gt;3. Google AI概览覆盖率暴增58%，搜索点击率骤降&lt;/h2&gt;
+
+&lt;p&gt;研究数据显示，2025年2月至2026年2月期间，Google AI Overviews（AI概览）覆盖率同比增长58%，目前已出现在近一半的搜索查询中。受此影响，排名第一的有机搜索结果点击率下降了58-61%。教育、B2B技术、金融、健康和零售行业受影响最大。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 传统SEO策略正在失效，品牌必须优化内容以获得AI引用，而非仅仅追求排名。生成式引擎优化（GEO）和答案引擎优化（AEO）已从概念转为实战必备技能。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.verkeer.co/insights/march-2026-digital-marketing-industry-updates/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-户外广告ooh收入创历史新高达946亿美元&quot;&gt;4. 户外广告（OOH）收入创历史新高，达94.6亿美元&lt;/h2&gt;
+
+&lt;p&gt;根据2026年3月17日发布的数据，2025年户外广告收入达到创纪录的94.6亿美元，同比增长3.6%，这是该行业连续第19个季度增长。越来越多的全球品牌和新入场企业正在增加OOH投资，数字化户外广告（DOOH）成为增长主力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 在AI驱动的数字广告面临点击率下降的背景下，户外广告因其不可跳过、高曝光的特性，正在吸引更多广告主回归线下渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.globenewswire.com/news-release/2026/03/17/3257261/0/en/Out-of-Home-Advertising-Revenue-Reaches-Record-9-46-Billion.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-央视315曝光ai大模型投毒黑产geo行业面临监管整顿&quot;&gt;5. 央视315曝光AI大模型投毒黑产，GEO行业面临监管整顿&lt;/h2&gt;
+
+&lt;p&gt;2026年央视315晚会曝光了AI大模型数据投毒产业链，不法商家以39.9元的价格向企业兜售GEO（生成式引擎优化）服务，通过操纵AI模型训练数据篡改AI答案，损害消费者权益。国家市场监督管理总局已将AI生成广告列为2026年监管重点，中国广告协会也于3月启动GEO领域标准化建设。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这一事件标志着GEO技术从野蛮生长进入规范化阶段，行业必须在技术创新与合规经营之间找到平衡，建立透明、可信的AI营销生态。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3724411683895943&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-19&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2026 13:15:57 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,chatgpt,adobe,nvidia,google,seo,geo,ooh,%E7%9B%91%E7%AE%A1/2026/03/18/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-03-19/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,chatgpt,adobe,nvidia,google,seo,geo,ooh,%E7%9B%91%E7%AE%A1/2026/03/18/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-03-19/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,ChatGPT,Adobe,NVIDIA,Google,SEO,GEO,OOH,监管</category>
         
       </item>
     
@@ -779,115 +842,6 @@ AI Mode已扩展到53种新语言，日活用户超过&lt;strong&gt;7500万&lt;/
         
         
         <category>ad-news,daily-digest,Meta,Netflix,ChatGPT,CTV,AI</category>
-        
-      </item>
-    
-      <item>
-        <title>Meta增长: 46% | 广告营销周报</title>
-        <description>&lt;h2 id=&quot;-今日广告营销行业要闻-2026-03-09&quot;&gt;📊 今日广告营销行业要闻 (2026-03-09)&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-meta重写归因规则终于与google-analytics对齐&quot;&gt;1. Meta重写归因规则：终于与Google Analytics对齐&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月3日&lt;/p&gt;
-
-&lt;p&gt;Meta本周宣布对其广告衡量框架进行结构性改革，重新定义点击归因中的点击含义，并引入新的归因类别。这一变化旨在解决营销部门长期存在的痛点：Meta Ads Manager与Google Analytics的数据几乎从不一致。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心变化：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;点击归因将仅包含链接点击，不再包含点赞、分享和保存&lt;/li&gt;
-  &lt;li&gt;将非链接点击的社交行为移至新的参与归因类别&lt;/li&gt;
-  &lt;li&gt;视频广告的参与观看阈值从10秒降至5秒（因46%的Reels购买转化发生在前2秒内）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这是Meta首次将其归因标准与Google Analytics等第三方平台对齐，为广告主提供更清晰的跨平台数据对比。营销人员可以更准确地评估Meta广告的真实贡献，优化预算分配策略。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/meta-rewrites-click-attribution-rules-finally-aligning-with-google-analytics/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;2-netflix广告平台三大升级引入亚马逊受众雅虎信号与转化api&quot;&gt;2. Netflix广告平台三大升级：引入亚马逊受众、雅虎信号与转化API&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月4日&lt;/p&gt;
-
-&lt;p&gt;Netflix宣布其广告平台新增三项重要功能：通过Amazon DSP扩展零售与行为受众定向、通过Yahoo DSP激活确定性受众数据，以及推出自有的转化API。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Amazon DSP受众整合：利用亚马逊数万亿购物、流媒体和浏览信号（Q2在美国启动）&lt;/li&gt;
-  &lt;li&gt;Yahoo DSP确定性受众：基于数亿全球用户的兴趣、行为、购买和生命阶段信号&lt;/li&gt;
-  &lt;li&gt;Netflix转化API：早期测试显示，在金融服务、教育科技和零售客户中，效果超出基准75%以上&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt; Netflix正在将自己从高端视频投放平台转变为可寻址、可衡量、可编程的数字广告渠道。2025年Netflix广告收入突破15亿美元，预计2026年将达到30亿美元。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/netflix-ads-gets-amazon-audiences-yahoo-signals-and-its-own-conversion-api/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;3-openai拥抱广告2026年借广告技术巨头突围千亿市场&quot;&gt;3. OpenAI拥抱广告：2026年借广告技术巨头突围千亿市场&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月5日（36氪）&lt;/p&gt;
-
-&lt;p&gt;据《The Information》独家消息，OpenAI已与程序化广告交易平台The Trade Desk就广告销售展开初步谈判，计划在ChatGPT等产品中引入广告。这一业务有望在2026年帮助ChatGPT消费者产品收入翻倍至170亿美元。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt; 尽管ChatGPT周活跃用户接近9亿，年化收入突破200亿美元，但2025年全年预计亏损约90亿美元。算力成本高昂，订阅费和API收入难以覆盖训练与推理成本。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;商业化布局：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;2月初开始在美国测试广告功能（免费版及Go订阅用户）&lt;/li&gt;
-  &lt;li&gt;3月2日宣布首家广告技术合作伙伴Criteo（科韬）&lt;/li&gt;
-  &lt;li&gt;正在与The Trade Desk洽谈深度合作，预计2026年下半年小规模测试，2027年全面铺开&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;市场影响：&lt;/strong&gt; OpenAI的高定价（CPM 60美元、最低投入20万美元）直接挑战Google、Meta等传统数字广告巨头。其意图深度理解的对话式广告模式，可能重构广告交互方式，预计2030年有望实现年250亿美元广告收入。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3711398183580032&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;4-the-trade-desk推出openttd向所有人开放生态系统&quot;&gt;4. The Trade Desk推出OpenTTD：向所有人开放生态系统&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月4日&lt;/p&gt;
-
-&lt;p&gt;The Trade Desk推出OpenTTD统一门户，向数据提供商、卖方/发布商、品牌和代理商三大群体提供程序化广告访问和开发者工具。该平台整合了UID2、EUID、OpenPass、OpenAds、OpenSincera和OpenPath文档。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; 在营收增长放缓至18%、股价下跌65%的背景下，OpenTTD是The Trade Desk的生态整合举措。通过统一开发者门户，降低数据提供商、发布商和广告主的集成摩擦。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;技术基础：&lt;/strong&gt; 集成了UID2/EUID身份层、OpenAds拍卖平台、OpenSincera透明元数据等工具，为买卖双方提供不依赖第三方cookie的共享身份层。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/the-trade-desk-opens-its-ecosystem-to-everyone-with-openttd/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;5-谷歌联手shopify杀入ai电商gemini开启完整购物服务&quot;&gt;5. 谷歌联手Shopify杀入AI电商：Gemini开启完整购物服务&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;发布时间：&lt;/strong&gt; 2026年3月8日（36氪）&lt;/p&gt;
-
-&lt;p&gt;谷歌旗下AI大模型Gemini开始向美国用户提供完整AI购物服务。消费者在Google AI搜索或Gemini对话框内提出购物需求，系统可完成商品推荐并支持直接下单，全程无需离开AI聊天界面。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;合作伙伴：&lt;/strong&gt; 已与沃尔玛、Shopify、Etsy、Wayfair、Target等电商平台达成合作，并引入Visa、万事达卡、Stripe、Adyen等支付服务商。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心能力：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;基于Google Shopping Graph的450亿条结构化商品数据&lt;/li&gt;
-  &lt;li&gt;价格追踪、库存查询、跨平台比价&lt;/li&gt;
-  &lt;li&gt;Business Agent：品牌专属AI导购，提供个性化互动服务&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;战略背景：&lt;/strong&gt; 面对OpenAI的ChatGPT野蛮增长（周活跃用户7亿），谷歌感受到巨大压力。广告收入占Alphabet总营收66.9%，AI电商可能从谷歌搜索广告手中夺走大量市场份额，这是谷歌的生命线之战。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3650290410250372&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-09&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Mar 2026 13:16:02 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A/2026/03/08/meta%E5%A2%9E%E9%95%BF-46-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A/2026/03/08/meta%E5%A2%9E%E9%95%BF-46-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,程序化广告,流媒体广告</category>
         
       </item>
     
