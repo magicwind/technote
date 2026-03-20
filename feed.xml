@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 18 Mar 2026 21:16:35 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Mar 2026 21:16:35 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 21:16:34 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 21:16:34 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,59 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：Meta布局新领域</title>
+        <description>&lt;p&gt;&lt;strong&gt;1. AI驱动的广告支出暴增63%，Meta和谷歌引领行业变革&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;根据Madison and Wall咨询公司最新报告，2026年美国AI驱动的广告收入预计将增长63%，达到570亿美元，占总广告支出的12%。谷歌的Performance Max和Meta的Advantage+等AI自动化工具正在快速获得市场份额。Meta CEO扎克伯格曾宣称，品牌只需连接银行账户并设定目标，AI就能接管整个广告投放流程。研究显示，79%的广告主愿意为了价格和效果而放弃透明度和控制权。预计到2030年，AI驱动的广告预算将以29%的复合年增长率增长。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.businessinsider.com/ai-powered-ads-driving-us-ad-growth-madison-wall-2026-3&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 抖音电商GMV增速34%，巨量千川并入电商部门&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;36氪独家获悉，过去一年（2024年8月-2025年7月）抖音电商GMV同比增长34%，其中货架电商GMV增长49%。巨量千川已被整体并入抖音电商部门，不再只对广告收入负责，而是要与电商产品、运营等部门共同对GMV、商家和用户体验负责。这标志着抖音从”广告公司”向”电商公司”的战略转型。抖音电商今年已累计补贴商家超190亿元，并将补贴重心从消费者转向商家，帮助商家降本增收。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3480136952077441&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 谷歌AI模式重构广告行业：从”千人千面”到”一人千面”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;谷歌在I/O 2025大会上展示了全新AI Mode，将广告与内容深度融合，实现高度个性化和自动化的广告投放。AI总览（生成式AI搜索）月活跃用户已达15亿，广告不再是页面中独立的竞价位，而是直接融入AI生成的答案中。谷歌推出的Veo 3、Imagen 4等工具可自动将静态产品图转化为视频短片，并根据实时趋势生成创意方案。这标志着广告创意生产从人力驱动模式向AI驱动的内容生成模式加速转变。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3331832749713924&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;4. 亚马逊广告发布2026年五大营销趋势&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;亚马逊广告发布2026年营销趋势报告，指出AI、直播电商、流媒体、全渠道营销和整体效果衡量将成为关键。AI营销支出预计到2028年将超过1070亿美元。直播电商与创作者经济推动娱乐向购物形态转变，50%的消费者将娱乐视为购买路径的一部分。流媒体在所有电视观看时长中的占比已达44.8%，79%的观众认为互动式广告比标准视频广告更具吸引力。全渠道消费者在实体店消费金额比单渠道消费者高出4%，线上消费金额则高出10%。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/zh-cn/library/news/marketing-trends-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 自动化广告投放测试：供应链成本降低5.5倍&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;广告技术公司PubMatic和营销代理商Butler/Till为Geloso Beverage Group运行的全自动端到端代理广告活动测试显示，买方供应链成本降低了5.5倍。这一测试证明了AI自动化在媒体购买领域的巨大潜力，预示着广告行业正在从人工决策向AI驱动的自动化投放转型。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.marketingdive.com/news/beverage-marketer-sees-cost-savings-with-agentic-media-buying-test/814905/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-20&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Mar 2026 13:15:58 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,%E5%B9%BF%E5%91%8A%E6%8A%80%E6%9C%AF/2026/03/19/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBmeta%E5%B8%83%E5%B1%80%E6%96%B0%E9%A2%86%E5%9F%9F/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,%E5%B9%BF%E5%91%8A%E6%8A%80%E6%9C%AF/2026/03/19/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBmeta%E5%B8%83%E5%B1%80%E6%96%B0%E9%A2%86%E5%9F%9F/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,广告技术</category>
         
       </item>
     
@@ -775,73 +828,6 @@ AI Mode已扩展到53种新语言，日活用户超过&lt;strong&gt;7500万&lt;/
         
         
         <category>ad-news,daily-digest</category>
-        
-      </item>
-    
-      <item>
-        <title>广告营销行业观察 2026-03-10</title>
-        <description>&lt;p&gt;&lt;strong&gt;Meta重写广告归因规则，终与Google Analytics对齐&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Meta本周宣布对广告归因框架进行重大调整，重新定义了点击归因中的点击概念，并推出了新的互动归因类别。从3月起，点击归因将仅包含链接点击，不再包括点赞、分享和收藏等社交互动。这些非链接点击的社交行为将被归入新的互动归因（engage-through attribution）类别。此外，视频广告的互动时长阈值也从10秒降至5秒。&lt;/p&gt;
-
-&lt;p&gt;Meta表示，此次变更旨在缩小Ads Manager和第三方分析平台（如Google Analytics）之间长期存在的数据差异，让归因报告更加可比。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/meta-rewrites-click-attribution-rules-finally-aligning-with-google-analytics/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Netflix推出转化API，整合亚马逊和雅虎受众数据&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Netflix于3月4日宣布其广告平台新增三项重要功能：通过Amazon DSP提供扩展的零售和行为受众定向、通过Yahoo DSP提供确定性受众信号，以及推出自己的转化API（Conversion API）。&lt;/p&gt;
-
-&lt;p&gt;Amazon受众整合将于2026年第二季度在美国开始推出，允许广告主利用亚马逊数万亿次购物、流媒体和浏览信号来精准投放Netflix广告。转化API的早期测试显示，在金融服务、教育科技和零售领域的表现超出基准75%以上。&lt;/p&gt;
-
-&lt;p&gt;Netflix的广告业务在2025年收入超过15亿美元，预计2026年将翻倍至约30亿美元。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/netflix-ads-gets-amazon-audiences-yahoo-signals-and-its-own-conversion-api/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;ChatGPT首个广告技术合作伙伴正式公布&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Criteo（纳斯达克：CRTO）成为OpenAI ChatGPT广告试点中的首个正式广告技术合作伙伴。该整合将在未来几周内在美国推出，覆盖ChatGPT免费版和Go订阅版。&lt;/p&gt;
-
-&lt;p&gt;Criteo的数据显示，从ChatGPT等大语言模型平台转化来的用户转化率约为其他推荐渠道的1.5倍。这一数据来自2026年2月500个零售商的样本观察。&lt;/p&gt;
-
-&lt;p&gt;OpenAI对试点合作伙伴实施了严格的公开信息控制，要求所有外部声明必须在发布前获得OpenAI批准。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/chatgpt-ads-netflix-capi-and-the-trade-desk-under-pressure/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;CTV广告投入持续增长，70%广告主计划增加预算&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;最新行业数据显示，70%的美国广告主计划在2026年将联网电视（CTV）投资平均增加17%，资金主要从传统线性电视和数字渠道重新分配。&lt;/p&gt;
-
-&lt;p&gt;AI驱动的实时优化被视为CTV/流媒体广告最有价值的AI功能（58%），但只有44%的人认为该功能在2026年会广泛可用。近70%的营销人员计划增加流媒体预算，同时寻求更多个性化、敏捷性和可衡量的成果。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.emarketer.com/content/advertisers-refocus-on-ctv-budgets-shift-linear-digital&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;36氪：品牌为何扎堆做周边产品？&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;从星巴克的圣诞杯到肯德基的可达鸭，品牌周边产品已成为营销标配。文章分析了周边产品背后的逻辑：满足情感链接、强化IP影响、提高用户粘性，以及多渠道营收。&lt;/p&gt;
-
-&lt;p&gt;周边产品的核心在于品牌文化的可视化表达，成功的周边设计需要遵循四围绕一定制原则：围绕使用场景、衣食住行、IP合作、特殊节日，以及本土化定制。文章认为，商品的情感价值可能远大于实用价值。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/2008579111069058&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-10&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Mar 2026 13:15:50 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,meta,netflix,chatgpt,ctv,ai/2026/03/09/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-03-10/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,meta,netflix,chatgpt,ctv,ai/2026/03/09/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-03-10/</guid>
-        
-        
-        <category>ad-news,daily-digest,Meta,Netflix,ChatGPT,CTV,AI</category>
         
       </item>
     
