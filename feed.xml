@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 21 Mar 2026 21:16:30 -0500</pubDate>
-    <lastBuildDate>Sat, 21 Mar 2026 21:16:30 -0500</lastBuildDate>
+    <pubDate>Sun, 22 Mar 2026 21:16:54 -0500</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2026 21:16:54 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,65 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>OpenAI动态: 44% | 广告营销周报</title>
+        <description>&lt;p&gt;每日广告营销新闻 2026-03-23&lt;/p&gt;
+
+&lt;h2 id=&quot;1-openai加速广告业务布局chatgpt广告管理器开启测试&quot;&gt;1. OpenAI加速广告业务布局，ChatGPT广告管理器开启测试&lt;/h2&gt;
+
+&lt;p&gt;OpenAI的广告业务从试点转向功能化基础设施。据Adweek报道，OpenAI已开始与小规模合作伙伴测试广告管理器（Ads Manager），该仪表板允许营销人员实时运行、监控和优化广告活动。目前早期测试者每周会收到包含点击和展示等基本数据的CSV报告。&lt;/p&gt;
+
+&lt;p&gt;OpenAI首席运营官在3月公开表示，ChatGPT中的广告将是一个迭代过程，目前广告位CPM定价约60美元，最低投放承诺为20万美元。虽然归因能力有限，但ChatGPT用户展现出的高意图特征使其成为优质广告环境。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-11-20-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-程序化户外广告投资预计激增44&quot;&gt;2. 程序化户外广告投资预计激增44%&lt;/h2&gt;
+
+&lt;p&gt;VIOOH发布的《2026年行业现状报告》显示，程序化数字户外广告（pDOOH）预计在未来18个月内投资将激增44%，并将出现在全球近半数广告活动中。在已购买pDOOH的营销人员中，99%计划增加或维持投资，美国市场的增幅预期最高，达49%。&lt;/p&gt;
+
+&lt;p&gt;报告基于对美国、英国、法国和中东地区1050名广告主与代理商的调研。数据显示，89%的受访者在过去12个月内将pDOOH纳入了更广泛的数字程序化活动规划。策展市场（curated marketplaces）成为关键结构层，58%的营销人员表示可能在近期考虑使用策展环境。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/pdooh-investment-set-to-surge-44-as-programmatic-takes-over-half-of-campaigns/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-谷歌ai-mode日活用户突破7500万广告与内容深度融合&quot;&gt;3. 谷歌AI Mode日活用户突破7500万，广告与内容深度融合&lt;/h2&gt;
+
+&lt;p&gt;谷歌AI Mode（会话式搜索界面）日活跃用户已超过7500万，并推出购物广告新格式。该格式在AI对话中根据用户查询推荐零售商，现有的搜索、购物和Performance Max广告活动无需创建独立活动即可在AI Mode中展示。&lt;/p&gt;
+
+&lt;p&gt;谷歌还推出了直接优惠（Direct Offers）功能，允许品牌向AI Mode中显示高购买意图的用户投放定制促销信息，而不影响标准定价。基于通用商务协议（UCP）的结账功能已扩展，用户可以直接在AI Mode和Gemini内完成从发现到购买的全流程。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-11-20-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4-ai正在重构广告行业从创意生产到个性化投放&quot;&gt;4. AI正在重构广告行业：从创意生产到个性化投放&lt;/h2&gt;
+
+&lt;p&gt;36氪报道指出，AI正从三个维度重构广告行业：首先，AI从效率工具转变为创意本体，谷歌的Veo 3可将静态产品图自动转化为视频短片，Product Studio的为你生成功能可自动推荐广告语和产品文案。&lt;/p&gt;
+
+&lt;p&gt;其次，个性化范式从千人千面进化至一人千面。谷歌AI Mode结合Gemini能力与购物图谱，实现高度个性化的产品推荐。智能代理结账功能让谷歌从帮助发现升级为促成交易。&lt;/p&gt;
+
+&lt;p&gt;第三，广告正在消融于搜索体验。AI总览（生成式AI搜索）月活用户达15亿，广告不再是页面中独立的竞价位，而是直接融入AI生成的答案中，成为有用信息的一部分。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3331832749713924&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5-ai广告监管加码geo营销面临合规挑战&quot;&gt;5. AI广告监管加码，GEO营销面临合规挑战&lt;/h2&gt;
+
+&lt;p&gt;国家市场监管总局广告监管司发布的《2026年全国广告监管工作要点》明确，AI生成广告是互联网广告监管的重点难点问题。央视报道指出，通过GEO（生成引擎优化）产生的隐性营销已误导消费者，部分AI推荐的产品存在虚假宣传问题。&lt;/p&gt;
+
+&lt;p&gt;《中华人民共和国广告法》第14条明确规定，广告应具有可识别性。2024年市场监管总局发布的《互联网广告可识别性执法指南》进一步说明，利用算法干预自然排序并构成广告的行为，都应被认定为广告发布者。提示词注入等攻击手段若对AI系统核心功能造成实质性损害，可能构成破坏计算机信息系统罪。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3705144872760072&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-23&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Mar 2026 13:16:15 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,programmatic-advertising,openai,google/2026/03/22/openai%E5%8A%A8%E6%80%81-44-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,programmatic-advertising,openai,google/2026/03/22/openai%E5%8A%A8%E6%80%81-44-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,programmatic-advertising,OpenAI,Google</category>
         
       </item>
     
@@ -641,79 +700,6 @@ AI Mode已扩展到53种新语言，日活用户超过&lt;strong&gt;7500万&lt;/
         
         
         <category>ad-news,daily-digest,AI,programmatic,DOOH</category>
-        
-      </item>
-    
-      <item>
-        <title>本周必读：OpenAI布局程序化</title>
-        <description>&lt;p&gt;&lt;strong&gt;1. VIOOH联手OUTFRONT解锁美国四分之一DOOH市场&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;VIOOH于3月9日宣布与美国最大户外媒体公司之一OUTFRONT达成战略合作，将超过7,600块数字屏幕和180亿月度曝光纳入其全球程序化供给平台。此举使约25%的美国数字户外广告（DOOH）市场首次可通过程序化自动购买。&lt;/p&gt;
-
-&lt;p&gt;该合作覆盖50多个主要城市和地区，包括路边广告牌、城市街道家具、公交候车亭、地铁站和通勤铁路环境，涵盖纽约地铁、波士顿MBTA、旧金山BART、芝加哥Metra和华盛顿DC WMATA等主要交通系统。&lt;/p&gt;
-
-&lt;p&gt;VIOOH首席执行官Jean-Christophe Conti表示：与OUTFRONT的合作是我们美国业务的重大转变。通过将美国四分之一的DOOH市场引入VIOOH平台，我们为更多媒体购买者提供了前所未有的规模化优质库存访问。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/viooh-and-outfront-just-unlocked-a-quarter-of-the-us-dooh-market/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;2. 澳大利亚互联网广告市场达184亿澳元，视频广告领涨&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;根据IAB澳大利亚于3月2日发布的报告，2025全年澳大利亚互联网广告市场达到184亿澳元，同比增长11.5%，连续第二年实现两位数增长。&lt;/p&gt;
-
-&lt;p&gt;视频广告成为最大亮点，同比增长19.8%达到54亿澳元；搜索广告增长11.5%至80亿澳元，占总支出的43.8%；非视频展示广告仅增长1.9%至21亿澳元。社交视频广告占视频总投资的40%，达22亿澳元，同比增长35.1%。&lt;/p&gt;
-
-&lt;p&gt;IAB澳大利亚首席执行官Gai Le Roy评论道：2025年的结果显示市场在选择性增长，整体投资强劲增长，主要由视频和搜索驱动，而其他展示环境则增长较为温和。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/australias-internet-ad-market-hits-18-4bn-but-not-all-formats-won/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Calvin Klein启用Dakota Johnson演绎春季广告大片&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Calvin Klein于3月9日在全球推出2026春季广告系列，由知名演员Dakota Johnson主演。该广告由Gordon von Steiner执导和拍摄，展现了Dakota在家中的一天，穿着CK内衣和牛仔裤。&lt;/p&gt;
-
-&lt;p&gt;这一充满暗示性的广告延续了Calvin Klein标志性的挑逗营销风格，从1980年代Brooke Shields的Nothing广告到近期Bad Bunny、Jeremy Allen White等明星的合作。&lt;/p&gt;
-
-&lt;p&gt;该推广活动于3月9日在CK零售店、官网和社交平台全球上线，同时还将在高知名度的户外广告位投放。这一营销策略出现在男性凝视广告回归的行业讨论背景下。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/dakota-johnson-enters-calvin-kleins-advertising-canon/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;4. 中国品牌总裁纷纷走进直播间，内容营销迎新趋势&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2026年初以来，越来越多中国品牌总裁开始拥抱直播和短视频，亲自打造个人IP。抖音电商于7月推出总裁麦爆了栏目，鼓励品牌总裁通过直播、短视频等形式进行创作。&lt;/p&gt;
-
-&lt;p&gt;8月3日，鸿星尔克总裁吴荣照做客头部主播疯狂小杨哥的直播间，不到两分钟售出2.4万单新品板鞋。360周鸿祎、蔚来创始人李斌、物美集团创始人张文中等企业家也纷纷入局。&lt;/p&gt;
-
-&lt;p&gt;这一趋势背后是消费者、品牌、平台的三向奔赴——消费者不满足于单纯低价，更愿意为好产品和好内容买单；品牌意识到总裁亲自出镜能高效提升品牌价值；平台生态的成熟为打造总裁IP提供了天然土壤。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/2932763800263554&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;5. AI助手占全球搜索引擎量的56%，零售媒体380亿美元搜索广告市场面临颠覆&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;根据3月9日的最新研究，AI助手现已占全球搜索引擎量的56%，ChatGPT、Gemini等AI发现工具月度会话量达450亿次。移动应用驱动了大部分活动。&lt;/p&gt;
-
-&lt;p&gt;如果OpenAI的最新举措表明了什么，那就是大语言模型（LLM）正在将自己定位为搜索和购物的首选工具。这对零售媒体380亿美元的搜索广告市场构成潜在颠覆。&lt;/p&gt;
-
-&lt;p&gt;这一趋势预示着广告营销行业将迎来重大变革，品牌需要重新思考搜索广告策略，适应AI驱动的新搜索生态。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://digiday.com/marketing/how-ai-could-disrupt-retail-medias-38-billion-search-ad-market/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-13&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 12 Mar 2026 13:15:51 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,dooh,%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A,ai%E6%90%9C%E7%B4%A2,%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/2026/03/12/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80%E7%A8%8B%E5%BA%8F%E5%8C%96/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,dooh,%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A,ai%E6%90%9C%E7%B4%A2,%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/2026/03/12/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80%E7%A8%8B%E5%BA%8F%E5%8C%96/</guid>
-        
-        
-        <category>ad-news,daily-digest,DOOH,视频广告,AI搜索,内容营销</category>
         
       </item>
     
