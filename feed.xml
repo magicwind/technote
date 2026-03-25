@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Mar 2026 21:16:58 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 21:16:58 -0500</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 21:16:38 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 21:16:38 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,104 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>YouTube发布CTV | 行业快讯</title>
+        <description>&lt;h2 id=&quot;1-google-发布-gemini-驱动的营销平台重大更新&quot;&gt;1. Google 发布 Gemini 驱动的营销平台重大更新&lt;/h2&gt;
+
+&lt;p&gt;Google 在 3 月 23 日的 NewFront 2026 活动上宣布了一系列由 Gemini 3 驱动的重大产品更新：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;直播体育竞价套件&lt;/strong&gt;：专为处理直播流媒体广告竞价高峰而设计，DV360 现可访问每月超 78 亿小时的广告支持观看时长&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Confidential Publisher Match&lt;/strong&gt;：基于可信执行环境的新身份框架，首先与 Roku 合作推出，实现跨设备转化追踪&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kroger 加入商业媒体套件&lt;/strong&gt;：首次提供 SKU 级销售报告，将媒体投放直接关联到具体商品销售&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ads Advisor 全面推出&lt;/strong&gt;：支持 Campaign Builder 自动生成完整广告系列配置，诊断创意拒登原因并生成自定义报表&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;据悉，DV360 目前覆盖美国 96% 的广告支持 CTV 家庭，YouTube Shorts 日浏览量达 2000 亿次。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-newfront-2026-gemini-takes-over-google-marketing-platform/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-ai-广告素材转化率比人工高-20-30&quot;&gt;2. AI 广告素材转化率比人工高 20-30%&lt;/h2&gt;
+
+&lt;p&gt;快手科技副总裁江鹏在 36 氪采访中透露，AI 生成广告素材的投放效果显著优于人工制作：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;成本大幅下降&lt;/strong&gt;：单一素材成本已降至几分钱&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;效果显著提升&lt;/strong&gt;：AI 生成素材整体转化率比人工提升 20-30%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;用户体验更好&lt;/strong&gt;：AI 掌握全平台用户反馈数据，能识别哪些素材更受欢迎&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;生成式强化学习出价&lt;/strong&gt;：快手首创技术使广告收入提升 3-4%，部分客户跑量能力提升 20-30%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在漫剧制作领域，AI 将制作周期从数月缩短至数天，每分钟成本约 1000-2000 元，相比传统 TVC（每分钟 10-100 万）成本优势明显。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3731140115431683&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊发布-2026-年五大营销趋势&quot;&gt;3. 亚马逊发布 2026 年五大营销趋势&lt;/h2&gt;
+
+&lt;p&gt;亚马逊广告近日发布报告，指出 2026 年五大关键趋势：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;AI 成为创意引擎&lt;/strong&gt;：AI 营销支出预计 2028 年将超 1070 亿美元，Creative Agent 可在数小时内完成整个广告系列创意&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;直播电商与创作者经济&lt;/strong&gt;：美国创作者经济广告支出 2026 年将达 439 亿美元，增长 18%；50% 体育观众将转向流媒体&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;流媒体互动广告&lt;/strong&gt;：79% 观众认为互动广告更具吸引力，互动广告使品牌好感度、考虑度和购买意向提升 3-4 个百分点&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;全渠道无缝体验&lt;/strong&gt;：全渠道客户线下消费高 4%，线上消费高 10%；到 2028 年全渠道零售媒体支出将超 24.4%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;全漏斗整合测量&lt;/strong&gt;：通过 Amazon Marketing Cloud 实现隐私安全的第一方数据测量&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;报告指出，近 60% 消费者感觉比以前更多任务并行，75% 每周多次想到购物。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/marketing-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-google-三月核心更新影响-55-网站&quot;&gt;4. Google 三月核心更新影响 55% 网站&lt;/h2&gt;
+
+&lt;p&gt;3 月 11-20 日期间，Google 的三月广泛核心更新持续推出，早期数据显示：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;影响范围广&lt;/strong&gt;：超 55% 被监测网站在前两周出现排名变化&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;三大重点信号&lt;/strong&gt;：信息增益（原创内容）、Gemini 4.0 语义过滤器（检测 AI 批量内容）、更严格的 E-E-A-T 要求&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;作者资质要求提升&lt;/strong&gt;：72% 排名靠前页面显示详细作者资质，在 YMYL（健康、金融、法律）类目尤为明显&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;同时，ChatGPT 广告项目继续迭代扩展，CPM 约 60 美元，最低承诺 20 万美元，AI Mode 日活用户突破 7500 万。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-11-20-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-井英科技获数百万融资布局海外短视频广告市场&quot;&gt;5. 井英科技获数百万融资，布局海外短视频广告市场&lt;/h2&gt;
+
+&lt;p&gt;36 氪独家报道，商业内容创作创企「井英科技」完成数百万元种子+轮融资，由紫竹小苗基金投资：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;市场机会&lt;/strong&gt;：TikTok 海外营收预计今年将超 120 亿美元（去年约 40 亿），绝大部分来自广告&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;产品优势&lt;/strong&gt;：CreativeFitting 平台采用「AI+人工」协同模式，支持 50+ 国家及语种，视频制作成本仅为线下真人实拍的 20%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;效果数据&lt;/strong&gt;：制作的短视频广告多次登上 TikTok 热门榜单，某电商视频获 8000+ 点赞，转化数位居行业 Top 5%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;客户构成&lt;/strong&gt;：出海客户占比达 80%，已服务电商、金融、游戏及广告代理商等头部客户&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;公司计划拓展东南亚市场，并持续迭代 AI 数字人、数字商品建模等技术。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/1970524085488774&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-25&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2026 13:16:01 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/03/24/youtube%E5%8F%91%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/24/youtube%E5%8F%91%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -591,129 +689,6 @@ OpenAI与广告技术平台Criteo宣布合作，正式将ChatGPT广告库存引�
         
         
         <category>ad-news,daily-digest</category>
-        
-      </item>
-    
-      <item>
-        <title>OpenAI增长: 3倍 | 广告营销周报</title>
-        <description>&lt;h2 id=&quot;1-chatgpt正式进入广告市场criteo成为首个程序化合作伙伴&quot;&gt;1. ChatGPT正式进入广告市场：Criteo成为首个程序化合作伙伴&lt;/h2&gt;
-
-&lt;p&gt;OpenAI的ChatGPT广告试点项目迎来重大进展——3月2日，全球广告技术平台Criteo宣布成为首个接入ChatGPT广告试点的程序化广告平台。这标志着AI对话平台正式进入商业化广告生态。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;CPM定价约60美元（是Meta平台的3倍）&lt;/li&gt;
-  &lt;li&gt;最低投放门槛20万美元&lt;/li&gt;
-  &lt;li&gt;覆盖ChatGPT免费版和Go订阅版（美国市场）&lt;/li&gt;
-  &lt;li&gt;Criteo平台连接1.7万广告主，年度媒体投放超40亿美元&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;转化效果亮眼：&lt;/strong&gt;
-Criteo内部数据显示，从ChatGPT等大语言模型平台引导至零售网站的用户，转化率是其他渠道的&lt;strong&gt;1.5倍&lt;/strong&gt;。这一数据基于2026年2月对500家美国零售商的观察。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
-这是广告行业的分水岭时刻。过去十年，Google和Meta垄断了数字广告市场，现在ChatGPT以高意图对话场景切入，为品牌提供了第三条高价值广告渠道。对于营销人员来说，2026年的媒体计划正在实时重写。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/criteo-becomes-first-ad-tech-partner-in-openais-chatgpt-ad-pilot/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-linkedin成为ai搜索引擎的核心内容源&quot;&gt;2. LinkedIn成为AI搜索引擎的核心内容源&lt;/h2&gt;
-
-&lt;p&gt;根据Axios最新报道，LinkedIn正迅速成为ChatGPT、Claude、Gemini等AI助手最常引用的内容来源之一。自2025年末以来，LinkedIn在AI生成回答中的引用量已翻倍，尤其在专业和商业相关查询中。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;为什么是LinkedIn？&lt;/strong&gt;
-AI系统越来越依赖高质量、人类原创的专业洞察来回答复杂问题。LinkedIn、Reddit和Wikipedia等平台因其真实性和专业性成为AI优先选择的数据源。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;对品牌的启示：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;高管的思想领导力内容现在直接影响AI可见性&lt;/li&gt;
-  &lt;li&gt;个人品牌权威可能影响AI助手生成的搜索结果&lt;/li&gt;
-  &lt;li&gt;营销人员需要针对&lt;strong&gt;生成式引擎优化（GEO）&lt;/strong&gt;调整内容策略&lt;/li&gt;
-  &lt;li&gt;在LinkedIn发布的专业内容可能比企业官网博客更容易被AI引用&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这意味着企业高管在LinkedIn上的个人影响力，正在成为品牌在AI时代可见性的关键变量。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-digital-trends-march-16-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-google-ai模式达7500万日活覆盖53种语言&quot;&gt;3. Google AI模式达7500万日活，覆盖53种语言&lt;/h2&gt;
-
-&lt;p&gt;Google在3月初推出了多项重大AI功能升级：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Canvas工作区全面开放：&lt;/strong&gt;
-3月4日，Google将AI Mode中的Canvas工作区向所有美国用户开放（无需Google Labs申请）。用户可以在搜索界面内直接创建文档、编写代码、制定计划——Google正在将搜索界面打造成多任务目的地。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;内置结账功能上线：&lt;/strong&gt;
-Google AI Mode现已支持通过UCP（通用结账协议）直接完成购买，用户无需跳转即可在对话中完成交易。对电商营销人员来说，传统的「搜索→商品页→购物车→结账」漏斗正在被压缩为一次对话。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;全球扩展：&lt;/strong&gt;
-AI Mode已扩展到53种新语言，日活用户超过&lt;strong&gt;7500万&lt;/strong&gt;。对跨国品牌来说，AI搜索优化不再是美国市场的专属议题。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;流量冲击数据：&lt;/strong&gt;
-研究显示，Google AI Overviews的覆盖率同比增长58%，现已出现在近一半的搜索查询中。更严峻的是：AI Overviews导致排名第一的自然结果点击率下降了&lt;strong&gt;58-61%&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-1-10-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-warc上调2026年全球广告收入预测&quot;&gt;4. WARC上调2026年全球广告收入预测&lt;/h2&gt;
-
-&lt;p&gt;全球权威营销研究机构WARC发布最新《全球广告预测》报告，大幅上调2026年市场增长预期：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;2026年全球广告支出预计增长&lt;strong&gt;9.1%&lt;/strong&gt;（比9月预测上调1个百分点）&lt;/li&gt;
-  &lt;li&gt;市场规模将达到1.19万亿美元&lt;/li&gt;
-  &lt;li&gt;2027年增长率预计维持在7.9%，市场规模有望达到1.4万亿美元&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;赢家集中：&lt;/strong&gt;
-报告预测，Alphabet、亚马逊和Meta三大科技巨头将占据2025-2027年间&lt;strong&gt;绝大部分&lt;/strong&gt;新增广告支出，其他广播公司、出版商和新兴AdTech公司只能争夺边际市场份额。&lt;/p&gt;
-
-&lt;p&gt;这一预测强化了一个趋势：数字广告市场的集中度正在持续提升，中小平台的生存空间进一步被压缩。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kcnt27wg6nerypa0ebqcwan0&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-ctv广告进入闭环时代ai引导的购物转化率提升53&quot;&gt;5. CTV广告进入闭环时代：AI引导的购物转化率提升53%&lt;/h2&gt;
-
-&lt;p&gt;联网电视（CTV）广告在2026年迎来质变——不再只是品牌曝光工具，而是可衡量、可归因的效果广告渠道。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;零售媒体整合&lt;/strong&gt;：亚马逊和Roku联手打造统一平台，让广告主可通过单一平台触达8000万流媒体家庭，CTV广告可直接关联购物数据，证明哪些广告真正带来销售&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI驱动的互动广告&lt;/strong&gt;：2026年数据显示，结合AI引导的购物功能，用户在互动后30分钟内的购买率比标准广告高出&lt;strong&gt;53%&lt;/strong&gt;（来源：tvScientific / Firework）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;可购物广告格式扩展&lt;/strong&gt;：广告主开始将CTV视为效果媒体，要求与CRM、POS和零售系统集成，实现全链路归因&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;市场规模：&lt;/strong&gt;
-零售媒体市场预计2026年达到2039亿美元，CTV与零售媒体的深度融合正在重塑电视广告的商业模式。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.rockbot.com/retail-media-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;编者按：&lt;/strong&gt;
-本周广告营销行业的变化核心主题是「融合」——AI与广告的融合、对话与交易的融合、品牌曝光与效果转化的融合。ChatGPT进入广告市场、LinkedIn成为AI内容源、CTV实现闭环归因，这些看似独立的事件背后，是整个营销基础设施在AI时代的重构。&lt;/p&gt;
-
-&lt;p&gt;对营销人员来说，传统的「流量-点击-排名」中间层正在被压缩。成功的品牌不是使用最多AI工具的，而是最清楚&lt;strong&gt;在哪些环节AI无法替代人类判断&lt;/strong&gt;的。正如CoSchedule调研显示：只有3%的营销人员是AI专家，但AI工具已经普及——这不是技能差距，而是组织设计问题。&lt;/p&gt;
-
-&lt;p&gt;2026年的竞争优势属于那些在AI无法替代的领域精准发力的团队。&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-16&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Mar 2026 13:16:08 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,chatgpt,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,ctv/2026/03/15/openai%E5%A2%9E%E9%95%BF-3%E5%80%8D-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,chatgpt,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,ctv/2026/03/15/openai%E5%A2%9E%E9%95%BF-3%E5%80%8D-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,ChatGPT,零售媒体,CTV</category>
         
       </item>
     
