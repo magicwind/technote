@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Mar 2026 21:16:38 -0500</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 21:16:38 -0500</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 21:17:10 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 21:17:10 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,113 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>市场96%！本周热点</title>
+        <description>&lt;h2 id=&quot;1-criteo-成为-chatgpt-广告试点首个广告技术合作伙伴&quot;&gt;1. Criteo 成为 ChatGPT 广告试点首个广告技术合作伙伴&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Criteo（纳斯达克代码：CRTO）于 3 月 2 日宣布，成为首个与 OpenAI 的 ChatGPT 广告试点项目整合的广告技术合作伙伴，覆盖美国市场的 ChatGPT 免费版和 Go 订阅版。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Criteo 平台每年激活超过 40 亿美元的媒体支出，服务全球约 17,000 个广告主&lt;/li&gt;
+  &lt;li&gt;内部数据显示，来自 ChatGPT 等大语言模型平台的用户转化率约为其他推荐渠道的 &lt;strong&gt;1.5 倍&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;OpenAI 此前报告的广告 CPM 定价为 60 美元&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着生成式 AI 平台正式进入程序化广告生态，为品牌在对话式 AI 体验中的广告投放开辟了新路径。Criteo CEO Michael Komasinski 表示：”这代表了在新兴 AI 体验中推进广告的重要一步。”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.criteo.com/news/press-releases/2026/03/criteo-joins-openai-advertising-pilot-in-chatgpt/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-netflix-推出自有转化-api并开放亚马逊受众数据接入&quot;&gt;2. Netflix 推出自有转化 API，并开放亚马逊受众数据接入&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Netflix 于 3 月 4 日宣布三项重大广告平台升级：推出自有 Conversion API、整合亚马逊 DSP 受众定向功能、并引入 Yahoo DSP 确定性信号。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Netflix 广告业务 2025 年收入超过 &lt;strong&gt;15 亿美元&lt;/strong&gt;，连续第三年实现 2.5 倍以上增长&lt;/li&gt;
+  &lt;li&gt;公司预计 2026 年广告收入将翻倍至约 &lt;strong&gt;30 亿美元&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;亚马逊受众数据基于”数万亿”购物、流媒体和浏览信号构建&lt;/li&gt;
+  &lt;li&gt;Yahoo ConnectID 覆盖 2.32 亿美国登录用户&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; Netflix 的 Conversion API 填补了流媒体广告归因的关键空白，使性能广告主能够获得与 Meta、Google 等平台相当的归因精度。亚马逊 DSP 整合将于 2026 年第二季度在美国推出，让广告主可以基于购物行为精准触达 Netflix 观众。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/chatgpt-ads-netflix-capi-and-the-trade-desk-under-pressure/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-google-newfront-2026gemini-全面接管营销平台&quot;&gt;3. Google NewFront 2026：Gemini 全面接管营销平台&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Google 于 3 月 23 日（北京时间 3 月 24 日）在纽约举办 NewFront 2026 活动，正式推出基于 Gemini 3 模型的营销平台重大升级。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心功能：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;实时体育竞价套件&lt;/strong&gt;：专为 Display &amp;amp; Video 360 打造，可在不到 1 秒内处理数百万个竞价请求&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Confidential Publisher Match&lt;/strong&gt;：基于可信执行环境的新一代身份框架，首批合作伙伴为 Roku&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kroger 商务媒体合作&lt;/strong&gt;：提供 SKU 级别的销售报告，直接连接广告支出与零售产品销售&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ads Advisor 全面上线&lt;/strong&gt;：Gemini 驱动的活动助手现已面向所有 DV360 用户开放&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;DV360 在美国覆盖 &lt;strong&gt;96%&lt;/strong&gt; 的广告支持型联网电视家庭&lt;/li&gt;
+  &lt;li&gt;每月提供超过 &lt;strong&gt;78 亿小时&lt;/strong&gt;的广告支持观看时长（仅美国）&lt;/li&gt;
+  &lt;li&gt;YouTube Shorts 每日观看量达 &lt;strong&gt;2000 亿次&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; Google 通过 Gemini 3 的推理和多模态理解能力，将 AI 能力从自动化提升到智能决策层面。实时体育竞价套件直接应对了程序化广告在处理直播赛事流量激增时的技术瓶颈。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-newfront-2026-gemini-takes-over-google-marketing-platform/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-meta-引入参与归因重新定义社交媒体广告效果衡量&quot;&gt;4. Meta 引入”参与归因”，重新定义社交媒体广告效果衡量&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Meta 于 3 月 4 日宣布，将从 3 月下旬开始改变点击归因报告方式，新增”参与归因”（engage-through attribution）类别，将点击归因拆分为三类：点击、浏览和参与。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;技术细节：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;新的”参与归因”类别专门捕获社交特定行为——分享、点赞、保存、书签、评论&lt;/li&gt;
+  &lt;li&gt;更新后的”点击归因”定义将与 Google Analytics 的点击计数方式对齐，仅记录导致落地页访问的点击&lt;/li&gt;
+  &lt;li&gt;该变化旨在更准确反映社交媒体上的间接影响路径&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这是平台对归因模型的重大调整，反映了社交媒体营销效果评估的复杂性。广告主需要重新校准历史数据对比，理解参与行为对下游转化的真实贡献。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adexchanger.com/social-media/meta-has-a-new-way-to-measure-social-engagement-because-clicks-dont-cut-it/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-广告技术市场预计-2032-年达到万亿美元规模&quot;&gt;5. 广告技术市场预计 2032 年达到万亿美元规模&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Verified Market Research 发布的最新报告显示，全球广告技术（AdTech）市场规模 2025 年估值为 7834.6 亿美元，预计到 2032 年将以 &lt;strong&gt;14.3%&lt;/strong&gt; 的复合年增长率持续增长。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;驱动因素：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;数据驱动创新：AI、区块链、VR 和 AR 等新兴技术不断融入广告生态&lt;/li&gt;
+  &lt;li&gt;程序化广告普及：自动化购买和精准定向成为行业标准&lt;/li&gt;
+  &lt;li&gt;隐私技术革新：可信执行环境等技术在保护用户隐私的同时实现精准营销&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 报告指出，数字经济的持续发展、社交媒体和短视频平台的繁荣，以及电商平台为品牌精准触达目标受众提供的有效途径，共同推动广告技术市场的结构性增长。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://finance.yahoo.com/news/adtech-market-expected-transform-global-143000719.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-26&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Mar 2026 13:16:32 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,chatgpt,netflix,google,meta,adtech/2026/03/25/%E5%B8%82%E5%9C%BA96%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,chatgpt,netflix,google,meta,adtech/2026/03/25/%E5%B8%82%E5%9C%BA96%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,ChatGPT,Netflix,Google,Meta,AdTech</category>
         
       </item>
     
@@ -606,89 +713,6 @@
         
         
         <category>ad-news,daily-digest,AI广告,程序化广告,隐私监管</category>
-        
-      </item>
-    
-      <item>
-        <title>程序化、数字广告重塑行业 | 本周营销观察</title>
-        <description>&lt;h2 id=&quot;1-chatgpt正式进入广告市场cpm高达60美元&quot;&gt;1. ChatGPT正式进入广告市场，CPM高达60美元&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-OpenAI与广告技术平台Criteo宣布合作，正式将ChatGPT广告库存引入程序化广告市场。约17,000名广告主可通过Criteo访问ChatGPT广告位，CPM价格约60美元（约为Meta CPM的3倍），最低投放门槛20万美元。广告目前在美国的ChatGPT免费版和Go订阅版中展示。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
-这标志着AI对话界面正式成为高价值广告渠道。早期数据显示，从大语言模型平台带来的流量转化率显著高于传统推荐来源。这为数字广告市场增加了第三个高意图展示面，品牌主需要重新评估媒体预算分配。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月2日&lt;br /&gt;
-&lt;strong&gt;来源：&lt;/strong&gt; ALM Corp&lt;br /&gt;
-&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-1-10-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-谷歌ai重构广告行业从创意到投放全面ai化&quot;&gt;2. 谷歌AI重构广告行业：从创意到投放全面AI化&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-谷歌在I/O 2025大会展示了全面的AI广告能力：Veo 3可将静态产品图自动转化为视频短片，Product Studio能自动生成广告文案，AI Mode达到7500万日活用户，并新增直接结账功能。AI总览（AI Overviews）月活用户达15亿，覆盖率同比增长58%，但导致自然搜索点击率下降58-61%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
-广告行业正在经历三大转变：1）AI从工具变为创意本体；2）从「千人千面」向「一人千面」演进；3）广告与内容界限模糊，融入AI生成的搜索结果。这要求品牌方构建专属智能Agent，并重新定义品效合一策略。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月（最近一周）&lt;br /&gt;
-&lt;strong&gt;来源：&lt;/strong&gt; 36氪、ALM Corp&lt;br /&gt;
-&lt;a href=&quot;https://www.36kr.com/p/3331832749713924&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-亚马逊发布2026年营销五大趋势&quot;&gt;3. 亚马逊发布2026年营销五大趋势&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-亚马逊广告发布2026年营销趋势报告，指出五大关键变化：1）AI成为创意和战略引擎（AI营销支出预计2028年超1070亿美元）；2）直播电商和创作者经济将娱乐转化为购物（美国创作者经济广告支出2026年将达439亿美元，增长18%）；3）流媒体成为互动新阵地（79%观众认为互动广告比标准视频广告更有吸引力）；4）全渠道无缝体验成标配；5）全漏斗整合测量成为决策关键。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
-消费者购物旅程已从线性转变为「永远在购物」的状态——75%的消费者每周多次考虑购物。Prime Video广告支持层级已达全球月活3.15亿用户，互动广告能提升3-4个百分点的品牌考虑度和购买意向。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月12日&lt;br /&gt;
-&lt;strong&gt;来源：&lt;/strong&gt; Amazon Ads&lt;br /&gt;
-&lt;a href=&quot;https://advertising.amazon.com/library/news/marketing-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-prime-video无广告服务涨价67改名ultra&quot;&gt;4. Prime Video无广告服务涨价67%，改名Ultra&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-亚马逊宣布从4月10日起，Prime Video无广告服务价格从每月2.99美元上涨至4.99美元（涨幅67%），并更名为Prime Video Ultra。新服务增加4K/UHD流媒体、杜比全景声、最多5个并发流和100个离线下载。Prime会员费保持14.99美元/月不变。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
-这是流媒体广告支持层级定价策略的重要转变。亚马逊2024年1月为Prime Video引入广告，现在通过大幅提高无广告层级价格，将更多用户留在广告支持层级（全球3.15亿月活用户）。每个选择广告层级的用户都是有价值的广告库存，选择Ultra的用户则为亚马逊带来更高的直接收入。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月13日&lt;br /&gt;
-&lt;strong&gt;来源：&lt;/strong&gt; PPC Land&lt;br /&gt;
-&lt;a href=&quot;https://ppc.land/prime-video-ad-free-cost-jumps-67-as-amazon-rebrands-tier-ultra/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-户外广告巨头jcdecaux现金流创纪录程序化广告增长19&quot;&gt;5. 户外广告巨头JCDecaux现金流创纪录，程序化广告增长19%&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;
-全球最大户外广告公司JCDecaux发布2025年财报：营收39.67亿欧元，有机增长1.8%，自由现金流达3.429亿欧元（同比增长47.9%，创历史新高）。程序化广告收入达1.805亿欧元（有机增长19.2%），占数字广告收入的10.9%。数字户外广告（DOOH）占集团总收入41.7%，第四季度已达44.8%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt;
-通过供应方平台VIOOH，JCDecaux已连接57个需求方平台（DSP），覆盖35个国家。程序化DOOH正在快速扩张：最近与OUTFRONT合作解锁了美国25%的DOOH市场（7,600块屏幕，180亿月度展示）。公司预计Q1 2026有机增长将超5%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年3月13日&lt;br /&gt;
-&lt;strong&gt;来源：&lt;/strong&gt; PPC Land&lt;br /&gt;
-&lt;a href=&quot;https://ppc.land/jcdecauxs-record-cash-flow-hides-a-digital-advertising-arms-race/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-17&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Mar 2026 13:15:55 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/03/16/%E7%A8%8B%E5%BA%8F%E5%8C%96%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/16/%E7%A8%8B%E5%BA%8F%E5%8C%96%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
