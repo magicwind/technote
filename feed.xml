@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Mar 2026 21:17:10 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2026 21:17:10 -0500</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 21:16:36 -0500</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:16:36 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,51 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：OpenAI布局CTV</title>
+        <description>&lt;p&gt;&lt;strong&gt;1. 展示广告成本分化：再营销CPM暴涨18%，探索广告下跌11%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;根据AdRoll 2026年第一季度报告（3月24日发布），展示广告市场出现显著分化：再营销广告CPM（千次展示成本）同比暴涨18%，而探索广告CPM下降11%。报告分析了超过20,000家企业的数据，指出两大结构性原因：一是零点击搜索和AI答案引擎导致发布商网站流量大幅下降（部分网站流量下降20%-90%），使得上层漏斗广告可用受众池缩小；二是CTV和DOOH广告的程序化转型，品牌预算正在向联网电视和数字户外广告迁移。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/adroll-retargeting-cpms-jump-18-as-display-prospecting-quietly-crumbles/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Criteo：AI发现平台或成数字广告预算下一个破坏者&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Criteo印度负责人Medhavi Singh在3月26日接受采访时表示，AI主导的发现平台（如ChatGPT）可能成为数字广告的下一个重大变革。今年3月，Criteo成为首家与OpenAI广告试点项目（ChatGPT Free和Go版本）集成的广告技术合作伙伴。Singh指出，用户行为正在转变——大量搜索正在通过大语言模型进行，预算最终会跟随用户去向。她认为，零售媒体已从小众渠道发展为占印度数字营销预算24-25%的主流渠道，而AI发现平台可能成为继零售媒体之后的下一个预算重新分配点。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bestmediainfo.com/mediainfo/mediainfo-digital/will-ai-discovery-eat-into-digital-ad-budgets-criteo-thinks-so-11264864&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Brave浏览器用户突破1.09亿：屏蔽广告的同时售卖自有广告&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;隐私浏览器Brave的月活跃用户已从2025年1月的8000万增长至2026年2月的1.09亿，增长36%。Brave首席广告官Jean-Paul Schmetz在3月24日接受AdExchanger采访时详细阐述了其商业模式：Brave在屏蔽发布商广告的同时，通过搜索广告、新标签页接管广告和可选通知广告创收。其广告定位方式独特——仅基于查询词和国家，不使用行为数据或第三方Cookie。这一模式引发争议：Ad-Shield研究显示，全球近10亿用户正在使用广告屏蔽工具，导致发布商收入损失约18%，而Brave在此基础上构建了自己的广告网络。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/brave-blocks-your-ads-and-sells-its-own-and-its-working/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Lanbow开源千万美金Meta广告投放经验，构建企业级AI增长决策系统&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;3月24日，Lanbow（Sandwich Lab旗下品牌）宣布将其在Meta广告投放领域积累的增长决策能力以开源方式向全球开发者与增长团队开放。这一能力单元被命名为Lanbow Claw Skill，基于开源Agent框架OpenClaw构建，包含5,291行TypeScript代码，涵盖从市场信号分析到创意方向生成到campaign配置到效果回传的完整决策循环。在三个月约200个campaign session的内部测试中，基于Skill编排的campaign完成率达到92%以上。Lanbow创始人郭振宇博士在3月12日的JUMPSTARTER 2026论坛上表示，企业竞争正从执行效率转向决策效率，Lanbow致力于将决策循环和执行循环统一在一起。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://news.tom.com/202603/4572855817.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 2026年预测：程序化广告将逐渐退场，零售媒体拥抱AI直连&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ADvendio的Angus Dowie在3月26日撰文指出，程序化广告正面临生存威胁，因为零售商正在拥抱AI驱动的广告技术，重组零售媒体网络以降低成本并获得对利润的更多控制。移除程序化中间商可为零售商和品牌带来10%-30%的成本节省。文章指出，随着智能体AI（Agentic AI）的兴起，零售商和品牌的AI智能体将直接处理数据、广告库存和活动规划，程序化交易中间环节将被绕过。Yahoo、PubMatic等公司推出的Ad Context Protocol（AdCP）为AI智能体之间的媒体交易提供了蓝图，明确提出绕过传统程序化拍卖。Walmart的AI购物助手Sparky和Amazon的Rufus都在测试会话式广告体验，预示着预算将从传统程序化展示广告向AI驱动的触点转移。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.smartbrief.com/original/2026-prediction-programmatic-will-fade&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-27&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Mar 2026 13:16:02 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/03/26/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80ctv/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/26/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80ctv/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -650,69 +695,6 @@
         
         
         <category>ad-news,daily-digest,AI,ChatGPT,Adobe,NVIDIA,Google,SEO,GEO,OOH,监管</category>
-        
-      </item>
-    
-      <item>
-        <title>OpenAI进军程序化 | 行业快讯</title>
-        <description>&lt;h2 id=&quot;1-chatgpt正式进军程序化广告市场&quot;&gt;1. ChatGPT正式进军程序化广告市场&lt;/h2&gt;
-
-&lt;p&gt;OpenAI于3月2日宣布，Criteo成为首个接入ChatGPT广告试点的主要程序化广告平台，约17,000家广告主现可通过程序化渠道投放ChatGPT广告。目前CPM约60美元（约为Meta CPM的3倍），最低投放门槛20万美元。广告将在美国的Free和Go订阅层级展示。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; ChatGPT月活用户超7500万，为品牌提供了在高意图对话式AI界面中出现的新机会，打破了Google和Meta的数字广告双寡头格局。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-1-10-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-jcdecaux程序化广告收入增长192数字化转型加速&quot;&gt;2. JCDecaux程序化广告收入增长19.2%，数字化转型加速&lt;/h2&gt;
-
-&lt;p&gt;全球最大户外广告公司JCDecaux于3月13日发布2025年全年业绩：程序化广告收入达1.805亿欧元，同比增长19.2%，占数字广告收入的10.9%。数字户外广告(DOOH)已占集团总收入的41.7%，在最近一季度更达到44.8%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 通过VIOOH平台连接57个DSP，覆盖35个国家，JCDecaux正将户外广告从传统媒体转变为可程序化购买的数字化渠道。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/jcdecauxs-record-cash-flow-hides-a-digital-advertising-arms-race/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-亚马逊广告发布2026年五大营销趋势&quot;&gt;3. 亚马逊广告发布2026年五大营销趋势&lt;/h2&gt;
-
-&lt;p&gt;亚马逊广告在近期报告中指出，2025年AI营销支出达473.2亿美元，预计2028年将超1070亿美元。报告强调五大趋势：AI成为创意和策略引擎、直播电商与创作者经济融合、流媒体互动化、全渠道无缝体验、以及全漏斗效果衡量。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 50%的消费者将娱乐视为购买路径的一部分，72%的消费者在与娱乐内容互动时会采取考虑行动。创作者经济广告支出预计2026年将达439亿美元（美国市场）。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/zh-cn/library/news/marketing-trends-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-谷歌ai重构广告行业三大趋势解析&quot;&gt;4. 谷歌AI重构广告行业：三大趋势解析&lt;/h2&gt;
-
-&lt;p&gt;腾讯研究院近期分析指出，谷歌通过AI Mode正在重新定义广告本身。三大核心趋势包括：AI成为创意本体和投放决策者；个性化从”千人千面”升级到”一人千面”；广告消融于搜索体验，AI总览月活用户已达15亿。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 广告不再是独立的竞价位，而是融入AI生成的答案中。这对传统SEO构成挑战，品牌需要争夺”被AI引用”的机会，而非仅仅是搜索结果页位置。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3331832749713924&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-欧盟发布dma-gdpr联合指南重塑科技巨头广告定向规则&quot;&gt;5. 欧盟发布DMA-GDPR联合指南，重塑科技巨头广告定向规则&lt;/h2&gt;
-
-&lt;p&gt;欧盟委员会与欧洲数据保护委员会于3月13日公布超100份公众意见书，涉及《数字市场法》(DMA)与《通用数据保护条例》(GDPR)的交叉应用。指南明确：平台跨服务数据组合用于广告必须获得用户同意，不能依赖”合法利益”。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这将约束Google、Meta、Amazon、Apple、Microsoft等科技巨头的广告定向能力。最终指南预计2026年正式发布，将成为欧盟市场广告合规的权威解释。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/eu-publishes-100-responses-on-rules-that-could-reshape-big-tech-ad-targeting/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-18&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Mar 2026 13:15:45 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E9%9A%90%E7%A7%81%E7%9B%91%E7%AE%A1/2026/03/17/openai%E8%BF%9B%E5%86%9B%E7%A8%8B%E5%BA%8F%E5%8C%96-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E9%9A%90%E7%A7%81%E7%9B%91%E7%AE%A1/2026/03/17/openai%E8%BF%9B%E5%86%9B%E7%A8%8B%E5%BA%8F%E5%8C%96-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,程序化广告,隐私监管</category>
         
       </item>
     
