@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 29 Mar 2026 21:17:04 -0500</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2026 21:17:04 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 21:16:49 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 21:16:49 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,101 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>程序化、数字广告重塑行业 | 本周营销观察</title>
+        <description>&lt;h2 id=&quot;1-chatgpt广告业务六周突破1亿美元年化收入&quot;&gt;1. ChatGPT广告业务六周突破1亿美元年化收入&lt;/h2&gt;
+
+&lt;p&gt;OpenAI的ChatGPT广告试点在上线仅六周后，年化收入就突破了1亿美元大关。目前约85%的ChatGPT用户符合看广告的条件，但每天只有不到20%的用户会看到广告。目前已有超过600家广告主加入该项目，近80%的中小企业表示有兴趣购买ChatGPT广告位。广告CPM定价约60美元，与NFL直播和高端流媒体广告价格相当。&lt;/p&gt;
+
+&lt;p&gt;OpenAI宣布将在未来几周内将广告试点扩展到加拿大、澳大利亚和新Zealand，并计划在4月推出自助广告工具。前Meta广告高管David Dugan被任命领导OpenAI全球广告解决方案团队。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; AI对话平台正在成为新的广告渠道，但测量和归因系统仍在建设中。这标志着AI商业化进入新阶段，同时也引发了用户信任度的讨论（63%的美国成年人表示AI搜索结果中的广告会降低信任度）。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/chatgpt-ads-hit-100m-in-six-weeks-and-openai-is-just-getting-started/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-程序化广告呈现结构性分化再营销cpm暴涨18展示广告下滑11&quot;&gt;2. 程序化广告呈现结构性分化：再营销CPM暴涨18%，展示广告下滑11%&lt;/h2&gt;
+
+&lt;p&gt;AdRoll发布的2026年Q1数字广告报告显示，2026年1-2月，展示广告再营销（retargeting）CPM同比暴涨18%，而展示广告拓客（prospecting）CPM同比下降11%。报告分析了超过2万家企业的数据。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;两大结构性原因：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;零点击搜索侵蚀流量：&lt;/strong&gt; 超过60%的Google搜索现在是零点击搜索（用户直接在搜索结果页获得答案），导致发布商网站流量下降20%-90%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CTV和DOOH程序化购买崛起：&lt;/strong&gt; 联网电视(CTV)和数字户外广告(DOOH)正在程序化购买，上游预算从传统展示广告转移。CTV广告支出2025年已超400亿美元&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 广告行业正从基于浏览器的展示广告向多屏幕环境转变，需要全漏斗协同策略。测量方式也从多触点归因(MTA)转向营销组合建模(MMM)和增量测试。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/adroll-retargeting-cpms-jump-18-as-display-prospecting-quietly-crumbles/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-2026-newfronts流媒体电视广告进入认证受众时代&quot;&gt;3. 2026 NewFronts：流媒体电视广告进入认证受众时代&lt;/h2&gt;
+
+&lt;p&gt;亚马逊广告和Tubi在2026 NewFronts上宣布深化合作。Tubi通过Amazon DSP推出Priority Access产品，为广告主提供优先定位和首次访问Tubi最有价值受众的机会。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;亚马逊认证图谱分析发现，Tubi有10%的家庭覆盖是独特且增量的（相比亚马逊开放互联网流媒体供应）&lt;/li&gt;
+  &lt;li&gt;亚马逊可以匹配Tubi 85%的受众——这是亚马逊第三方CTV供应中最高的匹配率之一&lt;/li&gt;
+  &lt;li&gt;广告主通过认证受众看到42%的独特受众覆盖增长、3倍的ROAS提升、27%的频次降低&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 流媒体电视广告正在从规模竞争转向认证受众和可测量结果的竞争。技术合作伙伴关系正在连接优质覆盖和可测量结果。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/newfronts-2026-advertising-news&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-ai购物代理从理论走向实践改变电商购买方式&quot;&gt;4. AI购物代理从理论走向实践，改变电商购买方式&lt;/h2&gt;
+
+&lt;p&gt;Shopify总裁Harley Finkelstein在Upfront Summit上表示，公司正全力押注AI购物代理，称其为未来的个人购物助手。与此同时，NVIDIA在GTC 2026上发布NemoClaw，为开源AI代理添加企业级安全和隐私防护。Target正在与OpenAI合作，沃尔玛则与Google的Gemini合作开展代理商务计划。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Google推出Nano Banana Pro：&lt;/strong&gt; Google将其最先进的AI图像生成器Nano Banana Pro直接集成到Google Ads的Asset Studio中，支持会话式编辑，可以保持产品保真度并在单个场景中组合最多5个产品。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AI Overviews吞噬点击量：&lt;/strong&gt; Semrush研究显示，当AI Overviews出现时，下方列表的点击率下降约42%。AI Overviews现在出现在约13%的Google查询中，广告出现在25.5%的AI Overview结果旁边，比2025年初的5.17%增长394%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 整个购物旅程可能发生在消息应用内，用户永远不会访问品牌网站或看到传统广告。对广告主来说，关键是优化结构化数据、产品信息和Merchant Center数据。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.jumpfly.com/blog/ai-in-online-advertising-5-key-trends-from-march-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-中国互联网巨头q4广告业务分化腾讯17增长领跑百度承压下滑26&quot;&gt;5. 中国互联网巨头Q4广告业务分化：腾讯17%增长领跑，百度承压下滑26%&lt;/h2&gt;
+
+&lt;p&gt;四大平台2025年Q4广告营收表现：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;腾讯：&lt;/strong&gt; 营销服务业务收入411亿元，同比增长17%。AI驱动的精准定向和微信生态闭环营销推动增长&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;京东：&lt;/strong&gt; 平台及广告服务收入306亿元，同比增长15%。依托零售生态精细化运营&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;阿里：&lt;/strong&gt; 客户管理收入102.64亿元，同比增长仅1%。受宏观消费环境和竞争影响&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;百度：&lt;/strong&gt; 传统广告收入123亿元，同比下降26.2%。受搜索广告市场竞争和用户注意力转移影响&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;三大行业趋势：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;流量格局重构，私域+闭环生态成增长核心&lt;/li&gt;
+  &lt;li&gt;AI技术全面渗透，智能增效成为标配&lt;/li&gt;
+  &lt;li&gt;广告主需求回归实效，品效合一成主流&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 互联网广告行业已告别粗放增长，进入技术驱动、场景精细化、价值实效化的新阶段。能够提供全链路、可闭环营销服务的平台将持续抢占市场份额。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://finance.sina.com.cn/roll/2026-03-25/doc-inhseqha3691667.shtml&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-03-31&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2026 13:16:12 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A/2026/03/30/%E7%A8%8B%E5%BA%8F%E5%8C%96%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A/2026/03/30/%E7%A8%8B%E5%BA%8F%E5%8C%96%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,程序化广告,流媒体广告</category>
         
       </item>
     
@@ -763,41 +858,6 @@
         
         
         <category>ad-news,daily-digest,AI,programmatic-advertising,OpenAI,Google</category>
-        
-      </item>
-    
-      <item>
-        <title>一周精华：Meta宣布、宣布动态</title>
-        <description>&lt;p&gt;&lt;strong&gt;1. Adobe与NVIDIA达成战略合作，重塑AI营销基础设施&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Adobe和NVIDIA于3月16日宣布战略合作，将共同开发下一代Firefly AI模型，整合NVIDIA的CUDA-X和NeMo库。此次合作涵盖AI代理工作流、3D数字孪生技术和云原生营销解决方案。Adobe Firefly Foundry将集成NVIDIA先进计算技术，为企业提供可商用的定制AI模型，支持图像、视频、音频和3D格式的大规模内容生成。&lt;a href=&quot;https://ppc.land/adobe-and-nvidias-firefly-deal-whats-actually-inside-the-ai-marketing-pact/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. 可口可乐、Mondelēz等CPG巨头全面拥抱AI广告制作&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Business Insider 3月16日报道，消费品牌正在利用AI加速广告制作流程。Mondelēz通过AI将社交视频制作时间从10周压缩至数分钟，可口可乐和Svedka使用AI生成节日广告和超级碗广告。品牌还采用AI合成焦点小组测试创意，避免在制作前投入大量成本。尽管AI生成内容引发争议，但BCG研究显示70%的CPG营销领导者认为AI能提升工作效率。&lt;a href=&quot;https://www.businessinsider.com/cpg-marketers-using-ai-ad-testing-to-video-production-2026-3&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Meta用AI取代外包团队，推进内容审核自动化&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;CNBC 3月19日报道，Meta宣布将在未来几年逐步用AI系统取代第三方内容审核承包商。新的AI系统将处理重复性审核任务，如识别诈骗和删除违规内容。Meta表示AI能更准确地标记违规行为，减少误判，同时更快响应实时事件。此举正值Meta面临多起儿童安全诉讼，以及考虑裁员20%以平衡AI投资成本的背景下。&lt;a href=&quot;https://www.cnbc.com/2026/03/19/meta-cut-back-third-party-vendors-favor-of-ai-for-content-enforcement.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Google向Meta租赁AI芯片算力，智能即服务模式显现&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;WRAL 3月16日分析，Google与Meta达成协议，将TPU芯片的AI算力以租赁形式提供给Meta用于训练大型AI模型。这标志着行业从购买硬件转向租赁算力的根本转变。专家认为，AI基础设施正在演变为类似电力的公用事业，企业不再购买芯片，而是按需连接全球算力网络获取智能产出。这一模式帮助Meta降低技术过时风险，同时让Google将内部基础设施转化为持续收入来源。&lt;a href=&quot;https://www.wral.com/business/technology/google-meta-leasing-intelligence-capacity-march-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. TikTok广告互动率飙升49%，社交媒体营销格局重塑&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Digital Information World 3月17日发布的2026社交媒体基准报告显示，TikTok互动率同比暴增49%至3.70%，远超Instagram的0.48%和Facebook的0.15%。品牌正在TikTok上采用少即是多策略，注重故事性、幽默和真实性而非硬性推销。3月TikTok趋势包括电影式优雅、社区幽默和情感共鸣内容。营销专家建议品牌采用宽泛受众定位（覆盖80%以上用户），可降低15%获客成本并提升20%转化率。&lt;a href=&quot;https://www.digitalinformationworld.com/2026/03/2026-social-media-benchmark-tiktok.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-22&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Mar 2026 13:15:55 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,marketing-tech/2026/03/21/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Emeta%E5%AE%A3%E5%B8%83%E5%AE%A3%E5%B8%83%E5%8A%A8%E6%80%81/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,marketing-tech/2026/03/21/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Emeta%E5%AE%A3%E5%B8%83%E5%AE%A3%E5%B8%83%E5%8A%A8%E6%80%81/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,marketing-tech</category>
         
       </item>
     
