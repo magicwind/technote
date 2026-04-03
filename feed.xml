@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Apr 2026 21:16:52 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 21:16:52 -0500</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 21:16:53 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 21:16:53 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,75 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：亚马逊布局新领域</title>
+        <description>&lt;h2 id=&quot;1-publicis收购体育营销机构160over90超5亿美元深化体育营销布局&quot;&gt;1. Publicis收购体育营销机构160over90，超5亿美元深化体育营销布局&lt;/h2&gt;
+
+&lt;p&gt;法国广告巨头Publicis Groupe宣布收购全球领先的体育与文化营销机构160over90，交易金额超过5亿美元。160over90目前隶属于WME Group，在美国、英国、欧洲、中东、非洲和亚太地区拥有超过670名员工，曾为多个全球品牌在超级碗、奥运会、世界杯等大型赛事中提供战略支持。&lt;/p&gt;
+
+&lt;p&gt;该收购将160over90与Publicis Sports整合，创建全球最大的数据驱动体育营销平台，整合媒体、赞助、活动、内容和人才资源。Publicis将利用Epsilon的身份数据、Influential创作者平台和体育情报系统，为品牌提供端到端的体育文化营销解决方案。体育媒体市场价值1500亿美元，体育赞助市场超过900亿美元，Publicis此举旨在抢占这一高价值营销渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.publicisgroupe.com/en/news/press-releases/publicis-groupe-disrupts-sports-marketing-landscape-with-acquisition-of-160over90&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-亚马逊ai购物提示功能正式收费3月25日起按cpc计费&quot;&gt;2. 亚马逊AI购物提示功能正式收费，3月25日起按CPC计费&lt;/h2&gt;
+
+&lt;p&gt;亚马逊于3月25日将其AI购物提示功能（Sponsored Products Prompts和Sponsored Brands Prompts）从免费测试版转为正式版，开始按点击付费（CPC）收费。该功能自2025年11月在unBoxed大会上推出时为免费，现在所有美国广告主的相关广告活动将自动开启此功能。&lt;/p&gt;
+
+&lt;p&gt;AI提示功能利用亚马逊的第一方数据（产品详情页、品牌店铺、历史广告数据）自动生成对话式内容，在购物者关键决策时刻提供产品信息，类似「24/7虚拟产品专家」。广告主无需编写文案，系统自动生成内容。广告主可通过Ads Console的Prompts标签查看和暂停特定提示，并可访问详细的性能报告，包括展示、点击、CPC、ACOS、ROAS等指标。&lt;/p&gt;
+
+&lt;p&gt;此举标志着亚马逊将4个月的免费数据收集期转化为新的收入来源，对数十万美国广告活动产生增量CPC收入。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/amazons-ai-shopping-prompts-are-now-billable-what-changed-on-march-25/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-meta开源mmm工具robyn引争议平台建模是否存在利益冲突&quot;&gt;3. Meta开源MMM工具Robyn引争议：平台建模是否存在利益冲突？&lt;/h2&gt;
+
+&lt;p&gt;Meta的开源营销组合建模（MMM）工具Robyn正从实验项目转变为影响广告预算分配的重要工具，但其中立性引发行业争议。Robyn使用AI/ML技术进行超参数优化、时间序列分解和预算分配建议，旨在帮助广告主衡量跨渠道营销效果。&lt;/p&gt;
+
+&lt;p&gt;LinkedIn上的行业讨论指出核心问题：当构建预算分配模型的实体本身也是主要广告平台时，能否保持结构性中立？Meta公开的Resident案例研究显示，使用Robyn后该公司季度收入增长20%，同时Facebook在其媒体预算中的份额增加15-20%。&lt;/p&gt;
+
+&lt;p&gt;尽管Robyn代码开源可供审查，但业内人士质疑：平台是否在权重和计算中偏向自身？谁应该拥有数据基础和控制激励机制？目前Google也推出了竞品Meridian，MMM工具市场竞争加剧。研究显示46.9%的营销人员计划增加MMM投资，这使得工具选择的治理问题更加突出。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/metas-robyn-who-really-benefits-when-a-platform-builds-your-mmm/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-品牌和代理商加速ai运营化三年后进入如何做阶段&quot;&gt;4. 品牌和代理商加速AI运营化，三年后进入「如何做」阶段&lt;/h2&gt;
+
+&lt;p&gt;在IAB年度公共政策与法律峰会上，WPP和Yum Brands等公司分享了AI运营化的最新进展。ChatGPT发布三年后，广告业正从探讨「为什么用AI」转向回答「如何用AI」。&lt;/p&gt;
+
+&lt;p&gt;WPP通过WPP Open计划在集团层面统一AI治理，将创意、制作和媒体团队的AI工作整合，实现协调一致的效率提升。AI已在创意构思、媒体规划和任务时间压缩（从数天降至数小时）方面发挥作用，但尚无法产生完全新颖的内容。WPP表示「AI让平庸变得廉价，但也让卓越更加珍贵」。&lt;/p&gt;
+
+&lt;p&gt;Yum Brands建立了「AI工厂」，利用第一方数据在忠诚度计划、菜单屏幕和得来速等场景应用AI。公司设立正式委员会平衡业务风险、声誉风险、技术风险和法律风险。下一步是代理AI（Agentic AI）——完全自主的工具，WPP已推出Agent Hub并将与多家出版商进行试点。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.marketingdive.com/news/how-brands-agencies-are-operationalizing-ai-as-the-tech-matures/816241/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-思加图杨幂广告痛街爆红上海安福路&quot;&gt;5. 思加图×杨幂「广告痛街」爆红上海安福路&lt;/h2&gt;
+
+&lt;p&gt;思加图将上海安福路改造成杨幂主题的创意广告街区，凭借接地气的谐音梗和场景化创意在社交媒体走红。品牌在阳台悬挂「有晾点」「晒一下」海报，将日常晾衣场景与产品推广结合；配电箱文案从「闲人免进」变成「潮人也免进」，贴合安福路的潮流文化；在咖啡店「好德」门口制造「去买（思加图呀）」「（好德）」的自问自答式对话。&lt;/p&gt;
+
+&lt;p&gt;这种抽象搞笑的创意风格与代言人杨幂的气质高度契合。不同于传统无孔不入的硬广，思加图通过场景化和趣味性降低了广告的侵入感，将品牌信息融入街区文化，让路人愿意主动参与和传播。案例展示了户外广告的新玩法：从单向传播转向场景互动和社交扩散。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kn0s0akf14x31ahwqt6v0pxe&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-04-03&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Apr 2026 13:16:14 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/04/02/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B8%83%E5%B1%80%E6%96%B0%E9%A2%86%E5%9F%9F/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/04/02/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B8%83%E5%B1%80%E6%96%B0%E9%A2%86%E5%9F%9F/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -820,104 +889,6 @@
         
         
         <category>ad-news,daily-digest,AI,ChatGPT,Netflix,Google,Meta,AdTech</category>
-        
-      </item>
-    
-      <item>
-        <title>YouTube发布CTV | 行业快讯</title>
-        <description>&lt;h2 id=&quot;1-google-发布-gemini-驱动的营销平台重大更新&quot;&gt;1. Google 发布 Gemini 驱动的营销平台重大更新&lt;/h2&gt;
-
-&lt;p&gt;Google 在 3 月 23 日的 NewFront 2026 活动上宣布了一系列由 Gemini 3 驱动的重大产品更新：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;直播体育竞价套件&lt;/strong&gt;：专为处理直播流媒体广告竞价高峰而设计，DV360 现可访问每月超 78 亿小时的广告支持观看时长&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Confidential Publisher Match&lt;/strong&gt;：基于可信执行环境的新身份框架，首先与 Roku 合作推出，实现跨设备转化追踪&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kroger 加入商业媒体套件&lt;/strong&gt;：首次提供 SKU 级销售报告，将媒体投放直接关联到具体商品销售&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ads Advisor 全面推出&lt;/strong&gt;：支持 Campaign Builder 自动生成完整广告系列配置，诊断创意拒登原因并生成自定义报表&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;据悉，DV360 目前覆盖美国 96% 的广告支持 CTV 家庭，YouTube Shorts 日浏览量达 2000 亿次。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-newfront-2026-gemini-takes-over-google-marketing-platform/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-ai-广告素材转化率比人工高-20-30&quot;&gt;2. AI 广告素材转化率比人工高 20-30%&lt;/h2&gt;
-
-&lt;p&gt;快手科技副总裁江鹏在 36 氪采访中透露，AI 生成广告素材的投放效果显著优于人工制作：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;成本大幅下降&lt;/strong&gt;：单一素材成本已降至几分钱&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;效果显著提升&lt;/strong&gt;：AI 生成素材整体转化率比人工提升 20-30%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;用户体验更好&lt;/strong&gt;：AI 掌握全平台用户反馈数据，能识别哪些素材更受欢迎&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;生成式强化学习出价&lt;/strong&gt;：快手首创技术使广告收入提升 3-4%，部分客户跑量能力提升 20-30%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在漫剧制作领域，AI 将制作周期从数月缩短至数天，每分钟成本约 1000-2000 元，相比传统 TVC（每分钟 10-100 万）成本优势明显。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3731140115431683&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-亚马逊发布-2026-年五大营销趋势&quot;&gt;3. 亚马逊发布 2026 年五大营销趋势&lt;/h2&gt;
-
-&lt;p&gt;亚马逊广告近日发布报告，指出 2026 年五大关键趋势：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;AI 成为创意引擎&lt;/strong&gt;：AI 营销支出预计 2028 年将超 1070 亿美元，Creative Agent 可在数小时内完成整个广告系列创意&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;直播电商与创作者经济&lt;/strong&gt;：美国创作者经济广告支出 2026 年将达 439 亿美元，增长 18%；50% 体育观众将转向流媒体&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;流媒体互动广告&lt;/strong&gt;：79% 观众认为互动广告更具吸引力，互动广告使品牌好感度、考虑度和购买意向提升 3-4 个百分点&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全渠道无缝体验&lt;/strong&gt;：全渠道客户线下消费高 4%，线上消费高 10%；到 2028 年全渠道零售媒体支出将超 24.4%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全漏斗整合测量&lt;/strong&gt;：通过 Amazon Marketing Cloud 实现隐私安全的第一方数据测量&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;报告指出，近 60% 消费者感觉比以前更多任务并行，75% 每周多次想到购物。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/marketing-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-google-三月核心更新影响-55-网站&quot;&gt;4. Google 三月核心更新影响 55% 网站&lt;/h2&gt;
-
-&lt;p&gt;3 月 11-20 日期间，Google 的三月广泛核心更新持续推出，早期数据显示：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;影响范围广&lt;/strong&gt;：超 55% 被监测网站在前两周出现排名变化&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;三大重点信号&lt;/strong&gt;：信息增益（原创内容）、Gemini 4.0 语义过滤器（检测 AI 批量内容）、更严格的 E-E-A-T 要求&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;作者资质要求提升&lt;/strong&gt;：72% 排名靠前页面显示详细作者资质，在 YMYL（健康、金融、法律）类目尤为明显&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;同时，ChatGPT 广告项目继续迭代扩展，CPM 约 60 美元，最低承诺 20 万美元，AI Mode 日活用户突破 7500 万。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-march-11-20-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-井英科技获数百万融资布局海外短视频广告市场&quot;&gt;5. 井英科技获数百万融资，布局海外短视频广告市场&lt;/h2&gt;
-
-&lt;p&gt;36 氪独家报道，商业内容创作创企「井英科技」完成数百万元种子+轮融资，由紫竹小苗基金投资：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;市场机会&lt;/strong&gt;：TikTok 海外营收预计今年将超 120 亿美元（去年约 40 亿），绝大部分来自广告&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;产品优势&lt;/strong&gt;：CreativeFitting 平台采用「AI+人工」协同模式，支持 50+ 国家及语种，视频制作成本仅为线下真人实拍的 20%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;效果数据&lt;/strong&gt;：制作的短视频广告多次登上 TikTok 热门榜单，某电商视频获 8000+ 点赞，转化数位居行业 Top 5%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;客户构成&lt;/strong&gt;：出海客户占比达 80%，已服务电商、金融、游戏及广告代理商等头部客户&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;公司计划拓展东南亚市场，并持续迭代 AI 数字人、数字商品建模等技术。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/1970524085488774&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-03-25&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Mar 2026 13:16:01 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/03/24/youtube%E5%8F%91%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/03/24/youtube%E5%8F%91%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
