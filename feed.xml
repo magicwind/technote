@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Apr 2026 21:16:26 -0500</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2026 21:16:26 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 21:16:18 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 21:16:18 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,59 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：Meta布局数字广告</title>
+        <description>&lt;h2 id=&quot;1-meta将首次超越谷歌成为全球数字广告收入冠军&quot;&gt;1. Meta将首次超越谷歌成为全球数字广告收入冠军&lt;/h2&gt;
+
+&lt;p&gt;据eMarketer报告，Meta Platforms预计在2026年底超越谷歌，首次成为全球数字广告收入第一。Meta的全球净广告收入预计达到2434.6亿美元，超过谷歌的2395.4亿美元。这标志着数字广告行业的重大转变，Instagram母公司将终结谷歌在该领域的长期统治地位。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/media-telecom/meta-poised-surpass-google-digital-ad-revenue-first-time-report-says-2026-04-13/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-openai推出自助广告管理平台入门门槛降至5万美元&quot;&gt;2. OpenAI推出自助广告管理平台，入门门槛降至5万美元&lt;/h2&gt;
+
+&lt;p&gt;OpenAI本月悄然推出ChatGPT自助广告管理平台，并将最低投放门槛从25万美元大幅降至5万美元。该平台向小部分广告主开放测试，提供实时展示和点击监控功能。据报道，ChatGPT广告业务在启动6周内年化收入已突破1亿美元。CPM定价为60美元，定位于高端广告库存。新平台采用「上下文提示」定位机制，目前仅支持按展示付费（CPM），点击和转化功能即将推出。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/openais-ads-manager-is-live-and-the-barrier-to-entry-just-dropped/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊卖家因政策变更发起广告抵制运动&quot;&gt;3. 亚马逊卖家因政策变更发起广告抵制运动&lt;/h2&gt;
+
+&lt;p&gt;亚马逊近期实施的多项政策变更引发大规模卖家抵制。Million Dollar Sellers组织的700多名大型卖家于4月16日发起24小时广告抵制，抗议亚马逊将广告费用从信用卡支付改为自动扣款、延长付款周期至发货后7天，以及新增3.5%燃油附加费。卖家称这些变更严重挤压现金流，平均利润率持续下降。亚马逊回应称将广告支付变更推迟至8月1日实施。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/04/15/amazon-sellers-boycott-ads-payment-changes.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-谷歌宣布9月起停用动态搜索广告全面转向ai-max&quot;&gt;4. 谷歌宣布9月起停用动态搜索广告，全面转向AI Max&lt;/h2&gt;
+
+&lt;p&gt;谷歌4月15日宣布将在2026年9月停止创建新的动态搜索广告（DSA），所有符合条件的DSA广告系列将自动升级为AI Max for Search。AI Max结合搜索词匹配、文本定制和最终URL扩展三大功能，声称比单独使用搜索词匹配提升7%的转化量。但独立测试显示AI Max的ROAS比传统匹配类型低35%，引发行业争议。这标志着谷歌持续推动广告自动化的重大结构性转变。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-ends-dynamic-search-ads-dsa-upgrades-to-ai-max-in-september/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-on昂跑携手赞达亚推出超现实创意广告&quot;&gt;5. On昂跑携手赞达亚推出超现实创意广告&lt;/h2&gt;
+
+&lt;p&gt;运动品牌On昂跑与影星赞达亚（Zendaya）合作，推出由奥斯卡获奖导演Spike Jonze执导的超现实广告片《梦想之形》。短片以白色实验空间为背景，通过夸张的视觉手法将服装设计过程具象化——赞达亚随手拉伸面料、刷子更换颜色，将抽象的创作过程变得生动可感。灵动的钢琴配乐与画面完美契合，展现品牌创新格调，区别于运动品牌同质化宣传。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kp84n1g3hvqvfpg4kg07na18&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-04-17&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Apr 2026 13:15:43 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A,%E5%B9%BF%E5%91%8A%E6%8A%80%E6%9C%AF/2026/04/16/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBmeta%E5%B8%83%E5%B1%80%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A,%E5%B9%BF%E5%91%8A%E6%8A%80%E6%9C%AF/2026/04/16/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBmeta%E5%B8%83%E5%B1%80%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,数字广告,广告技术</category>
         
       </item>
     
@@ -702,79 +755,6 @@
         
         
         <category>ad-news,daily-digest,AI,Meta,Google,TikTok,Criteo,Adweek</category>
-        
-      </item>
-    
-      <item>
-        <title>Meta推出AI广告 | 行业快讯</title>
-        <description>&lt;h2 id=&quot;1-可口可乐联合13家餐饮品牌推出and-a-coke广告活动&quot;&gt;1. 可口可乐联合13家餐饮品牌推出”And a Coke”广告活动&lt;/h2&gt;
-
-&lt;p&gt;可口可乐于4月2日推出首个多品牌合作广告活动，联合Domino’s、Wendy’s、Wingstop等13家餐饮连锁品牌，推出”And a Coke”系列广告。活动将在电影院、电视、数字渠道及UberEats、DoorDash等外卖平台投放。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心洞察：&lt;/strong&gt; 随着美国餐厅客流量下降2%，38%消费者减少餐饮支出，可口可乐通过联合营销助力餐饮合作伙伴提振销售，同时巩固自身在餐饮渠道的地位。&lt;/p&gt;
-
-&lt;p&gt;发布时间：2026年4月2日&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2026/04/02/coca-cola-ad-campaign-dominos-wendys-wingstop.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-meta加速ai广告自动化进程-营销人员评价不一&quot;&gt;2. Meta加速AI广告自动化进程 营销人员评价不一&lt;/h2&gt;
-
-&lt;p&gt;Meta推进AI驱动的广告自动化战略，Andromeda广告检索系统和Advantage+工具套件持续升级。扎克伯格此前表示，未来广告投放将简化为”输入信用卡和业务目标，AI完成其余工作”。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 营销机构报告显示，Advantage+已占Meta广告支出的60-70%，但存在”低质量投放”和”过度支出”问题。营销人员对创意AI工具保持谨慎态度，多数品牌不愿放弃创意控制权。&lt;/p&gt;
-
-&lt;p&gt;发布时间：2026年4月7日&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marketingbrew.com/stories/2026/04/07/meta-ai-ad-creation&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-spotify程序化广告交易所广告主增长3倍-推出新广告格式&quot;&gt;3. Spotify程序化广告交易所广告主增长3倍 推出新广告格式&lt;/h2&gt;
-
-&lt;p&gt;Spotify程序化广告交易所上线一年来，广告主数量增长3倍。平台本周发布赞助播放列表、滑动轮播等新广告格式，并推出自动出价调整等后端功能。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;市场定位：&lt;/strong&gt; Spotify占据全球音乐流媒体市场30%份额，2025年广告收入超20亿美元，但表现仅”略优于”行业平均水平。音频广告支出仍落后于其他媒体类型。&lt;/p&gt;
-
-&lt;p&gt;发布时间：2026年4月3日&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adexchanger.com/daily-news-roundup/friday-03042026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-小沓ai智能营销产品发布-抢占zero-click时代流量入口&quot;&gt;4. 小沓AI智能营销产品发布 抢占”Zero-Click时代”流量入口&lt;/h2&gt;
-
-&lt;p&gt;壹沓科技在2026GDPS大会上发布小沓AI智能营销产品，针对AI问答引擎时代的”零点击”现象，推出拟态探针、偏好棱镜、答案胶囊三大功能模块，帮助品牌在AI生成结果中占据核心席位。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;趋势解读：&lt;/strong&gt; 2025年中国AI营销市场规模达1.87万亿元，超50%网民将AI作为消费决策依据。营销逻辑从B2C演变为B2A2C（Brand to AI to Consumer），品牌需要构建AI友好的结构化内容。&lt;/p&gt;
-
-&lt;p&gt;发布时间：2026年4月8日&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3745077916451080&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-adtech行业透明度之争publicis与the-trade-desk费用争议升级&quot;&gt;5. AdTech行业透明度之争：Publicis与The Trade Desk费用争议升级&lt;/h2&gt;
-
-&lt;p&gt;广告技术行业巨头Publicis和The Trade Desk就广告技术费用和透明度问题展开公开争议。同时，OpenAI通过收购扩展对话式广告布局，Yahoo推出面向中端市场的DSP工具。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;创业启示：&lt;/strong&gt; AI驱动的DSP工具和对话式广告为中小企业降低了程序化广告门槛。企业应关注隐私合规工具，特别是针对青少年受众的内容审核要求。&lt;/p&gt;
-
-&lt;p&gt;发布时间：2026年4月3日&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.mean.ceo/adtech-news-april-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-04-08&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Apr 2026 13:16:01 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/04/07/meta%E6%8E%A8%E5%87%BAai%E5%B9%BF%E5%91%8A-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/04/07/meta%E6%8E%A8%E5%87%BAai%E5%B9%BF%E5%91%8A-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
