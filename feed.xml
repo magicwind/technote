@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 21 Apr 2026 21:17:06 -0500</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2026 21:17:06 -0500</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 21:16:32 -0500</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 21:16:32 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,116 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>市场2946亿！本周热点</title>
+        <description>&lt;h2 id=&quot;-美国数字广告收入突破2946亿美元社交与视频引领增长&quot;&gt;📊 美国数字广告收入突破2946亿美元，社交与视频引领增长&lt;/h2&gt;
+
+&lt;p&gt;IAB（美国互动广告协会）发布2025年度互联网广告收入报告，美国数字广告收入达到2946亿美元，同比增长13.9%。值得注意的是，这一增长是在没有奥运会、世界杯等重大活动推动的情况下实现的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;社交媒体&lt;/strong&gt;：1177亿美元（+32.6%），占总收入40%，增长最快&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;搜索广告&lt;/strong&gt;：1142亿美元（+11%），占38.8%，但增速放缓&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;数字视频&lt;/strong&gt;：780亿美元（+25.4%），增速加快&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;电商媒体&lt;/strong&gt;：634亿美元（+18%），占21.5%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;程序化广告&lt;/strong&gt;：1624亿美元（+20.5%），为AI驱动的媒体购买奠定基础&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt;
+创作者经济正式成为核心广告渠道，2025年创作者广告支出达370亿美元，预计2026年将达440亿美元。品牌正在将创作者嵌入长期媒体战略、运营工作流程，甚至产品开发中。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-iab-tech-lab启动行业委员会应对2000亿美元程序化广告市场的透明度问题&quot;&gt;🔧 IAB Tech Lab启动行业委员会，应对2000亿美元程序化广告市场的透明度问题&lt;/h2&gt;
+
+&lt;p&gt;IAB Tech Lab宣布成立程序化治理委员会（Programmatic Governance Council），汇聚媒体买家、媒体所有者和广告技术平台，共同确保程序化广告的自动化和AI能够重塑数字广告。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;初始成员包括：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;代理商：Dentsu、Omnicom Media Group、WPP&lt;/li&gt;
+  &lt;li&gt;发布商：Disney、Hearst、News Corp&lt;/li&gt;
+  &lt;li&gt;平台：Magnite、PubMatic、Yahoo、Amazon Ads、The Trade Desk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;目标：&lt;/strong&gt;未来6-12个月内，提供关于竞价透明度、交易信号处理的更清晰指导，以及买家、卖家和平台之间关于程序化执行的更强一致性。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.tvtechnology.com/business/iab-tech-lab-launches-industry-council-to-address-transparency-in-usd200b-u-s-programmatic-ad-market&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-87的广告代理商专业人士认为传统代理商模式已经失效&quot;&gt;🏢 87%的广告代理商专业人士认为传统代理商模式已经失效&lt;/h2&gt;
+
+&lt;p&gt;Basis发布《2026年广告代理商报告》，调查了213名广告专业人士，揭示了行业结构性危机：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键发现：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;87.3%&lt;/strong&gt; 认为传统代理商模式已经失效或将在3-5年内失效&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;91.5%&lt;/strong&gt; 的高级管理者（VP及以上）持相同观点&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;70%&lt;/strong&gt; 表示工作比两年前更困难&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;54%&lt;/strong&gt; 报告客户关系更加紧张&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;39.9%&lt;/strong&gt; 的代理商在过去12个月内进行了裁员&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;AI采用率超99%，但焦虑也在上升：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;59.2%&lt;/strong&gt; 的专业人士每天使用AI（2024年仅15.9%）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;90%&lt;/strong&gt; 认为AI对代理商的主要收入来源构成威胁&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;32%&lt;/strong&gt; 的人认为AI将在未来3-5年对代理商产生负面影响（2025年仅19.9%）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业信心历史性下跌：&lt;/strong&gt;
+首次低于50%！仅48.8%的人对数字广告的未来感到乐观（2024年为62.8%）。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/87-of-agency-pros-say-the-traditional-agency-model-is-broken/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-库克时代苹果营销的5大演变&quot;&gt;🍎 库克时代：苹果营销的5大演变&lt;/h2&gt;
+
+&lt;p&gt;随着蒂姆·库克即将卸任CEO，Adweek回顾了库克领导下苹果营销的演变。2011年，当库克接任时，许多人质疑他能否填补乔布斯留下的巨大空白。乔布斯不仅是技术革命家，更是营销大师。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;库克时代的营销特点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;更加价值驱动、以人为本&lt;/li&gt;
+  &lt;li&gt;全球化思维的故事叙述&lt;/li&gt;
+  &lt;li&gt;2016年任命前广告高管Tor Myhren为营销传播副总裁&lt;/li&gt;
+  &lt;li&gt;Myhren继续与TBWA\Media Arts Lab合作，监督苹果全球营销&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;库克的领导风格更加保守、注重运营，但在他的任期内，苹果营销成功地从产品特性转向了品牌价值和人文关怀。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/creativity/5-ways-apples-marketing-evolved-in-the-tim-cook-era/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-行业动态速览&quot;&gt;📝 行业动态速览&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;程序化广告透明度&lt;/strong&gt;：IAB Tech Lab的新委员会旨在解决竞价重复、交易ID不一致等长期存在的行业问题&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;创作者经济崛起&lt;/strong&gt;：从基于活动的网红营销演变为常态化的创作者计划，品牌建立专门团队和工具来大规模管理合作伙伴关系&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI成为基础设施层&lt;/strong&gt;：正在重新定义发现、创意制作、执行和变现，包括代理买卖、AI驱动的商务等整个价值链&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;新闻来源：&lt;/strong&gt; IAB、IAB Tech Lab、PPC Land、Adweek、Basis
+&lt;strong&gt;整理时间：&lt;/strong&gt; 2026年4月23日&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-04-23&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Apr 2026 13:15:55 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,programmatic,agency/2026/04/22/%E5%B8%82%E5%9C%BA2946%E4%BA%BF%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,programmatic,agency/2026/04/22/%E5%B8%82%E5%9C%BA2946%E4%BA%BF%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,programmatic,agency</category>
         
       </item>
     
@@ -799,53 +909,6 @@ AI 正在成为广告的基础设施层，从内容创作、投放执行到效�
         
         
         <category>ad-news,daily-digest,AI,数字广告,Meta,Google,OpenAI,Canva,视频广告</category>
-        
-      </item>
-    
-      <item>
-        <title>数字广告、数字广告重塑行业 | 本周营销观察</title>
-        <description>&lt;p&gt;每日广告营销新闻 2026-04-14&lt;/p&gt;
-
-&lt;h2 id=&quot;1-meta超越谷歌成全球最大广告平台&quot;&gt;1. Meta超越谷歌成全球最大广告平台&lt;/h2&gt;
-
-&lt;p&gt;根据Emarketer最新预测，Meta在2026年的全球广告收入将达到2434.6亿美元，首次超越谷歌的2395.4亿美元，标志着数字广告格局的历史性转变。这一里程碑反映了Meta在Instagram Reels、WhatsApp商业化以及AI驱动广告产品上的强劲增长。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/meta-is-quietly-becoming-a-bigger-ad-business-than-google/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2-liveramp携手akkio推出对话式ai营销测量工具&quot;&gt;2. LiveRamp携手Akkio推出对话式AI营销测量工具&lt;/h2&gt;
-
-&lt;p&gt;4月7日，LiveRamp与AI营销技术公司Akkio宣布战略合作，将Akkio的对话式AI引擎集成到LiveRamp的数据协作平台中。营销人员现在可以用自然语言直接查询跨渠道营销数据，无需数据科学团队支持即可获得即时洞察。这项技术将极大降低营销数据分析的门槛，预计将服务于LiveRamp覆盖的900多个合作伙伴网络。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/liveramp-and-akkio-team-up-to-bring-conversational-ai-into-marketing-measurement/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3-iab支持医院对抗华盛顿州广告追踪诉讼&quot;&gt;3. IAB支持医院对抗华盛顿州广告追踪诉讼&lt;/h2&gt;
-
-&lt;p&gt;4月10日，美国互动广告局（IAB）向华盛顿州最高法院提交了支持西雅图儿童医院的法庭之友意见书。该案件涉及Meta Pixel追踪技术是否违反华盛顿州1967年制定的窃听法。IAB警告称，如果法院将常规的浏览器-服务器HTTP通信认定为窃听，将危及整个数字广告测量基础设施，包括网站分析、安全功能和广告效果衡量。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/iab-backs-seattle-childrens-hospital-in-washington-wiretap-case-that-could-reshape-ad-measurement/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4-谷歌三天内连发两次算法更新&quot;&gt;4. 谷歌三天内连发两次算法更新&lt;/h2&gt;
-
-&lt;p&gt;3月末，谷歌在短短72小时内先后发布了垃圾邮件更新（3月24日）和核心更新（3月27日），这一罕见的组合拳给网站运营者带来巨大挑战。垃圾更新在19.5小时内完成，创下最快纪录。此前研究显示，2025年12月核心更新导致近15%的前十页面完全从前100名消失，部分新闻网站损失了70-85%的Google Discover流量。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-fires-two-algorithm-updates-in-three-days-as-newfronts-shift/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5-2026中国营销投资预计平均增长10&quot;&gt;5. 2026中国营销投资预计平均增长10%&lt;/h2&gt;
-
-&lt;p&gt;根据秒针营销科学院最新调研，2026年中国数字营销行业将站在技术革命与价值重构的十字路口。AI技术从内容工具升级为企业基础设施，商用营销智能体落地推动行业进入代理式营销（Agentic Marketing）新纪元。报告指出，预计2026年中国数字广告市场规模将接近8000亿元，年增长率维持在10-12%。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/h72une/stories/WS69704bf0a310942cc499c24c.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-04-14&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Apr 2026 13:15:51 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E8%90%A5%E9%94%80,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A,%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81/2026/04/13/%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E8%90%A5%E9%94%80,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A,%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81/2026/04/13/%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A%E9%87%8D%E5%A1%91%E8%A1%8C%E4%B8%9A-%E6%9C%AC%E5%91%A8%E8%90%A5%E9%94%80%E8%A7%82%E5%AF%9F/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI营销,数字广告,行业动态</category>
         
       </item>
     
