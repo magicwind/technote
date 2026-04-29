@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Apr 2026 21:17:05 -0500</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 21:17:05 -0500</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 21:16:31 -0500</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 21:16:31 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,102 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>OpenAI推出ROI | 行业快讯</title>
+        <description>&lt;h2 id=&quot;1-长视频广告格局重构综艺成广告主新宠&quot;&gt;1. 长视频广告格局重构：综艺成广告主新宠&lt;/h2&gt;
+
+&lt;p&gt;2026年Q1，长视频广告市场正在经历结构性重组。国产新剧上新63部，同比减少6%；TOP20长剧正片播放合计137亿，同比缩减15%。AI短剧和短视频的双重挤压下，广告主开始大规模撤离长剧市场。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;伊利、蒙牛等乳业品牌大幅削减长剧预算，转投综艺节目&lt;/li&gt;
+  &lt;li&gt;安慕希独家冠名《今夜喜友秀》，理想汽车冠名《跃升高能少年团》&lt;/li&gt;
+  &lt;li&gt;品牌商综艺ROI比长剧高3倍以上，2026年砍掉70%长剧预算&lt;/li&gt;
+  &lt;li&gt;综艺精品化、垂类化成为趋势，广告形式创新包括AI实时植入、互动广告&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;洞察：&lt;/strong&gt; 长视频广告从内容驱动转向效率驱动，综艺凭借季播确定性、场景化植入、社交裂变能力成为长视频广告的核心载体。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.21jingji.com/article/20260428/herald/dd5870808781c0f8dd42d290fe39d37a.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-ai-agent重塑广告技术openai推出转化追踪像素&quot;&gt;2. AI Agent重塑广告技术：OpenAI推出转化追踪像素&lt;/h2&gt;
+
+&lt;p&gt;ChatGPT广告业务正在快速扩张。4月23日，ChatGPT开始向未登录用户展示广告，扩大广告库存池。OpenAI正准备推出转化追踪像素，支持潜在客户创建、订单创建、页面浏览和订阅创建等功能。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ChatGPT广告CPM从60美元降至25美元（9周内）&lt;/li&gt;
+  &lt;li&gt;试点项目已实现1亿美元年化收入&lt;/li&gt;
+  &lt;li&gt;2026年广告收入目标24亿美元，2027年目标110亿美元&lt;/li&gt;
+  &lt;li&gt;Criteo成为首个ChatGPT广告技术合作伙伴&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; AI原生广告渠道正在成为200亿美元程序化广告市场的新战场。The Trade Desk、IAB Tech Lab等多方推出AI Agent标准框架，但行业尚未达成统一共识。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/ad-tech-braces-for-ai-agents/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-cartographai推出ai驱动的广告技术供应商选择平台&quot;&gt;3. CartographAI推出AI驱动的广告技术供应商选择平台&lt;/h2&gt;
+
+&lt;p&gt;一家创业公司推出CartographAI平台，使用AI和人工主导的研究数据，根据广泛的标准对广告技术和营销技术供应商进行评级，帮助营销领导者更轻松地比较潜在合作伙伴的能力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;创始人观点：&lt;/strong&gt; 前Goodway Group CEO Jay Friedman表示：企业级营销和广告技术采购者每年要做价值数千万美元的决策，但可用的情报只来自供应商、供应商付费的分析师或咨询顾问。买家需要中立的平台。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;意义：&lt;/strong&gt; 这一工具有望解决广告技术供应商选择中的信息不对称问题，为品牌商提供更客观的决策依据。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/cartographai-helps-vendor-selection/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-paypal进军流媒体广告推出curated-ads产品&quot;&gt;4. PayPal进军流媒体广告：推出Curated Ads产品&lt;/h2&gt;
+
+&lt;p&gt;PayPal广告业务推出新产品Curated Ads，利用交易数据图谱创建受众群体，通过与Warner Bros. Discovery、Spectrum Reach和Tubi的直接合作，帮助广告主在流媒体和开放网络上进行精准定位和效果衡量。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;产品特点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;结合PayPal的受众数据与发布商受众，精细化定向&lt;/li&gt;
+  &lt;li&gt;通过匹配广告展示与PayPal验证的消费者购买数据，衡量广告驱动的销售转化&lt;/li&gt;
+  &lt;li&gt;专注流媒体电视广告市场&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; 流媒体成为PayPal广告业务增长的下一个重点渠道，利用交易数据优势打造差异化竞争力。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/commerce/paypal-goes-after-streaming-tv-advertisers-with-new-adtech-deals/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-百度联盟启动1亿美元扶持计划-发力海外app业务&quot;&gt;5. 百度联盟启动1亿美元扶持计划 发力海外App业务&lt;/h2&gt;
+
+&lt;p&gt;4月24日，百度联盟正式发布海外App业务，推出Hybrid模型，启动1亿美元专项扶持计划，助力出海广告主与开发者实现全球化增长。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;业务数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;平台已接入超1万家App广告主&lt;/li&gt;
+  &lt;li&gt;覆盖113个垂直行业&lt;/li&gt;
+  &lt;li&gt;海外本土直客预算占比超80%&lt;/li&gt;
+  &lt;li&gt;覆盖金融、健康、家居等行业&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;市场背景：&lt;/strong&gt; 2026年海外数字广告市场规模达7200亿美元，占全球广告预算80%，年复合增长率12%，是行业核心增长极。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3782802319137793&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-04-29&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Apr 2026 13:15:52 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/04/28/openai%E6%8E%A8%E5%87%BAroi-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/04/28/openai%E6%8E%A8%E5%87%BAroi-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -853,145 +949,6 @@ AI将20小时的工作压缩到2小时，按工时计费的商业模式难以为
         
         
         <category>ad-news,daily-digest,AI,digital-advertising,CTV,agency</category>
-        
-      </item>
-    
-      <item>
-        <title>Meta增长: 8% | 广告营销周报</title>
-        <description>&lt;h1 id=&quot;每日广告营销新闻-2026-04-20&quot;&gt;每日广告营销新闻 2026-04-20&lt;/h1&gt;
-
-&lt;h2 id=&quot;1--meta-2026年广告收入有望首次超越谷歌数字广告格局重塑&quot;&gt;1. 🏆 Meta 2026年广告收入有望首次超越谷歌，数字广告格局重塑&lt;/h2&gt;
-
-&lt;p&gt;根据 Emarketer 最新预测，Meta 将在 2026 年创造 2434.6 亿美元的全球净广告收入，首次超越谷歌的 2395.4 亿美元，成为全球最大数字广告巨头。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Meta 全球广告市场份额将在 2026 年增至 26.8%，超越谷歌的 26.4%&lt;/li&gt;
-  &lt;li&gt;Meta 的增长动能来自 AI 技术赋能与短视频 Reels 的商业化突破，广告增速达 24.1%&lt;/li&gt;
-  &lt;li&gt;谷歌面临亚马逊等竞争对手的挑战，消费者日益在电商平台直接搜索商品&lt;/li&gt;
-  &lt;li&gt;亚马逊将排名第三，2026 年广告收入预计达 820.7 亿美元&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这标志着全球数字广告领域的历史性转变，AI 驱动的社交媒体广告正在重塑行业竞争格局。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kp82m3k1kvdgh0zyyrynkx7y&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2--iab-发布年度报告美国数字广告收入达-2946-亿美元ai-成基础设施层&quot;&gt;2. 📊 IAB 发布年度报告：美国数字广告收入达 2946 亿美元，AI 成基础设施层&lt;/h2&gt;
-
-&lt;p&gt;IAB 在其成立 30 周年之际发布 2025 年互联网广告收入报告（由 PwC 执行），美国数字广告收入达到 2946 亿美元，同比增长 13.9%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;社交媒体广告&lt;/strong&gt;：1177 亿美元，同比增长 32.6%，占总收入 40%，增幅最大&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;搜索广告&lt;/strong&gt;：1142 亿美元，增速放缓至 11%（2024 年为 15.9%）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;数字视频&lt;/strong&gt;：780 亿美元，增长 25.4%，包括 CTV、社交视频等&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;零售媒体&lt;/strong&gt;：634 亿美元，增长 18%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;程序化广告&lt;/strong&gt;：1624 亿美元，增长 20.5%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;创作者广告&lt;/strong&gt;：370 亿美元（首次独立统计），2026 年预计达 440 亿美元&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt;
-AI 正在成为广告的基础设施层，从内容创作、投放执行到效果衡量全链路重塑。IAB 启动 Project Eidos 项目和 AAMP（Agentic Advertising Management Protocols）协议，为自主化 AI 媒介购买奠定标准基础。&lt;/p&gt;
-
-&lt;p&gt;值得注意的是，2025 年的增长是在没有奥运会、世界杯或选举等大型周期性事件的情况下实现的，显示出行业结构性增长的强劲势头。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3--netflix-广告收入-2026-年将达-30-亿美元推出新广告产品&quot;&gt;3. 📺 Netflix 广告收入 2026 年将达 30 亿美元，推出新广告产品&lt;/h2&gt;
-
-&lt;p&gt;Netflix 在 Q1 财报中透露，其广告业务预计在 2026 年翻倍增长，达到 30 亿美元收入。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;广告套餐占新注册用户的 60%（在提供广告套餐的国家）&lt;/li&gt;
-  &lt;li&gt;合作广告主超过 4000 家，同比增长 70%&lt;/li&gt;
-  &lt;li&gt;Q1 收入增长 16%（同比），达 507-517 亿美元&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;新产品计划：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;将在 2026 年推出新广告产品，帮助广告主评估投放的增量效果&lt;/li&gt;
-  &lt;li&gt;从 Q2 开始，通过 Amazon DSP 购买 Netflix 库存的品牌可使用 Amazon Audiences（基于购物、浏览和流媒体行为的用户细分）&lt;/li&gt;
-  &lt;li&gt;提供基于 Netflix 第一方数据的验证工具&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Netflix 还确认不会收购华纳兄弟探索（WBD），但收到 28.5 亿美元的分手费（WBD 选择与派拉蒙合并）。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/convergent-tv/netflix-ad-revenue-3-billion-in-2026-new-ad-products/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4--viant-4000-万美元收购-tvision强化-ai-驱动程序化广告平台&quot;&gt;4. 🎯 Viant 4000 万美元收购 TVision，强化 AI 驱动程序化广告平台&lt;/h2&gt;
-
-&lt;p&gt;程序化广告平台 Viant（NASDAQ: DSP）宣布以 4000 万美元收购 TVision Insights，这是唯一能够提供逐秒级、眼球注视屏幕的注意力测量、共同观看和室内存在数据的电视测量服务商。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;将 TVision 的专有注意力信号直接集成到 Viant 的购买平台中&lt;/li&gt;
-  &lt;li&gt;结合 Viant 的 Household ID 和 IRIS_ID，在网络、CTV 应用、节目、场景、广告时段和广告位层面提供前所未有的粒度&lt;/li&gt;
-  &lt;li&gt;实现库存估值、竞价精度和广告支出回报的即时改进&lt;/li&gt;
-  &lt;li&gt;提供业界首创的「注意力调整 CPM」指标&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt;
-此次收购为广告主提供了一个独立于平台的市场级全景视图，打破了围墙花园的自我归因偏见。TVision 使用计算机视觉和自动内容识别技术，覆盖线性电视、YouTube、Prime Video 和流媒体平台。&lt;/p&gt;
-
-&lt;p&gt;交易预计在 Q2 2026 完成，对价包括 2250 万美元现金和 1750 万美元股票。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.viantinc.com/company/news/press-releases/viant-announces-agreement-to-acquire-tvision-strengthening-its-ai-powered-programmatic-platform/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5--iab-europe-启动-2026-年-ai-对数字广告影响调研&quot;&gt;5. 🤖 IAB Europe 启动 2026 年 AI 对数字广告影响调研&lt;/h2&gt;
-
-&lt;p&gt;IAB Europe 于 4 月 13 日启动 2026 年 AI 影响调研，旨在绘制 AI 在数字广告行业应用的下一章。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;调研重点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AI 技术在广告策划、创意生成、投放优化、效果衡量等环节的实施进度&lt;/li&gt;
-  &lt;li&gt;企业如何将 AI 能力转化为可验证的商业成果&lt;/li&gt;
-  &lt;li&gt;行业标准化与合规性需求&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;据 Gartner 预测，到 2026 年，超过 80% 的企业将利用生成式 AI 创建面向客户的内容。IAB 的调研将为企业提供实用的基准工具，帮助组织评估其 AI 进展并为行业提供广泛视角。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://iabeurope.eu/iab-europe-launches-2026-impact-of-ai-on-digital-advertising-survey-to-map-the-industrys-next-chapter/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;-行业趋势总结&quot;&gt;📈 行业趋势总结&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;平台竞争格局重塑&lt;/strong&gt;：Meta 凭借 AI 与短视频商业化正在超越谷歌，成为新一代数字广告霸主&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI 全面落地&lt;/strong&gt;：从基础设施到创意生产，AI 正在重新定义广告价值链的每个环节&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;注意力经济兴起&lt;/strong&gt;：测量标准从曝光转向真实注意力，独立第三方测量服务价值凸显&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;流媒体广告爆发&lt;/strong&gt;：Netflix 等流媒体平台广告业务高速增长，CTV 成为重要战场&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;创作者经济成熟&lt;/strong&gt;：从活动式合作转向常态化运营，创作者广告成为独立核心渠道&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;*数据来源：4A广告网、IAB、Adweek、Viant、IAB Europe&lt;/td&gt;
-      &lt;td&gt;整理时间：2026-04-20*&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-04-20&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 19 Apr 2026 13:16:16 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/04/19/meta%E5%A2%9E%E9%95%BF-8-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/04/19/meta%E5%A2%9E%E9%95%BF-8-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
