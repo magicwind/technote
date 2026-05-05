@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 May 2026 21:16:44 -0500</pubDate>
-    <lastBuildDate>Sun, 03 May 2026 21:16:44 -0500</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 21:16:48 -0500</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 21:16:48 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,74 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>每日广告营销新闻 2026-05-05</title>
+        <description>&lt;h2 id=&quot;1-科技巨头q1财报揭示广告市场新格局meta增长33google搜索增19&quot;&gt;1. 科技巨头Q1财报揭示广告市场新格局：Meta增长33%，Google搜索增19%&lt;/h2&gt;
+
+&lt;p&gt;大型科技公司2026年第一季度财报显示，数字广告市场正在经历结构性分化。Meta广告收入同比增长33%达到414亿美元，Google搜索广告增长19%，亚马逊广告增长24%。但更深层的趋势是：中小企业(SMB)正成为平台增长的主要驱动力，占据约50%的全球广告支出，而这部分预算几乎完全绕过传统广告代理商直接流向平台。大型品牌广告主在Meta的增速已从2023-2024年的27%降至14%，预算正在从品牌广告转向效果广告。云计算业务同样强劲：Alphabet云增长63%，AWS增长28%（15个季度最快），显示AI基础设施投资正在产生可见回报。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着广告市场冰山效应——代理商看到的大品牌市场增长缓慢，而平台直连的SMB市场高速增长。AI驱动的自动化工具降低了广告门槛，让本地小商家也能运营复杂的广告活动。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; PPC Land, 2026年5月2日&lt;br /&gt;
+&lt;a href=&quot;https://ppc.land/the-iceberg-below-the-ad-market-what-big-tech-q1-results-actually-show/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-苹果推出apple-maps广告今夏登陆美加服务收入创纪录310亿美元&quot;&gt;2. 苹果推出Apple Maps广告：今夏登陆美加，服务收入创纪录310亿美元&lt;/h2&gt;
+
+&lt;p&gt;苹果第二财季营收1112亿美元，服务收入达到创纪录的310亿美元(同比增16%)。重磅消息：Apple Maps将于2026年夏季在美国和加拿大推出广告，针对关键搜索和发现时刻展示本地商家广告。这是继App Store搜索广告持续扩张后，苹果广告业务的又一次重大突破。苹果强调隐私保护：广告基于搜索查询和地图区域等上下文信号，不使用精确位置历史、年龄或性别数据，广告标识符每小时多次轮换。此外，蒂姆·库克宣布将于9月1日卸任CEO，由硬件工程负责人约翰·特努斯接任。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 凭借25亿活跃设备的庞大生态，Apple Maps广告将直接挑战Google在本地搜索市场的主导地位。对旅游、餐饮、零售等本地广告主而言，这是一个精准触达高消费人群的新渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; PPC Land, 2026年4月30日&lt;br /&gt;
+&lt;a href=&quot;https://ppc.land/apples-record-111bn-quarter-services-ads-and-a-ceo-farewell/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊营销组合模型mmm-api正式开放覆盖14个市场&quot;&gt;3. 亚马逊营销组合模型(MMM) API正式开放：覆盖14个市场&lt;/h2&gt;
+
+&lt;p&gt;亚马逊在2026年5月正式将营销组合模型(MMM) API从测试版转为通用版本，向所有广告主和合作伙伴开放程序化访问。该API覆盖美国、加拿大、德国、英国、日本、巴西、印度等14个国家，整合了亚马逊的广告信号和零售数据信号。新增6个API端点，包括品牌组覆盖管理、产品和活动检索、报告状态列表等功能。这使营销团队可以自动化提取MMM数据，无需再通过控制台手动下载报告。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 随着隐私法规收紧，基于归因的测量方法面临限制，MMM重新成为主流。46.9%的营销人员计划增加MMM投资。亚马逊提供广告+零售双重信号的统一数据源，大幅降低了数据整合成本，为品牌提供更准确的跨渠道营销效果评估。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; PPC Land, 2026年5月3日&lt;br /&gt;
+&lt;a href=&quot;https://ppc.land/amazons-mmm-api-exits-beta-and-unlocks-retail-data-signals-in-14-markets/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-hubspot-2026春季发布ai代理和loop营销框架重塑自动化&quot;&gt;4. HubSpot 2026春季发布：AI代理和Loop营销框架重塑自动化&lt;/h2&gt;
+
+&lt;p&gt;HubSpot在2026年春季发布会上推出99项更新，核心是Breeze AI代理和Loop营销框架。Breeze Assistant现已集成Loop Marketing理念，让没有营销框架知识的团队也能在几天内从零启动完整营销活动。新推出的AI Connectors将HubSpot CRM数据直接连接到ChatGPT、Claude、Gemini和Copilot等工具，使每次AI交互都基于真实客户上下文。PCMag将HubSpot Marketing Hub评为2026年最佳电子邮件营销软件。HubSpot目前拥有28.87万客户，营收31亿美元，在营销自动化市场占有率达8.14%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; AI代理正从单点工具实验转向战略级应用。HubSpot的Loop营销+AI代理组合，让中小企业也能运营企业级营销自动化，标志着营销技术的民主化加速。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; MarTech, SQ Magazine, 2026年4月-5月&lt;br /&gt;
+&lt;a href=&quot;https://martech.org/the-latest-ai-powered-martech-news-and-releases/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-中国长视频广告大迁徙品牌预算从长剧转向综艺&quot;&gt;5. 中国长视频广告大迁徙：品牌预算从长剧转向综艺&lt;/h2&gt;
+
+&lt;p&gt;2026年第一季度，中国长视频市场出现结构性变化：新剧上线63部同比减6%，TOP20长剧播放量同比缩减15%，多部中腰部剧集遭遇裸播（无广告）。与此同时，品牌广告预算大规模转向综艺节目。伊利、蒙牛等乳业巨头砍掉70%长剧预算转投综艺，某快消品牌透露综艺ROI比长剧高3倍以上。背后原因是AI短剧快速崛起抢占用户时长，以及品牌追求确定性：综艺具备季播确定性、场景化植入、社交裂变能力，商业效率远超长剧。《种地吧》《乘风2026》等头部综艺成为广告新宠，新兴品牌如度小满、千问AI、闲鱼也加入战局。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着长视频广告从内容驱动转向效率驱动。综艺凭借高ROI和可预测性成为品牌营销的核心阵地，长剧则面临AI短剧和短视频的双重挤压。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt; 21经济网，2026年4月28日&lt;br /&gt;
+&lt;a href=&quot;https://www.21jingji.com/article/20260428/herald/dd5870808781c0f8dd42d290fe39d37a.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-05-05&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 May 2026 13:16:10 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E8%90%A5%E9%94%80%E6%8A%80%E6%9C%AF,%E8%B4%A2%E6%8A%A5%E5%88%86%E6%9E%90/2026/05/04/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-05-05/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E8%90%A5%E9%94%80%E6%8A%80%E6%9C%AF,%E8%B4%A2%E6%8A%A5%E5%88%86%E6%9E%90/2026/05/04/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-05-05/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,营销技术,财报分析</category>
         
       </item>
     
@@ -797,99 +865,6 @@
         
         
         <category>ad-news,daily-digest,AI,programmatic,agency</category>
-        
-      </item>
-    
-      <item>
-        <title>一周精华：Meta增长、增长动态</title>
-        <description>&lt;h2 id=&quot;1-创作者营销成核心媒体渠道搜索增长放缓&quot;&gt;1. 创作者营销成核心媒体渠道，搜索增长放缓&lt;/h2&gt;
-
-&lt;p&gt;IAB 和 PwC 最新年度报告显示，2025年美国数字广告收入同比增长13.9%，达到创纪录的2946亿美元。社交媒体广告以40%的市场份额（1177亿美元）领跑，同比增长32.6%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心洞察：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;创作者广告去年产生370亿美元收入，预计2026年将达440亿美元&lt;/li&gt;
-  &lt;li&gt;搜索广告增速降低近5个百分点，总额1142亿美元&lt;/li&gt;
-  &lt;li&gt;Meta 预计2026年全球广告收入将首次超越Google&lt;/li&gt;
-  &lt;li&gt;品牌正将创作者从一次性合作转向常态化战略&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marketingdive.com/news/creator-marketing-now-a-core-media-channel-while-search-slows-iab/817832/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2-87的广告公司专业人士认为传统代理商模式已崩溃&quot;&gt;2. 87%的广告公司专业人士认为传统代理商模式已崩溃&lt;/h2&gt;
-
-&lt;p&gt;Basis 发布的2026年广告代理商报告对213名从业者调研发现，87.3%认为传统代理商模式已经或即将在3-5年内崩溃，高级领导层中这一比例达91.5%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键发现：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;70%从业者表示工作比两年前更困难&lt;/li&gt;
-  &lt;li&gt;99%的代理商已采用AI，59.2%每天使用&lt;/li&gt;
-  &lt;li&gt;36.8%的全服务/媒体代理商管理10个以上工具（两年前仅17.3%）&lt;/li&gt;
-  &lt;li&gt;90%认为AI对主要收入来源构成威胁&lt;/li&gt;
-  &lt;li&gt;39.9%在过去12个月裁员&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业信心首次跌破50%：&lt;/strong&gt; 仅48.8%对数字广告未来感到乐观（2024年为62.8%）&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/87-of-agency-pros-say-the-traditional-agency-model-is-broken/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3-miq研究营销漏斗已失效消费者每小时切换状态多次&quot;&gt;3. MiQ研究：营销漏斗已失效，消费者每小时切换状态多次&lt;/h2&gt;
-
-&lt;p&gt;MiQ 基于5300万家庭、7000万亿信号的研究显示，87%的消费者每小时至少切换一次数字活动，42%认为购买路径完全随机。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;颠覆性数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;91%的消费者看电视时使用第二设备&lt;/li&gt;
-  &lt;li&gt;72%的34岁以下消费者在社交应用内完成整个购买流程&lt;/li&gt;
-  &lt;li&gt;45%已使用AI聊天机器人购物（18-24岁人群为73%）&lt;/li&gt;
-  &lt;li&gt;30分钟内，66%的浏览者转为购买状态，50%的购买者回到观看状态&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;战略转向：&lt;/strong&gt; 从线性漏斗到状态切换，要求营销人员在观看、浏览、购买三种状态间灵活响应。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/miq-study-of-53-million-households-finds-the-marketing-funnel-is-broken/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4-google-ai-max正式推出搜索广告加速自动化&quot;&gt;4. Google AI Max正式推出，搜索广告加速自动化&lt;/h2&gt;
-
-&lt;p&gt;4月15日，Google 宣布 AI Max 搜索广告退出测试，9月起动态搜索广告（DSA）等旧功能将升级至 AI Max。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;影响：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;搜索广告从手动控制转向AI驱动&lt;/li&gt;
-  &lt;li&gt;竞争力取决于网站结构、落地页质量、转化数据清洁度&lt;/li&gt;
-  &lt;li&gt;平台数据显示使用完整AI Max功能的广告系列转化率显著提升&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://almcorp.com/blog/digital-marketing-news-april-11-20-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5-sister集团收购after-party-studios布局创意内容生态&quot;&gt;5. SISTER集团收购After Party Studios，布局创意内容生态&lt;/h2&gt;
-
-&lt;p&gt;SISTER集团宣布收购创意工作室After Party Studios多数股权，强化品牌娱乐和数字原生内容能力。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;After Party Studios 成立于2016年，专注社交媒体制作和品牌娱乐&lt;/li&gt;
-  &lt;li&gt;作品多次获行业大奖&lt;/li&gt;
-  &lt;li&gt;加入SISTER集团多元化创意矩阵&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kpt53v04nj3ft7fc613mf557&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;今日要点总结：&lt;/strong&gt;
-社交和创作者广告正在取代搜索成为增长引擎；传统代理商模式面临生存危机；消费者行为碎片化要求营销策略根本性转变；AI正在重塑广告制作、投放和测量的每个环节。&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-04-26&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Apr 2026 13:15:47 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,social-media,ai-advertising,programmatic/2026/04/25/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Emeta%E5%A2%9E%E9%95%BF%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,social-media,ai-advertising,programmatic/2026/04/25/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Emeta%E5%A2%9E%E9%95%BF%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81/</guid>
-        
-        
-        <category>ad-news,daily-digest,social-media,AI-advertising,programmatic</category>
         
       </item>
     
