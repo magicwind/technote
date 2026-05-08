@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 May 2026 21:16:22 -0500</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 21:16:22 -0500</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 21:16:36 -0500</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 21:16:36 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,106 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：OpenAI布局数字广告</title>
+        <description>&lt;p&gt;📰 每日广告营销新闻 2026-05-08&lt;/p&gt;
+
+&lt;h2 id=&quot;1-google发布新一代智能出价和预算工具瞄准隐藏转化&quot;&gt;1. Google发布新一代智能出价和预算工具，瞄准隐藏转化&lt;/h2&gt;
+
+&lt;p&gt;Google在5月7日宣布三项重大更新，为其即将在5月20日举行的Google Marketing Live 2026预热。新功能包括：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;旅程感知出价（Journey-aware bidding）&lt;/strong&gt;：目前处于beta阶段，针对潜在客户生成广告系列，可同时学习可竞价和非可竞价转化目标（包括电话、表单提交、新闻订阅等），帮助B2B营销人员优化复杂的多触点销售周期&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;智能出价探索（Smart Bidding Exploration）扩展&lt;/strong&gt;：从搜索广告扩展到购物广告和Performance Max广告系列，平均可将独特转化用户数提升27%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;需求导向预算调配（Demand-led pacing）&lt;/strong&gt;：将在未来几个月推出，自动根据消费者需求高峰和低谷调整日常支出，无需手动调整预算&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;据Google产品经理Josh Braverman透露，自2025年以来，Google已经对搜索和购物出价策略进行了超过20项改进。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-targets-hidden-conversions-with-new-bidding-and-budgeting-tools/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-openai向全美企业开放chatgpt广告管理平台推出cpc竞价&quot;&gt;2. OpenAI向全美企业开放ChatGPT广告管理平台，推出CPC竞价&lt;/h2&gt;
+
+&lt;p&gt;5月5日，OpenAI宣布向美国所有企业开放自助式ChatGPT广告管理平台（ads.openai.com），标志着其广告业务从封闭试点走向开放市场。主要更新包括：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CPC竞价模式&lt;/strong&gt;：除原有的0 CPM定价外，新增按点击付费模式，建议起始出价为-5美元/点击&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;转化API和像素追踪&lt;/strong&gt;：弥补了此前最大的测量缺陷，广告主现可追踪购买、潜客、注册等后续行为&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;三级广告架构&lt;/strong&gt;：Campaign（广告系列）→ Ad Group（广告组）→ Ad（广告单元），类似Google Ads和Meta Ads Manager&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;情境提示系统&lt;/strong&gt;：广告主用自然语言描述相关对话场景，而非传统关键词匹配&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;值得注意的是，尽管ChatGPT周活跃用户超过8亿，但截至4月其广告主数量仅约600家，与Google AI Max的数十万广告主形成鲜明对比。广告仅向美国、加拿大、澳大利亚和新西兰的免费和Go用户展示。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/openai-opens-chatgpt-ads-manager-to-all-us-businesses-with-cpc-bidding/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊q1财报广告业务强劲增长24&quot;&gt;3. 亚马逊Q1财报：广告业务强劲增长24%&lt;/h2&gt;
+
+&lt;p&gt;亚马逊公布2026年第一季度财报，整体净销售额同比增长17%达到1815亿美元，其中广告业务表现尤为亮眼：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;广告收入&lt;/strong&gt;：达到172.43亿美元，同比增长24%，增速显著超过主营业务&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;战略地位&lt;/strong&gt;：广告业务已成为驱动公司业绩增长的重要引擎之一&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Emarketer首席分析师Sky Canaves表示，这反映出品牌方对亚马逊广告生态的认可度不断提升，也体现出数字广告市场向头部平台集中的行业趋势。亚马逊CEO安迪·贾西强调，客户的积极反馈直接推动了各项业务的显著增长。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kqy718tdqq36fbyjj5zwa6ke&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-ai广告商业化鸿沟google数十万广告主-vs-chatgpt仅600家&quot;&gt;4. AI广告商业化鸿沟：Google数十万广告主 vs ChatGPT仅600家&lt;/h2&gt;
+
+&lt;p&gt;36氪深度分析了2026年Q1财报季科技巨头的AI广告商业化差异：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Google的成功路径：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;AI Max产品已积累数十万广告主，成为”增长最快的AI搜索产品”&lt;/li&gt;
+  &lt;li&gt;基于400万PMax广告主的信任基础，顺利过渡到AI原生广告&lt;/li&gt;
+  &lt;li&gt;启用AI Max完整功能的广告主平均转化率提升7%&lt;/li&gt;
+  &lt;li&gt;Gemini模型全面部署到广告基础设施，驱动匹配、创意和出价升级&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;OpenAI的困境：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;初期门槛过高（20-25万美元最低投入，0 CPM），导致广告库存严重不足&lt;/li&gt;
+  &lt;li&gt;部分广告主预算无法有效消耗（承诺25万美元，实际仅花费2000美元）&lt;/li&gt;
+  &lt;li&gt;缺乏成熟的广告拍卖算法、归因体系和自助投放工具&lt;/li&gt;
+  &lt;li&gt;广告主数量仅约600家，与8亿周活用户规模严重不匹配&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Meta的矛盾：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Q1广告收入550亿美元，同比增长33%，日活用户35.6亿&lt;/li&gt;
+  &lt;li&gt;但资本支出预期上调至1250-1450亿美元用于AI基础设施&lt;/li&gt;
+  &lt;li&gt;AI货币化路径不明确，导致股价暴跌10%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;分析指出，成熟的广告体系、精准的用户意图理解和完善的归因机制，才是AI时代广告商业化的关键。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3797619013868808&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;今日洞察：&lt;/strong&gt;AI正在重塑数字广告格局，但商业化能力的差距正在拉大——拥有完善广告基础设施的Google快速变现AI能力，而OpenAI等新入局者仍在补课。广告主越来越重视可量化的ROI和完整的归因链路，”AI概念”已不足以支撑估值，市场需要看到真实的商业回报。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-05-08&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 May 2026 13:16:00 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,google,openai,%E4%BA%9A%E9%A9%AC%E9%80%8A/2026/05/07/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,google,openai,%E4%BA%9A%E9%A9%AC%E9%80%8A/2026/05/07/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,Google,OpenAI,亚马逊</category>
         
       </item>
     
@@ -752,102 +852,6 @@
         
         
         <category>ad-news,daily-digest,AI,programmatic-advertising,video-advertising</category>
-        
-      </item>
-    
-      <item>
-        <title>OpenAI推出ROI | 行业快讯</title>
-        <description>&lt;h2 id=&quot;1-长视频广告格局重构综艺成广告主新宠&quot;&gt;1. 长视频广告格局重构：综艺成广告主新宠&lt;/h2&gt;
-
-&lt;p&gt;2026年Q1，长视频广告市场正在经历结构性重组。国产新剧上新63部，同比减少6%；TOP20长剧正片播放合计137亿，同比缩减15%。AI短剧和短视频的双重挤压下，广告主开始大规模撤离长剧市场。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;伊利、蒙牛等乳业品牌大幅削减长剧预算，转投综艺节目&lt;/li&gt;
-  &lt;li&gt;安慕希独家冠名《今夜喜友秀》，理想汽车冠名《跃升高能少年团》&lt;/li&gt;
-  &lt;li&gt;品牌商综艺ROI比长剧高3倍以上，2026年砍掉70%长剧预算&lt;/li&gt;
-  &lt;li&gt;综艺精品化、垂类化成为趋势，广告形式创新包括AI实时植入、互动广告&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;洞察：&lt;/strong&gt; 长视频广告从内容驱动转向效率驱动，综艺凭借季播确定性、场景化植入、社交裂变能力成为长视频广告的核心载体。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.21jingji.com/article/20260428/herald/dd5870808781c0f8dd42d290fe39d37a.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-ai-agent重塑广告技术openai推出转化追踪像素&quot;&gt;2. AI Agent重塑广告技术：OpenAI推出转化追踪像素&lt;/h2&gt;
-
-&lt;p&gt;ChatGPT广告业务正在快速扩张。4月23日，ChatGPT开始向未登录用户展示广告，扩大广告库存池。OpenAI正准备推出转化追踪像素，支持潜在客户创建、订单创建、页面浏览和订阅创建等功能。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;ChatGPT广告CPM从60美元降至25美元（9周内）&lt;/li&gt;
-  &lt;li&gt;试点项目已实现1亿美元年化收入&lt;/li&gt;
-  &lt;li&gt;2026年广告收入目标24亿美元，2027年目标110亿美元&lt;/li&gt;
-  &lt;li&gt;Criteo成为首个ChatGPT广告技术合作伙伴&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; AI原生广告渠道正在成为200亿美元程序化广告市场的新战场。The Trade Desk、IAB Tech Lab等多方推出AI Agent标准框架，但行业尚未达成统一共识。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/ad-tech-braces-for-ai-agents/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-cartographai推出ai驱动的广告技术供应商选择平台&quot;&gt;3. CartographAI推出AI驱动的广告技术供应商选择平台&lt;/h2&gt;
-
-&lt;p&gt;一家创业公司推出CartographAI平台，使用AI和人工主导的研究数据，根据广泛的标准对广告技术和营销技术供应商进行评级，帮助营销领导者更轻松地比较潜在合作伙伴的能力。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;创始人观点：&lt;/strong&gt; 前Goodway Group CEO Jay Friedman表示：企业级营销和广告技术采购者每年要做价值数千万美元的决策，但可用的情报只来自供应商、供应商付费的分析师或咨询顾问。买家需要中立的平台。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;意义：&lt;/strong&gt; 这一工具有望解决广告技术供应商选择中的信息不对称问题，为品牌商提供更客观的决策依据。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/cartographai-helps-vendor-selection/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-paypal进军流媒体广告推出curated-ads产品&quot;&gt;4. PayPal进军流媒体广告：推出Curated Ads产品&lt;/h2&gt;
-
-&lt;p&gt;PayPal广告业务推出新产品Curated Ads，利用交易数据图谱创建受众群体，通过与Warner Bros. Discovery、Spectrum Reach和Tubi的直接合作，帮助广告主在流媒体和开放网络上进行精准定位和效果衡量。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;产品特点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;结合PayPal的受众数据与发布商受众，精细化定向&lt;/li&gt;
-  &lt;li&gt;通过匹配广告展示与PayPal验证的消费者购买数据，衡量广告驱动的销售转化&lt;/li&gt;
-  &lt;li&gt;专注流媒体电视广告市场&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; 流媒体成为PayPal广告业务增长的下一个重点渠道，利用交易数据优势打造差异化竞争力。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/commerce/paypal-goes-after-streaming-tv-advertisers-with-new-adtech-deals/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-百度联盟启动1亿美元扶持计划-发力海外app业务&quot;&gt;5. 百度联盟启动1亿美元扶持计划 发力海外App业务&lt;/h2&gt;
-
-&lt;p&gt;4月24日，百度联盟正式发布海外App业务，推出Hybrid模型，启动1亿美元专项扶持计划，助力出海广告主与开发者实现全球化增长。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;业务数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;平台已接入超1万家App广告主&lt;/li&gt;
-  &lt;li&gt;覆盖113个垂直行业&lt;/li&gt;
-  &lt;li&gt;海外本土直客预算占比超80%&lt;/li&gt;
-  &lt;li&gt;覆盖金融、健康、家居等行业&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;市场背景：&lt;/strong&gt; 2026年海外数字广告市场规模达7200亿美元，占全球广告预算80%，年复合增长率12%，是行业核心增长极。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3782802319137793&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-04-29&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Apr 2026 13:15:52 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/04/28/openai%E6%8E%A8%E5%87%BAroi-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/04/28/openai%E6%8E%A8%E5%87%BAroi-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
