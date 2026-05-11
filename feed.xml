@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 09 May 2026 21:16:47 -0500</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 21:16:47 -0500</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 21:17:23 -0500</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 21:17:23 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,119 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>谷歌增长: 27% | 广告营销周报</title>
+        <description>&lt;p&gt;📊 每日广告营销新闻 2026-05-11&lt;/p&gt;
+
+&lt;h2 id=&quot;1-谷歌发布三大广告竞价与预算新功能&quot;&gt;1. 谷歌发布三大广告竞价与预算新功能&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;旅程感知竞价（Journey-aware Bidding）&lt;/strong&gt;：针对B2B线索生成广告，整合可竞价和非竞价转化信号（电话、表单、订阅等），提升全漏斗预测能力&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;智能竞价探索扩展&lt;/strong&gt;：从搜索广告扩展至购物和Performance Max广告，平均提升27%独特转化用户&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;需求驱动预算分配&lt;/strong&gt;：根据消费需求自动优化每日支出，高峰期加大投放、低峰期减少支出&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 谷歌继续收窄人工竞价管理空间，自2025年以来已推出超20项搜索和购物竞价改进。新功能将在未来几周内陆续上线Beta测试。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-targets-hidden-conversions-with-new-bidding-and-budgeting-tools/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-rakuten与impactcom达成战略联盟重塑联盟营销生态&quot;&gt;2. Rakuten与impact.com达成战略联盟，重塑联盟营销生态&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rakuten Advertising（全球最大联盟营销网络之一）与impact.com（年处理1200亿美元GMV）整合技术平台和服务能力&lt;/li&gt;
+  &lt;li&gt;Rakuten Rewards将提供直接消费者购买数据，改善归因和增量测量&lt;/li&gt;
+  &lt;li&gt;联盟覆盖35万+活跃合作伙伴，为广告主提供跨渠道一站式解决方案&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt; 联盟营销从最后点击归因转向可观察交易归因，解决长期困扰行业的增量测量难题。双方将在5月和6月的行业大会上公布更多整合细节。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/rakuten-and-impact-com-unite-affiliate-tech-data-and-services-in-new-deal/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-trade-desk-q1营收增长放缓押注ai聊天机器人广告&quot;&gt;3. Trade Desk Q1营收增长放缓，押注AI聊天机器人广告&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;财报数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Q1营收6.89亿美元，同比增长12%（增速较去年下降10+个百分点）&lt;/li&gt;
+  &lt;li&gt;CEO Jeff Green看好OpenAI等大语言模型的广告变现潜力&lt;/li&gt;
+  &lt;li&gt;强调”开放网络”相比封闭生态的竞争优势&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;市场挑战：&lt;/strong&gt; 与Publicis的争议仍在持续，多位高管离职（包括战略主管跳槽至OpenAI）。管理层认为CMO将开始把围墙花园视为”预算剩余”。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.marketingdive.com/news/where-trade-desk-sees-advertising-opportunity-following-bruising-q1/819692/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-纽约时报数字广告收入暴增32传统媒体的增长范本&quot;&gt;4. 纽约时报数字广告收入暴增32%，传统媒体的增长范本&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;亮眼表现：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;2026年Q1数字广告收入9330万美元，同比增长31.6%&lt;/li&gt;
+  &lt;li&gt;连续两个季度实现双位数高速增长（Q4增长24.9%）&lt;/li&gt;
+  &lt;li&gt;新增31万数字订阅用户&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;增长策略：&lt;/strong&gt; 首席广告官Joy Robins将成功归因于：扩展生活方式品牌组合、在原本无广告页面新增广告供给、以及清晰的内部战略执行。在行业普遍面临流量下滑和平台压力的背景下，表现突出。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/new-york-times-digital-ad-growth-q1-2026-copy/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-2025中国互联网广告分化加剧ai与闭环成核心竞争力&quot;&gt;5. 2025中国互联网广告分化加剧：AI与闭环成核心竞争力&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;行业趋势：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;阿里、拼多多、腾讯三家占TOP19总盘60%以上，头部集中度持续提升&lt;/li&gt;
+  &lt;li&gt;腾讯、京东、快手、B站实现双位数增长；百度、知乎、汽车之家大幅下滑&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;关键分化因素&lt;/strong&gt;：AI落地能力 × 交易闭环承接能力&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;核心洞察：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;AI提升流量变现效率：腾讯混元大模型使精准定向效率提升21%，eCPM显著上涨&lt;/li&gt;
+  &lt;li&gt;闭环广告占比提升：腾讯闭环广告占比从28%升至37%，用户决策链路缩短50%&lt;/li&gt;
+  &lt;li&gt;战略转向：平台主动收缩商业化强度，优先生态稳定而非短期变现&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;数据亮点：&lt;/strong&gt; B站首次突破百亿广告营收（100.6亿元），23%增速领跑行业；百度AI业务营收400亿元，同比增长48%，战略重心明确转向AI新业务。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3786212611660806&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-行业趋势观察&quot;&gt;📈 行业趋势观察&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;自动化与AI驱动投放成为标配&lt;/strong&gt;：从谷歌到国内各大平台，AI能力正在成为广告平台的核心竞争力&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;转化闭环决定预算流向&lt;/strong&gt;：预算加速流向能提供”可验证转化”的平台，传统曝光型广告持续承压&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;联盟营销升级&lt;/strong&gt;：从简单分佣转向数据驱动的增量测量和全链路归因&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;传统媒体通过内容+数据实现逆势增长&lt;/strong&gt;：纽约时报的成功证明优质内容仍有广告价值&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;本期新闻整理自 PPC Land、Marketing Dive、Adweek、36氪等行业媒体&lt;/em&gt;
+&lt;em&gt;发布时间：2026年5月11日（北京时间上午10:15）&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-05-11&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 May 2026 13:16:07 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E8%90%A5%E9%94%80,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80/2026/05/10/%E8%B0%B7%E6%AD%8C%E5%A2%9E%E9%95%BF-27-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E8%90%A5%E9%94%80,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80/2026/05/10/%E8%B0%B7%E6%AD%8C%E5%A2%9E%E9%95%BF-27-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI营销,程序化广告,联盟营销</category>
         
       </item>
     
@@ -846,74 +959,6 @@
         
         
         <category>ad-news,daily-digest,video-advertising,ai-marketing,social-media,privacy</category>
-        
-      </item>
-    
-      <item>
-        <title>AI创新：Meta行业新动向</title>
-        <description>&lt;p&gt;&lt;strong&gt;1. X平台重建语义广告系统，营销进入意义时代&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;据 MediaPost 和 Mean CEO 博客报道（5月1日），X（前Twitter）正在全面重建其广告管理系统，核心转向语义和上下文定向。这标志着社交媒体广告从粗放的兴趣标签转向精准的语义理解。平台现在能够更深入地理解内容、对话和广告主意图之间的关系。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这一变化对营销人员意味着文案架构和受众研究重回核心位置。模糊、通用的广告文案将快速失去相关性。品牌需要围绕具体购买场景、真实用户焦虑和精确意图信号（如紧迫性、对比、成本、风险、信任）来设计广告活动。语义定向的崛起也与 Google 搜索广告逐步摆脱严格关键词依赖的趋势一致，整个行业正在向理解意图而非匹配标签演进。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.mean.ceo/social-media-marketing-trends-may-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;2. 87%广告代理商认为传统模式已崩溃&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Basis 于4月20日发布的《2026年广告代理商报告》显示，87.3%的广告行业从业者认为传统代理商模式已经崩溃或将在3-5年内崩溃。在VP级别以上的高管中，这一比例高达91.5%。报告基于213名顶级代理商专业人士的调查。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心问题：&lt;/strong&gt; AI技术压缩了任务执行时间——原本需要20小时的工作现在只需2小时，这使得基于计费工时的商业模式失去了结构性合理性。同时，70%的从业者表示工作难度加大，54%的人认为客户关系更加紧张。更严峻的是，行业信心首次跌破50%——仅48.8%的从业者对数字广告未来持乐观态度，而2024年这一数字还是62.8%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;AI悖论：&lt;/strong&gt; 99%的代理商已采用AI，但90%的人认为AI威胁其主要收入来源。32%的从业者认为AI将在未来3-5年对代理商产生负面影响，是2025年的两倍。39.9%的代理商在过去12个月进行了裁员。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/87-of-agency-pros-say-the-traditional-agency-model-is-broken/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;3. 营销的观点时代正在终结&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;在2026年 POSSIBLE 大会上，Marketing + Media Alliance 负责人发表主题演讲，呼吁终结营销的观点时代，转向基于科学知识的专业体系。他指出，营销行业缺乏像工程学、医学那样的系统化知识体系。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;广告支出每增加10%，销售额仅提升0.5%，且这一效果自1960年以来持续下降&lt;/li&gt;
-  &lt;li&gt;促销支出中75%用于从竞争对手那里争夺客户，仅10%真正促进品类增长&lt;/li&gt;
-  &lt;li&gt;渠道分销对销售的影响是广告的67倍&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;转型呼吁：&lt;/strong&gt; 演讲强调，AI不是解决观点化问题的答案——如果基础假设错误，AI只会规模化这些错误。营销人员需要建立可转移的、经过测试的知识体系，将判断力转化为行动，行动转化为可预测的盈利增长。Alliance 估算，仅执行现有已知最佳实践，就能让公司市值提升10%-20%。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/possible-2026-opening-remarks-marketings-age-of-opinion-is-ending/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Meta 2026年广告收入有望超越谷歌&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;根据 Emarketer 最新预测（发布于近期），Meta 到2026年底的全球数字广告净收入预计达到2430亿美元，将首次超越谷歌的2395亿美元。这将改写全球数字广告格局——自2000年代中期以来，谷歌一直占据数字广告收入榜首。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;市场趋势：&lt;/strong&gt; 谷歌的全球数字广告市场份额自2021年以来持续下滑，而Meta的份额稳步攀升。这一转变反映了社交媒体广告（特别是短视频广告如 Reels）对搜索广告的持续侵蚀，以及 Meta 在AI驱动的广告定向和创意优化方面的技术优势。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kp82m3k1kvdgh0zyyrynkx7y&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;本期观察：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2026年5月的广告营销行业呈现出三大核心趋势：&lt;strong&gt;技术智能化&lt;/strong&gt;（语义AI重塑广告定向）、&lt;strong&gt;模式危机化&lt;/strong&gt;（传统代理商商业模式面临结构性崩溃）、&lt;strong&gt;专业科学化&lt;/strong&gt;（行业呼吁从观点转向知识体系）。这些趋势相互交织——AI既是效率工具，也是收入威胁；既能压缩成本，也能放大错误。对营销人员而言，当下最关键的不是追逐每个新功能，而是建立清晰的战略思维、强有力的定位和严格的执行纪律。&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-05-02&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 May 2026 13:15:53 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E4%BB%A3%E7%90%86%E5%95%86,meta,%E8%AF%AD%E4%B9%89%E5%B9%BF%E5%91%8A/2026/05/01/ai%E5%88%9B%E6%96%B0meta%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E4%BB%A3%E7%90%86%E5%95%86,meta,%E8%AF%AD%E4%B9%89%E5%B9%BF%E5%91%8A/2026/05/01/ai%E5%88%9B%E6%96%B0meta%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,代理商,Meta,语义广告</category>
         
       </item>
     
