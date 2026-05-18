@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 16 May 2026 21:16:30 -0500</pubDate>
-    <lastBuildDate>Sat, 16 May 2026 21:16:30 -0500</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 21:16:36 -0500</pubDate>
+    <lastBuildDate>Sun, 17 May 2026 21:16:36 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,129 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>YouTube增长: 2倍 | 广告营销周报</title>
+        <description>&lt;p&gt;每日广告营销新闻 2026-05-18&lt;/p&gt;
+
+&lt;h2 id=&quot;1-youtube推出ctv一键购物将遥控器变成结账按钮&quot;&gt;1. YouTube推出CTV一键购物：将遥控器变成结账按钮&lt;/h2&gt;
+
+&lt;p&gt;YouTube在5月13日的Brandcast 2026活动上宣布了一系列新广告产品，核心目标是将观看视频与完成购买之间的距离缩短到几乎为零。主要创新包括：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Buy with Google Pay&lt;/strong&gt;：在联网电视(CTV)上只需两次点击即可完成购买，无需切换到手机或其他设备&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Custom Sponsorships&lt;/strong&gt;：使用AI动态匹配品牌期望的文化时刻，自动选择合适的视频进行赞助投放&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Multimodal Video Creation&lt;/strong&gt;：使用Gemini、Nano Banana和Veo AI模型，从创意简报直接生成成品视频&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Affiliate Partnerships Boost&lt;/strong&gt;：让品牌放大创作者已标记其产品的有机内容&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Commerce Media Suite扩展&lt;/strong&gt;：新增Costco和Dollar General的第一方数据，可在Display &amp;amp; Video 360中激活&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;YouTube的策略是将目标定位、创意制作、广告投放和支付全部整合到Google自有系统内，在同一个屏幕上完成从品牌建设到交易的全流程。这标志着联网电视从品牌认知渠道转变为销售终端。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/youtube-wants-your-ctv-remote-to-become-a-checkout-button/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-stackadapt加入chatgpt广告试点程序化广告进军ai对话场景&quot;&gt;2. StackAdapt加入ChatGPT广告试点：程序化广告进军AI对话场景&lt;/h2&gt;
+
+&lt;p&gt;5月5日，程序化广告平台StackAdapt宣布成为OpenAI的ChatGPT广告技术合作伙伴，加入Criteo、Kargo、Adobe和Pacvue的行列。这标志着对话式AI正式成为程序化广告的新战场。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键进展：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ChatGPT广告基于对话上下文投放，而非传统的关键词或行为画像定向&lt;/li&gt;
+  &lt;li&gt;同日OpenAI向所有美国企业开放自助广告管理平台，取消最低消费门槛，并引入CPC竞价模式&lt;/li&gt;
+  &lt;li&gt;Criteo数据显示，已有超1,000个品牌通过其API运行ChatGPT广告活动，AI推荐的转化率接近传统搜索的2倍&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;技术特点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;广告与ChatGPT的有机回复清晰分离，标注明确&lt;/li&gt;
+  &lt;li&gt;不出售用户对话数据，仅基于实时对话情境投放&lt;/li&gt;
+  &lt;li&gt;适合B2B、零售、电商、旅游、教育等垂直领域&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这一创新将对话式AI从内容工具转变为商业化广告渠道，为品牌提供了在用户主动探索和比较阶段的全新触点。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/stackadapt-joins-chatgpt-ad-pilot-what-it-means-for-programmatic/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊与三星联手将交互式广告技术引入智能电视&quot;&gt;3. 亚马逊与三星联手：将交互式广告技术引入智能电视&lt;/h2&gt;
+
+&lt;p&gt;在5月的NewFronts 2026活动上，亚马逊广告宣布将其交互式广告技术通过Amazon DSP引入三星智能电视。这一合作标志着认证受众信号和程序化购买在联网电视领域的深度融合。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tubi宣布推出Priority Access，通过Amazon DSP为广告主提供优先访问Tubi最有价值受众的权限&lt;/li&gt;
+  &lt;li&gt;亚马逊的认证图谱分析发现，Tubi有10%的家庭覆盖在亚马逊开放互联网流媒体电视供应中是独特且增量的&lt;/li&gt;
+  &lt;li&gt;广告主使用认证受众数据后，独特受众覆盖增加42%，ROAS提升3倍，每用户频次降低27%&lt;/li&gt;
+  &lt;li&gt;亚马逊可以将Tubi 85%的受众与亚马逊数据匹配，这是亚马逊第三方CTV供应中最高的匹配率之一&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这一合作展示了流媒体电视广告如何连接优质覆盖与可衡量成果，通过交互式格式、认证定向和本地库存访问，消除品牌叙事与商业结果之间的摩擦。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/newfronts-2026-advertising-news&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-adform开放全栈基础设施支持ai代理自主操作广告平台&quot;&gt;4. Adform开放全栈基础设施：支持AI代理自主操作广告平台&lt;/h2&gt;
+
+&lt;p&gt;5月13日，广告技术平台Adform宣布其整合广告平台的新进化，允许客户通过自选的AI工具直接连接Adform FLOW（包括DSP、广告服务器、DMP和ID Fusion）。这标志着广告技术行业正式进入”代理式广告”(Agentic Advertising)时代。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;技术创新：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;通过Model Context Protocol (MCP)服务器开放平台，提供超800项代理能力&lt;/li&gt;
+  &lt;li&gt;用户可通过Claude、ChatGPT、Microsoft Copilot或自有AI解决方案与平台交互&lt;/li&gt;
+  &lt;li&gt;支持全流程操作：活动规划和预测、实时优化和故障排除、跨渠道报告和洞察&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;区别于其他厂商的有限用例，Adform开放了整个平台的完整功能&lt;/li&gt;
+  &lt;li&gt;基于20多年程序化基础设施，为广告主提供开创代理式广告所需的灵活性和控制力&lt;/li&gt;
+  &lt;li&gt;早期客户反馈积极，Omnicom称其为”具体的、可生产就绪的能力”，Publicis Groupe认为这是”市场就绪”的解决方案&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adform的这一举措代表了广告技术的范式转变：从人工点击界面到AI代理自主操作，大幅提升效率和洞察深度。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.exchangewire.com/blog/2026/05/13/adform-opens-full-stack-infrastructure-for-agentic-advertising/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-中国智能营销市场规模突破800亿元ai驱动占比超60&quot;&gt;5. 中国智能营销市场规模突破800亿元：AI驱动占比超60%&lt;/h2&gt;
+
+&lt;p&gt;根据博研智尚《2026年中国新媒体行业市场动态分析报告》，2026年中国新媒体行业市场规模预计达14,329亿元，其中智能营销市场规模突破800亿元，同比增长18.7%，AI驱动的智能投放服务占比超60%，成为行业增长核心引擎。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;市场趋势：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;用户日均接触媒体平台数量已达9.2个，单一投放渠道覆盖效率大幅下降&lt;/li&gt;
+  &lt;li&gt;企业营销痛点：资源分散、对接成本高、投放效率低、AI时代流量失焦、效果难追溯&lt;/li&gt;
+  &lt;li&gt;GEO（生成式引擎优化）成为新热点，适配豆包、DeepSeek、通义千问等50+主流大模型&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业痛点：&lt;/strong&gt;
+艾媒咨询调研显示，国内91.7%的企业在营销投放过程中选错合作渠道，普遍遭遇零收录、违规被罚、投放无转化等问题，营销资金浪费率居高不下。&lt;/p&gt;
+
+&lt;p&gt;这一数据反映出中国数字营销行业正从粗放式竞争转向技术驱动、效果导向的精细化运营阶段，AI技术和全域整合能力成为企业选择营销平台的核心标准。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.csdn.net/article/2026-05-14/161091380&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;本期新闻整理于2026年5月18日（上海时间）&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-05-18&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 May 2026 13:16:02 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86,chatgpt,youtube,%E6%99%BA%E8%83%BD%E8%90%A5%E9%94%80/2026/05/17/youtube%E5%A2%9E%E9%95%BF-2%E5%80%8D-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A,%E8%81%94%E7%BD%91%E7%94%B5%E8%A7%86,chatgpt,youtube,%E6%99%BA%E8%83%BD%E8%90%A5%E9%94%80/2026/05/17/youtube%E5%A2%9E%E9%95%BF-2%E5%80%8D-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,程序化广告,联网电视,ChatGPT,YouTube,智能营销</category>
         
       </item>
     
@@ -833,108 +956,6 @@
         
         
         <category>ad-news,daily-digest,AI,advertising-technology</category>
-        
-      </item>
-    
-      <item>
-        <title>广告营销行业观察 2026-05-09</title>
-        <description>&lt;p&gt;&lt;strong&gt;📊 2026年5月9日 每日广告营销新闻&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;1-openai推出chatgpt广告自助平台开启对话式广告新时代&quot;&gt;1. OpenAI推出ChatGPT广告自助平台，开启对话式广告新时代&lt;/h2&gt;
-
-&lt;p&gt;OpenAI于5月5日宣布推出ChatGPT广告测试项目的重要升级，包括推出beta版自助广告管理平台（Ads Manager），并新增按点击付费（CPC）竞价模式。该平台目前已向美国广告主开放，允许各类规模企业从初创公司到全球品牌都能通过ChatGPT直接投放广告。&lt;/p&gt;
-
-&lt;p&gt;OpenAI已与全球主要广告代理商（Dentsu、Omnicom、Publicis、WPP）及技术合作伙伴（Adobe、Criteo、Kargo、Pacvue、StackAdapt）建立合作关系。StackAdapt成为首批支持ChatGPT广告投放的程序化广告平台之一，为广告主提供在AI对话场景中精准触达用户的新渠道。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着广告从传统搜索、社交媒体向对话式AI场景的重大迁移。当用户在ChatGPT中探索选项、比较产品或做决策时，广告能在关键时刻提供相关信息，改变了传统广告的触达逻辑。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/new-ways-to-buy-chatgpt-ads/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-谷歌发布新一代智能竞价工具ai驱动转化预测&quot;&gt;2. 谷歌发布新一代智能竞价工具，AI驱动转化预测&lt;/h2&gt;
-
-&lt;p&gt;谷歌于5月7日发布三项重要的竞价与预算管理升级，为Google Marketing Live 2026（5月20日）做预告。核心功能包括：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;旅程感知竞价（Journey-aware bidding）&lt;/strong&gt;：针对线索生成广告主，能同时学习可竞价和非竞价转化目标（表单提交、电话、newsletter注册等），提升全漏斗优化能力&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;智能竞价探索（Smart Bidding Exploration）扩展&lt;/strong&gt;：从搜索广告扩展到购物广告和Performance Max产品信息流广告，平均带来27%更多独特转化用户&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;需求导向配速（Demand-led pacing）&lt;/strong&gt;：AI自动根据消费者需求高峰调整日预算分配，在月度预算内优化投放节奏&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 谷歌继续收窄人工竞价管理空间，推动广告投放全面自动化。这对中小广告主降低操作门槛，但也增加了对平台黑箱系统的依赖。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-targets-hidden-conversions-with-new-bidding-and-budgeting-tools/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-亚马逊与linkedin合作将b2b精准定向引入流媒体电视广告&quot;&gt;3. 亚马逊与LinkedIn合作，将B2B精准定向引入流媒体电视广告&lt;/h2&gt;
-
-&lt;p&gt;亚马逊广告于5月7日宣布与LinkedIn达成战略合作，广告主现可通过Amazon DSP购买LinkedIn CTV（联网电视）广告。该方案将LinkedIn超过10亿会员的第一方受众数据（职位、行业、资历等）与流媒体电视广告库存结合，让B2B广告主能在高端流媒体环境中大规模触达专业受众。&lt;/p&gt;
-
-&lt;p&gt;合作通过微软Monetize（LinkedIn母公司微软的SSP平台）实现，目前已在美国市场上线，广告主可以在同一Amazon DSP广告系列中同时激活LinkedIn受众和亚马逊受众，无需分散媒体采购。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这是B2B营销的重大突破，将职业定向能力从LinkedIn平台扩展到流媒体电视场景，响应了B2B营销人员在决策者高频观看的流媒体环境中触达目标的需求。此次合作也进一步巩固了亚马逊-微软在广告技术领域的战略伙伴关系。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/linkedin-ctv-ads-amazon-dsp&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-中国互联网广告格局分化ai与闭环成核心竞争力&quot;&gt;4. 中国互联网广告格局分化：AI与闭环成核心竞争力&lt;/h2&gt;
-
-&lt;p&gt;根据36氪对19家头部互联网公司2025年财报的分析（5月6日发布），中国互联网广告市场呈现显著分化：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;头部集中&lt;/strong&gt;：阿里、拼多多、腾讯三家广告收入占TOP19总盘六成以上&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;增长分化&lt;/strong&gt;：腾讯（+19%）、京东、快手、B站（+23%）保持双位数增长；百度（-18%）、知乎（-32%）、汽车之家等平台广告收入大幅下滑&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI+闭环双引擎&lt;/strong&gt;：腾讯闭环广告占比从28%升至37%，混元大模型让精准定向效率提升21%；快手AIGC营销素材消耗达数十亿元，UAX全自动投放在非电商营销中渗透率近80%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt; 2025年真正改变行业的不是预算总量，而是预算流向——从流量规模竞争转向投放-转化-反馈闭环能力竞争。能将AI落地应用、站内转化闭环的平台获得预算增长；传统搜索与垂直平台持续承压。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3786212611660806&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-广告技术行业聚焦机器驱动投放手动优化时代谢幕&quot;&gt;5. 广告技术行业聚焦机器驱动投放，手动优化时代谢幕&lt;/h2&gt;
-
-&lt;p&gt;根据Mean CEO（Violetta Bonenkamp）5月3日发布的AdTech行业月度分析，2026年5月广告技术的核心趋势包括：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;平台用机器逻辑取代手动设置&lt;/strong&gt;：X重建广告平台、谷歌脱离关键词垄断、Meta持续重金投入AI基础设施&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;对话式广告环境成为真实渠道&lt;/strong&gt;：广告主开始通过工具将Google Ads迁移到ChatGPT等对话场景&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI基础设施支出即广告市场支出&lt;/strong&gt;：大科技公司的AI投入直接塑造广告投放的未来能力&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;创业者建议：&lt;/strong&gt; 小团队应利用自动化工具降低执行门槛，但需在定位、文案、定价上保持人工判断。建立第一方数据资产（邮件列表、CRM）以减少对单一平台的依赖。机器处理重复任务，人类保留战略判断成为2026年获胜公式。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.mean.ceo/adtech-news-may-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;🔍 行业趋势总结：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;AI原生广告场景崛起&lt;/strong&gt;：从ChatGPT广告到谷歌旅程感知竞价，AI不再是辅助工具而是广告投放的核心基础设施&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;闭环转化成为生死线&lt;/strong&gt;：能提供投放-转化-验证完整链路的平台获得预算，曝光型广告空间收缩&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;跨平台数据合作加速&lt;/strong&gt;：亚马逊-LinkedIn、微软-亚马逊等战略合作打破平台孤岛&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;自动化降低门槛但提高依赖风险&lt;/strong&gt;：广告主需在享受便利的同时建立多渠道策略和自有数据资产&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;新闻来源时间：2026年5月3日-5月8日&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-05-09&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 May 2026 13:16:19 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,chatgpt,%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A,b2b%E8%90%A5%E9%94%80/2026/05/08/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-05-09/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,chatgpt,%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A,b2b%E8%90%A5%E9%94%80/2026/05/08/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-05-09/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,ChatGPT,谷歌广告,B2B营销</category>
         
       </item>
     
