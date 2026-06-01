@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 30 May 2026 21:16:38 -0500</pubDate>
-    <lastBuildDate>Sat, 30 May 2026 21:16:38 -0500</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 21:16:49 -0500</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 21:16:49 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,134 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>Meta增长: 6亿 | 广告营销周报</title>
+        <description>&lt;p&gt;每日广告营销新闻 2026-06-01&lt;/p&gt;
+
+&lt;h2 id=&quot;1-meta首次超越google成为全球最大数字广告平台&quot;&gt;1. Meta首次超越Google成为全球最大数字广告平台&lt;/h2&gt;
+
+&lt;p&gt;根据eMarketer最新预测，Meta预计在2026年将产生&lt;strong&gt;2434.6亿美元&lt;/strong&gt;的全球广告收入，首次超过Google的2395.4亿美元。这是数字广告历史上Google首次失去榜首地位。Meta的增长率达到24.1%，而Google仅为11.9%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键驱动因素：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Advantage+ AI自动化工具显著提升广告投资回报率（平均每美元投入回报4.52美元，比手动配置高22%）&lt;/li&gt;
+  &lt;li&gt;Reels短视频广告持续吸引预算投入&lt;/li&gt;
+  &lt;li&gt;WhatsApp和Threads开辟新的广告展示空间（预计2026年可创收60亿美元）&lt;/li&gt;
+  &lt;li&gt;超过100万广告主使用Meta的AI工具在单月内创建了超1500万个广告&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着社交媒体广告正式超越搜索广告，品牌需要重新审视其在Google和Meta之间的预算分配策略。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thenextweb.com/news/meta-surpass-google-digital-ad-revenue-emarketer-2026&quot;&gt;查看原文 - The Next Web&lt;/a&gt;
+&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta&quot;&gt;查看原文 - B2The7&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-google-ai-mode月活用户突破10亿广告开始嵌入ai回答&quot;&gt;2. Google AI Mode月活用户突破10亿，广告开始嵌入AI回答&lt;/h2&gt;
+
+&lt;p&gt;Google在5月I/O大会上宣布，其AI Mode全球月活用户已突破&lt;strong&gt;10亿&lt;/strong&gt;，AI Overviews达到25亿。更重要的是，Google已开始在AI Mode响应中嵌入赞助广告，不再仅显示在侧边栏。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;AI Mode查询量每季度增长超过一倍&lt;/li&gt;
+  &lt;li&gt;平均AI Mode查询长度是传统搜索的三倍&lt;/li&gt;
+  &lt;li&gt;Google 5月核心更新改变了AI引用规则：排名前10的网站在2025年中占AI引用的76%，现已降至38%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;对营销人员的影响：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;内容需要优化为「可引用」格式（清晰的段落结构、一致的信息）&lt;/li&gt;
+  &lt;li&gt;传统SEO排名不再保证在AI回答中被引用&lt;/li&gt;
+  &lt;li&gt;广告主需要同时优化排名、引用和AI信任度三个维度&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-ai-mode-hits-1-billion-users-how-search-changed-in-one-year/&quot;&gt;查看原文 - PPC Land&lt;/a&gt;
+&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta&quot;&gt;查看原文 - B2The7&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-chatgpt广告平台全面开放目标2026年收入25亿美元&quot;&gt;3. ChatGPT广告平台全面开放，目标2026年收入25亿美元&lt;/h2&gt;
+
+&lt;p&gt;OpenAI在5月将ChatGPT广告管理平台向所有美国企业开放，取消最低消费门槛（之前为25万美元），并新增CPC出价模式（建议起始出价为3-5美元/点击）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;平台特点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;每日处理25亿次提示（查询）&lt;/li&gt;
+  &lt;li&gt;广告显示在AI回答底部的标注框内，不影响回答本身&lt;/li&gt;
+  &lt;li&gt;定向基于对话主题、历史记录和广告互动，而非传统关键词&lt;/li&gt;
+  &lt;li&gt;广告主无法获取用户数据（无邮箱、IP或精确位置），仅获得聚合性能指标&lt;/li&gt;
+  &lt;li&gt;5月新增功能：每日预算控制、地理定向、动态CTA按钮&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;适合谁：&lt;/strong&gt;
+适合有明确意图匹配的精准营销，泛品牌宣传效果不佳。性能营销人员值得测试，但需建立新的归因测量方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.jumpfly.com/blog/ai-in-online-advertising-5-key-trends-from-may-2026/&quot;&gt;查看原文 - JumpFly&lt;/a&gt;
+&lt;a href=&quot;https://ppc.land/ai-ads-data-deals-and-a-search-shakeup-define-the-week/&quot;&gt;查看原文 - PPC Land&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-walmart-connect与yahoo-dsp合作零售数据进入程序化ctv&quot;&gt;4. Walmart Connect与Yahoo DSP合作，零售数据进入程序化CTV&lt;/h2&gt;
+
+&lt;p&gt;Walmart Connect宣布其第一方购物者受众数据现已可通过Yahoo DSP激活，覆盖VIZIO联网电视库存。这是Walmart首次将其专有数据开放给外部需求方平台（DSP）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;技术架构：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Walmart提供基于交易历史的第一方受众数据&lt;/li&gt;
+  &lt;li&gt;Magnite作为供应方平台（SSP）提供基础设施&lt;/li&gt;
+  &lt;li&gt;Yahoo DSP为广告主提供投放和测量能力&lt;/li&gt;
+  &lt;li&gt;闭环测量：直接连接广告曝光与Walmart实际销售数据&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;数据规模：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;可触达1.5亿Walmart购物者&lt;/li&gt;
+  &lt;li&gt;2025年Walmart Connect的站外展示广告平均带来52%的新客户&lt;/li&gt;
+  &lt;li&gt;Walmart广告业务2026财年收入达64亿美元，增长46%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt; 这打破了零售媒体网络的「围墙花园」模式，让广告主可以在自己熟悉的DSP环境中激活零售数据，无需切换到Walmart自有平台。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/walmart-connects-first-party-data-lands-in-yahoo-dsp-for-vizio-ctv-reach/&quot;&gt;查看原文 - PPC Land&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-publicis-22亿美元收购liveramp引发行业中立性担忧&quot;&gt;5. Publicis 22亿美元收购LiveRamp，引发行业中立性担忧&lt;/h2&gt;
+
+&lt;p&gt;5月17日，Publicis集团宣布以22亿美元企业价值（股权价值25.46亿美元，溢价29.8%）收购数据协作平台LiveRamp。LiveRamp连接超过25,000个发布商域名和500+技术及数据合作伙伴。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心争议：&lt;/strong&gt;
+LiveRamp长期作为行业共享基础设施运作，连接竞争对手的代理商、品牌和平台。被全球最大广告控股集团收购后，其中立性受到质疑。竞争对手Omnicom已加速退出LiveRamp。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;战略背景：&lt;/strong&gt;
+在AI驱动的广告环境中，身份解析（跨设备、发布商和渠道连接分散的用户信号）是让自动化投放有意义的基础层。控制这一层的公司将影响自动化购买系统的流量分配。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;交易时间表：&lt;/strong&gt; 预计2026年底前完成，需获得监管批准和LiveRamp股东同意。LiveRamp将作为独立业务继续运营，现任CEO Scott Howe留任。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/ai-ads-data-deals-and-a-search-shakeup-define-the-week/&quot;&gt;查看原文 - PPC Land&lt;/a&gt;
+&lt;a href=&quot;https://digiday.com/media-buying/the-rundown-ad-techs-performance-in-2025-was-overshadowed-by-ai-concerns-and-big-tech/&quot;&gt;查看原文 - Digiday&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;行业趋势总结：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2026年6月第一周的行业动态呈现清晰的方向：AI正在同时重塑广告分发、购买和测量。Meta超越Google标志着社交媒体广告已超越搜索广告；Google和ChatGPT的AI平台都突破10亿用户规模，不再是实验性功能；代理型广告（agentic advertising）已经到来，广告执行正在变成商品化能力，策略和创意才是真正的差异化竞争点。&lt;/p&gt;
+
+&lt;p&gt;成功的品牌不是预算最大的，而是最关注「影响力实际发生在哪里」并围绕这一现实构建策略的品牌。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-01&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 May 2026 13:16:08 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,meta,google,chatgpt,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A/2026/05/31/meta%E5%A2%9E%E9%95%BF-6%E4%BA%BF-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,meta,google,chatgpt,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A/2026/05/31/meta%E5%A2%9E%E9%95%BF-6%E4%BA%BF-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,Meta,Google,ChatGPT,零售媒体,程序化广告</category>
         
       </item>
     
@@ -923,118 +1051,6 @@ Reddit 2026 年 Q1 广告收入达 6.25 亿美元，同比增长 74%。该报告
         
         
         <category>ad-news,daily-digest,AI,google,publicis,video-marketing,reddit</category>
-        
-      </item>
-    
-      <item>
-        <title>AI创新：YouTube行业新动向</title>
-        <description>&lt;p&gt;&lt;strong&gt;1. Google Marketing Live 2026重磅发布：AI全面接管广告系统&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;5月20日，Google举办了2026年度营销盛会Google Marketing Live，宣布多项重磅更新，核心主题是让AI系统Gemini全面接管广告执行层。主要更新包括：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;AI搜索广告新格式&lt;/strong&gt;：推出AI Mode内的对话式广告、Direct Offers独家折扣广告、AI生成的购物广告等新格式。要使用这些格式，广告主必须采用AI Max或Performance Max，意味着关键词手动选择时代正式终结&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;通用购物车（Universal Cart）&lt;/strong&gt;：基于通用商务协议（UCP）的跨平台购物车正式上线美国市场，用户可以在Wayfair、Nike等不同平台添加商品到同一购物车，通过Google Pay一键结账&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;YouTube成为效果广告渠道&lt;/strong&gt;：Demand Gen广告扩展到Google Maps，新增campaign-type归因，数据显示YouTube带来的长期ROAS是付费社交的2倍多&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ask Advisor统一AI助手&lt;/strong&gt;：整合Google Ads、Analytics、Marketing Platform和Merchant Center的AI助手为单一对话界面，记住用户目标跨平台协作&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Meridian整合进Analytics 360&lt;/strong&gt;：开源营销组合模型工具Meridian直接集成到Analytics 360，并推出合格未来转化指标，可预测未来6个月的转化&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Google首席商务官Philipp Schindler强调：我们在过去一年取得了十年的创新成果。这次更新的核心信号是：广告主需要将控制权上移到目标、输入和护栏层面，而让Gemini处理匹配、生成和优化。&lt;/p&gt;
-
-&lt;p&gt;值得注意的是，动态搜索广告（DSA）将在2026年9月自动升级为AI Max，这一强制迁移已引发部分广告主担忧，因为AI Max在某些场景下会将精准产品查询导向通用落地页，而非匹配的产品页面。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-marketing-live-2026-every-announcement-that-actually-matters/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;2. 亚马逊广告5月重磅更新：基准报告全球上线，MMM API正式可用&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;亚马逊广告在5月发布了三项重要产品更新，覆盖18个市场：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;基准报告全球上线&lt;/strong&gt;（5月18日）：此前仅限美国市场的beta功能现已扩展到全球18个市场（包括美国、加拿大、墨西哥、巴西、日本、印度、德国、法国、英国等）。提供8项关键指标的同类品牌对比，包括新客购买率、点击率、CPC、CPM等，帮助广告主评估优化机会&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;营销组合模型（MMM）API正式发布&lt;/strong&gt;（5月1日）：从beta转为正式版，覆盖14个国家，新增6个品牌组管理端点。这对于营销团队至关重要——研究显示只有15%的营销团队实施了MMM，而46.9%计划增加MMM投资。亚马逊的MMM API通过结构化格式提供聚合的广告和零售信号，解决了数据采集难题&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;地理洞察与激活（GIA）API正式发布&lt;/strong&gt;（5月4日）：简化了位置索引工作流程，广告主可以基于邮政编码级别发现区域增长机会，并自动调整出价。这对于在低品牌渗透地区寻找新客户的品牌特别有用&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;MMM数据新增ASIN互动数据&lt;/strong&gt;（5月7日）：新增NationalAsinEngagement文件，提供按国家统计的每日/每周ASIN级别加购数据，为MMM建模者提供购买漏斗上方的互动信号&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这些更新标志着亚马逊广告API生态系统从beta向生产级稳定版的全面转型，为技术合作伙伴和大型广告主提供了可靠的程序化访问基础设施。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/amazon-ads-may-2026-benchmarks-go-global-mmm-exits-beta-gia-reaches-ga/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;3. StackAdapt加入ChatGPT广告试点：程序化购买进入对话式AI时代&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;5月5日，加拿大程序化广告平台StackAdapt宣布成为OpenAI的ChatGPT广告技术合作伙伴，这标志着程序化广告正式进入对话式AI领域。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键信息：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;StackAdapt加入Criteo、Kargo、Adobe和Pacvue的行列，成为ChatGPT广告的五家技术合作伙伴之一&lt;/li&gt;
-  &lt;li&gt;同一天，OpenAI向所有美国企业开放自助式广告管理器（Ads Manager），取消最低消费门槛，并引入按点击付费（CPC）竞价模式&lt;/li&gt;
-  &lt;li&gt;据Criteo披露，已有超过1,000个品牌通过其平台在ChatGPT投放广告，AI推荐的转化率接近传统搜索广告的2倍&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;为何重要：&lt;/strong&gt;
-ChatGPT广告基于对话上下文投放，而非用户行为画像或浏览历史，更接近情境定向广告。用户在ChatGPT中询问产品推荐、比较选项时展现出更深的购买意图，这使其转化率表现优于传统社交广告。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;时间线回顾：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;2月9日：ChatGPT广告试点以0 CPM、0-25万最低门槛启动&lt;/li&gt;
-  &lt;li&gt;3月26日：6周内年化收入突破亿美元&lt;/li&gt;
-  &lt;li&gt;4月中旬：CPM降至5，最低门槛降至万&lt;/li&gt;
-  &lt;li&gt;5月5日：完全开放自助投放，无门槛限制，引入CPC竞价&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;StackAdapt联合创始人Yang Han表示：对话式AI正在成为客户旅程中的新触点。我们的重点是帮助广告主以相关且经过深思熟虑的方式参与这些时刻。&lt;/p&gt;
-
-&lt;p&gt;目前ChatGPT广告覆盖美国、加拿大、澳大利亚和新西兰的Free和Go订阅用户，OpenAI预计2026年广告收入将达到25亿美元。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/stackadapt-joins-chatgpt-ad-pilot-what-it-means-for-programmatic/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Meta发布2025全年财报：广告收入强劲增长，突破2000亿美元&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;社交媒体巨头Meta（旗下拥有Facebook和Instagram）公布了2025年第四季度及全年财报，广告业务表现强劲：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心数据：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Q4广告收入同比增长25%，达到581.37亿美元，占当季总收入的绝大部分&lt;/li&gt;
-  &lt;li&gt;全年广告收入稳步攀升，全年总收入同比增长22%，达到2009.7亿美元，成功突破2000亿美元大关&lt;/li&gt;
-  &lt;li&gt;广告曝光量全年增长12%，广告平均价格全年上涨9%&lt;/li&gt;
-  &lt;li&gt;12月单季度广告曝光量同比激增18%（显著高于全年平均），广告平均价格上涨6%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;未来展望：&lt;/strong&gt;
-Meta创始人兼CEO马克·扎克伯格表示，2026年Meta将聚焦AI发展，为平台创新注入新动能。这意味着AI技术将进一步渗透到Meta的广告投放、内容推荐和用户体验优化中。&lt;/p&gt;
-
-&lt;p&gt;Meta的财报再次证明了数字广告市场的韧性和增长潜力，特别是在AI赋能的精准投放和个性化推荐的驱动下，社交媒体广告继续保持强劲增长势头。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kg3svk51nta009chzvbb1qtw&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;*新闻整理时间：2026年5月23日&lt;/td&gt;
-      &lt;td&gt;来源：PPC Land、4A广告网*&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-05-23&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 May 2026 13:16:12 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,google,amazon,chatgpt,meta/2026/05/22/ai%E5%88%9B%E6%96%B0youtube%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,google,amazon,chatgpt,meta/2026/05/22/ai%E5%88%9B%E6%96%B0youtube%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,Google,Amazon,ChatGPT,Meta</category>
         
       </item>
     
