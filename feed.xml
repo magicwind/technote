@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 05 Jun 2026 21:16:40 -0500</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2026 21:16:40 -0500</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 21:16:32 -0500</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 21:16:32 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,126 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>一周精华：Meta增长、推出动态</title>
+        <description>&lt;p&gt;每日广告营销新闻 2026-06-07&lt;/p&gt;
+
+&lt;h2 id=&quot;1--meta首次超越google成全球第一大广告平台&quot;&gt;1. 🏆 Meta首次超越Google成全球第一大广告平台&lt;/h2&gt;
+
+&lt;p&gt;根据eMarketer最新预测,Meta预计在2026年创造2434.6亿美元全球广告收入,首次超越Google的2395.4亿美元。这是Google自20年来首次失去数字广告市场榜首地位。Meta增长率达24.1%,而Google为11.9%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键驱动因素:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reels短视频持续吸引广告预算&lt;/li&gt;
+  &lt;li&gt;Advantage+自动化工具带来实际投资回报&lt;/li&gt;
+  &lt;li&gt;WhatsApp和Threads扩展变现空间&lt;/li&gt;
+  &lt;li&gt;Meta定向能力增强,而Google搜索广告环境因AI Overview变得拥挤&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2--google-ads更新服务条款明确ai功能数据使用规则&quot;&gt;2. 📋 Google Ads更新服务条款:明确AI功能数据使用规则&lt;/h2&gt;
+
+&lt;p&gt;Google于6月1日通知广告主,将于7月1日生效新版服务条款,重点规范AI驱动功能中广告主输入数据的使用方式。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;主要变化:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;明确对话式AI工具(Gemini)中广告主输入的URL和文本可用于改进campaign效果&lt;/li&gt;
+  &lt;li&gt;规定URL爬取权限用于自动化campaign设置&lt;/li&gt;
+  &lt;li&gt;强化广告主审核AI自动生成素材的责任&lt;/li&gt;
+  &lt;li&gt;部分地区修改仲裁协议,部分地区完全移除&lt;/li&gt;
+  &lt;li&gt;新增监管运营费用条款&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;影响:&lt;/strong&gt; 随着AI生成内容在Google Ads中大规模应用(2025年Q4生成近7000万创意素材),广告主需明确理解数据授权范围和审核义务。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-ads-tells-advertisers-how-their-inputs-will-be-used-starting-july-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3--edo推出ai驱动电视广告优化工具可回收24预算&quot;&gt;3. 🎯 EDO推出AI驱动电视广告优化工具,可回收24%预算&lt;/h2&gt;
+
+&lt;p&gt;广告效果公司EDO于6月4日发布Ad EnGage Optimize套件,通过AI自动调整频次、创意轮换、受众定向和媒体计划。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心数据:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;仅频次优化就可回收高达24%广告预算&lt;/li&gt;
+  &lt;li&gt;超过35%的CTV广告展示可通过智能频次控制重新投资到更高效的库存&lt;/li&gt;
+  &lt;li&gt;创意轮换优化可带来20%效果提升&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;技术亮点:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;基于EDO专有的电视广告成效数据(覆盖所有主要电视网络和流媒体平台)&lt;/li&gt;
+  &lt;li&gt;支持Model Context Protocol(MCP)集成,可接入第三方AI工作流&lt;/li&gt;
+  &lt;li&gt;实时自动调整跨线性电视和流媒体的投放策略&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/edo-launches-ad-engage-optimize-to-cut-wasted-tv-ad-spend/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4--2026数字广告核心趋势ai从工具升级为操作系统&quot;&gt;4. 🤖 2026数字广告核心趋势:AI从工具升级为操作系统&lt;/h2&gt;
+
+&lt;p&gt;Smartly发布的《2026数字广告趋势报告》显示,46%营销人员已使用AI扩展创意规模,但仍有高达30%预算被浪费。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;五大关键趋势:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;AI执行层&lt;/strong&gt;: AI从辅助工具变为日常基础设施&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;第一方数据&lt;/strong&gt;: 隐私收紧下的安全网,76%消费者不会从不信任其数据的公司购买&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;零售媒体网络&lt;/strong&gt;: 程序化零售媒体增长超站内投放&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;可购物视频与CTV&lt;/strong&gt;: 从品牌认知渠道转向直接响应渠道&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;测量质量&lt;/strong&gt;: 归因准确性成为董事会级议题&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;创始人建议:&lt;/strong&gt; 清理数据、锐化offer、构建广告变体系统、砍掉无法带来收入/证据/学习的渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.mean.ceo/digital-advertising-trends-june-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5--36氪报告ai重构社交媒体营销五大趋势&quot;&gt;5. 📊 36氪报告:AI重构社交媒体营销五大趋势&lt;/h2&gt;
+
+&lt;p&gt;中国广告协会指导、微播易发布的《2026 AI重构下的社交媒体营销趋势报告》指出,社交媒体营销正经历底层重构。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;五大核心趋势:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;用户圈层粉尘化&lt;/strong&gt;: 从统一”大叙事”走向7000+细分文化圈层(小红书)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RGC时代来临&lt;/strong&gt;: Real-time Generated Content(实时生成内容)取代传统UGC/PGC/AIGC&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;内容资产双重属性&lt;/strong&gt;: 既要打动人,也要”喂养AI”成为训练语料&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;竞争焦点迁移&lt;/strong&gt;: 从”会用AI工具”到”拥有可喂养AI的数据资产”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;方法论升级&lt;/strong&gt;: 风格化复刻+场景化融合,实现”一人千时千面内容”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;市场数据:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;品牌广告占比回升至53%,效果广告降至47%&lt;/li&gt;
+  &lt;li&gt;49%广告主增投种草类KOL&lt;/li&gt;
+  &lt;li&gt;近八成品牌采用多平台组合投放&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3825724108873987&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;编者按:&lt;/strong&gt; 本周新闻聚焦AI对广告营销行业的深度重构——从平台竞争格局(Meta超越Google)到数据使用规范(Google新条款),从优化工具创新(EDO)到底层逻辑变革(RGC内容范式)。AI已不再是”功能增强”,而是成为广告营销的”操作系统”。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-07&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jun 2026 13:15:58 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A,%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%90%A5%E9%94%80/2026/06/06/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Emeta%E5%A2%9E%E9%95%BF%E6%8E%A8%E5%87%BA%E5%8A%A8%E6%80%81/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,%E6%95%B0%E5%AD%97%E5%B9%BF%E5%91%8A,%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%90%A5%E9%94%80/2026/06/06/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8Emeta%E5%A2%9E%E9%95%BF%E6%8E%A8%E5%87%BA%E5%8A%A8%E6%80%81/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,数字广告,社交媒体营销</category>
         
       </item>
     
@@ -717,81 +837,6 @@ LiveRamp长期作为行业共享基础设施运作，连接竞争对手的代理
         
         
         <category>ad-news,daily-digest,AI,advertising-tech</category>
-        
-      </item>
-    
-      <item>
-        <title>本周必读：亚马逊布局AI广告</title>
-        <description>&lt;h2 id=&quot;1-亚马逊广告推出可互动电视广告与三星合作实现遥控器购物&quot;&gt;1. 亚马逊广告推出可互动电视广告，与三星合作实现遥控器购物&lt;/h2&gt;
-
-&lt;p&gt;亚马逊广告在NewFronts 2026上宣布与三星达成合作，将在2026年7月为Samsung TV Plus带来遥控器互动视频广告功能。此举标志着大屏幕电视正在全面实现可购物化。&lt;/p&gt;
-
-&lt;p&gt;研究显示，79%的观众认为互动广告比标准视频广告更具吸引力，78%的观众表示互动广告更能抓住注意力。互动广告能够带来3-4个百分点的品牌认知度、考虑度和购买意向提升。Prime Video的广告支持层目前每月覆盖全球超过3.15亿观众。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/newfronts-2026-advertising-news&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-openai广告业务转向小型企业取消20万美元最低投放门槛&quot;&gt;2. OpenAI广告业务转向小型企业，取消20万美元最低投放门槛&lt;/h2&gt;
-
-&lt;p&gt;据The Information报道，OpenAI正在调整其广告战略，从高预算知名品牌转向吸引干洗店、洗车店等小型本地企业。OpenAI将于本周推出转化类广告功能，允许广告主仅在达成实际转化（如下单、预约、填表）后付费。&lt;/p&gt;
-
-&lt;p&gt;此前OpenAI要求20万美元的最低预付投放成本，现已完全取消。OpenAI此前向投资者透露，其广告业务收入目标是到2030年达到1000亿美元。这一策略转变使OpenAI更接近Meta的广告模式，全球约有25万Meta广告主属于小型企业类别。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://finance.sina.com.cn/tech/digi/2026-05-27/doc-inhzhxzu8478327.shtml&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-2026-ai重构下的社交媒体营销趋势报告发布互联网广告规模将达8362亿元&quot;&gt;3. 《2026 AI重构下的社交媒体营销趋势报告》发布：互联网广告规模将达8362亿元&lt;/h2&gt;
-
-&lt;p&gt;中国广告协会指导、微播易发布的最新报告显示，2026年中国互联网广告市场规模预计达8362亿元，保持两位数增长。其中短视频、电商、社交广告合计超4897亿元，AI搜索广告同比暴增108%，成为最大增量。&lt;/p&gt;
-
-&lt;p&gt;报告提出五大核心趋势：用户圈层高度粉尘化（小红书已沉淀7000+细分文化圈层）、RGC实时生成内容时代到来、内容需同时服务人和AI、品牌竞争从工具能力转向数据资产、营销方法论升级为风格化复刻+场景化融合。&lt;/p&gt;
-
-&lt;p&gt;广告主预算结构也出现显著变化：品牌广告占比上升至53%，效果广告回落到47%，标志着预算从”效果”回归”品牌”。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3825724108873987&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-canva报告68消费者接受有用的ai广告但78更喜欢人类制作&quot;&gt;4. Canva报告：68%消费者接受有用的AI广告，但78%更喜欢人类制作&lt;/h2&gt;
-
-&lt;p&gt;Canva联合Harris Poll发布的《2026营销与AI现状报告》显示，尽管68%的消费者不介意能提升相关性和实用性的AI广告，但78%的人表示即使AI能做得更好，他们仍更愿意看到人类制作的广告。&lt;/p&gt;
-
-&lt;p&gt;87%的消费者认为最佳广告仍需要人类的触感，74%的消费者更可能购买完全由人类创建的广告产品。70%的消费者表示通常能分辨出AI生成的广告，因为感觉”缺少灵魂”。&lt;/p&gt;
-
-&lt;p&gt;报告还发现，41%的营销领导者将”AI slop”（缺乏原创性和深度的AI内容）视为重大挑战。消费者对AI个性化广告持谨慎态度：58%不希望品牌使用AI预测他们想要什么，52%认为广告在搜索前就知道他们要买什么”太过个人化”。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marketingtechnews.net/news/consumers-useful-ai-ads-canva-report/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-亚马逊发布2026年五大营销趋势流媒体占比达448创历史新高&quot;&gt;5. 亚马逊发布2026年五大营销趋势：流媒体占比达44.8%创历史新高&lt;/h2&gt;
-
-&lt;p&gt;亚马逊广告发布的2026年营销趋势报告指出，流媒体现已占据所有电视观看时长的44.8%，为有史以来最高份额，较2021年增长71%。报告确定五大核心趋势：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;AI成为创意和战略引擎&lt;/strong&gt;：AI营销支出2025年达473.2亿美元，预计2028年将超1070亿美元&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;直播电商与创作者经济&lt;/strong&gt;：美国创作者经济广告支出2026年将达439亿美元，同比增长18%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;流媒体互动化&lt;/strong&gt;：79%观众认为互动广告更具吸引力&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全渠道无缝体验&lt;/strong&gt;：全渠道客户在店内多花4%，线上多花10%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全漏斗整合测量&lt;/strong&gt;：需要超越孤立指标，理解营销策略如何协同驱动结果&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;报告强调，近60%的消费者感觉自己比以往更多任务并行，75%每周多次考虑购物，消费者”时刻在购物”已成新常态。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://advertising.amazon.com/library/news/marketing-trends-2026&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-05-29&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 28 May 2026 13:15:53 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/05/28/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B8%83%E5%B1%80ai%E5%B9%BF%E5%91%8A/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/05/28/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B8%83%E5%B1%80ai%E5%B9%BF%E5%91%8A/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
