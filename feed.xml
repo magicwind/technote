@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 09 Jun 2026 21:16:46 -0500</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2026 21:16:46 -0500</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 21:16:40 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 21:16:40 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,110 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>市场25亿！本周热点</title>
+        <description>&lt;p&gt;每日广告营销新闻 2026-06-11&lt;/p&gt;
+
+&lt;h2 id=&quot;1-google-marketing-live-2026搜索框已死对话引擎上位&quot;&gt;1. Google Marketing Live 2026：搜索框已死，对话引擎上位&lt;/h2&gt;
+
+&lt;p&gt;2026年5月20日，Google举办了第13届Google Marketing Live，发布了史上最重大的搜索底层逻辑重构。核心变革包括：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;AI Mode全面上线&lt;/strong&gt;：AI Overviews已覆盖25亿+活跃用户，搜索从关键词变为自然语言对话&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;全新广告格式&lt;/strong&gt;：推出Conversational Discovery Ads（对话式发现广告）、Highlighted Answers（高亮答案）和Business Agent for Leads（企业询盘代理）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PMax成唯一门票&lt;/strong&gt;：Performance Max和AI Max成为AI搜索流量的唯一入场券，标准搜索广告被系统性边缘化&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;YouTube升级&lt;/strong&gt;：Ask YouTube功能上线，Gemini驱动的对话式AI直接嵌入YouTube界面&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;：这标志着数字广告行业从关键词竞价时代进入AI对话时代，品牌内容必须从「功能列表」进化为「答案型内容」。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://eastdigi.com/google-marketing-live-2026-super-search-era-crossborder/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-chatgpt广告获liveramp技术支持提升测量能力&quot;&gt;2. ChatGPT广告获LiveRamp技术支持，提升测量能力&lt;/h2&gt;
+
+&lt;p&gt;6月10日，OpenAI宣布与数据协作平台LiveRamp合作，为ChatGPT广告提供测量和归因能力。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;技术升级&lt;/strong&gt;：广告主可通过LiveRamp的Conversions API Hub对抗信号丢失，采用服务器到服务器连接取代传统cookie追踪&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;商业化加速&lt;/strong&gt;：ChatGPT广告业务于2月进入测试期，目前已吸引多个品牌，覆盖10亿用户&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;生态扩展&lt;/strong&gt;：Criteo已成为首个广告技术合作伙伴，The Trade Desk也在洽谈合作&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;：这是AI对话平台广告基础设施的重要一步，解决了品牌对ChatGPT广告效果不透明的担忧。LiveRamp已被Publicis以22亿美元收购。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.marketingdive.com/news/chatgpt-ads-get-measurement-boost-from-new-liveramp-partnership/822416/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-vidmob推出vidmob360平台将创意数据嵌入ai系统&quot;&gt;3. Vidmob推出Vidmob360平台，将创意数据嵌入AI系统&lt;/h2&gt;
+
+&lt;p&gt;Vidmob发布全新Vidmob360平台，将创意数据从单一SaaS应用转变为可组合的智能层。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;核心功能&lt;/strong&gt;：提供Model Context Protocol (MCP)服务、APIs和AI代理，无缝集成到企业技术栈中&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI集成&lt;/strong&gt;：支持Claude、Gemini、ChatGPT等AI助手评估创意、诊断效果、提供实时建议&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;渠道覆盖&lt;/strong&gt;：整合超12个广告渠道连接器，覆盖95%北美媒体购买，包括Google、Meta、TikTok、Amazon和The Trade Desk&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;发展路线&lt;/strong&gt;：第二阶段将推出更多AI代理，用于生产和激活工作流&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;：随着生成式AI加速创意生产，创意数据不能再孤立于单一应用中，Vidmob360为AI时代的广告决策提供了新范式。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/adweek-wire/vidmob-launches-vidmob360/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-the-trade-desk高管大批离职cro仅任职7个月即离开&quot;&gt;4. The Trade Desk高管大批离职，CRO仅任职7个月即离开&lt;/h2&gt;
+
+&lt;p&gt;Adweek报道，The Trade Desk首席营收官Anders Mortensen在任职仅7个月后离职，公司过去一年经历显著人员流动。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;高管流失&lt;/strong&gt;：自3月以来至少4名董事会成员离职（包括Lise Buyer、Gokul Rajaram和Kathryn Falberg）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CFO频繁更换&lt;/strong&gt;：一年内任命了4位首席财务官&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;内部不满&lt;/strong&gt;：离职高管对公司不断提高的抽成比例和CEO Jeff Green的领导决策表示不满&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;团队重组&lt;/strong&gt;：除COO Vivek Kundra、首席法律官Jay Grant和新任CFO Nate Olmstead外，原C-suite高管几乎全部更换&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;：作为程序化广告领域的领导者，The Trade Desk的高管动荡引发行业关注，这些前高管正在加入OpenAI、eMarketer、Index Exchange、DeepIntent和StackAdapt等竞争对手。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/media/inside-the-trade-desk-executive-exodus-who-left-and-where-they-went/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-snowflake推出ai营销工具解决数据孤岛痛点&quot;&gt;5. Snowflake推出AI营销工具，解决数据孤岛痛点&lt;/h2&gt;
+
+&lt;p&gt;Snowflake在Summit ‘26大会上发布一系列AI工具，定位为企业「智能系统」。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;核心产品&lt;/strong&gt;：推出CoWork和CoCo作为AI工作流构建模块，发布Cortex Sense上下文层减少AI幻觉&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Claude集成&lt;/strong&gt;：Anthropic的Claude模型直接嵌入Snowflake，营销人员可在不导出敏感数据的情况下分析客户数据&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;数据治理&lt;/strong&gt;：Horizon Catalog升级，支持用自然语言定义访问和隐私规则&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;代理共享&lt;/strong&gt;：Cortex Agent Sharing允许组织安全共享AI代理，品牌可授权代理商访问分析工具而不暴露原始数据&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响&lt;/strong&gt;：Snowflake的策略是「将AI带到数据，而非将数据带到AI」，为营销团队提供在保持治理、隐私和数据质量的前提下使用AI的能力。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://martech.org/snowflakes-new-ai-tools-target-a-marketing-pain-point/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;本期编辑点评&lt;/strong&gt;：
+本周广告营销行业的核心主题是「AI基础设施建设」。从Google重构搜索引擎、ChatGPT完善广告测量、Vidmob打通创意数据，到Snowflake解决数据治理问题，各大平台都在为AI时代的广告生态搭建底层能力。同时，The Trade Desk的高管动荡也提醒我们，在技术快速变革的时期，企业文化和战略定力同样重要。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-11&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jun 2026 13:16:06 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E8%90%A5%E9%94%80%E7%A7%91%E6%8A%80/2026/06/10/%E5%B8%82%E5%9C%BA25%E4%BA%BF%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E8%90%A5%E9%94%80%E7%A7%91%E6%8A%80/2026/06/10/%E5%B8%82%E5%9C%BA25%E4%BA%BF%E6%9C%AC%E5%91%A8%E7%83%AD%E7%82%B9/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,营销科技</category>
         
       </item>
     
@@ -640,64 +744,6 @@
         
         
         <category>ad-news,daily-digest,AI,Google,Meta,ChatGPT,营销趋势</category>
-        
-      </item>
-    
-      <item>
-        <title>广告营销行业观察 2026-06-02</title>
-        <description>&lt;p&gt;&lt;strong&gt;1. 谷歌AI搜索广告迎来重大变革，AI Mode用户突破10亿&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;谷歌高级副总裁Nick Fox在最新访谈中透露，AI Mode已突破10亿月活用户，AI搜索查询量每季度翻倍增长。谷歌推出Universal Cart（通用购物车）和Direct Offers广告格式，将AI深度融入搜索广告体系。查询长度已是传统搜索的3倍，广告主需要重新思考关键词策略和广告相关性评分。&lt;a href=&quot;https://ppc.land/nick-fox-on-what-ai-search-agents-and-universal-cart-mean-for-marketers/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 标志着搜索广告从关键词匹配向意图理解的彻底转型，对SEO和SEM从业者提出全新挑战。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;2. ChatGPT广告平台全面升级，推出地理定向和每日预算功能&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;OpenAI在5月底为ChatGPT Ads Manager新增了日预算控制、地理定向和动态CTA按钮功能，同时取消最低消费门槛（原为20-25万美元）。推荐CPC起价为3-5美元。Similarweb数据显示，ChatGPT引荐流量增长150%，页面停留时长提升11%。据悉OpenAI计划最早9月IPO，广告业务将接受投资者审视。&lt;a href=&quot;https://ppc.land/ai-ads-data-deals-and-a-search-shakeup-define-the-week/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; AI对话式广告从实验阶段进入商业化，为广告主提供新的用户触达渠道。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;3. 中国Q1互联网广告市场存量博弈：腾讯增长20%领跑&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2026年Q1中国10家主要互联网公司广告收入达2334亿元，同比增长5.3%。腾讯以382亿元规模、20%增速领跑，得益于视频号和小程序生态的商业化闭环。B站广告收入增长30%，快手增长9.3%。AI搜索广告同比暴增108%，短剧广告成为新增量——快手漫剧单日广告消耗突破2000万。&lt;a href=&quot;https://36kr.com/p/3829726233404803&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 广告预算从传统搜索和长视频向短视频、直播和AI场景迁移加速，存量竞争愈发激烈。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;4. 《2026 AI重构下的社交媒体营销趋势报告》发布：RGC时代来临&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;中国广告协会与微播易联合发布报告，提出Real-time Generated Content（实时生成内容）新概念。报告显示品牌广告占比回升至53%，53.1%广告主已在创意环节使用AIGC。社交内容不仅要服务用户，还要喂养AI——豆包抓抖音、文心抓小红书，内容正成为AI模型训练语料。用户圈层进入粉尘化时代，小红书已沉淀7000+细分文化圈层。&lt;a href=&quot;https://36kr.com/p/3825724108873987&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 营销从规模化投放升级为风格化复刻+场景化融合，内容资产属性发生根本变化。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;5. 欧盟将对谷歌开出DMA法案史上最高罚款，Publicis 22亿美元收购LiveRamp&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;欧盟委员会准备在夏季休会前对谷歌开出破纪录罚款（预计数亿欧元），原因是其搜索结果中的反竞争行为。同期，全球最大广告集团Publicis宣布以22亿美元收购数据协作平台LiveRamp，后者连接2.5万个发布商域名和500+技术伙伴。行业担忧中立基础设施被控股公司收购后的竞争公平性。&lt;a href=&quot;https://ppc.land/ai-ads-data-deals-and-a-search-shakeup-define-the-week/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 监管压力持续，广告技术基础设施竞争格局重塑。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;时间：&lt;/strong&gt; 2026年6月2日
-&lt;strong&gt;来源：&lt;/strong&gt; PPC Land、36氪、Adweek&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-06-02&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Jun 2026 13:15:49 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E6%90%9C%E7%B4%A2%E8%90%A5%E9%94%80,%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/2026/06/01/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-06-02/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E6%90%9C%E7%B4%A2%E8%90%A5%E9%94%80,%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/2026/06/01/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-06-02/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,搜索营销,社交媒体</category>
         
       </item>
     
