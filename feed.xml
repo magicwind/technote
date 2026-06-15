@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 13 Jun 2026 21:16:57 -0500</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2026 21:16:57 -0500</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2026 21:16:39 -0500</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2026 21:16:39 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,73 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>谷歌增长: 85亿 | 广告营销周报</title>
+        <description>&lt;h2 id=&quot;1-苹果携手谷歌gemini重塑siri-aiapp-store广告营销迎来全面升级&quot;&gt;1. 苹果携手谷歌Gemini重塑Siri AI，App Store广告营销迎来全面升级&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 在WWDC 2026大会上，苹果宣布新一代Siri AI基于与谷歌Gemini的深度合作构建，同时推出App Store创意资产（Creative Assets）、个性化推荐集合等全新营销工具。广告主现可通过Display &amp;amp; Video 360在YouTube上投放广告时，直接使用苹果的第一方数据进行精准定位。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着苹果与谷歌两大科技巨头在AI和广告领域的战略合作深化，将重塑移动广告生态。苹果的广告业务预计今年将达到85亿美元规模，并正向Apple Maps等新领域扩展。但值得注意的是，由于《数字市场法案》（DMA），Siri AI将不会在欧盟的iPhone和iPad上发布，这为跨区域营销带来新挑战。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/apple-turns-to-google-gemini-for-siri-ai-and-rewrites-app-store-marketing/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-沃尔玛联手谷歌dv360零售媒体广告可直接追踪youtube视频转化&quot;&gt;2. 沃尔玛联手谷歌DV360，零售媒体广告可直接追踪YouTube视频转化&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 沃尔玛旗下Walmart Connect于6月11日宣布与谷歌Display &amp;amp; Video 360达成合作，广告主现可在YouTube上投放视频广告时使用沃尔玛的第一方购物数据进行受众定向，并实现闭环测量——直接追踪YouTube广告对沃尔玛线上线下销售的影响。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这是零售媒体网络（RMN）与视频广告平台深度融合的重大突破，广告主可以首次将零售购物数据与YouTube的视频触达能力结合。沃尔玛App Store每周活跃用户达8.5亿，这一合作将显著提升品牌广告的ROI可衡量性，并对亚马逊广告业务构成直接竞争。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/commerce/walmart-challenges-amazon-with-google-deal/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-ai如何颠覆营销管理营销管理作者深度解读&quot;&gt;3. AI如何颠覆营销管理？《营销管理》作者深度解读&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 美国西北大学凯洛格管理学院营销学教授、《营销管理》第16版作者亚历山大·切尔内夫在接受《哈佛商业评论》专访时指出，AI技术正在改变企业了解用户、设计产品和提供价值的过程，但AI无法为企业制定差异化战略。他强调：”使用AI的管理者可能会取代不使用AI的管理者”。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 随着ChatGPT和GPT-4的普及，亚马逊、谷歌、Netflix等美国大型企业已将AI深度融入商业模式。但专家警告，如果所有企业都依赖相同的AI工具做决策，将导致产品和策略同质化，丧失竞争优势。CMO需要在掌握AI技术应用的同时，保持独特的商业判断力和创造力。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/2273898839608705&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-adweek发布2026年度50强榜单special-us逆势增长引关注&quot;&gt;4. Adweek发布2026年度50强榜单，Special US逆势增长引关注&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; Adweek公布2026年度广告行业50强榜单，创意机构Special US实现营收翻倍增长至3100万美元，同时纽约和洛杉矶团队规模翻倍，员工留存率高达85%，并优先推进多元化招聘。此外，戛纳国际创意节公布了2026年钛狮奖（Titanium Lions）入围名单，共18个创意作品竞逐广告界最高荣誉。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 在广告行业整体面临挑战的背景下，注重创意质量和团队建设的机构仍能实现强劲增长。钛狮奖入围作品代表了全球广告创意的最高水准，为行业提供了创新参考方向。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/the-2026-adweek-50-are-up-for-the-challenge/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-趣闻鹅腿阿姨塌房事件意外助推多邻国品牌曝光&quot;&gt;5. 趣闻：”鹅腿阿姨”塌房事件意外助推多邻国品牌曝光&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;核心内容：&lt;/strong&gt; 近日”鹅腿阿姨”用鸭腿冒充鹅腿的食品安全事件在中国社交媒体引发热议。有网友恶搞称绿色鸭腿来自多邻国吉祥物”小绿鸟多儿”，相关话题在小红书等平台迅速发酵，网友创意评论”震惊！多儿在外偷偷做鸭”获7000+点赞。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这是一次典型的”意外营销”案例，多邻国未花一分钱却通过UGC（用户生成内容）实现病毒式传播。这再次证明，在社交媒体时代，品牌形象深入人心后，用户自发创作的梗文化可以成为强大的免费营销工具。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01ktwqnacyqfethjz2s0ea0223&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;编者按：&lt;/strong&gt; 本周广告营销行业呈现”科技巨头深度合作”与”AI重塑营销”两大主题。苹果-谷歌、沃尔玛-谷歌的战略联盟显示，数据、AI和广告基础设施的整合正在加速。同时，行业专家提醒：AI是工具而非战略制定者，差异化竞争力仍然来自人类的创造力和判断力。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-15&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2026 13:16:01 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,retail-media,apple,google,walmart/2026/06/14/%E8%B0%B7%E6%AD%8C%E5%A2%9E%E9%95%BF-85%E4%BA%BF-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,retail-media,apple,google,walmart/2026/06/14/%E8%B0%B7%E6%AD%8C%E5%A2%9E%E9%95%BF-85%E4%BA%BF-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,retail-media,Apple,Google,Walmart</category>
         
       </item>
     
@@ -773,133 +840,6 @@ Roku不仅是硬件制造商,更是拥有1亿家庭用户数据的广告基础�
         
         
         <category>ad-news,daily-digest,AI,数字广告,社交媒体营销</category>
-        
-      </item>
-    
-      <item>
-        <title>AI创新：Meta行业新动向</title>
-        <description>&lt;h2 id=&quot;1-meta首次超越google成为全球最大广告平台&quot;&gt;1. Meta首次超越Google成为全球最大广告平台&lt;/h2&gt;
-
-&lt;p&gt;根据eMarketer最新预测，Meta预计在2026年实现全球广告收入2434.6亿美元，首次超越Google的2395.4亿美元，这是Google自1990年代以来首次失去数字广告市场头把交椅。Meta的增长率达到24.1%，而Google仅为11.9%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;主要驱动因素:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Reels短视频广告预算持续增长&lt;/li&gt;
-  &lt;li&gt;Advantage+ AI自动化工具带来实际投资回报&lt;/li&gt;
-  &lt;li&gt;WhatsApp和Threads开始商业化，扩大了广告展示空间&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响:&lt;/strong&gt; 这一转变标志着数字广告格局的重大变化，品牌方需要重新审视广告预算分配策略。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-chatgpt广告平台全面开放取消最低消费门槛&quot;&gt;2. ChatGPT广告平台全面开放，取消最低消费门槛&lt;/h2&gt;
-
-&lt;p&gt;2026年5月5日，OpenAI宣布ChatGPT广告平台向所有美国企业开放自助服务，取消了此前5万美元的最低消费门槛。平台每日处理25亿次提示，首六周年化收入就达到1亿美元，预计2026年广告收入将达到25亿美元。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;平台特点:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;按CPC（点击成本）计费，支持按结果付费&lt;/li&gt;
-  &lt;li&gt;基于对话上下文的精准定向，而非传统关键词&lt;/li&gt;
-  &lt;li&gt;广告主无法获取用户数据，仅提供聚合性能指标&lt;/li&gt;
-  &lt;li&gt;6月5日推出转化跟踪功能&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;营销价值:&lt;/strong&gt; 适合高意图场景的精准营销，特别是针对特定问题寻求解决方案的用户。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-87广告代理专业人士认为传统代理模式已经失效&quot;&gt;3. 87%广告代理专业人士认为传统代理模式已经失效&lt;/h2&gt;
-
-&lt;p&gt;Basis发布的《2026年广告代理报告》显示，87.3%的广告代理从业者认为传统代理模式已经或将在3-5年内失效。在高管层面，这一比例更是高达91.5%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心问题:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AI压缩了工作时长，原本20小时的任务现在只需2小时，按工时计费模式难以为继&lt;/li&gt;
-  &lt;li&gt;70%的从业者认为工作难度增加&lt;/li&gt;
-  &lt;li&gt;客户关系紧张度上升，54%反馈客户关系比两年前更紧张&lt;/li&gt;
-  &lt;li&gt;近40%的代理公司在过去12个月进行了裁员&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;AI应用现状:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;99%的代理公司已经使用AI工具&lt;/li&gt;
-  &lt;li&gt;59.2%每天使用AI（2024年仅为15.9%）&lt;/li&gt;
-  &lt;li&gt;但AI主要用于创意构思和研究，在媒体策划和购买环节应用率仍较低&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业信心危机:&lt;/strong&gt; 首次低于50%的从业者对数字广告未来感到乐观，从2024年的62.8%降至48.8%。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/87-of-agency-pros-say-the-traditional-agency-model-is-broken/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-google-marketing-live-2026发布代理式广告系统&quot;&gt;4. Google Marketing Live 2026发布代理式广告系统&lt;/h2&gt;
-
-&lt;p&gt;在5月20日的Google Marketing Live大会上，Google正式推出代理式广告（Agentic Advertising）模式，AI将负责定向、出价、创意变体和投放决策，营销人员的角色转变为提供更优质的输入。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心产品:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ask Advisor:&lt;/strong&gt; 整合Google Ads、Analytics、Merchant Center和Google Marketing Platform的统一Gemini驱动对话界面&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Universal Cart和Universal Commerce Protocol:&lt;/strong&gt; 将产品发现与结账环节打通，Nike、Sephora、Target等品牌已接入&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;战略意义:&lt;/strong&gt; 广告活动的执行正在变成商品化能力，真正的竞争力在于创意策略、第一方数据和商业智能。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/ad-platforms-rebuild-earnings-diverge-and-ai-rewrites-the-supply-chain/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-ai归因盲区不断扩大传统衡量体系失效&quot;&gt;5. AI归因盲区不断扩大，传统衡量体系失效&lt;/h2&gt;
-
-&lt;p&gt;Google在2026年5月初移除了AI Overview结果的点击追踪功能，且未公布替代方案。研究显示，当AI生成答案出现在首屏时，即使排名和曝光保持稳定，前三名页面的点击率也下降了18%-34%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键挑战:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;用户通过ChatGPT、Perplexity或AI Overview获取答案后，可能数天后才通过品牌搜索或直接访问转化&lt;/li&gt;
-  &lt;li&gt;这种AI影响对传统归因模型完全不可见&lt;/li&gt;
-  &lt;li&gt;最后点击归因模型已经无法反映真实的购买旅程&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;应对方案:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;添加自报告归因字段&lt;/li&gt;
-  &lt;li&gt;在CRM中建立AI引荐细分&lt;/li&gt;
-  &lt;li&gt;将AI响应中的品牌可见度作为真实的性能指标&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;总结&quot;&gt;总结&lt;/h2&gt;
-
-&lt;p&gt;2026年上半年的广告营销行业正在经历深刻变革：Meta超越Google成为广告巨头，ChatGPT正式进军广告市场，传统代理模式面临生存危机，AI驱动的代理式广告成为新常态，而传统的归因和衡量体系正在失效。&lt;/p&gt;
-
-&lt;p&gt;对于品牌方而言，当务之急是：&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;重新评估广告预算在Meta、Google和新兴AI平台之间的分配&lt;/li&gt;
-  &lt;li&gt;建立适应AI驱动广告的创意和数据能力&lt;/li&gt;
-  &lt;li&gt;升级归因模型，捕捉AI影响的购买行为&lt;/li&gt;
-  &lt;li&gt;关注第一方数据的积累和应用&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这不是渐进式的优化，而是底层逻辑的重构。&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-06-06&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2026 13:16:02 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,chatgpt,meta,google,%E5%B9%BF%E5%91%8A%E4%BB%A3%E7%90%86/2026/06/05/ai%E5%88%9B%E6%96%B0meta%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,chatgpt,meta,google,%E5%B9%BF%E5%91%8A%E4%BB%A3%E7%90%86/2026/06/05/ai%E5%88%9B%E6%96%B0meta%E8%A1%8C%E4%B8%9A%E6%96%B0%E5%8A%A8%E5%90%91/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,ChatGPT,Meta,Google,广告代理</category>
         
       </item>
     
