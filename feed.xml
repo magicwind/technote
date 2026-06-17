@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Jun 2026 21:16:57 -0500</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2026 21:16:57 -0500</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 21:16:32 -0500</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:16:32 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,87 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>谷歌宣布CTV | 行业快讯</title>
+        <description>&lt;h2 id=&quot;1-fox以220亿美元收购roku重塑美国ctv广告格局&quot;&gt;1. Fox以220亿美元收购Roku，重塑美国CTV广告格局&lt;/h2&gt;
+
+&lt;p&gt;Fox Corporation于6月15日宣布以约220亿美元收购流媒体平台Roku，这是美国联网电视(CTV)广告市场多年来最大的结构性变化。交易完成后，Fox将同时拥有美国第一(The Roku Channel)和第二(Tubi)的免费流媒体服务，合并后的公司将产生约90亿美元的广告收入，占美国广告总支出的14%。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; Roku平台拥有超过1亿全球流媒体家庭的第一方数据，结合Fox的体育直播内容和Tubi的AVOD目录，将创造一个竞争对手难以匹敌的广告产品。Madison and Wall估计，合并后的公司将占美国流媒体广告支出的约16%。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/fox-buys-roku-publicis-and-ttd-end-feud-uk-publishers-sue-ai-scrapers/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-谷歌将限制广告投放政策扩展至搜索广告&quot;&gt;2. 谷歌将限制广告投放政策扩展至搜索广告&lt;/h2&gt;
+
+&lt;p&gt;谷歌于6月13日宣布，将其有限广告投放(Limited Ad Serving)政策扩展至Google搜索，并将在2028年前逐步全面实施。该政策允许谷歌限制不合格广告主在可能产生负面广告体验的搜索词上的广告展示量。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关键变化：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;用户投诉数据将直接影响广告主资格评估&lt;/li&gt;
+  &lt;li&gt;品牌识别不清的广告将受到限制&lt;/li&gt;
+  &lt;li&gt;高风险行业广告主可能面临额外认证要求&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;应对建议：&lt;/strong&gt; 谷歌建议广告主在广告标题中固定域名显示，尤其是新广告主或知名度较低的品牌，以清晰展示品牌身份，降低被限制的风险。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-expands-limited-ad-serving-policy-to-google-search-from-june-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-walmart-connect与谷歌dv360打通youtube广告可追踪线下销售&quot;&gt;3. Walmart Connect与谷歌DV360打通，YouTube广告可追踪线下销售&lt;/h2&gt;
+
+&lt;p&gt;Walmart Connect于6月11日宣布与Google Display &amp;amp; Video 360(DV360)达成合作，允许广告主在DV360平台内直接激活沃尔玛购物者受众，在YouTube上投放广告，并通过闭环测量追踪广告对沃尔玛线上线下销售的实际影响。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;技术突破：&lt;/strong&gt; 这是零售媒体数据首次在主流程序化购买平台内实现受众激活+YouTube投放+销售归因的完整闭环。沃尔玛拥有超过4500家门店，每周触达约2.8亿消费者，其第一方交易数据的精准度远超建模数据。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;市场意义：&lt;/strong&gt; 沃尔玛2026财年广告业务达64亿美元，增长46%。该集成是沃尔玛将其第一方数据分发到第三方平台战略的最新进展，标志着零售媒体数据正在成为程序化生态的基础设施。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/walmart-connect-brings-real-purchase-data-into-google-dv360-for-youtube-ads/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-看广告免费背后平台如何通过激励广告实现双赢&quot;&gt;4. 看广告免费背后：平台如何通过激励广告实现双赢&lt;/h2&gt;
+
+&lt;p&gt;36氪6月15日报道，番茄小说、网易云音乐、QQ音乐等平台推出的看广告换会员时长模式，正在重塑数字内容的变现逻辑。用户通过观看15-30秒广告，可获得30-60分钟的VIP功能使用时长。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;商业模式创新：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;网易云音乐2024年上半年会员订阅收入增长25.5%，激励广告成为收入增长新引擎&lt;/li&gt;
+  &lt;li&gt;平台通过算法优化，在用户观看广告时精准推送商品满减券，激发冲动消费&lt;/li&gt;
+  &lt;li&gt;免费模式并非冲击付费会员，而是吸引价格敏感用户，扩大广告收入池&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;消费者洞察：&lt;/strong&gt; 部分用户通过下载多个APP刷满减券，但也有用户反思免费的才是最贵的——许多需求是被广告激化出来的，消费仍需理性。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3004929298177800&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-英国出版商推出新合约机制向ai抓取收费每篇500英镑&quot;&gt;5. 英国出版商推出新合约机制，向AI抓取收费每篇500英镑&lt;/h2&gt;
+
+&lt;p&gt;PPC Land 6月15日报道，英国出版商推出仅限搜索合约(Search-Only Contracts)机制，利用县级法院向AI公司收取每篇文章500英镑的抓取费用。该机制规定，AI爬虫访问页面仅限用于搜索索引，任何用于训练大语言模型或生成答案的行为均构成违约。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt; 多个独立网站因谷歌AI摘要(AI Overviews)流量暴跌70%甚至被迫关闭，如All About Berlin和Overfishing.org。出版商选择县级法院而非知识产权诉讼，是因为后者成本高昂、耗时数年，而县级法院小额索赔程序让个体出版商也能维权。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;行业动向：&lt;/strong&gt; 纽约州议会6月5日通过法案A11292，要求AI爬虫向新闻出版商披露身份和用途，否则每天罚款1.5万美元。英美两地正从不同角度填补AI抓取的监管空白。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/fox-buys-roku-publicis-and-ttd-end-feud-uk-publishers-sue-ai-scrapers/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-17&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jun 2026 13:15:58 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest/2026/06/16/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/06/16/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
+        
+        
+        <category>ad-news,daily-digest</category>
         
       </item>
     
@@ -728,128 +809,6 @@ Roku不仅是硬件制造商,更是拥有1亿家庭用户数据的广告基础�
         
         
         <category>ad-news,daily-digest,ChatGPT,AI广告,数字营销</category>
-        
-      </item>
-    
-      <item>
-        <title>Meta增长: 2946亿 | 广告营销周报</title>
-        <description>&lt;p&gt;&lt;strong&gt;📊 美国数字广告收入创历史新高，突破2946亿美元&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;根据IAB与普华永道联合发布的2025年互联网广告收入报告，美国数字广告收入达到2946亿美元，同比增长13.9%，创下历史新高。值得注意的是，这一增长是在没有奥运会、世界杯或大选等重大周期性事件的背景下实现的。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;社交媒体&lt;/strong&gt;领跑增长，收入达1177亿美元，同比增长32.6%，占总收入40%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;程序化广告&lt;/strong&gt;突破1624亿美元，增长20.5%，为AI代理广告奠定基础&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;数字视频&lt;/strong&gt;增长25.4%至780亿美元，CTV成为主要驱动力&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;创作者广告&lt;/strong&gt;达到370亿美元，正在从活动式营销转变为常态化品牌战略&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这标志着数字广告市场正在从搜索主导转向社交和视频为中心的新格局。搜索广告虽然仍以1142亿美元占据最大份额，但增速放缓至11%，而社交和视频的快速增长显示出消费者行为的结构性变化。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/us-digital-ad-revenue-hits-294-6b-in-2025-social-and-video-lead-the-surge/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;🤖 Criteo全面开放自助广告平台，中小企业可5步启动AI广告&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;3月31日，全球商业数据平台Criteo宣布其GO平台全面开放自助服务，中小企业和成长型品牌无需签署托管服务协议，即可在5次点击内独立启动跨渠道AI广告活动。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心功能：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;整合展示、视频、原生和社交广告于单一界面&lt;/li&gt;
-  &lt;li&gt;利用7.4亿日活购物者和1万亿美元交易数据进行智能投放&lt;/li&gt;
-  &lt;li&gt;新推出的AI智能引导代理可自动预测结果并配置关键参数&lt;/li&gt;
-  &lt;li&gt;包含社交渠道的广告活动ROAS提升超过20%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;战略背景：&lt;/strong&gt; Criteo正从高接触的托管服务模式转向可扩展的技术平台。公司任命前Google购物负责人Courtney MacConnell为GO平台全球商业化副总裁，显示其对中小企业市场的重视。该平台目前在美国和英国上线，计划2026年扩展至更多市场。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/criteo-opens-go-to-all-smbs-can-now-launch-ai-ad-campaigns-in-5-clicks/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;🔍 Google营销趋势：AI搜索引用规则改写，Meta首次超越Google广告收入&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;6月第一周的营销行业出现多个重大变化：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Google 5月核心更新重塑AI引用规则&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AI Mode月活用户突破10亿，AI Overviews达25亿&lt;/li&gt;
-  &lt;li&gt;2025年中排名前10的页面占AI引用76%，2026年初降至38%&lt;/li&gt;
-  &lt;li&gt;内容结构和信息一致性比反向链接数量更重要&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Meta广告收入历史性超越Google&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;eMarketer预测Meta 2026年全球广告收入达2434.6亿美元，超过Google的2395.4亿美元&lt;/li&gt;
-  &lt;li&gt;Meta增长率24.1%，Google为11.9%&lt;/li&gt;
-  &lt;li&gt;Reels、Advantage+自动化和WhatsApp变现成为主要驱动力&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;3. ChatGPT广告平台全面开放&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;5月5日向所有美国企业开放自助广告管理器，无最低消费要求&lt;/li&gt;
-  &lt;li&gt;日处理25亿次提示，前六周年化收入达1亿美元&lt;/li&gt;
-  &lt;li&gt;采用对话式定向，不提供用户数据，仅提供聚合性能指标&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Google Marketing Live推出代理广告模式&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ask Advisor统一Google Ads、Analytics和Merchant Center&lt;/li&gt;
-  &lt;li&gt;Universal Cart连接搜索、Gemini和结账流程&lt;/li&gt;
-  &lt;li&gt;战略、创意和第一方数据成为核心差异化因素&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;💡 营销观点：「意见时代」终结，数据驱动成为唯一出路&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;在Possible 2026大会上，营销与媒体联盟发表重要演讲，指出营销行业必须从依赖意见转向基于科学知识的专业化。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心观点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;广告支出每增加10%，销售额中位数仅提升0.5%，且自1960年以来持续下降&lt;/li&gt;
-  &lt;li&gt;促销活动中75%的支出用于从竞争对手处抢夺客户，仅10%真正促进品类增长&lt;/li&gt;
-  &lt;li&gt;分销渠道对销售的影响是广告的67倍&lt;/li&gt;
-  &lt;li&gt;AI可以扩大规模，但如果假设错误，只会将错误工业化&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt; 这标志着营销行业正在经历从艺术到科学的转型。CMO需要从预算辩护者转变为增长战略合作伙伴，可预测性将成为建立信任的关键。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/possible-2026-opening-remarks-marketings-age-of-opinion-is-ending/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;📈 2026年6月数字广告趋势：零售媒体网络崛起，可购物视频成为直接响应渠道&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;6月最新趋势显示，数字广告市场正变得更加智能、更加严苛：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键趋势：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;AI成为日常运营层&lt;/strong&gt;：46%的营销人员使用AI扩展创意，33%跨创意、媒体和测量使用AI&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;第一方数据不可协商&lt;/strong&gt;：76%的消费者不会从不信任其数据处理方式的公司购买&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;零售媒体网络演变为性能媒体&lt;/strong&gt;：场外程序化零售媒体网络支出增长快于站内支出&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;可购物视频和CTV转化为直接行动渠道&lt;/strong&gt;：从注意力转向可追踪的购买行为&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;隐私压力与广告拦截&lt;/strong&gt;：惩罚侵入性广告，76%的实体购物仍在线下完成&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;对创业者的建议：&lt;/strong&gt; 需要在扩展前建立基础设施——更清晰的报价信息、更好的第一方数据捕获、内容到广告的工作流程，以及媒体与销售之间的短反馈循环。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.mean.ceo/digital-advertising-trends-june-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-06-08&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 Jun 2026 13:16:16 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80,%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A/2026/06/07/meta%E5%A2%9E%E9%95%BF-2946%E4%BA%BF-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80,%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A/2026/06/07/meta%E5%A2%9E%E9%95%BF-2946%E4%BA%BF-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,数字营销,行业报告</category>
         
       </item>
     
