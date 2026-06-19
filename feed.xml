@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Jun 2026 21:16:51 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 21:16:51 -0500</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 21:16:15 -0500</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 21:16:15 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,51 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：OpenAI布局程序化</title>
+        <description>&lt;h2 id=&quot;1-ai代理技术重塑程序化广告买入层&quot;&gt;1. AI代理技术重塑程序化广告买入层&lt;/h2&gt;
+
+&lt;p&gt;WPP预测AI搜索广告将在2031年达到全球搜索广告收入的39.2%，目前AI代理已开始接管程序化广告的买入层。DoubleVerify发布DV Neura认知AI引擎，支持自主广告活动执行；LiveRamp推出LAB计划，开放其数据协作平台供第三方AI公司构建代理工具。Adobe数据显示，86%的美国消费者每月至少有一次线上冲动购物，48%的美妆消费者在看到产品后几分钟内完成购买，短视频和社交媒体成为主要驱动渠道。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/agentic-ad-tech-tries-to-take-over-the-buying-layer-as-ai-search-budgets-surge/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-fox以220亿美元收购roku重塑ctv广告格局&quot;&gt;2. Fox以220亿美元收购Roku，重塑CTV广告格局&lt;/h2&gt;
+
+&lt;p&gt;Fox Corporation于6月15日宣布以每股160美元（60%现金+40%股票）收购Roku，企业价值220亿美元。合并后公司将拥有超过1亿全球流媒体家庭的第一方数据，广告收入达90亿美元（Fox 65亿+Roku 25亿）。Roku占美国CTV观看时长的44%（按操作系统品牌计），远超Amazon Fire TV的14%和Samsung的12%。交易预计2027年上半年完成，两家公司承诺维持Roku平台的开放性，继续分销Netflix、Disney+等第三方内容。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/fox-buys-roku-for-22bn-what-it-means-for-ctv-advertising/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-wpp预测2026年全球广告收入增长至13万亿美元&quot;&gt;3. WPP预测2026年全球广告收入增长至1.3万亿美元&lt;/h2&gt;
+
+&lt;p&gt;WPP Media发布2026年中期预测，预计全球广告收入增长4.4%至1.3万亿美元（不含美国政治广告），美国市场增长11.9%。AI投资成为主要增长引擎，生成式搜索被描述为可能是最快达到1000亿美元规模的广告渠道。社交媒体仍是最大单一渠道，但增速将从2027年降至个位数，原因包括用户时长见顶、年龄限制法规和AI聊天机器人分流。零售媒体/商业广告已超越电视，成为行业基础，但面临生成式搜索和社交购物的新挑战。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/wpp-media-sees-ai-as-advertisings-1-3-trillion-growth-engine-in-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4-ai应用市场竞争加剧广告支出激增&quot;&gt;4. AI应用市场竞争加剧，广告支出激增&lt;/h2&gt;
+
+&lt;p&gt;Sensor Tower《2026年AI状态报告》显示，ChatGPT在2026年5月成为史上最快达到10亿月活的移动应用（仅用3年），但其市场份额首次跌破50%。Google Gemini和Claude增长迅速，Claude美国市场份额从4.4%增至14%，同比增长452%。Q1 2026，AI相关广告支出达13亿美元，OpenAI和Anthropic广告投入同比增长800%+。超过20万款应用在描述中提及AI，AI正从独立品类演变为互联网的行为与商业层。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sensortower.com/blog/state-of-ai-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5-microsoft-advertising扩展linkedin职位资历定向功能&quot;&gt;5. Microsoft Advertising扩展LinkedIn职位资历定向功能&lt;/h2&gt;
+
+&lt;p&gt;Microsoft Advertising于6月16日宣布，将LinkedIn Profile定向功能扩展至包含职位资历（job seniority）维度，适用于搜索广告和受众广告。这一新增维度为B2B营销人员提供了更精准的专业身份筛选能力，可根据职级（如高管、经理、专员等）定向投放广告，进一步提升LinkedIn数据在程序化广告中的价值。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/microsoft-advertising-adds-job-seniority-to-linkedin-profile-targeting/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-19&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Jun 2026 13:15:40 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,ctv,programmatic/2026/06/18/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80%E7%A8%8B%E5%BA%8F%E5%8C%96/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,ctv,programmatic/2026/06/18/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80%E7%A8%8B%E5%BA%8F%E5%8C%96/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,CTV,programmatic</category>
         
       </item>
     
@@ -858,23 +903,6 @@ Roku不仅是硬件制造商,更是拥有1亿家庭用户数据的广告基础�
         
         
         <category>ad-news,daily-digest,AI广告,营销科技</category>
-        
-      </item>
-    
-      <item>
-        <title>科技巨头广告 | 行业快讯</title>
-        <description>&lt;p&gt;全面接管——从 ChatGPT 的广告变现，到 Google 的全自动投放，再到出版商的 AI 代理销售，所有玩家都在重新定义广告的生产、分发和交易方式。品牌的核心竞争力正在从会买流量转向会建系统。&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-06-10&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Jun 2026 13:16:12 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai,automation/2026/06/09/%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%B9%BF%E5%91%8A-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,automation/2026/06/09/%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%B9%BF%E5%91%8A-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI,automation</category>
         
       </item>
     
