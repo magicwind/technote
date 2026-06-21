@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Jun 2026 21:16:35 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 21:16:35 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 21:16:25 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 21:16:25 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,89 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>一周精华：亚马逊发布、增长动态</title>
+        <description>&lt;p&gt;&lt;strong&gt;1. WPP预测2026年全球广告支出达1.3万亿美元，AI成核心驱动力&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6月16日，WPP Media发布2026年中期预测报告，预计全球广告收入将增长4.4%，达到1.3万亿美元（不含美国政治广告支出）。美国市场增长最快，预计达11.9%，主要得益于AI技术投资。&lt;/p&gt;
+
+&lt;p&gt;报告指出，AI技术公司（构建大语言模型、推理基础设施和智能体框架的公司）正在大量投放广告，同时传统广告主也在内部部署AI以降低制作成本、扩大投放规模。这种双向驱动形成了强大的增长动力。&lt;/p&gt;
+
+&lt;p&gt;生成式AI搜索被认为可能成为增长最快的广告渠道，有望成为最快达到1000亿美元规模的广告类型。社交媒体仍是最大单一渠道，但增速将放缓至个位数。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/wpp-media-sees-ai-as-advertisings-1-3-trillion-growth-engine-in-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;2. IAB澳大利亚发布报告：智能体AI将重塑搜索营销&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6月18日，IAB澳大利亚发布14页报告，警告智能体AI已从概念进入实际应用阶段，将彻底改变搜索营销格局。&lt;/p&gt;
+
+&lt;p&gt;报告核心观点：AI智能体将购买漏斗的发现-考虑-购买三个阶段压缩为几秒钟内完成的自动化流程。品牌需要从关键词优化转向机器可读性优化，确保智能体能准确理解和推荐品牌。&lt;/p&gt;
+
+&lt;p&gt;60%的澳大利亚消费者预计将在日常生活中使用智能体AI，但只有14%信任企业负责任地使用AI。报告建议品牌：升级产品信息数据（实时API同步）、采用结构化数据（schema.org、JSON-LD）、建立审计日志和用户干预机制。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/iab-australia-maps-the-agentic-ai-shift-search-marketers-cant-ignore/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 广告技术行业戛纳前夕密集发布智能体产品&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6月18日前后一周，多家广告技术巨头集中发布智能体相关产品：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DoubleVerify推出DV Neura认知AI引擎，内容分类输出量较1月增长近300倍，已监测或屏蔽超5亿次AI垃圾网站展示&lt;/li&gt;
+  &lt;li&gt;Yahoo DSP推出Agent Network，连接23家广告技术合作伙伴的AI工具&lt;/li&gt;
+  &lt;li&gt;LiveRamp向第三方AI智能体构建者开放平台&lt;/li&gt;
+  &lt;li&gt;Horizon Media构建智能体软件层，与Innovid、Magnite等平台智能体直接交互&lt;/li&gt;
+  &lt;li&gt;Fox发布电视行业首个端到端智能体广告平台&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;WPP与Disney、Netflix、Fox等六大媒体巨头合作，测试买方和卖方AI智能体在视频广告中的通信标准。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/agents-forecasts-and-vox-ad-techs-week-before-cannes/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;4. 肯德基全球品牌升级，LOGO变身全家桶引热议&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;近日，肯德基宣布全球品牌视觉升级，新LOGO将原有的梯形设计改为全家桶造型，上下边缘增加弧度，两侧竖条纹改为KFC字母标识。&lt;/p&gt;
+
+&lt;p&gt;负责此次设计的JKR广告公司表示，希望借助全家桶元素对品牌进行全方位革新，构建内外更统一的品牌形象。但网友纷纷吐槽新LOGO的字母设计看起来像龙虾钳子，引发社交媒体热议。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kv9kp08ke69rgd81tfj6fde9&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 36氪采访20位营销大咖：2025增长红利在哪里？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;36氪近日发布营销行业年度报告，采访爱奇艺、小米、亚马逊、小红书、百度等20位营销高管，总结2025年营销趋势：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;品牌建设回归&lt;/strong&gt;：企业越发重视长期主义与品牌价值积累&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI全面渗透&lt;/strong&gt;：从创意生产到投放优化，AI成为标配工具&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;情绪价值崛起&lt;/strong&gt;：消费者更关注产品带来的情感共鸣&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;出海加速&lt;/strong&gt;：中国品牌加大海外市场投入，多站点广告成趋势&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;内容为王&lt;/strong&gt;：短视频、直播、智能体内容营销成核心&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;报告指出，营销人需要在短期效果和长期品牌力之间找到平衡，同时拥抱AI技术提升效率。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3133608481037061&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-21&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Jun 2026 13:15:52 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,%E6%99%BA%E8%83%BD%E4%BD%93,%E5%93%81%E7%89%8C%E8%90%A5%E9%94%80/2026/06/20/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8E%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%8F%91%E5%B8%83%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,%E6%99%BA%E8%83%BD%E4%BD%93,%E5%93%81%E7%89%8C%E8%90%A5%E9%94%80/2026/06/20/%E4%B8%80%E5%91%A8%E7%B2%BE%E5%8D%8E%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%8F%91%E5%B8%83%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,智能体,品牌营销</category>
         
       </item>
     
@@ -828,70 +911,6 @@ Roku不仅是硬件制造商,更是拥有1亿家庭用户数据的广告基础�
         
         
         <category>ad-news,daily-digest,AI广告,零售媒体,ChatGPT,营销趋势,MCN监管</category>
-        
-      </item>
-    
-      <item>
-        <title>每日广告营销新闻 2026-06-12</title>
-        <description>&lt;h2 id=&quot;1-沃尔玛联手谷歌挑战亚马逊广告霸主地位&quot;&gt;1. 沃尔玛联手谷歌挑战亚马逊广告霸主地位&lt;/h2&gt;
-
-&lt;p&gt;沃尔玛广告平台Walmart Connect宣布与谷歌达成合作，允许广告主在YouTube上精准定位沃尔玛购物者，并追踪广告带来的销售转化。这标志着沃尔玛在零售媒体领域向亚马逊发起正面挑战，继5月与Magnite和Yahoo DSP合作后，进一步扩大其广告生态系统。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 零售媒体网络竞争加剧，品牌可以通过更多渠道触达购物者并衡量跨平台广告效果，打破亚马逊在零售广告领域的垄断地位。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/commerce/walmart-challenges-amazon-with-google-deal/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-chatgpt广告携手liveramp强化效果衡量能力&quot;&gt;2. ChatGPT广告携手LiveRamp强化效果衡量能力&lt;/h2&gt;
-
-&lt;p&gt;OpenAI宣布与数据协作平台LiveRamp合作，为ChatGPT广告主提供Conversions API Hub服务，解决信号丢失问题并改善广告效果衡量。这是继3月与Criteo合作后，ChatGPT广告基础设施的又一重要升级。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业洞察：&lt;/strong&gt; ChatGPT凭借10亿用户基础正在成为数字广告的新兴力量，通过建立完善的广告技术生态，挑战谷歌、Meta和亚马逊的三巨头地位。广告主现可通过服务器端连接追踪转化，包括线下购买。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marketingdive.com/news/chatgpt-ads-get-measurement-boost-from-new-liveramp-partnership/822416/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-ai广告公司applovin利润率达85重塑移动广告投放逻辑&quot;&gt;3. AI广告公司AppLovin利润率达85%，重塑移动广告投放逻辑&lt;/h2&gt;
-
-&lt;p&gt;AppLovin 2026年Q1财报显示营收18.4亿美元（同比增长59%），净利润12亿美元，调整后EBITDA利润率高达85%，超越英伟达、Meta和谷歌等巨头。其核心竞争力来自AI推荐系统Axon，能实时预测用户转化概率并动态优化广告投放。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键趋势：&lt;/strong&gt; 中国出海企业正从人工经验试错转向算法预测驱动。赤子城科技接入Axon2后，游戏流水同比增长182.5%。广告行业竞争逻辑正在从谁更懂Facebook和Google转向谁的算法交付结果更准。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3820383378084226&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-36氪采访20位营销大咖2026年增长红利在哪里&quot;&gt;4. 36氪采访20位营销大咖：2026年增长红利在哪里？&lt;/h2&gt;
-
-&lt;p&gt;多位行业领袖分享2026年营销趋势：小红书强调激发弹性需求和深掘小共识；亚马逊广告指出中国出海品牌呈现品牌化、多国家化、内容化三大趋势；小米认为智能生态营销被低估。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心观点：&lt;/strong&gt; 营销从内卷走向内嵌，企业需要深度理解消费者需求，通过AI和数据驱动实现精准投放。视频广告成为主流，中国广告主在亚马逊上的视频广告投放量两年增长超145%。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3133608481037061&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;*整理时间：2026年6月12日&lt;/td&gt;
-      &lt;td&gt;来源：Adweek, Marketing Dive, 36氪*&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-06-12&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Jun 2026 13:15:48 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,%E5%87%BA%E6%B5%B7%E8%90%A5%E9%94%80/2026/06/11/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-06-12/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E9%9B%B6%E5%94%AE%E5%AA%92%E4%BD%93,%E5%87%BA%E6%B5%B7%E8%90%A5%E9%94%80/2026/06/11/%E6%AF%8F%E6%97%A5%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E6%96%B0%E9%97%BB-2026-06-12/</guid>
-        
-        
-        <category>ad-news,daily-digest,AI广告,零售媒体,出海营销</category>
         
       </item>
     
