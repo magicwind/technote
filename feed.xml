@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 21 Jun 2026 21:16:59 -0500</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 21:16:59 -0500</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 21:17:09 -0500</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:17:09 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,129 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>AI变现成行业焦点 | 广告营销周报</title>
+        <description>&lt;p&gt;每日广告营销新闻 2026-06-23&lt;/p&gt;
+
+&lt;h2 id=&quot;1-wpp-预测ai-将推动-2026-年全球广告市场增至-13-万亿美元&quot;&gt;1. WPP 预测：AI 将推动 2026 年全球广告市场增至 1.3 万亿美元&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;日期：&lt;/strong&gt; 2026-06-16&lt;/p&gt;
+
+&lt;p&gt;WPP Media 发布年中预测报告，预计 2026 年全球广告收入将增长 4.4% 至 1.3 万亿美元（不含美国政治广告），人工智能投资成为本世纪最大的”淘金热”推动力。美国市场增速高达 11.9%，远超全球平均水平。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心洞察：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;生成式搜索快速崛起&lt;/strong&gt;：WPP 认为生成式搜索可能成为最快达到千亿美元规模的广告渠道&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI 双向驱动&lt;/strong&gt;：AI 原生公司（如 OpenAI、大模型厂商）大量投放广告触达开发者和企业客户；传统广告主则利用 AI 降低制作成本、扩大投放规模&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;内容环境份额压缩&lt;/strong&gt;：尽管内容驱动型广告收入将达 7202 亿美元，但其占总广告份额到 2031 年将下降，品牌影响力建设将更依赖流媒体、体育赛事、高端出版物等高参与度场景&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/wpp-media-sees-ai-as-advertisings-1-3-trillion-growth-engine-in-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2-ai-媒体成增长最快投资类别但落地鸿沟加大&quot;&gt;2. AI 媒体成增长最快投资类别，但落地鸿沟加大&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;日期：&lt;/strong&gt; 2026-06-16&lt;/p&gt;
+
+&lt;p&gt;Mediaocean 发布 2026 下半年市场报告，60% 的营销人员计划增加 AI 媒体（AI agents 和平台上的广告）投资，超过搜索广告（47%）——这是新兴渠道首次超越搜索。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;落地困境：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;仅 19% 的营销人员认为 AI 正在引发重大工作流转型（较上期 28% 下降）&lt;/li&gt;
+  &lt;li&gt;前三大障碍：数据质量/访问问题（42%）、跨系统整合困难（41%）、品牌安全/合规担忧（40%）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;编排差距&lt;/strong&gt;：86% 的人认为跨渠道编排极其重要，但仅 10% 实现了全渠道系统统一&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;数据洞察：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;AI 在数据分析和市场研究应用率达 50%（上期 43%）&lt;/li&gt;
+  &lt;li&gt;创意开发和个性化应用同比增长超 50%&lt;/li&gt;
+  &lt;li&gt;CTV 投资保持强劲：89% 计划维持或增加预算&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ppc.land/ai-media-leads-h2-ad-investment-plans-as-implementation-gap-widens/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;3-亚马逊在-chatgpt-投广告引流却严防-ai-抓取商品数据&quot;&gt;3. 亚马逊在 ChatGPT 投广告引流，却严防 AI 抓取商品数据&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;日期：&lt;/strong&gt; 2026-06-23&lt;/p&gt;
+
+&lt;p&gt;电商分析师透露，亚马逊已在 ChatGPT 投放广告，成为首批入驻 OpenAI 广告业务的知名零售商。当用户搜索咖啡机等商品时，ChatGPT 会在推荐下方展示亚马逊”高分精选”付费广告，点击后直接跳转至亚马逊店铺。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;战略矛盾：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;不开放数据&lt;/strong&gt;：亚马逊坚决不向 AI 平台开放商品库、定价和库存数据，多次更新代码封禁包括 OpenAI 在内的爬虫程序&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;只做引流&lt;/strong&gt;：把 AI 平台当作引流渠道，而非合作伙伴，所有交易流程由亚马逊全权掌控&lt;/li&gt;
+  &lt;li&gt;去年停止向谷歌购物板块提供数据推送，今年通过法院禁令阻止 Perplexity 抓取数据&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业意义：&lt;/strong&gt;
+这一举措表明，相比尚未验证的”AI agent 电商模式”，OpenAI 通过广告将购物需求商业化变现的路径更现实可行，其广告业务有望迎来高速增长。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://finance.sina.com.cn/tech/digi/2026-06-23/doc-inieixwz6542815.shtml&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;4-openai-正式启用广告模式年亏-385-亿美元倒逼商业化&quot;&gt;4. OpenAI 正式启用广告模式：年亏 385 亿美元倒逼商业化&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;日期：&lt;/strong&gt; 2026-06-22&lt;/p&gt;
+
+&lt;p&gt;ChatGPT 正式向免费用户推送商业广告，以独立”赞助内容”卡片形式嵌入对话流，付费用户不受影响。这标志着 AI 对话产品从”技术竞赛”进入”商业模式竞赛”阶段。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;财务压力：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;2025 年数据&lt;/strong&gt;：营收 130.7 亿美元，总支出 340 亿美元，净亏损 385 亿美元&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2026 年 Q1&lt;/strong&gt;：营收 57 亿美元，经营性亏损 37 亿美元（相当于每天亏损约 4000 万美元）&lt;/li&gt;
+  &lt;li&gt;向微软支付 172 亿美元算力费用，仅获得 11.7 亿美元收入&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;竞争格局变化：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Anthropic 在 Q2 企业 AI 订阅市场份额升至 41%，反超 OpenAI&lt;/li&gt;
+  &lt;li&gt;两家公司均已向 SEC 秘密递交 IPO 申请（Anthropic 估值 9650 亿美元，OpenAI 8520 亿美元）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;信任挑战：&lt;/strong&gt;
+用户对 AI 透露的信息深度远超搜索引擎，广告定向对敏感数据的调用风险更高。OpenAI 必须在广告变现与用户信任之间找到平衡。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.163.com/dy/article/L027T6OL05118O92.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;5-达人营销进入内容价值度量时代&quot;&gt;5. 达人营销进入”内容价值”度量时代&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;日期：&lt;/strong&gt; 2026-06-18&lt;/p&gt;
+
+&lt;p&gt;随着达人成为品牌营销必投媒介，行业正从”流量价值”向”内容价值”度量体系转型。正如十年前互联网完善度量体系吸引广告主预算从电视大规模转移，达人营销的成熟度量体系将为行业带来更多市场空间。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;趋势观察：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;平台格局&lt;/strong&gt;：小红书普及率最高，抖音抢到美妆品牌最大营销预算份额&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;社媒成标配&lt;/strong&gt;：与 2019 年首次调查对比，社媒营销已从边缘到主流&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;度量挑战&lt;/strong&gt;：”你如果无法度量它，就无法管理它”——德鲁克的管理箴言同样适用于营销领域&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/1398206185683968&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;编者按：&lt;/strong&gt; 本周广告营销行业的核心议题围绕”AI 变现”展开：从 WPP 的万亿市场预测，到 Mediaocean 揭示的”投资热情”与”落地困境”的反差，再到 OpenAI 和亚马逊各自的商业化试验。这些动态共同指向一个事实——AI 正在重塑广告行业的底层逻辑，但如何平衡技术创新、用户信任和商业回报，仍是整个行业需要回答的核心命题。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-23&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jun 2026 13:16:33 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%94%9F%E6%88%90%E5%BC%8F%E6%90%9C%E7%B4%A2,chatgpt,%E4%BA%9A%E9%A9%AC%E9%80%8A,%E8%BE%BE%E4%BA%BA%E8%90%A5%E9%94%80/2026/06/22/ai%E5%8F%98%E7%8E%B0%E6%88%90%E8%A1%8C%E4%B8%9A%E7%84%A6%E7%82%B9-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai%E5%B9%BF%E5%91%8A,%E7%94%9F%E6%88%90%E5%BC%8F%E6%90%9C%E7%B4%A2,chatgpt,%E4%BA%9A%E9%A9%AC%E9%80%8A,%E8%BE%BE%E4%BA%BA%E8%90%A5%E9%94%80/2026/06/22/ai%E5%8F%98%E7%8E%B0%E6%88%90%E8%A1%8C%E4%B8%9A%E7%84%A6%E7%82%B9-%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E5%91%A8%E6%8A%A5/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI广告,生成式搜索,ChatGPT,亚马逊,达人营销</category>
         
       </item>
     
@@ -780,123 +903,6 @@ JKR表示不是简单微调LOGO，而是借助全家桶这一品牌标志性元�
         
         
         <category>ad-news,daily-digest,AI,retail-media,Apple,Google,Walmart</category>
-        
-      </item>
-    
-      <item>
-        <title>广告营销行业观察 2026-06-14</title>
-        <description>&lt;h2 id=&quot;1-roku探索出售-190亿美元广告平台吸引买家&quot;&gt;1. Roku探索出售 190亿美元广告平台吸引买家&lt;/h2&gt;
-
-&lt;p&gt;流媒体巨头Roku正在探索包括全面出售在内的战略选项。据路透社6月12日报道,Roku已与至少一家美国媒体公司就潜在合并进行讨论,同时也在考虑PIPE(上市公司私募投资)交易。消息公布当天,Roku股价暴涨20%至143.66美元,创52周新高。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心数据亮点:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;市值约194亿美元,拥有超1亿流媒体家庭用户&lt;/li&gt;
-  &lt;li&gt;Q1 2026广告收入6.13亿美元,同比增长27%&lt;/li&gt;
-  &lt;li&gt;资产负债表健康:23.8亿美元现金,零长期债务&lt;/li&gt;
-  &lt;li&gt;通过第三方DSP的广告支出同比增长40%+&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;为何受追捧:&lt;/strong&gt;
-Roku不仅是硬件制造商,更是拥有1亿家庭用户数据的广告基础设施。其程序化广告平台Roku Exchange已集成Amazon DSP、The Trade Desk等主流买方平台。今年4月推出的Roku Curate产品,整合了Best Buy、Kroger等零售商的购买数据,实现闭环归因测量。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/roku-explores-a-sale-as-its-19bn-ad-platform-attracts-media-and-tech-buyers/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-沃尔玛零售数据直连google-dv360-打通youtube广告闭环&quot;&gt;2. 沃尔玛零售数据直连Google DV360 打通YouTube广告闭环&lt;/h2&gt;
-
-&lt;p&gt;沃尔玛Connect于6月11日宣布与Google Display &amp;amp; Video 360(DV360)达成合作,首次将沃尔玛第一方购物数据直接导入DV360平台,广告主可在YouTube上激活沃尔玛受众,并追踪视频曝光对实际零售销售的影响。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;技术突破:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;受众激活:DV360内直接选择沃尔玛消费者细分受众&lt;/li&gt;
-  &lt;li&gt;闭环测量:YouTube广告曝光可追溯到沃尔玛线上+线下实际购买数据&lt;/li&gt;
-  &lt;li&gt;工作流整合:无需切换平台,在DV360内完成受众定向和报告查看&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;行业意义:&lt;/strong&gt;
-沃尔玛每周触达2.8亿消费者,年度购买数据超2120亿美元。此次合作是沃尔玛2026年数据分发战略的一部分,继5月与Yahoo DSP合作后,再次将零售数据输送至第三方买方平台。行业分析认为,这标志着零售媒体数据正从封闭花园走向程序化生态系统的基础设施层。&lt;/p&gt;
-
-&lt;p&gt;目前该功能处于封闭概念验证阶段,更广泛的可用性将在稍后推出。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/walmart-connect-brings-real-purchase-data-into-google-dv360-for-youtube-ads/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-adweek-50榜单揭晓-2026年广告行业领军人物&quot;&gt;3. ADWEEK 50榜单揭晓 2026年广告行业领军人物&lt;/h2&gt;
-
-&lt;p&gt;ADWEEK于6月9日发布2026年度50位最具影响力的广告营销领袖榜单,涵盖代理商、品牌方、媒体和技术领域。这些领袖在AI变革、文化创新和运营效率方面交出了亮眼成绩单。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;典型案例:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Kelsey Hodgkin(Special US CEO):&lt;/strong&gt; 通过共情式领导,将Special US打造成增长最快的独立代理商之一,2025年营收增长68%至3100万美元,赢得Instagram、Target、Audible等客户,同时保持85%员工留存率&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Drew Panayiotou(Keurig Dr Pepper CMO):&lt;/strong&gt; 打造AI驱动的”Data-Driven Sip”营销引擎,6个月内实现营销绩效两位数增长,Green Mountain Coffee新增200万买家&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Wes Schroll(Fetch创始人):&lt;/strong&gt; 将消费奖励平台Fetch扩展至2120亿美元年度购买数据,品牌合作伙伴同比增长27%,超级碗广告发放120万美元奖金&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;榜单强调:创意依然需要勇气,但2026年的领袖们在拥抱AI的同时,更注重团队福祉和下一代人才培养。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adweek.com/brand-marketing/the-2026-adweek-50-are-up-for-the-challenge/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-知萌趋势报告精明悦己成2026消费新特征&quot;&gt;4. 知萌趋势报告:”精明悦己”成2026消费新特征&lt;/h2&gt;
-
-&lt;p&gt;知萌咨询发布《2026年1-4月消费趋势季度观察》,揭示消费者在刚需开支上精打细算,同时愿意为情绪体验主动花钱的”双轨制消费”现象。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心数据:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;48%消费者更看重性价比(刚需消费理性控价)&lt;/li&gt;
-  &lt;li&gt;41.1%消费者增加情绪价值相关支出&lt;/li&gt;
-  &lt;li&gt;消费谨慎指数112.41分,计划消费分项高达127.85分&lt;/li&gt;
-  &lt;li&gt;忙碌约束指数123.52分,工作强度指数132.68分&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;六大消费趋势:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;理性账户极致控价 vs 情绪账户随心溢价&lt;/li&gt;
-  &lt;li&gt;购物转变为全流程SOP项目化管理&lt;/li&gt;
-  &lt;li&gt;忙碌代偿消费崛起,以消费换时间与情绪治愈&lt;/li&gt;
-  &lt;li&gt;线下升级为”生活对策场”,商业从售卖商品转向解决生活难题&lt;/li&gt;
-  &lt;li&gt;消费重心转向家庭,从单品采购到全家共创体验&lt;/li&gt;
-  &lt;li&gt;健康全方位渗透日常,养生从医疗刚需变成全民必修课&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;报告指出,Q2将迎来世界杯、618、端午、暑期等多热点叠加,品牌需跳出单一节点打折思维,转向全周期场景化运营。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.adquan.com/article/361191&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-2025下半年营销六大趋势从具体情绪到空间环绕&quot;&gt;5. 2025下半年营销六大趋势:从具体情绪到空间环绕&lt;/h2&gt;
-
-&lt;p&gt;肖明超趋势观察团队基于2025上半年百余营销案例复盘,梳理出六大前瞻性营销趋势洞察。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;核心趋势:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;情绪要具体:&lt;/strong&gt; 从笼统情绪营销到精准情绪分类,如LABUBU的”叛逆+摆烂式自救”,M Stand×人教社唤起怀旧,霸王×秃头大卫的诙谐抽象&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;热点内容打开增量:&lt;/strong&gt; 蒙牛×哪吒2深度IP绑定实现”国货+国漫”双轮驱动;天猫通过《种地吧3》完成从购物工具到助农形象的转型&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;女性营销价值重构:&lt;/strong&gt; 告别粉色标签化,聚焦真实生活场景。如妇女节广告牌为女性正名,GIADA播客《岩中花述》邀请各领域女性领袖探讨成熟视角下的女性议题&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;从单点传播到空间环绕:&lt;/strong&gt; LV”路易号”巨轮在上海打造1600㎡三层复合体验空间,融合展览+文创+咖啡,诠释”线下新生”趋势&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;场景重新解读品牌价值:&lt;/strong&gt; 亨氏春节”卷帘门营销”——在餐厅歇业的卷帘门上以老板口吻写广告文案并附赠菜谱&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI成生产力核心引擎:&lt;/strong&gt; 阿里妈妈AIGC实现”灵感-制作-投放”全链路升级;咪咕春节”AI中国年”打造AI变装、成曲、春联等多元互动,让非遗文化”可感知、可参与、可传播”&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;报告强调:无论何种营销方式,核心始终是与消费者建立长期情感信任。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3390918683662728&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-06-14&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 13 Jun 2026 13:16:24 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest,retail-media,ctv,marketing-trends/2026/06/13/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-06-14/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,retail-media,ctv,marketing-trends/2026/06/13/%E5%B9%BF%E5%91%8A%E8%90%A5%E9%94%80%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F-2026-06-14/</guid>
-        
-        
-        <category>ad-news,daily-digest,retail-media,ctv,marketing-trends</category>
         
       </item>
     
