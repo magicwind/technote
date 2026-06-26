@@ -5,8 +5,8 @@
     <description>本博客专注于大数据分析平台相关技术的分享。记录经验与此，供自己温故而知新，也便于分享。</description>
     <link>https://magicwind.top/</link>
     <atom:link href="https://magicwind.top/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Jun 2026 21:16:27 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 21:16:27 -0500</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 21:16:44 -0500</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:16:44 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -73,6 +73,132 @@
         
         
         <category>genai</category>
+        
+      </item>
+    
+      <item>
+        <title>本周必读：OpenAI布局ROI</title>
+        <description>&lt;h2 id=&quot;每日广告营销新闻-2026-06-26&quot;&gt;每日广告营销新闻 2026-06-26&lt;/h2&gt;
+
+&lt;h3 id=&quot;1--中国广告业首破2万亿元大关&quot;&gt;1. 🇨🇳 中国广告业首破2万亿元大关&lt;/h3&gt;
+
+&lt;p&gt;6月23日，国家市场监督管理总局联合中国经济信息社发布《中国广告业发展指数报告（2026）》。报告显示，&lt;strong&gt;2025年全年广告业务收入首次突破两万亿元大关，达到20502.1亿元，同比增长32.6%&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;2025年中国广告业发展指数达到143.3点，同比增长11.6%&lt;/li&gt;
+  &lt;li&gt;东部地区贡献稳固，成渝地区双城经济圈为代表的西部地区实现爆发式增长&lt;/li&gt;
+  &lt;li&gt;互联网平台为代表的大型企业构成行业发展核心力量&lt;/li&gt;
+  &lt;li&gt;互联网广告占比持续攀升，数智技术深刻重塑广告业全链路&lt;/li&gt;
+  &lt;li&gt;2026年一季度头部企事业单位广告业务收入同比增长17.1%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 这是中国广告业的重要里程碑，标志着数字化转型和技术驱动的成效显著，特别是AI和数智技术在广告行业的深度应用正在推动行业进入新的增长阶段。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.news.cn/20260623/6f2c784d1386418ca163ef25f9cf7f4b/c.html&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;2--openai在cannes-lions确认全面进军广告业&quot;&gt;2. 🤖 OpenAI在Cannes Lions确认全面进军广告业&lt;/h3&gt;
+
+&lt;p&gt;在2026年戛纳国际创意节上，&lt;strong&gt;OpenAI正式宣布将大力扩展其广告业务&lt;/strong&gt;。OpenAI全球广告解决方案副总裁Dave Dugan透露，ChatGPT上约20%的查询具有直接商业意图，更多查询具有上漏斗预测性商业可能性。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ChatGPT广告已在美国、欧洲和部分亚洲市场推出&lt;/li&gt;
+  &lt;li&gt;广告直接显示在ChatGPT模型回复下方，精准触达决策时刻&lt;/li&gt;
+  &lt;li&gt;用户广告关闭率已降低一半，显示用户接受度提升&lt;/li&gt;
+  &lt;li&gt;Criteo作为首个广告技术合作伙伴，已有2000个品牌通过其投放ChatGPT广告&lt;/li&gt;
+  &lt;li&gt;服装、家居、消费电子、汽车和美妆成为主要广告品类&lt;/li&gt;
+  &lt;li&gt;ChatGPT广告的转化率持续超越其他推荐渠道，点击率是可比格式的2-3倍&lt;/li&gt;
+  &lt;li&gt;超过80%的广告驱动流量来自新客户&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; OpenAI正式入局广告业标志着AI原生广告时代的到来。对话式AI商业化将重塑品牌与消费者的互动方式，为广告主提供全新的精准触达机会。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.campaignlive.com/article/openai-clearly-ad-business-now-reveals-future-plans/1962551&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;3--shopify深化广告业务推出campaign-autopilot&quot;&gt;3. 🛒 Shopify深化广告业务，推出Campaign Autopilot&lt;/h3&gt;
+
+&lt;p&gt;6月24日，&lt;strong&gt;Shopify推出Campaign Autopilot工具&lt;/strong&gt;，大幅简化商家广告投放流程。这款AI驱动的工具可以自动管理跨平台广告支出，包括Meta、Google、Snap、TikTok、Bing，并新增ChatGPT和Pinterest作为需求渠道合作伙伴。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Campaign Autopilot在商家自己的Meta或Google账户中工作，自动分配预算&lt;/li&gt;
+  &lt;li&gt;新增Microsoft Monetize（前AppNexus SSP）作为开放网络广告合作伙伴&lt;/li&gt;
+  &lt;li&gt;Shopify不收取CPM费用或销售佣金，专注为商家服务&lt;/li&gt;
+  &lt;li&gt;目标是帮助商家提升跨平台广告ROI，解决投入广告却看不到回报的痛点&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; Shopify的策略显示电商平台正在通过AI自动化帮助中小商家优化广告支出，而非从广告收入中抽成。这种商家优先的模式可能重塑电商广告生态。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adexchanger.com/marketers/shopify-wades-deeper-into-advertising-but-not-ad-tech/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;4--vml荣获2026纽约广告节年度最佳代理商网络&quot;&gt;4. 🏆 VML荣获2026纽约广告节年度最佳代理商网络&lt;/h3&gt;
+
+&lt;p&gt;国际权威创意赛事纽约广告节（NYFA）公布2026年度行业奖项获奖名单，&lt;strong&gt;全球知名营销传播集团VML成功摘得年度最佳代理商网络荣誉&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;VML全年累计斩获3座特等奖、8座金奖、5座银奖、9座铜奖以及29项入围荣誉&lt;/li&gt;
+  &lt;li&gt;该荣誉授予年度参赛作品综合总分最高的代理商网络&lt;/li&gt;
+  &lt;li&gt;VML全球首席创意官黛比表示，这是团队坚守以人为本创作理念、深耕宏大创意表达的成果&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 在AI和技术驱动创意的时代，VML的获奖证明创意传播的核心仍然是人本价值和创意深度。这为广告代理商如何平衡技术工具与创意本质提供了榜样。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.4anet.com/p/01kvqbrcfqye9k9ygb7m4qqbh0&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;5--代理式aiagentic-ai正在重塑营销生态&quot;&gt;5. 🤖 代理式AI（Agentic AI）正在重塑营销生态&lt;/h3&gt;
+
+&lt;p&gt;在Cannes Lions 2026期间发布的多项研究显示，&lt;strong&gt;代理式AI正在从效率工具转变为营销核心能力&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Forrester研究：美国90%的营销代理商使用生成式AI，50%使用代理式AI&lt;/li&gt;
+  &lt;li&gt;Salesforce发布Agentforce Commerce平台，包括Shopper Agent、Buyer Agent和Merchant Agent&lt;/li&gt;
+  &lt;li&gt;AI影响了上一个假日季全球20%的在线销售，价值2620亿美元&lt;/li&gt;
+  &lt;li&gt;运行购物代理的零售商销售增长速度比未运行的快59%&lt;/li&gt;
+  &lt;li&gt;AI推荐流量的转化率是社交媒体的8倍&lt;/li&gt;
+  &lt;li&gt;SAP研究：21%的消费者已使用AI代理支持购买决策，Z世代中这一比例达43%&lt;/li&gt;
+  &lt;li&gt;MoEngage收购Aampe，打造1:1代理式决策引擎，每周处理2000亿次决策&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; 代理式AI不再是未来趋势，而是当下必需。品牌必须在数据基础设施、实时响应能力和AI集成方面加快投入，否则将在新的商业渠道中处于结构性劣势。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-june-25-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;编辑点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本周最大的趋势是&lt;strong&gt;AI原生广告生态的成型&lt;/strong&gt;。从OpenAI正式入局、Shopify推出AI自动化工具，到代理式AI在各大平台的深度应用，我们正在见证广告营销行业的范式转变：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;对话式商业成为新战场&lt;/strong&gt; - ChatGPT等AI平台不再只是工具，而是新的流量入口和转化渠道&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;从效率到效能的跨越&lt;/strong&gt; - AI不仅要提高生产力，更要驱动实际的商业成果&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;数据基础设施成为分水岭&lt;/strong&gt; - 能否实时响应、统一数据将决定品牌能否抓住AI时代的机会&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;中国市场领跑全球&lt;/strong&gt; - 2万亿广告规模和30%+增长显示中国数字广告市场的强劲动能&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;对于营销人员来说，现在的问题不是是否要用AI，而是如何正确地用AI。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;发布时间: 2026-06-26&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jun 2026 13:16:10 -0500</pubDate>
+        <link>https://magicwind.top/ad-news,daily-digest,ai,%E5%B9%BF%E5%91%8A%E6%8A%80%E6%9C%AF/2026/06/25/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80roi/</link>
+        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest,ai,%E5%B9%BF%E5%91%8A%E6%8A%80%E6%9C%AF/2026/06/25/%E6%9C%AC%E5%91%A8%E5%BF%85%E8%AF%BBopenai%E5%B8%83%E5%B1%80roi/</guid>
+        
+        
+        <category>ad-news,daily-digest,AI,广告技术</category>
         
       </item>
     
@@ -761,87 +887,6 @@ JKR表示不是简单微调LOGO，而是借助全家桶这一品牌标志性元�
         
         
         <category>ad-news,daily-digest,AI-advertising,retail-media,world-cup-marketing</category>
-        
-      </item>
-    
-      <item>
-        <title>谷歌宣布CTV | 行业快讯</title>
-        <description>&lt;h2 id=&quot;1-fox以220亿美元收购roku重塑美国ctv广告格局&quot;&gt;1. Fox以220亿美元收购Roku，重塑美国CTV广告格局&lt;/h2&gt;
-
-&lt;p&gt;Fox Corporation于6月15日宣布以约220亿美元收购流媒体平台Roku，这是美国联网电视(CTV)广告市场多年来最大的结构性变化。交易完成后，Fox将同时拥有美国第一(The Roku Channel)和第二(Tubi)的免费流媒体服务，合并后的公司将产生约90亿美元的广告收入，占美国广告总支出的14%。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业影响：&lt;/strong&gt; Roku平台拥有超过1亿全球流媒体家庭的第一方数据，结合Fox的体育直播内容和Tubi的AVOD目录，将创造一个竞争对手难以匹敌的广告产品。Madison and Wall估计，合并后的公司将占美国流媒体广告支出的约16%。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/fox-buys-roku-publicis-and-ttd-end-feud-uk-publishers-sue-ai-scrapers/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;2-谷歌将限制广告投放政策扩展至搜索广告&quot;&gt;2. 谷歌将限制广告投放政策扩展至搜索广告&lt;/h2&gt;
-
-&lt;p&gt;谷歌于6月13日宣布，将其有限广告投放(Limited Ad Serving)政策扩展至Google搜索，并将在2028年前逐步全面实施。该政策允许谷歌限制不合格广告主在可能产生负面广告体验的搜索词上的广告展示量。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;关键变化：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;用户投诉数据将直接影响广告主资格评估&lt;/li&gt;
-  &lt;li&gt;品牌识别不清的广告将受到限制&lt;/li&gt;
-  &lt;li&gt;高风险行业广告主可能面临额外认证要求&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;应对建议：&lt;/strong&gt; 谷歌建议广告主在广告标题中固定域名显示，尤其是新广告主或知名度较低的品牌，以清晰展示品牌身份，降低被限制的风险。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/google-expands-limited-ad-serving-policy-to-google-search-from-june-2026/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;3-walmart-connect与谷歌dv360打通youtube广告可追踪线下销售&quot;&gt;3. Walmart Connect与谷歌DV360打通，YouTube广告可追踪线下销售&lt;/h2&gt;
-
-&lt;p&gt;Walmart Connect于6月11日宣布与Google Display &amp;amp; Video 360(DV360)达成合作，允许广告主在DV360平台内直接激活沃尔玛购物者受众，在YouTube上投放广告，并通过闭环测量追踪广告对沃尔玛线上线下销售的实际影响。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;技术突破：&lt;/strong&gt; 这是零售媒体数据首次在主流程序化购买平台内实现受众激活+YouTube投放+销售归因的完整闭环。沃尔玛拥有超过4500家门店，每周触达约2.8亿消费者，其第一方交易数据的精准度远超建模数据。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;市场意义：&lt;/strong&gt; 沃尔玛2026财年广告业务达64亿美元，增长46%。该集成是沃尔玛将其第一方数据分发到第三方平台战略的最新进展，标志着零售媒体数据正在成为程序化生态的基础设施。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/walmart-connect-brings-real-purchase-data-into-google-dv360-for-youtube-ads/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-看广告免费背后平台如何通过激励广告实现双赢&quot;&gt;4. 看广告免费背后：平台如何通过激励广告实现双赢&lt;/h2&gt;
-
-&lt;p&gt;36氪6月15日报道，番茄小说、网易云音乐、QQ音乐等平台推出的看广告换会员时长模式，正在重塑数字内容的变现逻辑。用户通过观看15-30秒广告，可获得30-60分钟的VIP功能使用时长。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;商业模式创新：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;网易云音乐2024年上半年会员订阅收入增长25.5%，激励广告成为收入增长新引擎&lt;/li&gt;
-  &lt;li&gt;平台通过算法优化，在用户观看广告时精准推送商品满减券，激发冲动消费&lt;/li&gt;
-  &lt;li&gt;免费模式并非冲击付费会员，而是吸引价格敏感用户，扩大广告收入池&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;消费者洞察：&lt;/strong&gt; 部分用户通过下载多个APP刷满减券，但也有用户反思免费的才是最贵的——许多需求是被广告激化出来的，消费仍需理性。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.36kr.com/p/3004929298177800&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;5-英国出版商推出新合约机制向ai抓取收费每篇500英镑&quot;&gt;5. 英国出版商推出新合约机制，向AI抓取收费每篇500英镑&lt;/h2&gt;
-
-&lt;p&gt;PPC Land 6月15日报道，英国出版商推出仅限搜索合约(Search-Only Contracts)机制，利用县级法院向AI公司收取每篇文章500英镑的抓取费用。该机制规定，AI爬虫访问页面仅限用于搜索索引，任何用于训练大语言模型或生成答案的行为均构成违约。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt; 多个独立网站因谷歌AI摘要(AI Overviews)流量暴跌70%甚至被迫关闭，如All About Berlin和Overfishing.org。出版商选择县级法院而非知识产权诉讼，是因为后者成本高昂、耗时数年，而县级法院小额索赔程序让个体出版商也能维权。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;行业动向：&lt;/strong&gt; 纽约州议会6月5日通过法案A11292，要求AI爬虫向新闻出版商披露身份和用途，否则每天罚款1.5万美元。英美两地正从不同角度填补AI抓取的监管空白。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ppc.land/fox-buys-roku-publicis-and-ttd-end-feud-uk-publishers-sue-ai-scrapers/&quot;&gt;查看原文&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;来源: 每日广告行业观察&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;发布时间: 2026-06-17&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 Jun 2026 13:15:58 -0500</pubDate>
-        <link>https://magicwind.top/ad-news,daily-digest/2026/06/16/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</link>
-        <guid isPermaLink="true">https://magicwind.top/ad-news,daily-digest/2026/06/16/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83ctv-%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AE%AF/</guid>
-        
-        
-        <category>ad-news,daily-digest</category>
         
       </item>
     
